@@ -63,7 +63,7 @@
 98,Podsumowanie Zmian
 99,Przegląd Zleceń
 100,W sumie odzyskano
-102,Recykling
+102,Odzyskać
 103,JAKOŚĆ
 104,Cele
 105,ILOŚĆ
