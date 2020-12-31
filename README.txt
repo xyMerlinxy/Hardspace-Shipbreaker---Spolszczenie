@@ -14,3 +14,4 @@ Kożystanie z nowszą wersją gry może powodowac zastąpienie brakujących napi
 Nie jestem profesjonalnym tłumaczem, więc proszę podchodzić do tłumaczenia z odpowiednią dozą wyrozumiałości.
 
 Wszelkie błędy w tłumaczeniu, błędy składniowe oraz błędy ortograficzne proszę zgłaszać na email: xymerlinxy@gmail.com
+
