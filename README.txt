@@ -9,7 +9,7 @@ Instrukcja instalacji spolszczenia
 Aktualnie przetłumaczone jest 100% tekstów, aczkolwiek tłumaczenie wymaga poprawy.
 
 
-Kożystanie z nowszą wersją gry może powodowac zastąpienie brakujących napisów liczbami.
+Korzystanie z nowszą wersją gry może powodowac zastąpienie brakujących napisów liczbami.
 
 Nie jestem profesjonalnym tłumaczem, więc proszę podchodzić do tłumaczenia z odpowiednią dozą wyrozumiałości.
 
