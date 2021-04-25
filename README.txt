@@ -1,12 +1,12 @@
 # Hardspace-Shipbreaker---Spolszczenie
 
-Spolszczenie do wersji V.0.3.0.164894
+Spolszczenie do wersji V.0.3.1.167371
 
 Instrukcja instalacji spolszczenia
 1. Plik "pl" należy wrzucić do folderu Hardspace Shipbreaker\Data\LocDB
 2. Teraz wystarczy tylko w opcjach gry wybrać polski język
 
-Aktualnie przetłumaczone jest ponad 80% tekstów.
+Aktualnie przetłumaczone jest 100% tekstów, aczkolwiek tłumaczenie wymaga poprawy.
 
 
 Kożystanie z nowszą wersją gry może powodowac zastąpienie brakujących napisów liczbami.
