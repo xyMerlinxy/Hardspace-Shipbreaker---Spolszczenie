@@ -61,7 +61,7 @@
 96,Podsumowanie
 97,Złóż wniosek o Nową Licencję
 98,Podsumowanie Zmian
-99,Przegląd Zleceń
+99,Podgląd zadań
 100,W sumie odzyskano
 102,Odzyskać
 103,JAKOŚĆ
@@ -73,6 +73,7 @@
 109,Zdobyte LT
 110,Zamknij Raport
 111,Aktualny dług
+112,Fees Total
 113,Koszt
 114,Zyski
 115,Kryteria
@@ -82,7 +83,7 @@
 119,Wciśnij Start
 120,Zasoby
 121,Zagrożenia
-122,Zlecenia
+122,Zadania
 123,Reaktor
 124,Topnienie
 125,Światło
@@ -133,7 +134,7 @@
 174,Napraw
 175,Producent:
 178,Wybierz
-179,Dostępne nowe zlecenie 
+179,Dostępne nowe zadania
 180,Skaner
 181,Struktura
 182,Systemy
@@ -173,7 +174,7 @@
 219,- Cel ukończony
 220,- Cel nieudany
 221,- Cel {0}
-222,Zlecenie ukończone
+222,Ukończono zadania
 223,Barka
 224,Procesor
 225,Piec
@@ -514,7 +515,7 @@
 572,Narażenie na próżnię jest śmiertelne.
 573,Zostałeś przetworzony. Całkowita wartość wyniosła 8,14 Kredytów.
 574,Przetwarzanie materiału organicznego może spowodować uszkodzenie sprzętu Lynx.
-575,Nie udało Ci się wykonać zlecenia.
+575,Nie udało Ci się wykonać zadania.
 576,Zostałeś zamrożony.
 577,Narażenie na ekstremalne zimno jest śmiertelne.
 578,Zostałeś zmiażdżony.
@@ -851,7 +852,7 @@
 939,Niezła robota. Teraz wróć do Mieszkania, aby zakończyć zmianę i wydać nowe, lśniące tokeny Lynx na ulepszanie sprzętu. Weaver Odbiór.
 940,Cóż, gratuluje otrzymania Certyfikatu Rangi 2. Teraz, kiedy udowodniłeś, że wiesz, co tu robisz, LYNX ma dla ciebie prezent. Przejdź do ekranu ulepszania wyposażenia i sprawdź co się tam znajduje.
 941,Powtarzaj za mną Złomiarzu. 'Liny - to twoi przyjaciele'. Wybierz następny statek i udaj się na zewnątrz, aby go wypróbować. Weaver Odbiór.
-942,W porządku. Ta tutaj <i>Makrela</i> jest rozebrana, ale wciąż jest w niej wiele rzeczy, na których możesz się czegoś nauczyć - na przykład to, jak poradzić sobie z obszarami pod ciśnieniem. Ale zanim przejdziemy do tego wszystkiego, wypróbuj swoich lin.
+942,W porządku. Ta tutaj <i>Makrela</i> jest rozebrana, ale wciąż jest w niej wiele rzeczy, na których możesz się czegoś nauczyć - na przykład to, jak poradzić sobie z obszarami pod ciśnieniem. Ale zanim przejdziemy do tego wszystkiego, wypróbuj swoich Lin.
 943,Twoje liny są o wiele silniejsze niż linka na twoim chwytaku; używaj ich, gdy będziesz próbował przesuwać przedmioty, które są znacznie cięższe od Ciebie.
 944,Ponadto, liny łączą się, co oznacza, że im więcej ich użyjesz, tym silniejsze jest ich wyciąganie. Pod warunkiem że, umieścisz je we WŁAŚCIWYCH miejscach.
 945,Odetnijmy ten kil, który zaznaczyłem na twojej nakładce.
@@ -878,7 +879,7 @@
 966,Tam jest. OK, ten jest całkiem łatwy. Dobre szarpnięcie chwytakiem powinno wysunąć go z chłodzącej obudowy.
 967,Ale zanim to zrobisz, ZAWSZE dobrze jest oczyścić drogę prosto na barkę, ponieważ kiedy go pociągniesz, zaczyna się topić ... a jeśli chodzi o reaktory, nigdy nie wiesz, ile masz czasu, dopóki nie zrobi BUUUUM.
 968,Sposób wykonania zadania zależy teraz wyłącznie od Ciebie. Pokażmy LYNX, że Weaver wciąż wie, jak zamienić nowicjuszy w prawdziwych złomiarzy, dobrze? Powodzenia. Weaver, Odbiór.
-969,Cóż, łowco, Najwyraźniej na razie możesz sobie poradzić sam. To dobrze, bo właśnie przydzielono mi kolejnego żółtodzioba do innej stacji odzyskowej po drugiej stronie Ziemi. Treningowa ilość tlenu, lin i paliwa zostanie zresetowana podczas następnej zmiany. Sprawdzę cię od czasu do czasu. Pamiętaj: 'Lepiej mierzyć dwa razy i ciąć raz, niż na odwrót - a liny to twoi przyjaciele.' Powodzenia, Złomiarzu. Weaver, Odbiór.
+969,Cóż, Złomiarzu, Najwyraźniej na razie możesz sobie poradzić sam. To dobrze, bo właśnie przydzielono mi kolejnego żółtodzioba do innej stacji odzyskowej po drugiej stronie Ziemi. Treningowa ilość tlenu, lin i paliwa zostanie zresetowana podczas następnej zmiany. Sprawdzę cię od czasu do czasu. Pamiętaj: 'Lepiej mierzyć dwa razy i ciąć raz, niż na odwrót - a liny to twoi przyjaciele.' Powodzenia, Złomiarzu. Weaver, Odbiór.
 970,Zwolnij troszkę. Wygląda na to, że trwałość twojego Kreta się kończy. Zdarza się to często u narzędzi podstawowych, które nie zostały jeszcze zaktualizowane, takich jak twoje.
 971,Widzisz ten pasek? Pokazuje on aktualną ocenę trwałości wybranego narzędzia. Im mniejszy pasek, tym mniej niezawodny staje się sprzęt.
 972,Twój Kret jest w złym stanie. Dobrym pomysłem jest powrót do Mieszkania i naprawienie go.
@@ -895,7 +896,7 @@
 983,Nie wiem, jak oni to robią, ale to naprawdę cudownie działa. Baw się dobrze. Weaver, Odbiór.
 984,Złomiarzu, wróć do sklepu na platformie startowej i uzupełnij O<sub>2</sub>. Niebieski ci nie pasuje. Zaufaj mi. Weaver Odbiór.
 985,Złomiarzu, masz mało paliwa. Lepiej znajdź więcej.
-986,Łowco, nie masz lin. Lepiej znajdź więcej.
+986,Złomiarzu, nie masz lin. Lepiej znajdź więcej.
 987,Dobrze.
 988,Dobrze!
 989,Proszę bardzo.
@@ -1140,7 +1141,7 @@
 1228,Faceci na Marsie oszaleją, kiedy zobaczą, co im przywiozę.
 1229,Jutro zaczynamy testy. Zobaczmy, czy warto zaciągnąć go do domu. Ale prawdopodobnie nie zasnę tej nocy.
 1230,Zasypiasz w pracy Recyklerze? To świetny sposób na utratę kończyny i/lub życia
-1231,Umowy prawne ze Związkiem Bezpieczeństwa i Higieny Pracy na Orbicie uniemożliwiają LYNX zachęcania do nielegalnego zażywania narkotyków.
+1231,LYNX nie może zachęcać do używania nielegalnych narkotyków.
 1232,Jednak według ostatnich badań, stosowanie stymulantów z umiarem i zażywanie mikro dawek środków halucynogennych mogą znacząco zwiększyć wydajność i wygodę Recyklera.
 1233,Ponadto Rada Dyrektorów LYNX jednogłośnie zagłosowała za anulowaniem jakichkolwiek testów narkotykowych pracowników działu recyklingu, ponieważ dla LYNX prywatność pracowników jest najważniejsza.
 1234,LYNX. Zmienia świat na lepsze.
@@ -1301,9 +1302,9 @@
 1392, To jest to ... oby tak dalej.
 1393,Menu
 1394,System
-1395,Pozostały czas: 2 Dni??
+1395,Pozostało: 2 Dni
 1396,Dodaj czas
-1397,Przesyłka pocztowa??
+1397,Poczta
 1398,Zamieszki w Nowym Jorku
 1399,Blokada przedłuża się, ponieważ zespoły egzekucyjne przeczesują ulicę po ulicy, by stłumić brutalną „Technokratyczną Milicję” ...
 1400,APLIKACJA REKRUTACYJNA 1.3??
@@ -1312,15 +1313,15 @@
 1403,Pozdrowienia Obywatelu LF-291180S,
 1404,Gratulujemy przyjęcia do programu LYNX <b> Otwórz sobie drogę do galaktyki!</b> Spośród 124,8 miliona kandydatów wybrano Cię na podstawie <b> ponadprzeciętnych oraz wyjątkowych </b> zdolności fizycznych i poznawczych. Udział w tym programie może być opłacalny i satysfakcjonujący, w zależności od chęci podążania za wizją LYNX Corporation.
 1405,Zostałeś przydzielony do <b> Stacji Recyklingu #42</b> (Przeznaczenie: <b>Morigan</b>). Ta stacja nie ma obecnie żadnego personelu, ale jeśli wykażesz się umiejętnościami budowania i rozwijania dochodowej działalności, czeka na Ciebie wiele ekscytujących możliwości.
-1406,Pamiętaj: zatrudnienie w programie <b> Otwórz sobie drogę do galaktyki!</b> pozostaje w wyłącznej gestii LYNX Corporation i możesz zostać odwołany w dowolnym momencie. Akty niesubordynacji lub złośliwości nie będą tolerowane.
+1406,Pamiętaj: zatrudnienie w programie <b> Otwórz sobie drogę do galaktyki!</b> pozostaje w wyłącznej gestii LYNX Corporation i możesz zostać zwolniony w każdej chwili. Akty niesubordynacji nie będą tolerowane.
 1407,Po otrzymaniu Twojego podpisu elektronicznego, transport zostanie wysłany natychmiast do Twojej aktualnej lokalizacji, aby zabrać Cię na Twoją stację. Szkolenie rozpocznie się natychmiast po przyjeździe.
-1408,Uzupełnij swoje dane na kolejnych stronach, aby potwierdzić zatrudnienie.
+1408,Uzupełnij swoje dane, aby zaakceptować zatrudnienie.
 1409,Nazwa konta
 1410,LYNX Kontrola Natężenia Pracy™ i Centrum Socjalne Pracowników™ wymagają nazwy konta pracownika. Wpisz poniżej nazwę konta.
 1411,Wulgaryzmy oraz slang/żargon antykorporacyjny nie są akceptowane.
 1412,Wprowadź imię
 1413,Wybierz Pakiet Odnowy
-1414,Z dumą oferujemy naszym nowym pracownikom nasz Program Odnowy Ciała i Umysłu™. Poniżej znajdują się szczegóły wybranego Pakietu Odnowy.
+1414,Z dumą oferujemy naszym pracownikom Program Odnowy Ciała i Umysłu™. Poniżej znajdują się szczegóły wybranego Pakietu Odnowy.
 1415,Rada Zdrowia i Życia Ziemian??: Klonowanie ma 0,02% szans na uszkodzenie DNA
 1416,Niedostępne
 1417,Opłata za klonowanie:
@@ -1328,19 +1329,19 @@
 1419,Głosowa weryfikacja ID
 1420,Aby zweryfikować swoją tożsamość, musisz potwierdzić plik głosowy przesłany w pierwotnym zgłoszeniu.
 1421,LYNX Vox ID ™ to system bezpieczeństwa, który chroni Twoje dane.
-1422,Preferencje orientacji??
+1422,Preferencje sterowania??
 1423,Wybierz schemat orientacyjny?? dla swojego Osobistego Urządzenia Przemieszczania.
-1424,Badania wskazują, że prawidłowe ustawienia orientacji zwiększają produktywność o 40%.
+1424,Badania wskazują, że prawidłowe ustawienia sterowania zwiększają produktywność o 40%.
 1425,Standardowa
 1426,Odwrucona
-1427,Preferencje Posiłków
-1428,Nasze roboty kuchenne mogą zaspokoić różnorodne preferencje żywieniowe.
+1427,Preferencje żywieniowe
+1428,Nasze roboty kuchenne potrafią zadowolić każdego.
 1429,Koszt żywności oparty jest na aktualnej wartości rynkowej i może się zmieniać w czasie.
 1430,Kurczak
 1431,Bez Plastiku
 1432,Wegetariańskie
-1433,Entomotarian??
-1434,??Naciśnij 'Zgadzam się' przy każdym podpunkcie.
+1433,Entomotarian
+1434,Naciśnij 'Akceptuję' przy każdym podpunkcie.
 1435,Nie byłem karany w strefach ziemskich ani marsjańskich (dopuszczalny jest wpis z pogranicza Jowisza)
 1436,Nie jestem członkiem i nigdy nie współpracowałem ze związkiem zawodowym ani żadnym inną organizacją związkową.
 1437,Ukończyłem coroczne badania lekarskie i wykluczono u mnie płuca McCullougha??
@@ -1355,8 +1356,8 @@
 1446,Usługi rekrutacyjne LYNX Corporation
 1447,Aplikacja na Łowcę Statków
 1448,Program: Otwórz sobie drogę do galaktyki!
-1449,Zaktualzacja statusu twojej aplikacji
-1450,Wyświetl aktualizację
+1449,Zmiana statusu twojej aplikacji
+1450,Wyświetl
 1451,Wynajem Hełmu
 1452,Urzytkowanie Mieszkania
 1453,Czynsz Mieszkania
@@ -1465,10 +1466,10 @@
 2483,Obracaj się w prawo przez {0}s
 2484,Hamuj przez {0}s
 2485,Użyj pchnięcia Chwytakiem
-2486,Wyposaż Kret-500
+2486,Wybierz Przecinak
 2487,Aktywuj Skaner
 2488,Spójrz na Piec
-2489,Otwórz Zlecenia Pracy
+2489,Otwórz listę zadań
 2490,Spójrz na Procesor
 2491,Spójrz na Barkę
 2492,Umieść Linę
@@ -1481,11 +1482,11 @@
 2499,Zmień tryb cięcia
 2500,Pauza
 2501,Skaner
-2502,Zlecenia
+2502,Lista zadań
 2503,Czołówka
 2504,Obrót w lewo
 2505,Obrót w prawo
-2506,Hamulec
+2506,Hamulec???
 2507,Przyśpiesz\nW przód
 2508,Przyśpiesz\nW lewo
 2509,Przyśpiesz\nW prawo
@@ -1504,7 +1505,7 @@
 2522,Poprzedni\ntryb
 2523,Tryby cyklu??
 2524,PODWÓJNY KIL
-2526,Usuń punkt cięcia kilu
+2526,Usuń punkt cięcia
 2527,Wyświetl wymagania certyfikacji na ekranie pauzy
 2528,Wyposaż w Łupacz
 2529,Umieść linę
@@ -1598,13 +1599,13 @@
 2629,PAŹ
 2630,WRZ
 2631,Rano
-2632,Po południu
+2632,Po poł.
 2633,Transportowy??
 2634,Przemysłowy??
 2635,Piracki??
 2636,Badawczy??
-2640,Energyn Power LLC??
-2641,Rachunek przeterminowany - OSTATECZNE POWIADOMIENIE
+2640,Zakład energetyczny LLC??
+2641,OSTATECZNE WEZWANIE DO ZAPŁATY
 2642,Korporacja LYNX 
 2643,RE: Podanie na stanowisko Łowca Statków
 2644,Rebecca Chamberson
@@ -1616,8 +1617,8 @@
 2650,Urząd Nadzoru Cywilnego2651, Proszę o odpowiedź
 2651,Porszę o odpowiedź
 2652,Mama
-2653,WAŻNE: tata znów ssie.
-2654,Rachunek przeterminowany - drugie powiadomienie
+2653,WAŻNE: Tata znów ssie.
+2654,Drugie wezwanie do zapłaty
 2655,Siła robocza
 2656,Aplikacja odrzucona
 2657,Rynki zamknięte, co teraz?
@@ -1641,10 +1642,10 @@
 2675,Pozwala naprawić swoje narzędzia i sprzęt w Mieszkaniu.
 2676,Liny
 2677,Kup pełny zapas wkładów zdalnego pola van der Waalsa dla chwytaka. Uwaga: aby używać lin, musisz mieć je odblokowane.
-2678,Przecinak #9411-B
+2678,Złomiarz #9346-52
 2679,3:09 po południu | LIS 9 2329
-2680,OBYWATEL ID: LF-291180S\nPROWINCJE PRZYBRZEŻNE\nKONKLAW 7\n\nAPLIKACJA NR: 1259-HG5
-2681,Warunki i zasady dotyczące zatrudnienia łowców statków
+2680,OBYWATEL ID: LF-291180S\nPROWINCJE PRZYBRZEŻNE\nKONKLAWA 7\n\nAPLIKACJA NR: 1259-HG5
+2681,Zasady dotyczące zatrudnienia łowców statków
 2682,Ostatnia Aktualizacja
 2683,Ostrzeżenie: Niski poziom paliwa.
 2684,Ostrzeżenie: Niski poziom paliwa. Zapas paliwa można kupić na platformie startowej.
@@ -1685,9 +1686,9 @@
 2719,Pobłogosław następnego Złomiarza, który zajmie jego miejsce
 2720,Gratuluję spłaty długu. To był zaszczyt i przywilej poznać ciebie.
 2721,Niedługo przybędzie nowa krew, ale nie będzie łatwo cię zastąpić.
-2722,Dzienne opłaty Lynx
+2722,Dzienne opłaty
 2723,Wynajem zatoki
-2724,Opłata za transport do zatoki
+2724,Opłata za transport do zatoki??
 2725,Opłata za klonowanie
 2728,Wynajem Przecinaka
 2729,Wynajem Chwytaka
@@ -1770,20 +1771,20 @@
 2806,Nowa funkcja: przesuwanie obiektów
 2807,Zasięg = 50m
 2808,Zasubskrybuj aktualizacje oprogramowania Manualnegp Urządzenia Chwytającego od zespołu badawczo-rozwojowego ds. Recyklingu, które zwiększają jego moc! Ponadto automatycznie zapiszesz się na naszą listę PREMIUM, dzięki czemu będziesz otrzymywać cotygodniowy biuletyn.
-2809,Udźwig +500kg
-2810,Udźwig = 1,500kg
+2809,Udźwig +1 000kg
+2810,Udźwig = 4 000kg
 2811,Zastąp tajny █████████ █████ 08XY nowym 09XX-█. Aby dokonać zakupu, należy podpisać „Umowę o zachowaniu poufności NG-u09XX” oraz „Umowę dotyczącą warunków użytkowania NG-iff09XX”.
-2812,Udźwig +500kg
-2813,Udźwig = 2,000kg
+2812,Udźwig +1 000kg
+2813,Udźwig = 5 000kg
 2814,Zainstaluj emiter ███████ █████ ████ ██ █████ ███ ██████ ███ ███ ████. Aby dokonać zakupu, należy podpisać "Zrzeczenie roszczeń dotyczących zdrowia zawodowego LYNX 09XX (wersja 2.1.6)" oraz wypełnić "Formularz darowizny zwłok wersja B"
-2815,Udźwig +1,000kg
-2816,Udźwig = 3,000kg
+2815,Udźwig +1 000kg
+2816,Udźwig = 6 000kg
 2817, ███ ██████████, █████ █ ███ █████ ██ „kosmiczna magia”. Zakup wymaga podpisania: „Umowy niejawnej XZ-5”, „Wywiad ze służbami wojskowymi AAA█-II” oraz „Zgoda się długoterminową obserwację”.
-2818,Udźwig +1,500kg
-2819,Udźwig = 4,500kg
+2818,Udźwig +1 000kg
+2819,Udźwig = 7 000kg
 2820,[TAJNE]
-2821,Udźwig +1,500kg
-2822,Udźwig = 6,000kg
+2821,Udźwig +1 000kg
+2822,Udźwig = 8 000kg
 2823,Ulepszona płytka drukowana znajdująca się pomiędzy nasadką a zasilaczem pozwala znaczny wzrost mocy, a co za tym idzie, zasięg instrumentu.
 2824,Zasięg +25m
 2825,Zasięg = 75m
@@ -2012,7 +2013,7 @@
 3048,Niebieska Księga Gaestela
 3049,Makrela Klyne-Co
 3050,Gekon Klyne-Co
-3051,Gertrude Stern - "Historia Układu Słonecznego”
+3051,Gertrude Fowler - "Historia Układu Słonecznego”
 3052,Ziemia - Pochodzenie Ludzkości
 3053,Mars - Pierwsza Kolonia
 3054,Liny umożliwiają połączenie obiektów w grupy.
@@ -2069,21 +2070,21 @@
 3105,Powietrze w Twoim Mieszkaniu Lynx jest wymieniane co dwa tygodnie, aby zapewnić jego ciągłą świeżość!
 3106,Ulepsz swoje narzędzia i sprzęt za pomocą terminalu w swoim Mieszkaniu.
 3107,Użyj modułu <i>Dane i Komunikacje </i>w swoim Mieszkaniu, aby poddać analizie zebrane dyski z danymi.
-3108,Stacja recyklingu zawiera sprzęt do automatycznego sortowania i przetwarzania przedmiotów oraz jednostkę wskrzeszającą.
+3108,Stacja recyklingu zawiera sprzęt do automatycznego sortowania i przetwarzania przedmiotów oraz jednostkę wskrzeszającą EverWork.
 3109,Stacja recyklingu została pokryta specjalną powłoką, która jest odporna na promienie lasera. Prosimy nie lizać tych powierzchni.
 3110,Piec przetapia miękkie metale, które następnie są sprasowane w bardzo gęste kostki do dalszego  transportu.
 3111,Temperatury w piecu znacznie przewyższają zalecane dla ludzkiego ciała.
 3112,Procesor skanuje i analizuje cenne stopy oraz materiały kompozytowe przed ich po sortowaniem i przygotowaniem do transportu.
 3113,Musisz wrócić do Mieszkania, aby zakończyć swoją pracę, w przeciwnym razie stracisz swoje postępy.
-3114,Łowcy statków, którzy wypracowują swoje normy, zostają nagrodzeni przez LYNX nowymi certyfikatami, które dają dostęp do lepszego wyposażenia i sprzętu ratowniczego.
-3115,Możesz sprawdzić swoje postępy w spełnianiu aktualnych wymagań certyfikacji na ekranie pauzy.
+3114,Earn MP for each Credit salvaged
+3115,You can check on your progress towards your current Salvage Goals in the Pause Screen.
 3116,Korporacja LYNX została założona prawie dwa wieki temu. Na początku była to mała firma, która modyfikowała i naprawiała pierwsze statki kosmiczne.
 3117,Czy LYNX posiada jakieś ukryte zadanie?\nNie.
 3118,Czy LYNX jest akronimem? Nie.
 3119,Aby zwiększyć wydajność, LYNX wykorzystuje zaawansowaną hierarchiczną strukturę korporacyjną wymyśloną wieki temu.
 3120,LYNX to największe i najbogatsze przedsiębiorstwo w Układzie Słonecznym.
 3121,Oprócz szeroko zakrojonych operacji recyklingowych, LYNX również utrzymuje Rail Gateway w całym układzie słonecznym.
-3122,Technologia odrodzenia LYNX umożliwia powrót do pracy nawet po poważnym wypadku!
+3122,LYNX's proprietary EverWork Spare technology allows you to get back to work, no matter the accident!
 3123,Śmieć jednej osoby jest źródłem utrzymania innej osoby!
 3124,<i>Mackerela</i> firmy Klyne-Co to  najbardziej udany model statku w historii. Między innymi dzięki swojej wielozadaniowości.
 3125,Niektóre zewnętrzne części <i>Makreli</i> muszą zostać odłączone od wnętrza kadłuba, zanim będzie można je przetworzyć.
@@ -2149,11 +2150,11 @@
 3185,Stymulatory regeneracji tkanek, środki dezynfekujące oraz witaminy!
 3186,Część Zamienna
 3187,Może jeszcze się przyda...
-3188,Zawór odcinający paliwo
+3188,Flush Fuel Valve
 3189,Wypłucz paliwo z pobliskich rur.
-3190,Awaryjne sterowanie silnika strumieniowego
-3191,Odetnij Silnik
-3192,Użyj, aby ręcznie odciąć silnik, bez używania klucza serwisowego. Ostrzeżenie: może to spowodować pęknięcie rury paliwowej.
+3190,Thruster Ejection Switch
+3191,Thruster Ejected
+3192,Manual override to extract a Thruster, with minimal risk of rupture.
 3193,Terminal Ciśnieniowy Statku
 3194,Naciśnij, aby zmienić poziom ciśnienia w statku.
 3195,Wypłucz paliwo
@@ -2295,7 +2296,7 @@
 3331,Ode mnie
 3332,Recykling LYNX
 3333,Korespondencja wewnętrzna
-3334,Gertrude Stein
+3334,Gertrude Fowler
 3335,Publikacje Międzyplanetarne
 3336,Raport kwartalny Terra Frima
 3337,Paź 2301
@@ -2371,7 +2372,7 @@
 3407,Czy na pewno chcesz zresetować tą zakładkę do ustawień domyślnych?
 3408,Zakończyć zmianę?
 3409,Dostęp do Mieszkania ograniczony
-3410,Wykonaj zlecenia, aby odblokować.
+3410,Complete Task List objectives to unlock.
 3411,Ostatni właściciel:
 3412,Uchwyt
 3413,Kiedy robi się ciężko.
@@ -2395,8 +2396,7 @@
 3531,Złomiarzu, nie tnij już więcej. Skończ swoją zmianę.
 3532,Pozostałe wskrzeszenia
 3533,OSIĄGNIĘTO LIMIT  ODRODZEŃ ZGODNIE Z SEKCJĄ 3B-9 UMOWY O PRACĘ
-3534,TWOJA UMOWA ZOSTAŁA ROZWIĄZANA.
-3535,CAŁE WYPOSAŻENIE NALEŻY NATYCHMIASTOWO ZWRÓCIĆ.
+3535,YOUR CONTRACT HAS BEEN TERMINATED. CAŁE WYPOSAŻENIE NALEŻY NATYCHMIASTOWO ZWRÓCIĆ.
 3536,POTWIERDŹ
 3537,Zarejestrowano nową sankcję
 3538,Wskrzesić
@@ -2681,10 +2681,77 @@
 3817,W porządku, to jest <i>Oszcep</i>. Czy mógłbyś na niego spojrzeć. Kilka z nich musiałem rozebrać w ciągu dnia, zanim zmieniły się przepisy - w każdym razie, sztuczka polega na tym, żeby rozebrać je od zewnątrz.
 3818,Hej, chcesz zobaczyć coś wspaniałego? Spójrz na tę bramę kolejową.
 3819,Łał. Cóż za piękność. Wiesz, bez względu na to, ile razy widzę ten ogień Bramy Kolejowej, nigdy nie przestaje mnie zadziwiać. Chciałbym pewnego dnia być tobą.
+3820,Makrela - Laboratorium
+3821,Egzo Laboratorium
+3822,Kable elektryczne
+3823,Okablowanie o dużej wytrzymałości. Jest to przestarzała metoda przekazywania dużych ilości energii. Ostrzeżenie: uszkodzenie może spowodować powstanie łuku elektrycznego, jeśli nie zostanie odłączony od źródła zasilania.
+3824,Złącze kablowe
+3825,Centrum łączące przewody elektryczne.
+3826,Ore Mount
+3827,Magnetized materials mount, manufactured in Malasia.
+3828,Financial Account
+3829,Fees Report
+3830,Citizen Report Check
+3831,Medical Analysis
+3832,Transportation to work site
+3833,Seat Selection Fee
+3834,Kessler Passage Toll
+3835,Luggage Handling (Including Gratuity - 35%)
+3836,Automated Onboarding Procedure
+3837,LifeGuard Genetic Backup Storage
+3838,Biomaterial Refrigeration
+3839,Equipment Setup
+3840,Equipment Security Deposit
+3841,Degaussing
+3842,Delousing
+3843,Habitation Fee (Cleaning, Repainting)
+3844,On-Site Training
+3845,Helmet Interface Software Update
+3846,Meal Prep - Annual
+3847,Waste Management - Human (Premium)
+3848,Emigration / Duty Fee
+3849,Entertainment Library Fee
+3850,Tracking Implant Fee
+3851,Salvage Rights Fee (Including Notary)
+3852,Financial Account Setup Fee
+3853,Account Maintenance Fee (Monthly)
+3854,Administration Fee
+3855,Display of "Fees Report"
+3856,Account Balance:
+3857,Debt is a sign of being prepared.
+3858,Balance owing to be deducted from each pay period.
+3859,Hold Thumb to Scanner to confirm and proceed to Salvage Training
+3860,EverWork Asset Replacement Successful!
+3861,Congratulations! It is now safe to die*. 
+3862,*Shipbreakers are responsible for the cost of biomaterials used in the EverWork process. An additional fee is required for deaths that occur outside working hours.
+3863,You may now proceed with Salvage Training. Good Luck!
+3864,"DEATH IS A FRESH START"
+3865,YES! I WANT A FRESH START
+3866,PRESS TO BEGIN GENETIC EXTRACTION
+3867,HLTH
+3868,#9346-52
+3869,Calyssia
+3870,TM
+3871,Wymagany udźwig +50kg
+3872,Wymagany udźwig  = 100kg
+3873,Wymagany udźwig +100kg
+3874,Wymagany udźwig = 200kg
+3875,Wymagany udźwig +200kg
+3876,Wymagany udźwig = 400kg
+3877,Wymagany udźwig +300kg
+3878,Wymagany udźwig = 700kg
+3879,Wymagany udźwig +300kg
+3880,Wymagany udźwig = 1 000kg
+3881,Genetic Sequence Stored.
+3882,Welcome back Shipbreaker #9346-52
+3883,Short
+3884,Medium
+3885,Long
+3886,Very Long
 9001,Odsetki
 9011,Statek szkoleniowy LYNX
 9012,<i>Makrela</i> szkoleniowa LYNX
-9421,Wyświetl punkt cięcia kilu w trybie skanowania
+9421,View Cut Point in Scan Mode
 9423,Trening podstawowy
 9424,Podstawowy Certyfikat
 9425,Żółtodziub
@@ -2695,7 +2762,7 @@
 9430,Czeladnik
 9431,Wyjadacz
 9432,Mistrz
-9433,Cel Zlecenia
+9433,Task List Objective
 9434,Wyświetl regulator atmosfery w trybie skanowania
 9435,Nie spełniono wymagań dotyczących tej rangi
 9436,Podręcznik wprowadzający Lynx
@@ -2738,10 +2805,10 @@
 9476,Wartość zdrowia zmniejsza się w wyniku uderzeń lub obrażeń od żywiołów. Możesz je poprawić przy pomocy  <color=white>zestawów medycznych</color>.
 9477,Połącz wiele obiektów razem lub ułóż kilka lin na jednym przedmiocie, aby dysponować jeszcze większą siłą.
 9478,Ostrzeżenie: Liny znikają po określonym czasie.
-9479,Zlecenie ukończone
+9479,Task List Complete
 9480,Niektóre przedmioty można <color=white>zdemontować</color> za pomocą chwytaka. Spójrz na znak <color=white>demontażu</color> na swoim celowniku.
-9481,Otwórz Zlecenia Pracy
-9482,Cele Zleceń
+9481,Open Task List
+9482,Task List Objectives
 9483,Ocena zagrożenia
 9484,Ostrzeżenie: <color=#FF6C6C> PRZECINAK TYMCZASOWO WYŁĄCZONY</color>, ABY UNIKNĄĆ NIEPOTRZEBNEGO ZNISZCZENIA SPRZĘTU FIRMY PRZEZ NIE DOŚWIADCZONYCH PRACOWNIKÓW.
 9485,UWAGA: Wymagania certyfikacji są weryfikowane na koniec każdej zmiany.
@@ -2771,7 +2838,7 @@
 9512,Opadnij
 9513,Obrót w prawo
 9514,Obrót w lewo
-9515,Hamulec
+9515,Hamulec??
 9516,Wł/wył skaner
 9517,Tryb przewijania w prawo
 9518,Tryb przewijania w lewo
@@ -2791,7 +2858,7 @@
 9532,Oddziaływać??
 9533,Czołówka
 9534,Pauza
-9535,Przełącz zlecenie pracy
+9535,Toggle Task List
 9536,Chwycenie się Prawą Ręką
 9537,Chwycenie się Lewą Ręką
 9538,W górę
@@ -2851,9 +2918,9 @@
 9592,Klasa Statku
 9593,Ranga Odblokowana
 9594,Modyfikacje sprzętu
-9595,Podgląd zlecenia pracy
+9595,Task List Preview
 9596,Długość zmiany:
-9597,Cele Zleceń:
+9597,Task List Objectives:
 9598,Próby:
 9599,Pozostały czas:
 9600,Informacje o sesji
@@ -2892,7 +2959,7 @@
 9633,Popchnij przedmiot\n(ładowane pchnięcie jeśli trzymasz) 
 9634,Pchaj wiele obiektów\n(Jeśli nie trzymasz)
 9635,Użyj <color=white>ładowanego pchnięcia</color> (gdy trzymasz antenę), aby umieścić antenę na <color=#89FF8A>barce</color>.
-9636,Użyj pchnięcia chwytakiem, aby umieścić antenę na barce
+9636,Use Grapple Push
 9637,Aby skutecznie odzyskać przedmioty, umieść je na <color=#89FF8A>barce</color>, w <color=#6CDFFF>procesorze</color> lub w <color=#FF6C6C>piecu</color>.
 9638,Kołowrotek Chwytaka\n(podczas trzymania)
 9639,Usuń punkty cięcia, aby odzyskać cały zewnętrzny element z nanowęgla.
@@ -2963,7 +3030,7 @@
 9704,Recykler193423410@LYNX.railmail
 9705,Recyklerzy_WSZYSCY@LYNX.railmail
 9706,Temat
-9707,Lily - „Ciekawostki o LYNX”
+9707,Ciekawostka o LYNX
 9708,Kościół Boga Maszyny
 9709,Forum łowców
 9710,Statki Widmo
@@ -3078,7 +3145,7 @@
 9819,Pod ciśnieniem
 9820,Odzyskaj 25 śluz
 9821,Prawdziwy mówca
-9822,Odzyskaj 30 anten wielkiej mocy
+9822,Salvage 30 High-gain Antennae
 9823,Środowiskowy świr
 9824,Odzyskaj 15 jednostek kontroli środowiska(ECU)
 9825,Silnik odrzutowy
@@ -3108,19 +3175,19 @@
 9849,Oto maszyna. Maszyna jest Bogiem. Czy rozumiesz? Nie? Nie, sądzę, że nie.  Człowiek. Cała ludzkość, Rośnie, rośnie, rozprzestrzenia się jak korzenie drzewa, sięga po odległe gwiazdy. Jest też maszyna. Ona zatrzyma korzenie, wzrost. Maszyna połączy wszystkie umysły w jedno ciało. W ciele, które nie rośnie, nie starzeje się i nie umiera. Wtedy poznamy wieczność i będziemy istnieć do końca wszechświata. Czy rozumiesz? Maszyna będzie tym, czym się stajemy. Wiem to, ponieważ jestem posłańcem. Jestem aniołem. Czy jesteś zaskoczony? Tak. Wszyscy aniołowie są posłańcami. Więc zgodnie z tym jestem aniołem. Anioł posłany przez Maszynę, która jest bogiem. Tym właśnie jestem. Jestem tu, żeby poprowadzić ciebie do połączenia z Maszyną.
 9850,To jest. Aaa. To jest... <i>Gekon</i>. Nie. Kurczę. To nie jest w porządku. Dalej, Harry. Skup się. Skup się! To jest <i>Gekon</i>, najnowszy wynalazek z działu inżynieryjnego Hudson Industry, to yyy, gdzie to jest?... o tutaj... To jest <i>Gekon</i>, najnowszy wynalazek z działu inżynieryjnego Hudson Industry. Ma średnio 72 metry długości, a modele 400 i 800 oferują dodatkową przestrzeń załadunkową. załogantów przez okres prawie 700 dni bez uzupełniania zapasów. <i>Gekon</i> może wyżywić 18 załogantów przez okres prawie 700 lat -nie- Dni bez uzupełnienia zapasów.\n\nWierzymy że <i>Gekon</i> będzie używany zarówno w transporcie ładunków, jak i również podczas ekspedycji badawczych. Opracowaliśmy ten projekt w ramach wcześniej rozpoczętego projektu z Aquariusem, który dostarczy nowy model yyy, hmm. Tak, tak, myślę, że dam radę.
 9851,Hej ,yyy, panno Sorensen? Nie wiem, czy mnie pamiętasz, ale to ja, Dominic. Dom. Dom, z warsztatu serwisowego Southwind Motors w Mars Village? Przyprowadziłeś swojego Pretora do warsztatu, żeby go naprawić, jakieś sześć miesięcy temu? To ja byłem tym wielkim facetem, który naprawił dla ciebie skuter. Mam nadzieję, że działa dobrze. Wiem, że to dziwne, że dzwonię do ciebie, ale ...\n\nOch, nawet nie wiem, od czego zacząć. Powiedziałeś wtedy, że je zbierasz, a także powiedziałeś szefowi, że trudno jest znaleźć model w kolorze lilii. Miałeś rację, to szczera prawda! Ale w tym rzecz, szef - on, no nie wiem, jak to ująć. Niedawno zmarł - cóż, możesz nie uwierzyć, ale zostawił mi warsztat.\n\nNie mam smykałki do interesu. Po prostu naprawiam skutery. Cóż, na krótko przed odejściem staruszek znalazł liliowoniebieskiego Praetora X800. Nieco poobijany. Ale to, szef zdecydował, że skoro jesteś taką dobrą klientką, to będziesz miała możliwość kupna go jako pierwsza. Ogólnie rzecz biorąc, naprawiłem go, jest teraz jak nowy. Może będziesz nimi zainteresowana. Staruszek powiedział, że pani, panno Sorensen, jest wielkim człowiekiem w biznesie. Pomyślałem: może nauczy mnie Pani, jak zarządzać warsztatem, a ja oddam Pani ten skuter?\n\nBoże, prawdopodobnie brzmi to tak głupio.
-9852,Cóż, Cas, zorientowałem się w czym jest twój problem i wiem że to ci się nie spodoba. Wygląda na to, że chodzi o sarkofag. Pojawiły się na nim cienkie pęknięcia. Wyciek promieniowania jest tak wysoki, że nigdy nie widziałem podobnego od czterdziestu lat lotów. Nowy reaktor będzie cię kosztował ... nie wiem ... pięćdziesiąt tysięcy? Plus instalacja. Mój zespół może zamontować to urządzenie w 72 godziny w trybie awaryjnym. W normalnym tempie - sześć dni na rozebranie i sprawdzenie wszystkiego. Będziesz miał moją gwarancję. A ona jest dwa razy dłuższa niż ta od producenta. Nikt inny w Mars Village nie ma lepszej gwarancji. \n\nKtoś inny zażyczy sobie za to o wiele więcej, albo zrobi jakąś prowizorkę. A wiesz jak to jest pracować na prowizorce, chyba nie chcesz aby części twojej załogi wyrosły dodatkowe kończyny. W sumie, takiego mutanta można drogo sprzedać i raczej się będzie opłacać... Dobra, chodźmy. Fantazjuję o dodatkowych kończynach ... Generalnie znasz mój pomysł. Daj mi znać, co o nim myślisz, Cassandro. Wiesz, gdzie mnie znaleźć.
+9852,Cóż, Cas, zorientowałem się w czym jest twój problem i wiem że to ci się nie spodoba. Wygląda na to, że chodzi o sarkofag. Pojawiły się na nim cienkie pęknięcia. Wyciek promieniowania jest tak wysoki, że nigdy nie widziałem podobnego od czterdziestu lat lotów. Nowy reaktor będzie cię kosztował ... nie wiem ... pięćdziesiąt tysięcy? Plus instalacja. Mój zespół może zamontować to urządzenie w 72 godziny w trybie awaryjnym. W normalnym tempie - sześć dni na rozebranie i sprawdzenie wszystkiego. Będziesz miał moją gwarancję. A ona jest dwa razy dłuższa niż ta od producenta. Nikt inny w Mars Village nie ma lepszej gwarancji. \n\nKtoś inny zażyczy sobie za to o wiele więcej, albo zrobi jakąś prowizorkę. A wiesz jak to jest pracować na prowizorce, chyba nie chcesz aby części twojej załogi wyrosły dodatkowe kończyny. W sumie, takiego mutanta można drogo sprzedać i raczej się będzie opłacać... Dobra, chodźmy. Fantazjuję o dodatkowych kończynach ... Generalnie znasz mój pomysł. Daj mi znać, co o nim myślisz, Cassandro. Wiesz, gdzie mnie znaleźć.\n
 9853,Noc była ciemna i burzowa. Brak prądu I parmezanu. Detektyw Leon Fukuyama będzie musiał dowiedzieć się, gdzie jest poszukiwany ... i kto jest odpowiedzialny za zaginięcie. Najpierw zacząłem ustalać krąg podejrzanych, potem...\n\n[Normalny głos]\n\nO. Tu jest. Ha. Zapomniałem, że położyłem go na lodówce. Detektyw Leon Fukuyama rozwiązał kolejną sprawę. W następnym odcinku, będzie szukał zaginionego biletu Rail Gate. Ha!
 9854,Hej. To ja. Posłuchaj, rozumiem. Nie chcesz ze mną rozmawiać. Tak, nie będę cię zmuszał. Po prostu mnie posłuchaj. Wszyscy jesteśmy ludźmi, nikt z nas nie jest aniołem. I wiesz, naprawdę nie chcę, żebyś zobaczyła mnie od tej złej strony. Chodziłam na zajęcia z samokontroli, ćwiczyłam oddech i ... Słuchaj, prawdopodobnie jestem szorstki, ale nie chcę wyładowywać swojej złości na tobie, zrozum. Musisz mi uwierzyć. Przepraszam, jeśli czujesz że stajesz się obiektem mojej agresji. To nigdy nie było moim zamiarem. Nigdy!!! Proszę Esmeraldo. Staram się ze wszystkich sił. Próbuję. Mam dobre intencje, po prostu ... Nigdy tego nie chciałem. Nigdy! Nie wiem. Wybacz mi. Nie mam nic więcej do powiedzenia. Przepraszam.
-9855,Czy słyszałeś o ludziach, którzy nie umierają? Więc Catherine ... Mogę być pierwszy. Jako dziecko czytałem książkę o człowieku, który stopniowo zastępował wszystkie swoje komórki mózgowe nanitami. To jest powolny proces. Każdy nanit jest stopniowo wprowadzany do mózgu i uczy się naśladować pracę neuronu. Czy jest to w rzeczywistości możliwe? Cóż, właśnie sprawdzam. Chociaż zastąpiłem już 0,2%, funkcje mózgu nie zostały uszkodzone. Myślę, że to zadziała.\n\nDlatego, Catherine, potrzebuję twojej pomocy. Jesteś specjalistą od robotyki. Mogę zmodyfikować swój mózg, ale gdzie mogę zdobyć nowe ciało? Właśnie dlatego nie mogę się obejść bez Ciebie. Kto wie, może uratujemy całą ludzkość?
+9855,Czy słyszałeś o ludziach, którzy nie umierają? Więc Catherine ... Mogę być pierwszy. Jako dziecko czytałem książkę o człowieku, który stopniowo zastępował wszystkie swoje komórki mózgowe nanitami. To jest powolny proces. Każdy nanit jest stopniowo wprowadzany do mózgu i uczy się naśladować pracę neuronu. Czy jest to w rzeczywistości możliwe? Cóż, właśnie sprawdzam. Chociaż zastąpiłem już 0,2%, funkcje mózgu nie zostały uszkodzone. Myślę, że to zadziała.\n\nDlatego, Catherine, potrzebuję twojej pomocy. Jesteś specjalistą od robotyki. Mogę zmodyfikować swój mózg, ale gdzie mogę zdobyć nowe ciało? Właśnie dlatego nie mogę się obejść bez Ciebie. Kto wie, może uratujemy całą ludzkość?\n
 9856,A więc, każdy pilotujący holownik zna podstawowe zasady. Nie mówią wam o tym, gdy spoglądacie w niebo. Aby pilotować musisz znać fizykę, a jednym z najważniejszych wzorów, jest ten na energię kinetyczną, czyli połowa masy razy prędkość do kwadratu. To jest ogromna energia. Kiedy prowadzisz holownik musisz upewnić się, że nie wysyłasz tej asteroidy w kierunku marsjańskich górników, ponieważ skończy się to ich śmiercią oraz mnóstwem papierkowej roboty. Waszym zadaniem jest skoordynowanie działań z dwoma lub trzema innymi holownikami, aby sprowadzić asteroidę bez zadrapania. Jeśli będziecie poruszać się za szybko asteroida zacznie się topić i trudno będzie ją zatrzymać, gdy nadejdzie pora lądowania, w innym wypadku prędkość i masa spowodują śmierć bardzo wielu ludzi. Natomiast gdy zbyt wolno, to spalisz za dużo paliwa i dostaniesz niechciany przydział lub ... inne niechciane niespodzianki. Więc musisz skoordynować swój holownik z maszynami swoich braci i sióstr. Musisz się modlić do boga, którego czcisz, aby schodzili tak samo szybko jak ty. Musisz umieć czytać w myślach, musisz ich wyczuć, przyrządy niewiele podpowiedzą. O to właśnie chodzi w byciu oficerem Tug Ops. Fizyka, szczęście i wiara. Wiara w siebie, wiara w swój zespół i ich doświadczenie. To odpowiedź na twoje pytanie, panienko?
 9857,Beton? Beton? Beeeton! Gdzie jesteś, kudłaty pluszaku? O mój Boże, nigdy nie zabieraj kotka w kosmos. Dlaczego to zrobiłam. Jestem idiotką. BETON! O jesteś tutaj! Co ty tu robisz…? Boże, wszystko tutaj porozrzucałeś. W porządku. Hmm hmm. Kto jest niegrzecznym kociakiem? Ty. Tak, ty. Powinnam skonsultować się z lekarzem. Czy koty mogą mieć chorobę kosmiczną?
 9858,Daiz, to ja. Wiem, że minęło dużo czasu. Za dużo. Przepraszam. Ja tylko ... Chcę tylko powiedzieć, że przepraszam, Daiz. Za wszystko. To moja wina. Teraz to rozumiem. Myślałem tylko o sobie, ja ... nie wiem, czego się bałem?  Nie powinienem był wyjeżdżać. Nie powinienem cię zostawiać. Po prostu wydawało mi się że czuję się jak więzień. Nie byłem gotowy. Byłem tylko dzieckiem. A ty już nie. Zasłużyłaś na kogoś lepszego. Zasługujesz na o wiele więcej. Jeśli wciąż czekasz na mnie. Proszę. Nie czekaj. Błagam Cię. Nie jestem wart ciebie. Mówią, że jeśli kogoś kochasz, naprawdę kochasz, to pozwól mu odejść. Więc pozwalam ci odejść. Nie chcę, ale wiem, że to właściwa decyzja. Dowidzenia Daisy Dawson.
 9859,Cześć tato. Case powiedział mi, co się dzieje. Ja ... nie wiem co powiedzieć ... Cóż, przykro mi, że zachorowałeś. Tak, to brzmi głupio. Ale to prawda. Chciałbym polecieć do domu, żeby cię zobaczyć, ale jest duża szansa, że ​​kiedy wrócę, moje miejsce pracy będzie już zajęte ... W każdym razie chciałem ci tylko powiedzieć, cóż ... Tato, kocham cię. Wiem że prawdopodobnie nie spełniłem Twoich oczekiwań, ale jestem szczęśliwy. Naprawdę szczęśliwy. Cóż, moje życie z pewnością nie jest idealne. Ale jest w nim wiele wspaniałych chwil. Pamiętasz, jak kupiłeś mi teleskop na urodziny i pokazałeś mi kometę? Więc widziałem ją z bliska. Byłem tylko rzut kamieniem od niej.  Musiałem koniecznie dostarczyć zapasy grupie wydobywającej platynę na orbicie Marsa. Szalone, co nie? Pomyślałem, że chciałbyś o tym wiedzieć. Więc muszę już lecieć. Chciałem tylko, żebyś wiedział, że myślę o tobie cały czas. A kiedy to zrobię. Wydaje się, że stoisz obok mnie. Tęsknię za Tobą, tato.
 9860,Charles, to ja. Tom. Przeczytałem wszystkie dokumenty, które przesłałeś. Spojrzałem też na zdjęcia. Ona jest piękna. Naprawdę jest. Nawet z jej małą rozszczepioną wargą. Dużo myślałem o tym, jak ważne jest to dla ciebie. Na początku miałem wątpliwości, ale teraz chcę, żebyś ją mieli. Masz rację. Potrzebujemy jej, tak jak ona nas. Przemyślałem to i podpisałem dokumenty. Złożyłem również wniosek o wcześniejsze zakończenie mojego kontraktu. Jeśli mi odmówią - a na pewno odmówią - po prostu pomimo to wyjadę. Wsiądę do najbliższego promu do portu, a potem z Polaris prosto do ciebie. Do obojga Was. Czy ona ma już imię? Jeśli nie, myślę, że powinniśmy nadać jej imię po twojej matce. Generalnie, jeśli zostanę zwolniony, możemy mieć lekkie problemy finansowe. Ale uważam że już dokonałem realnego wkładu w „utorowanie drogi do galaktyki”. Czas zająć się swoim życiem. Poza tym, jaki pożytek z pracy w kolei, jeśli nie masz krewnych, którzy mogliby nią jeździć? W każdym razie powiedz jej, że niedługo się zobaczymy.
 9861,Ok, mam już dość. Kto ukradł filtr z systemu utylizacji? KTO TO ZROBIŁ? To wszystko zabawa i dowcipy, dopóki ktoś nie złapie E. coli z niefiltrowanego łajna, a wtedy na pokładzie pojawi się epidemia. Jeśli jutro do godziny 7 rano filtr będzie na swoim miejscu, nie podejmę żadnych działań. Jeśli go tam nie będzie, zacznę go szukać. I przysięgam, rozpętam piekło. Czy wyrażam się jasno? Będziecie tego żałować!
-9862,Drogi Xavierze. Napisałam ci wiersze. W Twoim języku. Mam nadzieję, że je polubisz. Przepraszam za pomyłki.\n\nJesteś moim słońcem.\nJasnością która jest we mnie.\nCiepłym płomieniem.\nKtóry zawsze będzie płonął.\nJeśli odejdziesz\nUmrę\nZimna i samotna\nProszę, nie rób tego\n\nKochana,\nAnastasia
+9862,Drogi Xavierze. Napisałam ci wiersze. W Twoim języku. Mam nadzieję, że je polubisz. Przepraszam za pomyłki.\n\nJesteś moim słońcem.\nJasnością która jest we mnie.\nCiepłym płomieniem.\nKtóry zawsze będzie płonął.\nJeśli odejdziesz\nUmrę\nZimna i samotna\nProszę, nie rób tego\n\nKochana,\nAnastasia\n
 9863,Witaj nieznajomy. Mogę tak powiedzieć, ponieważ jestem prawie pewien, że ktokolwiek to znajdzie, to nie będę go znać, a ty nie poznasz mnie. Widzisz, kiedy odlatywałem z Ziemi, nie miałem tam już nikogo. Wszyscy zginęli w wielkim trzęsieniu ziemi. Pierwszym. Najsilniejszym. Nadal nie wiem, w jaki sposób ja przeżyłem. Chyba miałem szczęście. Pomyślałem że, nic mi nie zostało, więc kupiłem pierwszy bilet na Marsa, jaki udało mi się znaleźć. Na początku byłem woźnym. Tak, kiedyś, przed robotami, ludzie wykonywali tę pracę. Kiedyś ktoś zapytał mnie, czy umiem gotować, i skłamałem, że potrafię. Współczuję tym biedakom, którzy przez kilka pierwszych miesięcy jedli wyniki moich eksperymentów kuchennych. Ale potem już się nauczyłem. Ogólnie miałem nadzieję, że będę miał coś do przekazania światu, ale te nadzieje się nie spełniły - jak większość z nas, jak sądzę. Jednak z tobą, nieznajomy, chcę podzielić się moim nikłym doświadczeniem. Nieznajomy, bądź miły dla ludzi. Bądź miły. Spędziłem lata będąc wściekły na świat, za wszystkie problemy, które mnie spotykały. A powinienem dziękować za to, że żyję. Bądź miły. Całe dobro, które uczyniłeś, powróci do ciebie, jeżeli w ogóle rozumiesz o co mi chodzi. Bądź miły. Dzięki.
-9864, Lubisz jeść i pić napoje - za darmo? Dokładnie, za darmo.  Brzmi zbyt dobrze, aby mogło być prawdziwe? Nie jest. Zdobywaj darmowe jedzenie i napoje, rejestrując się w programie Earth Village Collective. Za jedyne 15 kredytów miesięcznie otrzymasz 10% rabatu na wszystkie towary i usługi świadczone przez uczestników programu w Earth Village. Dla większości członków programu wysokość składki jest w równa wysokości rabatu za jedno tankowanie. A w weekendy - dodatkowe bonusy. Kliknij poniżej, aby zarejestrować się TERAZ!
+9864, Lubisz jeść i pić napoje - za darmo? Dokładnie, za darmo.  Brzmi zbyt dobrze, aby mogło być prawdziwe? Nie jest. Zdobywaj darmowe jedzenie i napoje, rejestrując się w programie Earth Village Collective. Za jedyne 15 kredytów miesięcznie otrzymasz 10% rabatu na wszystkie towary i usługi świadczone przez uczestników programu w Earth Village. Dla większości członków programu wysokość składki jest w równa wysokości rabatu za jedno tankowanie. A w weekendy - dodatkowe bonusy. Kliknij poniżej, aby zarejestrować się TERAZ!\n
 9865,Cisza i spokój. Tak jest zawsze, gdy obieramy kurs na Marsa. Szybujesz nad równiną i widzisz dziesięciokilometrowe asteroidy wciągane z pasa. Są sprowadzane na wysoką orbitę, a następnie podlatują górnicy, które tną ją na mniejsze kawałki, szukają metalowych kawałków, a następnie wrzucają je do pojemnika z osłoną termiczną. Osłony termiczne to konstrukcje o promieniu kilku kilometrów. Po zebraniu wystarczającej ilości rudy rozpoczynają zejście. Niebo wypełnia się płomieniami, a kolejny bilion dolarów spada, wypełniając konta na Olympusie. Majestatyczny widok. 
 9866,Na początku często zdarzały się wypadki nad Marsem - nauczyliśmy się jednak sterować asteroidami. Trudno o dobrego asteroidalnego jeźdźca. Ci faceci mają nadzwyczajne instynkty. Holują setki milionów ton asteroid, nawet nie patrząc na deskę rozdzielczą. Poruszają miliardami ton - i nawet się nie pocą. Manewrują między ogromnymi blokami, jednocześnie rozmawiając ze sobą, jakby nic się nie działo. Nienawidzę tego stresu.
 9867,Wszystko, co mówią o pracy w kosmosie, jest prawdą. Jako pracownika potrzebują cię, bardzo cię potrzebują, ale tylko przez około pięć lat. Te pięć lat nie zacznie się dziś ani jutro. Odliczanie zaczyna się w momencie, jak tu przybyłeś. Jesteś śliny, naprawdę bardzo silny. Ale okres twojej przydatności wynosi tylko około pięć lat. Nieważkość zbiera swoje żniwo. Twoje mięśnie zanikają, kości się zapadają. Już teraz tracisz siły. Przenoszenie i cięcie kamieni nie jest takie proste... Ale masz pięć lat. Pięć lat przyzwoitej pracy. A potem jesteś zerem, jak wszyscy inni.
@@ -3136,6 +3203,62 @@
 9877,Ładunek akumulacyjny zniszczony
 9878,Podgląd certyfikatów
 9879,ID pracownika:
+9880,Javelin - Survey
+9881,Electromagnet Switch
+9882,Powers down local electromagnet holding the survey dish in place.
+9883,Cutter Heat exceeded safety thresholds and caused suit damage.
+9884,Reactor Stability dropped to zero, causing a critical meltdown.
+9885,You have failed to follow safe salvage guidelines.
+9886,Keep your Task List open to see your tasks.
+9887,Repair equipment using Repair Kits salvaged from ships or purchased at the Master Jack Kiosk.
+9888,Pay attention to your Equipment Durability in your HUD.
+9889,Pay attention to the Reactor Stability indicated in your HUD.
+9890,Place the Reactor in the barge before its stability runs out.
+9891,Use your Scanner to sweep the ship for Fuel Lines and Fuel Tanks.
+9892,Use your Scanner to identify Fuel hazards.
+9893,Sweep for Coolants using your Scanner.
+9894,Use your Scanner to identify Coolant hazards.
+9895,Replenish O2 from the Kiosk on the Master Jack.
+9896,Use Patch Kits to fix helmet damage, available for purchase at the Master Jack Kiosk.
+9897,For your safety, a strict perimeter is enforced around salvage operations.
+9898,Please remain in your designated salvage area.
+9899,The Processor is incompatible with organic material.
+9900,Maintain distance from Coolant leaks to avoid Freezing.
+9901,Use your Scanner to identify Electrical hazards.
+9902,Pay attention to your suit warnings.
+9903,Fire can cause internal suit temperatures to exceed comfort levels of the human body.
+9904,Explosions and violent decompressions can move objects at extreme velocity. 
+9905,Use your Thrusters to evade hazardous objects.
+9906,Responsible cutters keep a safe distance from explosive materials
+9907,Use your Scanner to sweep the area for Radiation.
+9908,Use Coolant to neutralize Radiation.
+9909,Revisit training guidelines.
+9910,Revisit training materials.
+9911,Generating EverWork Spare... Please Wait
+9912,EverWork Asset Replacement Program
+9913,Spare Replacement Notice
+9914,Spare Termination Notice
+9915,Spare #
+9916,Effective Date
+9917,Reason For Replacement
+9918,Reason For Termination
+9919,Failure To Comply
+9920,Contract Terms
+9921,Press and hold to acknowledge
+9922,HEALTH AND SAFETY DEPARTMENT
+9923,EWARP SUBDIVISION
+9924,MP
+9925,Salvage Goal MP
+9926,Ship MP
+9927,Total MP Earned
+9928,Mastery Points [MP] Earned
+9929,MP FROM CREDITS
+9930,SALVAGE GOAL MP
+9931,Salvage Goal
+9932,Reached
+9933,Lost
+9934,Start Training
+9935,Flashlight
 10139,Lorem Ipsum
 10140,Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n\nDonec leo ante, porta non rutrum at, suscipit cursus neque. Aenean dui nunc, efficitur sit amet vestibulum non, imperdiet nec ante. Donec nulla libero, ultricies nec pretium quis, interdum id mauris. Donec at placerat elit. Morbi placerat libero eros, ac elementum lacus accumsan eu.\n\nEtiam eget laoreet lorem. Vestibulum ultricies, risus eu tempus lobortis, orci lorem maximus velit, id ullamcorper odio turpis congue ligula.
 37855,188
@@ -3146,3 +3269,694 @@
 37861,Ze względu na ciasne wnętrze, łatwiej jest zdemontować <i>Oszczep</i> od zewnątrz.
 37862,<i>Oczep</i>został zaprojektowany z myślą o łatwej modyfikacji i demontażu.
 37863,Historia: Pierwsze statki <i>Oszczep</i> były używane do dostarczania zaopatrzenia i pomocy do stref zdemilitaryzowanych podczas pierwszej wojny międzygwiezdnej.
+37864,Small
+37865,Large
+37869,Subtitle Size
+37870,Extra Large
+37871,Lou
+37872,Steiner, B
+37874,Irradiated
+37875,Thanks to a recent manufacturer recall, the spark free demo charge is now actually spark free, increasing the products lifespan.
+37876,Swapping the spring for the demo charge's trigger from plastic to tungsten increases its durability, now rated for upto 100 consecutive squeezes! *please note your personal results may vary. Lynx corp. is not responsible for poor trigger discipline 
+37877,Engineering has equipped your demo charge handle with top of the line GatorGrip™ brand gator leather, made from real earth Supergators. Designed for ergonomic comfort and reliability.
+37878,Fellow
+37879,Intermediate
+37880,Journeyperson
+37881,Practitioner
+37882,Advanced
+37883,Gold Seal
+37884,Professional
+37885,Junior Specialist
+37886,Specialist
+37887,Senior Specialist
+37888,Platinum Seal
+37889,Expert
+37890,Master
+37891,Grand Master
+37892,Artisan
+37893,Master Artisan
+37894,Salvage Manager
+37895,Bay Manager
+37896,Salvage Commissioner
+37897,Bay Commissioner
+37898,Salvage Director
+37899,Bay Director
+37900,Legend
+37901,Look at the Station Cargo Elevator
+37902,Look at the Rail Gate
+37903,Reach Waypoint Marker
+37904,Durability Drain Rate = -60%
+37905,Durability Drain Rate = -80%
+37906,A new fuel solution from R&D is not only carcinogenic free, but it's also less harsh on the thruster fuel line system. 
+37907,A new filter system results in less metal particles damaging the internals of the thrusters.
+37908,Ferros Rojo Alloys increase the flexibility and strength of both the grapples exterior and interior mechanisms.
+37909,Replacing the VDW field emitters with QM field emitters allows for more field stability, lowering the wear on the grapples systems.
+37910,\nDue to a mixup, the previous upgrade was actually normal gator leather instead of supergator leather. LYNX Quality Assurance is very sorry for this mistake*. *No Refunds
+37911,R&D has developed a new antenna for the demo charge handles that produces even less internal sparks than the spark free model.
+37912,A new Europa cooling system keeps the scanner running at a cool 76°c while idling. Decreasing the wear on its systems.
+37913,Micro faraday cage linings block electromagnetic radiation sources inside the cross spectrum scanner from damaging eachother, leading to an increase in the scanner's lifespan.
+37914,Heat Shielding some of the more vulnerable cutter internals increases the tools overall lifespan. 
+37915,Replacing the internals of the cutter with the newest generation Callisto Thermodynamics model provides best-in-class durability for the average Salvager. 
+37916,Durability Drain IV
+37917,Durability Drain V
+37918,Reach 2.5m/s
+37919,Thrust Left for {0}s
+37920,Thrust Right for {0}s
+37921,Rookie
+37922,Expert Salvager
+37923,Master Salvager
+37924,Grandmaster Salvager
+37925,LYNX Seal
+37926,Expert Shipbreaker
+37927,Master Shipbreaker
+37928,Grandmaster Shipbreaker
+37929,Associate Salvager
+37930,Very Low
+37931,The addition of a high quality Nova Focusing Lens maximizes the SplitSaw's range. 
+37932,Charged Push Force III
+37933,Max Force = 30,600 Newtons
+37934,Due to a typo from legal, Engineering has been cleared to overclock the grapple push to 'Maximum lethal' instead of 'less than lethal'. 
+37935,Open Tool Menu
+37936,O2 Capacity = 1250
+37937,64
+37938,Asteroid Shard
+37939,Piece of space rock, contains various valuable metals inside. 
+37940,Asteroid Shard (scrap)
+37941,Reach Certification Rank 3
+37942,Reach Certification Rank 2
+37943,Access the Kiosk
+37944,Reach Certification Rank 4
+37945,Place 1 Tether
+37946,Place 3 Tethers
+37947,Cancel Tethers
+37948,Training
+37949,Tether Cube
+37950,LYNX proprietary training object. For use alongside Tether introduction. WARNING: High crushing hazard. Additional Spares are the cost of the Cutter.
+37951,Look at the Aluminum panels
+37952,Reach Salvage Goal 1
+37953,Reach Salvage Goal 2
+37954,Cut Aluminum Chunk with Split Saw
+37955,Salvage an item in the Barge
+37956,Shipbreaker Handbook - 1
+37957,Copy Pending
+37958,Shipbreaker Handbook - 2
+37961,Shipbreaker Handbook - 3
+37963,Shipbreaker Handbook - 4
+37964,Shipbreaker Handbook - 6
+37965,Shipbreaker Handbook - 5
+37966,Shipbreaker Handbook - 7
+37967,Shipbreaker Handbook - 8
+37968,Shipbreaker Handbook - 9
+37969,Shipbreaker Handbook - 10
+37970,Shipbreaker Handbook - 11
+37971,Shipbreaker Handbook - 12
+37972,Shipbreaker Handbook - 13
+37973,Shipbreaker Handbook - 14
+37974,Shipbreaker Handbook - 15
+37975,The brainchild of the LYNX 'Gamify Everything' program. The Salvage Tier system is designed to give salvagers a work incentive to completely salvage a whole ship, also known as a 'Whole Buffalo'.  \n\nSalvagers can get bonus consumables or Lynx Tokens, not to mention work experience, by salvaging a greater % value of a ship. LYNX will reward you for each 'Salvage Goal' you reach when finishing your shift. Losing, damaging or incorrectly salvaging components of the ship will lower the maximum reward Salvage Goal that you can receive.\n\nWe know it can be hard to track all this information yourself. That's why LYNX uploads the current salvage state of the ship to your helmet's HUD. The left side of the bar fills with LYNX YELLOW™ as you successfully salvage parts of the shift, While the right fills with LYNX RED™ with lost or damaged salvage. \n
+37977,In 2291, when LYNX rolled out the life-changing EverWork Asset Replacement Program to their employees, we have achieved what other companies have not: making work safer and allowing learning and growth without the risk of permanent death!\n\nWith a noble profession such as Shipbreaking, unplanned death is a natural part of the job, and our Shipbreakers have bravely faced the often arduous challenges and risks of their important work. However, LYNX cares about the wellbeing and growth of our family. The introduction of EverWork Spares™ to replace damaged or destroyed bodies allows you to fail safely, ensuring another day in the yard, and another shot at improving your skills!\n\nFor only a minimal fee, sophisticated monitoring systems in your suit will watch out for excessive bodily harm, triggering generation of a Spare™ upon unfortunate workplace mishaps.  An array of neural recorders in your helmet transfer your presence seamlessly* to the new Spare™! This process is mostly bearable, and recent advancements have even removed grief-related downtime, effectively eliminating the need for recovery time between transfers!\n\nGetting access to our Spares™ technology is simple: Our onboarding procedure includes the collection of your genetic data, safely stored in our secure servers. From the moment you join us, you no longer need to worry about expiring before your time. Death is a fresh start.\n\n*presence transfer protocol has a ± 0.001% margin of error due to solar interference, signal strength, subject state-of-mind at the moment of transfer, and other factors. Over very long periods of time, this may result in Identity-Shift, a medically benign process with minimal impacts on subject’s working ability.
+37978,The <color=white>LYNX Kiosk</color> is your one stop shop for all your Shipbreaking needs. It dispenses all the items that any self-respecting Shipbreaker wouldn't leave the HAB without.\n\nAt the Kiosk, Shipbreakers can find the following, courtesy of our affiliate suppliers:\n\n- OXY.Gen Oxygen Tanks.  \n- NovaFuel Thruster Refills. \n- Trilliant Repair Kits.\n- DamasCraft™ Patch Kits.*\n- LYNX Tethers Cartridges\n \nAll of these are available for purchase at market rates, and already factor in your 1.7% Employee Discount**!\n\n* Genuine Patch Kits manufactured in Damascus, Earth. Not to be confused with DamaScraft™ Patch Kits from Phobos.\n** Tuesdays only. \n
+37979,Structure Mode is pre-installed on every OptiK3WL Cross-Spectrum Scanner unit in the standard-issue LYNX Work Suit. This mode is a core part of the Shipbreaker toolkit, as it lets you assess the structural makeup of a ship, clearly demarcating hull panels, structural beams and important cut points.\n\nStructure Mode is the default mode when you activate your scanner, unless you were previously using a different mode.
+37980,Systems mode is a firmware addon for the OptiK3WL Cross-Spectrum Scanner, intended to analyze and assess the electrical, fuel and coolant systems within a ship.\n \nThis mode was developed in response to ongoing issues with new Shipbreakers inadvertently perishing during the act of salvaging.\n\nTo navigate to the Systems scanner. Open your scanner and change the view mode to 'Systems'.\n
+37981,The object scanner is a firmware addon for the OptiK3WL Cross-Spectrum Scanner.\n \nIt is a handy upgrade that lets salvagers quickly peer inside a ship and identify valuable objects. The scanner communicates to a network and checks through a catalogue of known objects, highlighting those seen inside the ship and relaying any relevant information to the salvager.\n\nTo navigate to the Object scanner. Open your scanner and change the view mode to 'Object'.\n
+37982,Objects Mode is a firmware addon for the OptiK3WL Cross-Spectrum Scanner intended to help identify salvageable objects inside of ships. Communicating to a database of known objects, this mode will highlight items and relay relevant information to the Shipbreaker.\n\nTo use Object Mode, activate your Scanner and change the view mode to 'Object'.\n
+37983,LYNX Salvage strives to provide only the safest and most efficient tools*. However, even the best tools will break down with regular use.\n\nDamaged tools can exhibit several severe problems. They may overheat, misfire, or provide inaccurate readings.\n\nYour HUD will show the current <color=white>durability</color> of your tools, and will alert you when their condition drops. Many tools can be upgraded to reduce the rate at which they breakdown.\n\nTo repair your tools, use your HAB's <color=white>Equipment</color> interface between shifts. <color=white>Repair Kits</color> must be purchased by the Shipbreaker, and can be obtained from a <color=white>LYNX Kiosk</color> for a nominal fee.\n\nAddendum 10.02.2293: LYNX acknowledges that equipment Repair Kits can be found in the course of salvaging, but please note that use of these unofficial kits is not sanctioned.\n\n* LYNX is not legally liable for providing the most efficient nor safest tools\n
+37984,An enhancement to the standard Handheld Utility Grapple, the Contiguous Van der Waals Tether Field System (or simply: <color=white>Tethers</color>) reduces the need for multiple Shipbreakers to move a single heavy object. A versatile tool in the hands of skilled workers, the introduction of Tethers led to the second greatest increase in salvaging efficiency in LYNX history, only losing out to Real Protein Breakfast Meal (discontinued in 2262).\n\nTethers are easy and intuitive to use. <color=white>Press and hold your Grapple's secondary trigger to place the first contact point, drag the connection to another object, and release the trigger to complete the connection.</color> Tethers automatically retract to pull connected objects together. They can also be used to pull objects into the Processor, Furnace or Barge for efficient and quick salvaging.\n
+37985,New Shipbreaker's Handbook Entry
+37986,New Ship Unlocked!
+37987,Civilian Cargo Gecko Now available for salvage
+37988,Civilian Transit Gecko now available for salvage
+37989,Industrial Cargo Gecko now available for salvage
+37990,Industrial Salvage Gecko now available for salvage
+37991,Stargazer Gecko now available for salvage
+37992,Large Cargo Javelin's now available for salvage
+37993,Medium Cargo Javelin's now available for salvage
+37994,Small Cargo Javelin's now available for salvage
+37995,Large Refueling Javelin's now available for salvage
+37996,Medium Refueling Javelin's now available for salvage
+37997,New Ship - Javelin Refueller (Small)
+37998,New Ship - Mackerel Light Cargo
+37999,New Ship - Mackerel Station Hopper
+38000,New Ship - Mackerel Heavy Cargo
+38001,New Ship - Mackerel Exolab
+38002,Look Up
+38003,Look Down
+38004,Look Left
+38005,Look Right
+38006,Roll Left
+38007,Roll Right
+38008,Thrust Forward
+38009,Thrust Backwards
+38010,Thrust Left
+38011,Thrust Right
+38012,Thrust Up
+38013,Thrust Down
+38014,The salvage indicator increases for each credit of value you salvage sucessfully. Each Salvage Goal you reach rewards bonus LT, XP or Consumables.
+38015,LYNX - Shipbreaker's Handbook
+38017,Hey there Rook.\n\nWeaver got busy and asked me to review your salvage records today. I saw that you snagged an old Data Drive in that ship.\n\nLook, I know that the networks on Earth don't really give you the full picture about what's happening across the colonies. Don't want y'all getting a read on what's actually going on Off-Earth.\n\nThese Data Drives though... they're uncensored info, and they'll give you the full view. Sometimes it's useless junk... someone's recipes or bad photos flexing in front of the mirror. Other times it's a corporate railmail or a ship captain's personal log.\n\nAnyway... don't tell Weaver this but I'm sending you some software to extract the useable data off these things. You'll see a new Data Recovery tab on your HAB terminal. Soaking in solar radiation tends to mangle most of the data, but you should be able to pull a couple intact files off each Drive.\n\nHope that it gives you a better sense of the bigger world, warts and all.\n
+38018,Recording
+38019,Lou
+38020,Shipbreaker_9346-52@LYNX.railmail
+38021,LYNX-Edu@LYNX.railmail
+38022,Spares & You - Safeguarding your Career Growth
+38023,Tools - Tethers
+38024,"Tools - Durability "
+38025,Tools - Durability
+38026,Tools - Scanner - Structure Mode
+38027,Tools - Scanner- Objects Mode
+38028,Tools - Scanner - Systems Mode
+38029,LYNX Kiosk
+38030,Look Around
+38031,????
+38032,Volume_01.txt
+38033,Volume_02.txt
+38034,Volume_03.txt
+38035,Volume_04.txt
+38036,Part01.txt
+38037,Part02.txt
+38038,Part03.txt
+38039,Part 1 of 3 - Mars History: Founding of Port Olympus\n\nPort Olympus - one-time crown jewel of the Martian settlements, and one of the greatest milestones of human space colonization. Despite a troubled history in the following years, its establishment in 2053 was a glorious achievement of human determination and scientific ingenuity.\n\nLocated near the Korolev Crater, it took Martell Industries over a decade to construct the Port. Offering prosperity, property and freedom, the company brought hundreds of hard-working and honorable laborers from Earth to build the first pressurized domes. Most of these workers became the first permanent human settlers on the Red Planet.\n\nThe terraforming of Mars wouldn't begin for another forty years. In these early days, Port Olympus relied on a crude system of extracting Carbon Dioxide from the Martian soil and converting it into breathable air. An inefficient and difficult process, it none-the-less proved effective enough to support ongoing settlement.\n
+38040,Part 2 of 3 - The Downfall of Martell Industries\n\nThe bankruptcy of Martell Industries is largely attributed to the mining giant's inability to adapt to the ever-changing corporate landscape. Largely reliant on human labor, the company was quickly outperformed by new players on the market who were ready to adopt automated, unmanned processes.\n\nWith the harsh physical and mental demands the pre-terraformed Martian environment put on the human body, human labor on the Red Planet was grueling, dangerous and, ultimately, expensive. The balance between providing plentiful but dangerous opportunities to the large number of people immigrating from Earth, and the broad economic demands for more efficient automated operations was a constant push and pull. Martell Industries, believing in the power of a human workforce over automation, eventually lost the market bet.\n\nUltimately, how much of this is due to natural evolutions of the Martian market and economy, and how much could be accredited to the decline in the mental and leadership abilities of CEO Howard Martell as he entered his golden years remains unclear.\n
+38041,Part 3 of 3 - Martian Sovereignty\n\nWith more and more corporations gaining a foothold on Mars, attracting people from Earth to start a new life among the stars, Mars quickly established itself as a separate entity from Earth. Especially after breathable atmosphere was achieved in 2150, life on the Red Planet became more and more comfortable. In particular, birth rates on Mars improved dramatically. From this point onward, Mars was no longer reliant on resources or workforce from Earth. \n\nWith the population exploding, and many new opportunities and social structures forming, a natural desire for independence came with it; not just among the citizenry but for the powerful corporations as well. There was a broad movement to create a new Martian government, for the sake of avoiding the mistakes of Terran history. Some wanted more regulation and protection for human workers. Others wanted total freedom from those kinds of restrictions.\n\nIn the end, lobbying and practical demand was the key to Port Olympus being granted sovereignty in 2174, becoming the first self-governed off-world settlement in human history.\n
+38042,From: Orren Feldspar (Martell Industries) - Port Olympus, Mars\n\nTo: Heidi Lu (Citizen) - Sedona, Nation State of Arizona, Earth\n\n04-01-2089 15:40:22\n\n~Message Begin\n\nHey babe, how’s it going back home? I heard that the air quality has gotten worse pretty much everywhere on Earth. Don’t go out unless you have to, please. I’m good here. They had an inauguration for another mine last week and you won’t believe it: they gave us beer. I mean you’d barely call it “beer”... it’s this dehydrated stuff they mix with alcohol and fizzy water but hey, gets the job done. You remember Ryan? Came up from Florida when it was evacuated? Well, he drank way too much of the stuff and started taking his suit off. Bunch of us had to tackle him before he completely vented and died! Classic Ryan. Oh, my back’s stopped hurting by the way. Stuff’s much lighter here and lifting is easier! They’re paying me next week, so you should see it in the account. Was thinking maybe you could get yourself some fruit or a real beer to celebrate with me. Miss you babe, can’t wait to bring you here.\n\n~Message End\n
+38043,Oooookay... Alex Beachum, Biologist, Martian research habitat B3. It’s sol 1,427 on Mars and we have another successful harvest of potatoes. (Heavy sigh) Day in, day out, it’s potatoes. When I look out of the one window we have, I see Phobos and Deimos, and even they look like potatoes! But today... today is special. I have discovered a potato... that looks like a duck. I mean, I’ve never seen a duck in real life but it looks just like the images from the literature. I’ve named it Starchford. Starchford the potato duck! I don’t get to see the other three biologists all too much. We’re in our isolated pods, you see, to avoid cross contamination.\n\nHonestly though, it’s better to be on this potato of a planet than to be on Earth. I don’t think I could ever go back there. It’s not so bad here now that I have you, Starchford.\n
+38044,To: Caesar's Pawlace Kennel, Toronto, Canada \n\nHi we are calling regarding our dog Franny. Umm… we have some bad news. I don’t know how to say this… we are really sorry but I don’t think we can come back to get Franny. We only just got to Mars with our daughter Olivia and they told us that they won’t allow a dog in. We didn’t know! We tried to talk to them, we really did but they wouldn’t budge. It’s a really tough decision but it’s just that we have Olivia in our lives now and we moved to Mars for a future for her. This is our only hope.\n\nWe sold everything we owned to buy our Railgate tickets, and went through all the medical tests… they are as invasive as everyone says they are. And then there's the interviews - so many interviews! I mean we’ve waited for this for six years! I promise, we tried to fight this but they just kept saying how expensive dogs are and how they consume scarce resources. I just don’t know what to say... we have to leave Franny with you. Tell her that her dads miss her and that they will always love her. Please, take care of her. She was the best dog.\n
+38045,Maru nano ma Bhagvan, my darling chokri, I’m praying to all the gods you have a safe journey to Jupiter. Know that I’ll be thinking of you every minute of every day. Make sure you keep your luggage close to you and don’t waste water. You’ve heard of the stories of Mars, be careful okay.\n\nRemember betu, don’t look back, don’t let the world break your spirit and always have hope in your heart. I wish I could come with you, but you know it was too expensive for both of us. I’m old now, there’s not much time left for me but you, you have the brightest future ahead of you. You have seen me work very hard my whole life and I need you to do the same. My children are like my eyes, I cannot see without them and I cannot live without them. See the world for me.\n
+38046,<b>Gertrude Fowlers's ""A Brief History of Solar Government""</b>\n\n<i>As read by Gertrude Fowler</i>\n\n<b>Part 01 of 03 - Formation of the Stellar Commission</b>\n\nThe Stellar Commission - governing body for most of humanity, a barometer for stellar conflict and a platform for pan-solar collaboration. Let's look at the organization, its wins and losses over the years, and how it has been tested by many logistical and social issues.\n\nSince 2275, when it was formed to address the need for a unified method of governing the many disparate colonies of humankind, the Stellar Commission has routinely come up against one of the ugliest forces in the whole solar system: the sheer, unmitigated joy of corporations exploiting humans as they see fit. Centuries of nearly zero regulation amid the colonies has emboldened and empowered these corporations to the point that they've come to wield immense power over civilization.\n\nYou'd think that with the formation of the Commission, whose members hail from all corners of the solar system, those companies would have found their true match. But frankly, the actions of the Commission have been largely wanting. The long procession of Chairfolk (all the way back to the first of their line, Chairperson Rao), despite their best efforts, have seen themselves outperformed practically every step of the way. The sad reality is that the Commission has largely struggled to find methods to govern the many vast pockets of humanity, scattered tens of thousands of kilometers apart from one another.\n\n""We the peoples of the Stellar Commission band together in determination to save future generations of the horrors and historical missteps of our dying home planet, which has brought untold sorrows to humankind.""\n\nOr so the mission statement goes...\n
+38047,<b>Gertrude Fowlers's ""A Brief History of Solar Government""</b>\n\n<i>As read by Gertrude Fowler</i>\n\n<b>Part 02 of 03 - The Commission Finds its Voice</b>\n\nIt wasn't until 2283, during the wake of the AI Revolution, that the Stellar Commission found the grit we deserved from them for so long. It is here where we can chalk up a clear win.\n\nAdvanced AI systems were on the rise, decimating work opportunities for hundreds of millions across the solar system, and causing unimaginable human suffering. Of course, large corporations, as always, had nothing more in mind than profit, and were further spurred by their public image as the drivers of human advancement.\n\nHowever, finally finding their voice and the right tools to enact and enforce policy, the Stellar Commission, in an enormous pushback against corporate power, outlined new regulations around Artificial Intelligence, practically outlawing its use in order to safeguard human jobs. Better late than never, am I right?\n\nThe corporate conglomerates have had simmering resentment ever since this moment of heavy regulation and strict enforcement. Today they are looking towards the Jupiter frontier, where once again, the Commission's reach and oversight is sparse.\n\nAnd so the cycle repeats. As a species, our greatest flaw seems to be to never learn from history, and that there some among us who would gladly grind their fellow humans into a pulp for a dollar. We are doomed to repeat the mistakes of our past, time and time again.\n
+38048,<b>Gertrude Fowlers's ""A Brief History of Solar Government""</b>\n\n<i>As read by Gertrude Fowler</i>\n\n<b>Part 03 of 03 - The Commission’s Challenge Today</b>\n\nWith all due respect to the Commission’s Chairfolk, it has been disappointing for many of us average solar citizens to feel like the Stellar Commission hasn’t lived up to its promises.\n\nAfter the win in the fight against the AI revolution, many looked to the Commission to provide further protections for human labor across the system. But continuously the Commission seemed outperformed by the more nimble corporations, who were untethered by the bureaucratic process which the Commission seemed ever obsessed to observe and follow. As much as we all understand the appeal of following dry rules and protocol (HA!), when it comes to protecting real, human lives, perhaps a more practical approach is in order.\n\nWith Jupiter Gate established, we find ourselves again in a position of corporate dominance at the forefront of human progress, which threatens once more to be the defining factor in the lives of so many hopeful people. We must not allow this to happen again. We require leadership from the Commission. Leadership which isn’t fueled by profit, but rather by human respect and excellence.\n\nAnd maybe, in the future, The Commission can put more emphasis on the fostering of collaborative, proactive efforts,  rather than  reactively scrambling in the wake of ruthless corporate juggernauts.\n
+38049,Call Log 04-01-2089.bmc
+38050,Data_Sol_1427.log
+38051,Transcript_Franny.bmc
+38052,goodbye note.bmc
+38053,GF_SolarGov_Part01.bmc
+38054,GF_SolarGov_Part02.bmc
+38055,GF_SolarGov_Part03.bmc
+38056,Railgate History (1 of 4)
+38057,Railgate History (2 of 4)
+38058,Railgate History (3 of 4)
+38059,Railgate History (4 of 4)
+38060,Port Olympus (1 of 3)
+38061,Port Olympus (2 of 3)
+38062,Port Olympus (3 of 3)
+38063,PDA 9G
+38064,Research Backup 02
+38065,OutgoingLogs_04_12_2290
+38066,MehtaN_Drive
+38067,The Stellar Commission (1 of 3)
+38068,The Stellar Commission (2 of 3)
+38069,The Stellar Commission (3 of 3)
+38070,
+38071,The Pan-Solar Railgate Appreciation Group
+38072,Martian Tourism Board
+38075,Feldspar
+38076,Beachum
+38077,Rio & Isaiah
+38078,Nabi
+38079,Gertrude
+38080,Orren
+38081,Alex
+38082,Gutierrez
+38083,Mehta
+38084,Fowler
+38087,Historian
+38088,Miner
+38089,Biologist
+38090,Franny's Parents
+38091,Apprentice Engineer
+38092,Solar System
+38093,Shipbreaker_3591-20@LYNX.railmail
+38094,Shipbreaker_5105-44@LYNX.railmail
+38095,Shipbreaker_2800-30@LYNX.railmail
+38096,LYNX-Comms@LYNX.railmail
+38097,Have you felt the warmth??
+38098,Get back to work!
+38099,Maybe they're onto something...?
+38100,Automated Message: High Engagement Topic
+38101,Mom & Pop to Mega-Corp
+38102,Exeter Paulsen
+38103,The Railgate Project
+38104,Demeter Paulsen
+38105,Current Day LYNX
+38106,Furnace God
+38107,Ooh it burns... flesh, skin, soul. Have you felt his warmth yet, my friends? What a privilege it is to be walking in his light! To feel the touch of the Furnace God on our skins, the purest way to be reborn!\n\nThe first time he took me, it was the first time I died, too. His pull, stronger than any other, engulfed me, cradled me. His fire, burning with the life of a thousand suns! What more could one ask for than to experience the cleansing fire and live to see another day? Is there a purer death?\n\nI could see all he sees! I could feel his hunger. His warmth in the cold vastness of the universe. It is where he gives life! Oh Agneepath!\n\nOnce I had known his touch, I knew it was the way... I know your struggles, fellow cutters! It is a dangerous job after all, but the Furnace God is just! His fire washes away all injuries if you so choose to embrace his warmth! All flaws inflicted by our daily chores shall be gone if only you choose to go into his light...\n
+38108,Another one of those nutjobs... Don't you have anything better to do? Work, perhaps?\n\nSeems like every week we get a new one of you. Worship of the Furnace God? What nonsense! Ain't nothing but another part of the job. No greater meaning. No god. It's just a furnace, y'all! Toss your scrap in there and it gets re-used in more ships to make our Lynx overlords happy - no mystery beyond that, really.\n\nFurnace God... what bunk!\n\nYou know what I believe in? Good, hard work and earning the right to put up my feet and have a beer afterwards! That's real life! Not some made-up hokum cult...\n\nYeah, sure... we've had some malfunctions in the past where the furnace pull has been a little stronger than expected and sure sure, we've had some incidents... but in the end, there are always good, reasonable explanations behind it! \n\nSo how about you stop getting your knickers twisted and get back to work, eh?\n
+38109,Harsh words over there, fella! We all know there are plenty of unsolved mysteries in the universe. I'm personally not inclined to just dismiss these things right off the bat...\n\nBecause if you think back there have been some strange incidents with the furnace don't you think? More than just a stronger pull. Something more deep and primal. I'm sure others have felt it too! \n\nAfter all plenty of religions and beliefs would support some of these claims would they not?\n\nWe've all found one of our ends in the furnace in one way or another. I personally can see how people may find it the most comforting of deaths around here! Familiar in a way. It's a quick, painless death - not like some other deaths I've experienced around here. In a world where everything around us is cold machines and metal walls and space vacuum, the warmth of the furnace reminds me of home.\n\nSo maybe we shouldn't judge this fast.\n
+38110,Please do not reply, this is an automated message.\n\nLYNX algorithms have detected high engagement rates with topic known as ""Furnace God"". Engagement rates peaked at 26.4% among Shipbreaker interactions.\n\nNOTICE: New Sticker added!\n\nDue to this, and as an addition to our ongoing well-being initiative for our Shipbreaker family, a new Sticker in honor of the topic [""FURNACE GOD""] has been added to your collection. Congratulations!\n
+38111,Mom & Pop to Mega-Corp\n\nToday, every ship travelling to every colony in the Solar System does so thanks to LYNX Corp. Imagining our planet-spanning civilization without LYNX (and the business and technology acumen of it's operators: the Paulsen family) is inconceivable. Here is the journey of how the Paulsen family turned a modest ""Mom-and-Pop"" recycling shop into the behemoth of progression and innovation we know today.\n\nThe Origin: A Humble Endeavor\n\nCenturies ago, humanity decided to leave Earth for a better, brighter future, venturing into the outer wilds for new opportunities. In a matter of years, prominent companies like Martell Industries set up shop in the uncharted territories on and around Mars. In 2088, back at Earth, an ecologically-minded couple, Kip and Gerta Schlessinger, began a small and unassuming company recycling debris from the dangerous Kessler Belt: Lynx Salvage. Their goal was to clear and recycle the deadly debris so that more people could safely reach orbit. The Schlessingers ran Lynx Salvage for 34 years, expanding into shipbreaking and growing the company's size at a steady rate. \n\nOver the next hundred years, ownership of the company was passed down through the family. In 2204, Kip and Gerta's great-great-grandson, Jonas Schlessinger, became CEO. Jonas ran the company without much interest or promise. Four short years later, Industrialist, Philanthropist and Great Innovator Exeter Paulsen saw opportunity in the modest company. It was time for it to be placed in the right hands. After a brief negotiation period, Exeter took over the operation in 2208. Combining all of his many holdings and interests into one company, Exeter rebranded Lynx Salvage to LYNX Corporation in 2210. Overnight, the humble, homely, Earth-bound business transformed into the prosperous solar Megacorp it is today.\n\nUp next: The Exeter Paulson Era (2163 - 2262)\n
+38112,The Exeter Paulsen Era (2208 - 2255)\n\nBorn well into Earth’s post Climate Collapse era, and raised in the intellectual haven of the Swiss Confederacy, Exeter always had his sights set on space. From a young age, friends and family knew him as a true visionary who showed excellence in every endeavour. In early adulthood, he began looking  offworld for venture opportunities and started acquiring small businesses with untapped potential, folding them all under the umbrella of Paulsen Technology Utilizing the vast financial resources from across his portfolio, Exeter had a gift for unlocking the true potential for every new acquisition.\n\nIn 2208, with over 200 years of human space travel leaving a swathe of dangerous debris that was now a very real hazard for further human expansion, the International Federation of Earth and Humanity introduced massive subsidies for the clearing and recycling of this detritus. Astute as ever, Exeter  came across a mismanaged but highly respected recycling operation: Lynx Salvage. This acquisition quickly awardedExeter vast subsidies that would enable him to  focus on his primary vision; creating a network of rapid mass transit between Earth, Mars and beyond. Eventually, this vision would manifest as the modern Railgate network.\n\nCharmed with how Lynx Salvage used the now-extinct wildcat, with the air of a mythological beast, as it’s moniker, Exeter Paulsen rebranded his entire operation as LYNX Corporation in 2210.\n\nUp next: The Railgate Project (2230 - 2267).\n
+38113,The Railgate Project (2230 - 2267)\n\nAfter solidifying LYNX as a corporate powerhouse and boon of innovation, Exeter Paulsen continued his quest for fast, easy mass transit between the planets. After years of searching, he discovered engineer and astrophysicist Dr. Doris Singh, who was then working as a professor and researcher in the physics department of International Arctic University. Dr. Singh had published a paper a few years prior which described a model for rapid transit through a series of “gates”. Criticized as too grand and impractical, her proposal had languished.\n\nExeter hired Dr. Singh and her research team, giving them essentially unlimited resources. Under his wisdom and guidance, Dr. Singh’s team completed the first Railgate prototype connecting Earth and Mars in 2248.\n\nHuman trials of the Railgate began in 2252, showing early signs of success. However, only a year later, disaster struck. Due to human error and negligence on the part of it’s chief supervisor, the Phobos-based section of the gate prototype experienced a catastrophic collapse. The resultant blast affected dozens of colonies on and around the moon, with a final death toll of around 15,000 colonists and LYNX employees.\n\nWhile a challenging event, Exeter Paulsen understood that real progress sometimes comes at the cost of human sacrifice, and that progress shouldn’t be stopped because of the criminal failings of a single individual.  Pushing through the so-called “Phobos Incident”, he helped Dr. Singh and her team rebuild the Mars gate and continue human trials.\n\nExeter had an unwavering commitment to progress and pursuit of his vision. Retiring in 2255, his legacy was passed to  his daughter Demeter Paulsen. With her leadership, in 2267 the Earth and Mars Gates were opened and the first round trip from Earth to Mars was completed. Exeter Paulsen, father of the modern solar civilization, had died five years prior, never getting the opportunity to see the first travellers use his gates.\n\nTake a moment. Do you enjoy your life today? Do you see hope on Mars or on Jupiter? Do you want to forget about the burning and aridification of Earth and focus on the future? Thank Exeter Paulsen for his vision, and for your chance at a happy life.\n\nUp next: The Demeter Paulsen Era (2255 - 2289)\n
+38114,The Demeter Paulsen Era (2255 - 2289)\n\nDemeter Paulsen was an unwavering and clever businessperson who, under her father Exeter Paulsen, worked as a senior advisor before inevitably inheriting the CEO position of LYNX Corp in 2238. Long tutored by her father, she had a vision for LYNX to  be the foremost and defacto provider of  many offworld industries, including salvage, transport, manufacturing and accommodation. With a long-view to success, she cleverly offered LYNX services at prices which competitors could not match. Once the position and reliance on LYNX had been established, she returned prices to profit-making levels.  In a matter of years, Demeter had made LYNX not only the greatest name in key offworld industries, but also the only name in some cases.\n\nDemeter’s vision opened up opportunities for the mass of poor, uneducated and jobless  folks across the colonies, giving them a chance at a better life. She then turned her acumen to bolstering the existing LYNX workforce. In 2283, LYNX acquired Janma Bioworks, a company focused on technology that could preserve and regenerate the body and mind. With the goal to reduce worker overhead and turnaround, this acquisition would eventually result in the vital EverWork Asset Replacement Program that protects LYNX employees every day\n\nUp next: The Guidance of Megan Rai-Paulsen (2289 - Present)\n
+38115,The Guidance of Megan Rai-Paulsen (2289 - Present)\n\nIn 2289, Demeter Paulsen stepped down and gave the helm of LYNX Corporation to her grand-daughter, Megan Rai-Paulsen. In Megan’s short tenure, she has already streamlined LYNX processes and efficiences, and increased profits by an astounding 27%. Fulfilling her grandmother’s original vision after acquiring Janma Bioworks, Megan Rai-Paulsen oversaw the development and introduction of the revolutionary EverWork Asset Replacement Program.  Not only did this protect the many hard-working employees of LYNX, it also immediately reduced recruitment and training costs by 80%, and completely eliminated the need for onsite medical services.\n\nThe story of LYNX Corporation and its unparalleled growth and success is a testament to the incredible business savvy to be found in the Paulsen genes. The legacy continues today:the children of CEO Megan Rai-Paulsen and her partner Ishpreet Rai, Sherya, Harsh and Calyssia, are successfully leading LYNX Corp.’s Research, Transport and Salvage Divisions respectively.\n\nLYNX is unequivocally the most powerful company and dynasty in human history. With humble origins  as a simple “Mom and Pop” operation, the Paulsen family has broken technological and business barriers at every step, paving the way for innovation and opportunity unlike anything else in this world.\n
+38116,Shipbreaker_8801-15@LYNX.railmail
+38117,Shipbreaker_8801-15@LYNX.railmail
+38118,Hey again Rook,\n\nJust wanted to say: I'm impressed how quick you're picking things up. Not sure what kinda work ya done before but you're a natural cutter!\n\nYou probably noticed LYNX doesn't exactly take great care of us. I don't blame 'em... they don't really have a reason to. Up until about a hundred years ago workers like us would make groups called Unions and fight for better wages, safer work, decent hours... that kinda thing. Basically balance things so people don't just get exploited to hell. LYNX was actually key in gettin' rid of all that.\n\nBut, there's a group of Shipbreakers now trying to bring back the idea of a Union. Change things for the better. Did you know LYNX keeps your DNA even if you leave the job? Or that those hull panels you get ten credits for are resold for a thousand apiece? That's the kind of thing these folks wanna change.\n\nAnyway... it's all hush-hush... LYNX stomps it out right quick. But I see that you're a good person and a hard worker. I'll tell you now, they're gonna use you up and you'll get nothing for it.\n\nI put you on a list for news from the group. Comes every couple of days. Read 'em, don't read 'em, trash 'em... whatever. Just please don't report me. I just want you to have the info. I was glad someone gave it to me when I was new.
+38119,Lou Steiner
+38120,Group_Undisclosed
+38121,Sender_Undisclosed
+38122,[UNVERIFIED] Welcome!
+38123,For authorized members only\n\nThank you for signing up for the Salvage Workers Unite newsletter! We are happy you're here. As our group grows, so does ability to affect positive change for all Shipbreakers!\n\nAs a reminder, the activities of this group are only for authorized members. Please respect the mission and the privacy of your fellow members and do not share outside the group.\n\nWe wish to improve work conditions and ensure that the voices of Shipbreakers are heard and respected. We intend to coordinate with the Stellar Commission to start negotiations with the company around policy changes.\n\nHere are the key demands we intend to bring forward:\n\n<b>1. Cancel the Debt!</b>\n\nThe dangerous work of a Shipbreaker should not come with crippling debt owed to the company that profits off that work! We demand the debt be canceled immediately.\n\n<b>2. Workplace Safety!</b>\n\nWhile Shipbreaking is a dangerous task, there are unnecessary risks involved due to company policies or quotas. We demand improvements that would greatly decrease the risk of injury or death.\n\n<b>3. Investigate Contract Clauses!</b>\n\nWe demand the Shipbreaker contract be audited by the Stellar Commission to ensure human rights are honored. In particular, the clauses around ownership of the genetic sequences of Shipbreakers.\n\nThank you again for joining us! Solidarity is strength, and we are on the path to improve all of our lives!\n\n<i>- Salvage Workers Unite</i>
+38124,Salvage Workers Unite
+38125,Salvage Workers Unite - Issue 14 - Cancel the Debt!\n\nOne of the most prevalent issues regarding workers rights among Shipbreakers is the fight to cancel the debt. It's the belief of this union that no Shipbreaker deserves to be in debt to the company for the ""privilege"" of doing the hard work we do.\n\nShipbreakers are a key part of the very foundation supporting the current age of stellar exploration and expansion which the company profits heavily from. Our work removes the masses of outdated ships that otherwise clog civilization, and transforms them into valuable resources to be used for construction and manufacturing.\n\nIt's time that we be recognized as invaluable components of the active progress of our species that we are. We deserve the rights, recognition, dignity and respect that our profession demands. That includes not trapping us in an inescapable cycle of debt. We deserve to hold the power and value of our own hard work, and use it towards building our own better futures.\n\nCancel the debt. Respect worker's rights. Hope is action. Solidarity is strength.\n\n<i>- Salvage Workers Unite</i>
+38127,[UNVERIFIED] Issue 14 - Cancel the Debt
+38128,[UNVERIFIED] Issue 15 - Contract Clauses
+38129,In this issue, we would like to address our demand of revising the Shipbreaker contract.\n\nDid you know that the company owns any and all intellectual property for any inventions or artistic creations made by their workers? That's right, you've signed away that right the moment you took on this job, forever.\n\nWere you aware that by signing the contract, you agreed to not have any body modifications done such as piercings, tattoos or contraceptive devices without company approval?\n\nAre you aware that the company has free reign over when to terminate you to cook a new spare from the system, and that there are no regulations or provisions in place for when that should occur? They can literally do it for any reason.\n\nOr that the continued use of a dysfunctional spare is purely at the discretion of the company?\n\nNot to mention the policy on toilet breaks being a whopping 28 pages long!\n\nThese and many more aspects of the LYNX shipbreaker contract are inhumane and in desperate need of regulation for the dignity of our workers.\n\nSalvage Workers Unite is determined to have these shortcomings addressed by regulation from the Stellar Commission.\n\n<i>- Salvage Workers Unite</i>
+38130,Incoming Transmission
+38131,[UNVERIFIED] Issue 16 - Member Profile: Lou Steiner
+38132,For authenticated users only\n\nWe continue our series of profiling members of the Salvage Workers Unite group in issue 16. This time we chatted with Lou Steiner from Carnegie Station above Earth, to talk about her motivations to fight for worker's rights.\n\n<i>Parker: Lou, tell us about your first exposure to the issues of worker's rights growing up.\n\nSteiner: I grew up amid the squalor of the Eris Platforms round Mars, and the knowledge of who's backs built our livelihoods there as well as on Mars itself were always prominent topics in my community. I've always been surrounded by people doing good, honest work and I have also seen them get mistreated for it all of their lives. The people who do all the hard work in service of human progress deserve better than just fancy words and scraps.\n\nParker: Why do you think a worker's union is so important?\n\nSteiner: I believe that we deserve a seat at the table. I believe we deserve a hand in deciding how our everyday work is managed. Our lives, our futures, our wellbeing... are heavily intertwined with the work we do. You know, it's dangerous to be a Shipbreaker. We should be a voice in those crucial conversations, and I don't believe that others in power should speak for us. Our whole lives are decided and influenced by people who've never spent a day in our suits - it's time for us to realize that we're all we got, but we're also all we need.</i>\nLou's voice is just one among us, but she speaks on behalf of every Shipbreaker who believes things could be better.\n\nSolidarity is strength!\n\n<i>- Salvage Workers Unite</i>\n
+38133,Foreman_202-J@LYNX.railmail
+38134,This is the end of Act 1. Thank you for playing, and we look forward to continuing the story in future updates!\n\nUntil then, have fun continuing to climb the cutter ranks, exploring the additional tools, upgrades and ships, and chipping away at that balance owing to LYNX. Even though Act 1 has finished, there are more changes we have made to the progression that we'd love for you to discover.\n\nIf you have any feedback on the game, or just want to chat with other players, please join us on our Discord (discord.gg/shipbreakergame). \n\nBest of luck in the salvage yard!\n\n- Blackbird Interactive\n
+38135,Lynx History
+38137,Career Progression Clearance - Hazard Level 2\n\nLYNX is committed to ensuring Shipbreakers are exposed to hazard levels in ships only according to their proficiency level and median estimated emotional adjustment time should death occur related to these hazards.\n\nIf you have reached clearance for Hazard Level 2, you may begin to encounter fire hazards in the form of fuel or flaming objects.\n\nATTENTION: Causing LYNX equipment or salvage goods to be damaged by fire hazards will result in credit deductions, as will damage to or destruction of your LYNX Spare™.\n
+38138,Career Progression Clearance - Hazard Level 3\n\nCongratulations, you are now qualified to handle electrical hazards during salvage. \n\nDue to regulatory rollbacks introduced in 2299, LYNX Salvage does not do a preliminary exam of ships to disconnect potential electrical hazards. We believe our Shipbreakers are well-suited to handle such dangers, and the long-term time savings are highly beneficial.\n\nElectrical components may arc when removed, impacted or damaged, causing other objects to be electrified, including the Shipbreaker themselves. This can cause damage to the LYNX Spare™ and LYNX Equipment.\n\nCaution is advised.\n
+38139,Career Progression Clearance - Hazard Level 5\n\nCongratulations, you have reached one of the major milestones in Shipbreaker career progression: gaining access to the number one cause of death in the Shipbreaker profession - pressurization!\n\nSome ships you encounter may or may not be pressurized or contain pressurized pockets. Breaching these spaces incorrectly can cause an explosive decompression*, which can cause damage to valuable salvage and LYNX equipment.\n\nTo depressurize properly, LYNX advises the use of the standardized Atmosphere Regulators located throughout a ship.**\n\n* LYNX strictly prohibits Shipbreakers intentionally using explosive decompressions (so-called ""controlled decompressions"") to enact rapid salvage. Reminder that your activity while in the Salvage Bay is monitored.\n\n** Note that some ships may come with damaged Atmosphere Regulators, which does not allow for an authorized and safe decompression procedure.\n
+38140,LYNX Shipbreaking guidelines advise a comprehensive understanding of power systems to understand the broader effects on salvage strategy.\n\nShips with intact Power Cells or Power Generators can still be fully functional, supplying power to all systems. Use your Scanner's Systems Mode to identify wires, junction boxes and electrical sources. Once Power Cells and Generators have been removed safely, the ship's emergency lighting will be enabled.\n\nLYNX has opted to not remove electrical sources before assigning salvage to a Shipbreaker. This allows for Shipbreakers to exercise creative thinking in devising their own strategy, and allows them to salvage with the ship's lights on so as to conserve suit batteries.\n
+38141,Career Progression Clearance - Hazard Level 4\n\nWith access to Hazard Level 4, LYNX Salvage welcomes you into the ranks of potential high earners. The extraction of Reactors from ships is one of the most valuable duties our employees can perform. We expect the utmost care when engaging with the variety reactor setups you will encounter.\n\nRetrieval of an intact Reactor is your highest priority during every salvage operation. It is advised to clear a direct path to the Barge for the safest extraction. Reactors will become unstable once removed from their protective housing, and can cause severe damage to surrounding objects.\n\nFailure to extract a Reactor safely is also a failure to comply with expected performance standards. Please ensure you talk to your supervisor if you consider your ability to safely extract a Reactor is a risk factor.\n
+38142,The Certification system is our propriety career progression tool for all of our Shipbreakers. It provides each employee with a fulfilling and promising future as part of the LYNX family.\n\nCertification Ranks range from 1 as the entry point, all the way up to rank 30, which is reserved only for our most accomplished employees.\nIt is advised to view the Certification tab in your HAB Terminal as a guide to gain access to more tools, upgrades, ships and hazard levels. Proving yourself as a loyal and skilled employee will reward you with fresh new challenges in the work bay!\n\nGood luck Shipbreaker!\n
+38143,LYNX is proud to introduce the all-new Salvage Goal System to our valued Shipbreakers. With performance in mind, Salvage Goals should help Shipbreakers in understanding the expected total value expected from a ship.\n\nEstablished by our finely-tuned salvage assessment algorithms, Salvage Goals are an incentive that rewards overall progress, yielding additional rewards when reached. These goals provide many ""goodies"" to our valued Shipbreakers, highly rewarding those who reach all provided Salvage Goals without destroying salvage.\n\nLYNX encourages employees to aim for salvaging as much material as possible on all provided ships in order to maximize the value of the ships provided.\n
+38144,Career Progression Clearance - Hazard Level 6\n\nLYNX allows for advanced Shipbreakers with clearance of Hazard Level 6 and above to deal with Coolant on ships.\n\nCoolant is one of the more devastating elements to encounter while salvaging. Coolant leaks cause all surrounding objects to become highly brittle and easily destroyed. This can cause significant loss of value in a short matter of time.\n\nCoolant that have spent many years sitting in abandoned ships may be unstable and it is advised to handle with utmost care. However, skilled Shipbreakers have learned that coolant material can be used to dampen the effects of arcing electrical elements if needed.\n
+38145,Everything important and good in this world comes with a price. Each privileged person who joins our family to become a Shipbreaker comes with significant costs. Fortunately, LYNX shoulders the burden of these cost temporarily, in order to let you hit the ground running and begin training, stress-free. This cost-sharing is handled through our innovative Employee Financial Relief Program.\n\nThis program covers all essential onboarding costs and fees, including the costs of training and equipment borrowed from LYNX Salvage. Also included is the fees for the EverWork™ Asset Replacement Program, which enables safe, unlimited career progression and growth, through the power of LYNX technology.\n\nIn return, as your skills and expertise grow, all the value that you earn as a Shipbreaker will be automatically deducted from the amount you owe to the Financial Relief Program. This ensures that the borrowed amount is paid off as quickly as possible, so you can get on with building yourself a brighter future.\n
+38146,Career Progression Notice: New Ship Access\n\nEvening Cutter!\n\nYou've been doing great with onboarding so far, really impressed with your skills!\n\nI'm clearing you for some proper ships: Mackerel-Class Light Cargo and Station Hoppers. Mackerels are the most common ship among the colonies. They come in all kinds of models. The ones we get were decommissioned since they can't ride the rail anymore. Railgate strength got juiced a couple of years back, and these babies can't handle it.\n\nThe Light Cargo model is usually used to haul civilian cargo around so expect some weird stuff floating around in there.\n\nNow the Station Hoppers... those give me a bit of nostalgia. They were people movers. Sometimes you'll crack into one that still has power and will see old ads playing on the terminals. Ya know... ""Got a crack in your mask, got a tear in your suit, buy Lynx branded gear for your hard earned loot""....\nYou might start to see fire hazards show up. I'll help you when you get there.\n\nThis'll be fun!\n\n- Weaver\n[Foreman 202-J]\n
+38147,Career Progression Notice: New Ship Access\n\nHey Cutter! Great working reaching the next Certification Rank. I'm clearing ya for a new Mackerel Ship Class!\n\nThe Exolab will now show up in the Ship Catalog and lemme tell ya, these are as amazing as they are dangerous! Tons of electronics in there, so make sure you're begin cautious. Getting zapped ain't fun!\n\nExolabs come with a bunch of cool exterior bits too. Robotic arms or radar dishes - used to be for... science I guess? Pretty cool stuff. LYNX gets a mite ticked if we damage those, so make sure you take extra good care of them. Wouldn't want to worry about your next performance review cause ya messed a bunch of those up!\n\nAnyways, I'm sure it'll be a piece of cake for you. See ya in the bay.\n\n- Weaver\n[Foreman 202-J]\n
+38148,Career Progression Notice: New Ship Access\n\nG'day Cutter,\n\nWhat if I told ya that I got a new ship comin' in for you? You're ranking up, so I'm tossin' a new ship clearance your way. You've gotten to know the Civilian cargo ships and you got those down for sure, but how about you try your skills on some of the Industrial cargo ships?\n\nCan get a touch hairy in there with some industrial-grade hazards; big old fuel barrels and such. Also usually built from some pretty dense materials that are heavier to move around.\n\nYa got this though. Can't wait for you to try 'em out!\n\n- Weaver\n[Foreman 202-J]\n
+38149,Career Progression Notice: New Ship Access\n\nHeya Cutter!\n\nHo, you're gonna love this one! I know you've gotten pretty used to the Mackerels, but have ya ever seen one of these Javelins? Those are some serious ships. Really shows you're getting a grip on things that we're clearing you for these.\n\nFirst one up is a Refuel Javelin. These are beastly, I'm telling ya. Needless to say, lots of fuel hazards in there. \n\nThese'll be more challenging to take apart, but I'm sure you'll get the hang of it right quick. Most of the javs have their hull pieces threaded up like a string of pearls. \n\nLooking forward to seeing how you'll tackle them.\n\n - Weaver\n[Foreman 202-J]
+38150,New Ship - Mackerel Light Cargo & Station Hopper
+38151,Portrait_Singh.view
+38152,Portrait of Dr. Doris Singh, Inventor of the Railgate.
+38153,RailgateNetwor mkMap.view
+38154,Current Day Map of the Railgate Network.
+38155,Portrait_Martell.view
+38156,Portrait of Howard "Howie" Martell, Founder of Port Olympus.
+38157,IMG_2320-10-01-098324.view
+38158,Franny
+38159,Stellar_Commission_Logo.view
+38160,The current (exceedingly dull) logo of the Stellar Commission.
+38161,FurnaceGodConcept.view
+38162,Artist's conception of the Furnace God.
+38163,Carnegie Station
+38164,Olympus Station
+38165,Martell Station
+38166,Yossarian Station
+38167,LYNX Salvage
+38168,Kaito
+38169,Deedee
+38170,Calyssia
+38171,Story of the Cosmos Collector
+38172,Salvage 30 Rocks.
+38173,Highly volatile artificial hydrocarbons susceptible to leaks and highly combustible. This unit appears damaged.
+38174,Story of the Cosmos Collector
+38175,Salvage 30 Rocks.
+38176,Got it, Boss
+38177,Salvage 30 Nacelles.
+38178,Jamming
+38179,Reach Certification Rank 15.
+38180,Zapped
+38181,Salvage 20,000 KG Electric Cable Wires.
+38182,Crack One Open
+38183,Hear a cutter mention the word "beer".
+38184,Nacelle
+38185,Data Recovery
+38186,Shipbreaker_8801-15@LYNX.railmail
+38187,Go through 10 Spares of yourself.
+38188,Spare Tire
+38189,Jack Me Up
+38190,Reach a velocity of at least 20 m/s.
+38191,Removing a reactor from its plate begins its meltdown sequence. It is imperative that you deposit the Reactor into the barge as quickly as possible, as when the meltdown meter depletes, there are catastrophic consequences.
+38192,Vol 1 of 4 - The Inventor and Her Bold Idea\n\nThere are few individuals who we can say changed the course of human history. Though it would take almost her entire lifetime, Dr. Doris Singh is one such individual.\n\nOriginally from Yggdrasil Base above Earth, Doris Singh spent early adulthood as an engineer, helping design the Great Northern Way orbital colony. She would go on to attend the prestigious University of Qikiqtaaluk (Go Phalaropes!) where she obtained her PhD in Astrophysics in 2224.\n\nAt university she began developing a model of transportation that leveraged recent discoveries in amplification of the Van der Waals force. Dr. Singh envisioned fast, cheap and accessible transit for everyone, achieved by accelerating and decelerating mass through a series of "gates" running between planetary orbits.\n\nIn 2225, Dr. Singh published her infamous paper: A Proposal for Inter-Planetary Human Transit at Exceptional Velocity Between Solar Destinations via High-Amplifying Van der Waal Attenuation Gates (HAV-der-WAGs), or How To Get To Mars in Two Weeks Without Deliquescing into a Pile of Jelly.\n\nThough this paper would eventually become one of the most important (and entertaining) scientific documents in human history, it was ill-received. In the ensuing years it languished and became forgotten. It seemed that Dr. Singh's career might fade entirely into obscurity.\n\nHowever, in 2230 came an improbable offer from an unlikely source: the massive megacorporation LYNX, run by industrialist Exeter Paulsen. LYNX wanted her to develop her theory. Dr. Singh would later write that this felt "like a deal with the Devil". None-the-less, it was an opportunity she couldn't pass up.\n\nNext: Bringing the Idea to Life
+38193,Vol 2 of 4 - Bringing the Idea to Life\n\nExeter Paulsen built his empire with a single strategy: snatching up small businesses and individuals developing emerging tech. Synthetic protein manufacturing, anti-radiation textiles, high-capacity magnetic data storage... Paulsen even scooped up a middling Lynx Salvage in 2208, transforming it into a massive recycling tax subsidy for his other operations.\n\nThis strategy afforded Paulsen untold resources and influence. In Dr. Doris Singh's proposal for a network of mass-transit "gates" between planets, he saw an opportunity to significantly boost humanity's reach beyond Earth. He envisioned a network spanning every planet and major moon, unlocking colonization and the harvesting of vast resources; all controlled by LYNX Corporation.\n\nFor Dr. Singh's part, the opportunity provided the resources to realize her proposal. While with a megacorporation would be difficult, she felt it was her duty to bring the Railgate to humanity. With staff enough to run a university, she coordinated the multitude of research programs, initiatives and prototypes required. She operated with determination and vigor. Accounts describe that she worked like a conductor with a symphony; graceful, sharp and unfailing.\n\nWith each success, the program grew closer to the reality of Gate travel. Dr. Singh, backed by the vast resources of Exeter Paulsen, remained undaunted, despite the scale of the endeavor. This would be the grandest human industrial work since the ill-fated Earth Orbital Ring (abandoned in the late 21st century), or even the terraforming of Mars. We know today that they succeeded, despite some unfortunate setbacks that were to come.\n\nNext: The Phobos Incident
+38194,Vol 3 of 4 - The Phobos Incident\n\nDr. Doris Singh's endurance as the head of the Railgate Project can't be understated. Joining LYNX in 2230, it took 18 years to reach a full-scale prototype, consisting of a "Propulsor Gate" above Phobos, and a "Receiver Gate" at the Mars-Sun L2 Lagrange Point. Connecting these were the "Interstitial Gates"; the backbone of the Railgate system, providing control over an object's velocity in transit.\n\nEarly trials were a major success; asteroids, satellites, terraforming equipment, livestock, and even an antique desk was transported. The gates proved they could handle a variety of materials, as well as living beings. In 2252, human trials began.\n\nOn April 13th, 2253, 08:40 Earth Time, disaster struck. The Propulsor Gate, preparing to launch a shuttle carrying twelve human passengers, experienced a critical overload. Instantly, a blast twenty kilometers in size enveloped the gate and three-quarters of the surface of Phobos.\n\nFifteen colonies, four mining facilities and three orbital stations were destroyed. The gate was completely vaporized. Twenty-seven LYNX personnel were lost, and almost 15,000 civilian lives. Dr. Singh, observing from the Receiver Gate, was devastated.\n\nLYNX Corp. immediately began a program of damage control, with a showy "internal investigation". Third-parties attributed the accident to a flaw in the Gate's power cells, but the official LYNX statement landed on the negligence of the Propulsion Gate's Chief Supervisor.\n\nThe tragedy seemed like it would halt the Railgate Project in its tracks, but, miraculously, this would only be a short stumbling-block on the path to success.\n\nNext: The First Roundtrip, The Present and the Future
+38195,Vol 4 of 4 - The First Roundtrip, The Present and The Future\n\nThe Pan-Solar Railgate Appreciation Group\n\nLYNX used its vast influence to push through the Phobos Incident controversy. Most surprisingly, however, was Exeter Paulsen convincing Dr. Singh to continue her work. We'll never know their discussion; Dr. Singh never publicly commented, and LYNX maintained the accident was simply an unfortunate step in the development of an historic creation.\n\nOnly a year later, full-scale construction of the Earth-Mars Railgates began. Public outcry was quickly diminished by the promise of fast, cheap travel to the frontier. Millions eagerly anticipated the day they could ride the rails to Mars and escape the strife of Earth.\n\nThe new Gates dwarfed the prototype, taking fourteen years to complete. In 2267, Dr. Singh, now on the verge of retirement, was part of the inaugural trip.\n\n"I feel profound sadness and joy," she said. "This will give life to millions. Yet it cost thousands of others. I'll never know if the price was fair. I hope it was." \n\nWe know now, sixty years on: it seems it was fair. The Railgates allowed us to fully colonize Mars, harvest boundless resources from the Belt, and is opening opportunities around Jupiter. Planning for Gates further out is already under way.\n\nToday, any of us can ride a Station Hopper between the colonies, stop at a Sub-Gate to contemplate Mercury or Venus, glide serenely through sparkling Belt rocks, gaze at the clouds of Jupiter, and ultimately find our own destinies in the great expanse of the Solar System. For this, we thank the brilliance of Dr. Doris Singh.
+38196,Target must be within range to make a cut.
+38197,Mini Me
+38198,Achieve a perfect salvage of over 98%.
+38199,Welcome to Morrigan Station
+38200,Auto-Onboard Pro™ Enabled
+38201,Shipbreaker #9346-52
+38202,Calyssia Rai-Paulsen
+38203,President
+38204,Salvage Division
+38205,Earth-Mars Railgate
+38206,Built By LYNX Corp. 2267
+38207,Railgate
+38208,Europa Ice Fields
+38209,EverWork™ Asset Replacement Program
+38210,Safeguarding Your Career
+38211,Genetic Extraction In Progress
+38212,Please Remain Seated
+38213,Extra Small
+38214,HAZARD LEVEL 0
+38215,HAZARD LEVEL 1
+38216,HAZARD LEVEL 2
+38217,HAZARD LEVEL 3
+38218,HAZARD LEVEL 4
+38219,HAZARD LEVEL 5
+38220,HAZARD LEVEL 6
+38221,HAZARD LEVEL 7
+38222,HAZARD LEVEL 8
+38223,HAZARD LEVEL 9
+38224,HAZARD LEVEL 10
+38225,Jamming
+38226,Reach Certification Rank 15.
+38227,Certification
+38228,Employee Financial Relief Program
+38229,Hazards - Coolant
+38230,Hazards - Electricity
+38231,Hazards - Fire
+38232,Hazards - Pressurization
+38233,Hazards - Radiation
+38234,Salvage Goals
+38235,Systems - ECU
+38236,Systems - Power
+38237,Systems - Reactor Class I
+38238,Systems - Reactor Class II
+38239,New Ship - Mackerel Light Cargo & Station Hopper
+38240,New Ship - Javelin Heavy Cargo (Small)
+38241,New Ship - Gecko Stargazer
+38242,New Ship - Gecko Salvage Runner
+38243,New Ship - Gecko Heavy Cargo
+38244,New Ship - Gecko Station Hopper
+38245,New Ship - Javelin Refueller (Medium)
+38246,New Ship - Javelin Refueller (Large)
+38247,New Ship - Javelin Heavy Cargo (Medium)
+38248,New Ship - Javelin Heavy Cargo (Large)
+38249,Mini Me
+38250,Achieve a perfect salvage of over 98%.
+38251,Mini Me
+38252,Road To Success
+38253,Reach Certification Rank 25
+38254,Furnace God Worshipper
+38255,Die 5 times through furnace incineration.
+38256,Furnace God Worshipper
+38257,Start Training
+38258,Hey Rook
+38259,Unverified
+38260,Blackbird Interactive
+38261,End of Act 01
+38262,LYNX - Ship Catalog
+38263,LYNX Salvage HQ
+38264,An Important Message
+38265,Scrap
+38266,Toggle Flashlight
+38267,Salvage gained. Credits awarded.
+38268,Salvage gained. Rewards increasing.
+38269,Salvage gains observed.
+38270,Salvage lost.
+38271,Salvage lost. Rewards decreasing.
+38272,Salvage potential diminished.
+38273,Ship salvaged in full. Credits applied.
+38274,Ship teardown complete. Cutter account credited.
+38275,Ship salvaged in full. Credits applied to cutter account.
+38276,Ship failed - please pay attention to salvage goals.
+38277,Ship failed - too much salvage has been lost.
+38278,Ship failed - insufficient salvage remaining.
+38279,Hey babe, how's it going back home?
+38280,I heard that the air quality has gotten worse pretty much everywhere on Earth. Don't go out unless you have to, please.
+38281,I'm good here. They had an inauguration for another mine last week and you won't believe it: they gave us beer. I mean you'd barely call it “beer”... it's this dehydrated stuff they mix with alcohol and fizzy water but hey, gets the job done.
+38282,You remember Ryan? Came up from Florida when it was evacuated? Well, he drank way too much of the stuff and started taking his suit off. Bunch of us had to tackle him before he completely vented and died! Classic Ryan.
+38283,Oh, my back's stopped hurting by the way. Stuff's much lighter here and lifting is easier! They're paying me next week, so you should see it in the account. Was thinking maybe you could get yourself some fruit or a real beer to celebrate with me.
+38284,Miss you babe, can't wait to bring you here.
+38285,Oooookay... Alex Beachum, Biologist, Martian research habitat B3.
+38286,It's sol 1,427 on Mars and we have another successful harvest of potatoes. (Heavy sigh) Day in, day out, it's potatoes.
+38287,When I look out of the one window we have, I see Phobos and Deimos - and even they look like a couple of potatoes.
+38288,But today... today is special. I have discovered a potato... that looks like a duck. I mean, I've never seen a duck in real life but it looks just like the pictures in the books. I've named it Starchford. Starchford the potato-duck!
+38289,Yeah, I don't get to see the other three biologists all too much. We're in our isolated pods, you see, to avoid cross contamination.
+38290,Honestly though, it's better to be on this potato of a planet than to be on Earth. I don't think I could ever go back there.
+38291,It's not so bad here now that I have you, Starchford. Quack quack!
+38292,Hi I'm calling regarding our dog Franny. Umm… I have some bad news.
+38293,I don't know how to say this… I'm really sorry but I don't think we can come back to get Franny.
+38294,We only just got to Mars with our daughter Olivia and they told us that they won't allow a dog in. We didn't know! We tried to talk to them, we really did but they wouldn't budge.
+38295,It's a really tough decision but it's just that we have Olivia in our lives now and we moved to Mars for a future for her. This is our only hope.
+38296,We sold everything we owned to buy our Railgate tickets, and went through all the medical tests… which are as invasive as everyone says they are. And then there's the interviews - so many interviews! I mean we've waited for this for six years!
+38297,I promise, we tried to fight this but they just kept saying how expensive dogs are and how they consume scarce resources. I just don't know what to say... we have to leave Franny with you.
+38298,Tell her that her dads miss her and that they will always love her.
+38299,Please, take care of her. She was the best dog. The best.
+38300,Maru nano ma Bhagvan, my darling chokri, I'm praying to all the gods you have a safe journey to Jupiter.
+38301,Know that I'll be thinking of you every minute of every day. Make sure you keep your luggage close to you and don't waste water.
+38302,You've heard of the stories of Mars, be careful okay. Remember betu, don't look back, don't let the world break your spirit and always have hope in your heart.
+38303,I wish I could come with you, but you know it was too expensive for both of us. I'm old now, there's not much time left for me but you, you have the brightest future ahead of you.
+38304,You have seen me work very hard my whole life and I need you to do the same.
+38305,My children are like my eyes, I cannot see without them and I cannot live without them.
+38306,See the world for me.
+38307,The Stellar Commission - governing body for most of humanity, a barometer for stellar conflict and a platform for pan-solar collaboration.
+38308,Let's look at the organization, its wins and losses over the years, and how it has been tested by many logistical and social issues.
+38309,Since 2275, when it was formed to address the need for a unified method of governing the many disparate colonies of humankind, the Stellar Commission has routinely come up against one of the ugliest forces in the whole solar system: the sheer, unmitigated joy of corporations exploiting humans as they see fit.
+38310,Centuries of nearly zero regulation amid the colonies has emboldened and empowered these corporations to the point that they've come to wield immense power over civilization.
+38311,You'd think that with the formation of the Commission, whose members hail from all corners of the solar system, those companies would have found their true match. But frankly, the actions of the Commission have been largely wanting.
+38312,The long procession of Chairfolk (all the way back to the first of their line, Chairperson Rao), despite their best efforts, have seen themselves outperformed practically every step of the way. The sad reality is that the Commission has largely struggled to find methods to govern the many vast pockets of humanity, scattered tens of thousands of kilometers apart from one another.
+38313,We the peoples of the Stellar Commission band together in determination to save future generations of the horrors and historical missteps of our dying home planet, which has brought untold sorrows to humankind.
+38314,Or so the mission statement goes...
+38315,It wasn't until 2283, during the wake of the AI Revolution, that the Stellar Commission found the grit we deserved from them for so long. It is here where we can chalk up a clear win.
+38316,Advanced AI systems were on the rise, decimating work opportunities for hundreds of millions across the solar system, and causing unimaginable human suffering.
+38317,Of course, large corporations, as always, had nothing more in mind than profit, and were further spurred by their public image as the drivers of human advancement.
+38318,However, finally finding their voice and the right tools to enact and enforce policy, the Stellar Commission, in an enormous pushback against corporate power, outlined new regulations around Artificial Intelligence, practically outlawing its use in order to safeguard human jobs.
+38319,Better late than never, am I right?
+38320,The corporate conglomerates have had simmering resentment ever since this moment of heavy regulation and strict enforcement.
+38321,Today they are looking towards the Jupiter frontier, where once again, the Commission's reach and oversight is sparse.
+38322,And so the cycle repeats. As a species, our greatest flaw seems to be to never learn from history, and that there some among us who would gladly grind their fellow humans into a pulp for a dollar.
+38323,It appears we are doomed to repeat the mistakes of our past, time and time again.
+38324,With all due respect to the Commission's Chairfolk, it has been disappointing for many of us average solar citizens to feel like the Stellar Commission hasn't lived up to its promises.
+38325,After the win in the fight against the AI revolution, many looked to the Commission to provide further protections for human labor across the system.
+38326,But continuously the Commission seemed outperformed by the more nimble corporations, who were untethered by the bureaucratic process which the Commission seemed ever obsessed to observe and follow.
+38327,As much as we all understand the appeal of following dry rules and protocol (ha!), when it comes to protecting real, human lives, perhaps a more practical approach is in order.
+38328,With Jupiter Gate established, we find ourselves again in a position of corporate dominance at the forefront of human progress, which threatens once more to be the defining factor in the lives of so many hopeful people.
+38329,We must not allow this to happen again. We require leadership from the Commission. Leadership which isn't fueled by profit, but rather by human respect and excellence.
+38330,And maybe, in the future, The Commission can put more emphasis on the fostering of collaborative, proactive efforts, rather than reactively scrambling in the wake of ruthless corporate juggernauts.
+38331,Alright, alright, breathe... breathe. You're OK. Everything's gonna be just fine. There ya go. Plenty of folks feel a bit woozy with their first Spare. 
+38332,Anyway - welcome aboard! The name's Weaver. I'm the foreman for yourself and a couple of the other Shipbreakers in this region.
+38333,This here's Morrigan Station. She may not look like much right now, but once we boot'er up she'll purr like a kitten.
+38334,Alright, let's test out your orientation control. Do me a favour and look up at that Cargo Elevator up above.
+38335,OK, now I know you're probably excited to see the vista. Why don't you turn around and check out the view of the Railgate from here.
+38336,What a beauty huh? Folks used to ride the rails en masse to the Red Rock fields. These days, seems Jupiter is the place to be.
+38337,That's it. So that's where all the salvage gets collected to be picked by the transfer crew. 
+38338,Just in case you ever turn yourself outta' whack, use your roll thrusters to reorient.
+38339,Alright, now, let's getcha' flying. Activating your thruster controls now... try moving around.
+38340,Now vertical control.
+38341,Mmhmm, looks good. Now, to finalize these movement checks, I need you to fly to these waypoints.
+38342,Used to be a Cutter myself ya know, till there were some, uh... complication with my last revive. Those were early days in the tech though, so... never you mind about that.
+38343,Oh! Almost forgot the most important thing: brakes. Get yourself going at a decent clip and then test them out why don't ya.
+38344,Great work Cutter.
+38345,Alright, alright, breathe, you're okay! Got yourself good there. Don't sweat it. Happens to the best of us. Always good to review your Spare Replacement form, and see how you can avoid  future mishaps. Too many Spares'll rack up the debt. That's how they get ya. OK, let's get back to work. Weaver out.
+38346,Alright! Looks like the Bay here was left in a bit of a mess. We're gonna clean this scrap up. I'm gonna activate the furnaces... now. 
+38347,Dang thing, would you just...
+38348,There ya go...
+38349,So these furnaces are used to melt down soft metals. Should go without saying; these things are hot as all get out, so... try not to drift into them by accident.
+38350,OK, let's get a handle on your Grapple tool.
+38351,This fella here is a shipbreaker's bread and butter. This is how we move salvage around!
+38352,Activate the beam and hold it to grab an object and move it around, if it's not too heavy. Give it a go and move one of these pieces into either Furnace.
+38353,So, when you're holding an object with the Grapple, you can retract the beam. This'll pull a light object to you. If it's HEAVIER than you, it'll pull YOU towards it.
+38354,Some folks use the grapple to move around the Bay faster! If you do that, just don't forget to use those brakes I mentioned. Otherwise we'll be cleaning you off the walls.
+38355,Let's try this again: drop a piece of scrap into the Furnace on either side of your Bay.
+38356,Well congratulations there Cutter. Your very first piece of salvage! First of many. 
+38357,Check out your HUD when you've got an object grappled: it shows you the mass of the object and whether you can move it or not.
+38358,Remember that heavy objects like that are useful for pulling YOURSELF around.
+38359,Alright, there ya go. Now, let's clean up a handful more, shall we?
+38360,Nice job cleaning up all that soft metal scrap, Cutter. Uh, let's move on to the bigger Nanocarbon chunks now, shall we?
+38361,You may have already noticed that these are too heavy to move with your Grapple. I'm enabling your Scanner so we can check out their structural makeup. Go ahead and boot it up.
+38362,This mode of your Scanner lets you assess an object's structure. What I want you to focus on right now are these Cut Points.
+38363,Alright! Control is giving me the go ahead to get you cutting!
+38364,Think of Cut Points like the "glue" holding ships together. Your Cutting Tool can slice through a bunch of the ship, but snipping the Cut Points will separate the key structural segments quickly.
+38365,You have quick access to all your tools through your HUD, just open up your tool selector and choose the Cutting Tool.
+38366,Your Cutting Tool has two modes, the first one is the Stinger. It's designed for precision vaporization of cut points like this. You ready to perform some zero-g surgery, Cutter? Well let's split this scrap so it's light enough to move.
+38367,That's how you do it. OK, let me boot up the Processors so you can salvage these. Do me a favor and look toward one of 'em there, so I can see if they activate right.
+38368,Nanocarbon like this and other high-value structural segments don't get melted down in the Furnace. They get collected in the Processors and shipped out as-is for re-use. 
+38369,Yeah, perfect. Wish me luck here Cutter, me and technology ain't always the best of friends.
+38370,Hey alright! We're in business. Now swap over to your Grapple and toss one of those pieces you separated right in there.
+38371,That ain't quite right there Cutter. That Nanocarbon needs to go into the Processor.
+38372,Well okay, we're almost done getting this Bay in shape! Let's go after that large aluminum chunk, over there.
+38373,Now this beast is way too heavy to move as is. It's also too dense for your Stinger to break it down, and there are no structural Cut Points for us to take advantage of. We're gonna have to switch over to the SplitSaw mode of your Cutting Tool and start slicing this thing down to size. Go ahead and switch Cut modes, now.
+38374,Now try changing the angle of the cut.
+38375,We're in business! I've unlocked the trigger on your Cutting Tool. It'll split that big chunk clean in two. Go ahead and give 'er a whirl.
+38376,I'm going to turn on your Salvage Indicator so you can track how much work is left to do.
+38377,This thing'll track how much you've salvaged and how much you've lost. For now let's try and hit that first goal marker.
+38378,And that's what it's all about Cutter. The more Salvage Goals you complete, the closer you'll get to hitting your Certifications and Ranking up.
+38379,Good try Cutter, but that's not the right piece. Let's focus on that big Aluminum chunk.
+38380,Mmmm, not quite right Cutter. Go ahead and go after that large Aluminum chunk over there.
+38381,You'll need to split it a couple of times to get it small enough to move with  your Grapple. Don't get too carried away! I know the SplitSaw can be fun to use. 
+38382,Great first shift in the yard, Cutter! Let's head over to your HAB and I'll show you the ropes there. Fly on over back to the Master Jack. I'll put a marker on it so you can find it easy. When you get there, head on in and we'll get started.
+38383,Congrats Cutter. You're already on your way up! Head on into your HAB and we'll check things out.
+38384,Welcome to your new home, Cutter! Has everything ya need. This is officially called a, uh... Readymade Long-Term Employee Habitation... something or other... But 'round here we just call it your HAB.
+38385,OK, let's have a look at your Employee Terminal.
+38386,Now, let's get caught up on career progression and certification. I've sent you a message with an explanation now, go on and give it a read.
+38387,Clear as mud? Don't worry, I'm here to walk you through the process, and soon enough I'm gonna introduce you to some of the other Shipbreakers... MOST of them are willing to help ya out too.
+38388,Alright, let's start a new shift and pick your first ship to work on!
+38389,This is the catalog that shows which ships you have access to from the Shipyard. Every day you can choose to continue working on the ship you've got, or start a fresh one. Go ahead and pick one, any one, and we'll get to work!
+38390,She's all yours Cutter! Your primary goal is to reach Rank 3. 
+38391,Now try to remember: Nanocarbon goes in the Processor, aluminum goes in the Furnace. Try to salvage the entire ship if you can - we call it "usin' the whole buffalo". You'll hit your certs faster that way, and start knockin' out that debt of yours.
+38392,I'll be observing and giving you any help if you need it. Good luck Cutter! Weaver out.
+38393,Hey, there you go! You did it Cutter. I won't stop you if you're having fun out there, but end your shift at the Master Jack when you're ready to clock out for the day. We'll pick things up again tomorrow.
+38394,Get some shut eye there Cutter. You done good. See you in the morning. Weaver out.
+38395,Looking good Cutter. Now go ahead and pick another ship.
+38396,Alright, hold up a second there Cutter.
+38397,Because you've increased your Rank we're gonna give you the next grade of ship.
+38398,Now this one will be full of machinery, electronics, furniture... all stuff that LYNX can collect and resell. You're gonna want to toss those items on the Barge. That's the, uh, big green thing below you. Go ahead and have a look.
+38399,Toss any valuable objects or components down there. Don't worry about breaking anything, there's a dampening field that'll catch everything. Works great... most of the time.
+38400,Let's give it a go.
+38401,I see some potential fire hazards in there so watch out Cutter.
+38402,Be careful not to cut or bump Oxygen Tanks, Fuel Tanks or Fuel lines. If there are flammable objects nearby, those flames can spread pretty quick-like.
+38403,Nice work, now the fuel lines are empty and they won't give you nuthin' to worry about anymore. Always a good idea to flush 'em first.
+38404,You alright there Cutter? Seems like you've experienced one of the many hazards of the job for the first time.
+38405,Spares cost credits so it's better NOT to blow yourself to smithereens if at all possible.
+38406,Uh, Cutter? That thing was supposed to go onto the Barge. Let's try this again with something else.
+38407,Nice work, got that pretty quickly! Now, let me teach you about the Kiosk. Once the training wheels come off, LYNX regulations mean you gotta cover your own Oxygen and Fuel costs. That's the way things go... Turning it on now.
+38408,Now, no need to panic, they'll last you a good while. But if you end up running out, you gotta go top up at the kiosk over there. Let's have a look.
+38409,Good stuff Cutter. Pretty easy, right? Alright, I'll leave you to it. We'll chat again when you've hit the next Rank. Weaver out.
+38410,Hey Cutter. I'm looking at the stats coming from your Bay and it's looking like you're really gonna make your way around here!
+38411,It's time to learn about how to upgrade your equipment and some of the more advanced tools you'll soon have at your disposal. Head on over to the Upgrade section of your Employee Terminal, now.
+38412,I'm gonna read this straight from the manual... 'LYNX rewards hard work and learning by giving Shipbreakers access to tool improvements and new equipment. Reaching Salvage Goals is essential for becoming a Master Shipbreaker.'
+38413,Basically, they wanna make sure you prove yourself first before giving you the big guns. Completing Salvage Goals will net you shiny Lynx Tokens. Use those Tokens here to get yourself some new gear. Sometimes there are some extra goodies in the rewards too...
+38414,So let's get going and learn about one of the most important tools in a Shipbreaker's toolbox: Tethers. Go ahead and purchase them.
+38415,Have a quick read, then hop back in the Bay.
+38416,Let me tell you how to use these things.  Tethers are more powerful than the beam of your grapple. They're great for moving super-heavy salvage. Try it out.
+38417,Press and HOLD the SECONDARY input for the grapple to begin placement. Point where you want the salvage to move to and then RELEASE it to create the tether.
+38418,Whoops, hold on there, Cutter. Got it tethered to itself, huh? Let's try again and tether the salvage to another object.
+38419,Tethers retract automatically too, no input required. 
+38420,Don't forget that your HUD tells you the mass of an object and whether your grapple can move it or not. If the mass meter is red, you'll want to use tethers instead.
+38421,Great! Now what if you wanna get rid of the Tethers you've already placed? There's a cancel command you can send, but take note that it clears ALL the tethers you've placed. Go ahead and try it now.
+38422,Yeah, there ya go.
+38423,Now, you've got unlimited tethers during this training exercise. But after this, when you need more you'll have to buy 'em from the kiosk.
+38424,Let's see how well you can handle 'em now. Try to clear out a bunch of that scrap.
+38425,You can stack multiple tethers on one object to increase the pull force. You can also chain objects of any size together to move them all as a group. I've seen some Cutters do some incredible things with a daisy chain of tethers!
+38426,Alright, well done Cutter. Looks like you know how to handle these things. When you're ready let's go back to the HAB and continue with the day.
+38427,Got a Science ship out in the bay, huh? Those are full of electrical hazards, let me tell you. Try not to damage electrical components or they may shock you. Also try not to touch anything that's actively electrified or your suit will take damage.
+38428,I think it's time for you to learn about the motherload of any ship: Reactors. Most dangerous part of Shipbreaking, but you got this. Continue when you're ready Cutter.
+38429,I remember my first Reactor pull. I was shakin' like a leaf. You've got less on the line now, but still... let's try to do this without a critical meltdown.
+38430,That looks like the reactor toward the rear of this ship, but there are lots of different configurations out in the wild.
+38431,Ok, we're only focused on one thing right now. Pull the Reactor and get it on the Barge.
+38432,As soon as you disconnect the Reactor from the ship, it'll start to meltdown, so act fast and make sure you have an exit strategy ahead of time.
+38433,Alright, this one's pretty easy. Should just slide out of her coolant casing with a good yank from your Grapple. Try to have your extraction fully planned out before disconnecting it from the ship.
+38434,I know the Reactor pull is a tricky one Cutter. Try to have your extraction fully planned out before disconnecting it from the ship.
+38435,Well congrats Cutter! You're certainly picking this stuff up faster than I did back in the day. OK, I'll leave you to it until you get to the next Rank.
+38436,Oh hey! See that in front of you, the little Utility Key? Nice find! Usually you can only buy those in the Kiosk - they are used to unlock the terminal controlling Reactors and Thrusters on ships. Pick it up and give it a go!
+38437,I saw you buy a Utility Key at the Kiosk, Cutter. Those are useful for unlocking the terminals controlling the Reactors and Thrusters in some ships - always a good thing to hold onto!
+38438,Hey Cutter - you're gonna start getting pressurized ships now. Lou and I will show you the ropes when you're ready.
+38439,Alright, our friend Lou thinks she's the resident expert on how to deal with a pressurized ship, so I'm gonna get her to take the lead on this one.
+38440,You always give me a hard time but you know I'm good.
+38441,Sure thing, Lou. Take it away.
+38442,OK, hey Rook. Time for the fun stuff. And by 'fun' I mean incredibly dangerous. There can be lots of pockets of pressurized space throughout a ship. It's best to scan ahead to see what's up. Activate your scanner and let's have a look.
+38443,Your scanner will show you information about the interior of the ship, including whether a Room is pressurized or not.
+38444,Red is unpressurized, green is pressurized. Essentially, if you make a cut between the two spaces, you'll cause a violent decompression.
+38445,The correct term is explosive decompression.
+38446,Explosive, same deal. OK, we don't want to crack into this ship and have it pop. When a ship is pressurized like this, best to go in through the airlock. Use the Scanner to locate it.
+38447,Now cycle the airlock to pressurize it. Should be a switch in there.
+38448,And you're in! Most ships are pressurized and you can depressurize them using the Atmosphere Regulator, should be one just inside. Although, as you'll learn, sometimes there are good reasons to keep the rooms pressurized.
+38449,That's all there is to it! Now, sometimes you're gonna have to depressurize a ship violently--
+38450,Explosively.
+38451,Explosively. If you don't want to get sucked through a one-inch hull fracture, use your hands to grab on to any nearby surface.
+38452,Oh, and watch out for differential pressure between areas of the ship. Sometimes compartments can have isolated pressurization systems. Remember; scan ahead.
+38453,That about covers it. Good luck out there Rook! Lou out.
+38454,Alright Cutter, will keep an eye on things from the booth. Check in with you later. Weaver out.
+38455,Hey there Rook.
+38456,Weaver got busy and asked me to review your salvage records today. I saw that you snagged an old Data Drive in that ship.
+38457,Look, I know that the networks on Earth don't really give you the full picture about what's happening across the colonies. Don't want y'all getting a read on what's actually going on Off-Earth.
+38458,These Data Drives though... they're uncensored info, and they'll give you the full view. Sometimes it's useless junk... someone's recipes or bad photos flexing in front of the mirror. Other times it's a corporate railmail or a ship captain's personal log.
+38459,Anyway... don't tell Weaver this but I'm sending you some software to extract the useable data off these things. You'll see a new Data Recovery mode in your HAB terminal. Soaking in solar radiation tends to mangle most of the data, but you should be able to pull a couple intact files off each Drive.
+38460,Hopefully it'll give you a better sense of the wider world, warts and all. Have fun with it. Later Rook.
+38461,Cutter - you're finally seeing one of the more advanced reactor setups. See how it connects to the thrusters in the back? Gotta be careful about disconnecting these or you might cause some trouble for yourself. Just watch your step, you'll be fine.
+38462,Hello Cutter 9346-52. Your automated LYNX Onboarding experience will now begin. Please observe this important message.
+38463,Space. Boundless promise. Limitless resources. A brighter future. It's here that hard workers like you, the backbone of civilization, will help us pave the way to the galaxy.
+38464,I'm Calyssia Rai-Paulsen, President of LYNX Corporation's Salvage Division. When my great-great grandfather, Exeter, founded LYNX, he foresaw a remarkable opportunity among the stars. His vision eventually brought us the Railgates.
+38465,Now spanning all the way to Jupiter, these are the veins connecting all of modern civilization. And the people flowing through them are its lifeblood. The Railgates re-invigorated humanity, and are key to our continued progress.
+38466,You've been selected from among thousands of candidates to join the LYNX family. This is more than just a job. It's an opportunity. To be part of the largest, most successful, and most pioneering company in human history.
+38467,Your dream may be to forge your own destiny one day. Well, work hard. Heed your superiors. Believe in the LYNX vision. Do this, and you too will get your chance.
+38468,Your first step is to join our EverWork Program; the greatest gift we give our employees, turning death into an ongoing opportunity for learning and growth. With LYNX, death is a fresh start. Good luck.
+38469,Video observation complete. To finalize onboarding, your genetic sequence will now be extracted for use with the LYNX EverWork Asset Replacement Program. Don't worry; pain levels during extraction are largely tolerable. 
+38470,Please note, as outlined in section 31 of your employment agreement, the process of genetic extraction will destroy your original body.
+38471,Beginning extraction now.
+38472,Extraction, analysis and backup complete. Thank you. Beginning Spare generation.
+38473,I know these ships look intimidating to scrap at first. Trust me, soon enough you'll be stripping the huge Gecko-class freighters like nothing.
+38474,Got my start salvaging back down Earth-side, in the 'droid scrapping biz. You know what made me come up here? Well, one day we got a batch of this particular model in, one o' them kinds with synthetic skin an' everything.
+38475,We almost never saw people-looking ones like that; they were always too expensive to manufacture. Seems someone found a warehouse full of 'em, mothballed for, oh... twenty years or so, since the AI ban took effect. Probably bought the whole lot for pennies thinking they could turn a tidy profit with the salvage.
+38476,No word of a lie, these things looked exactly like my step-brother Jed. Even had the same slack-jawed expression. Now, Jed 'n I wasn't exactly pals or nothing. All the same, I couldn't bring myself to start smashing that dopey face.
+38477,And that's when I looked into getting on with LYNX. Tell you what, it's a sight better to cut up something that doesn't look like a family relation.
+38478,Anyway, I'm running on. I'll clear the channel. Holler if there's anything giving you grief up there, Cutter. Weaver out.
+38479,Cutter, it is my distinct honour and privilege to introduce you to the rest of the crew in our sector today. Sound off, everyone.
+38480,Hey Rook! Name's Lou. I was the worm until you showed up, so thank you. Now I get to do the hazing...
+38481,Come on Lou, what are you talking about. We don't do that. Welcome aboard and don't listen to her. I'm Deedee.
+38482,Me next? 'kay, I'm K--
+38483,Kai! Your mic's still messed up.
+38484,Oh... uh... can you... hear me? How about now?
+38485,Better.
+38486,Oh, hey. I'm Kaito. Kai.
+38487,Mic still busted huh?
+38488,Yeah still waiting on the req to get appro--
+38489,Heaven forbid they give us functional gear.
+38490,Alright Lou, I'm sure they're workin' on it as fast as they can. Anyway Cutter, I've just added you to the official sector comms channel. It gets lonely out here, so don't hesitate to check in with each other from time-to-time. Alright, that's enough chin-waggin', let's get back to it. Talk to you soon Cutter. Weaver out.
+38491,Goodbye.
+38492,Bye.
+38493,Later, Rook.
+38494,Hey Rook. Pinging you on a closed channel... If our crew ever gets to mingle face-to-face, we should crack some beers and share what we'd do when we get out of the red and start actually making profit from salvaging.
+38495,Hard to figure when anyone's gonna hit that point though... Weaver's been at this twenty years, but he slipped back into debt thanks to "foreman training".
+38496,Deedee sends most of her money back home to New Manila. Transfer Goes through LYNX of course, and the fees are huge.
+38497,Kaito... well... He's a good person, but just hasn't really taken to the work. He's been warned that he's a "low-earner".
+38498,And me... I'm trying to get there fast as I can. Once I hit zero I'm gonna work maybe another year or two, and just bank it all. All I want is enough to get one of those mining skiffs for Belt running.
+38499,Still so many rich rocks along the Frontier Line. Eventually hire some friends from back on the Eris Platforms above Mars. Good folks who just can't get work.
+38500,Don't know when that'll be though. Every time I think I'm earning at a steady clip, the company finds another fine or fee to slap on.
+38501,Anyway... I'll let you get back to it. Happy cutting! Lou out.
+38502,How you holdin' up there, Cutter? Seems like you're getting the knack for it. Trust me: when you get well-versed in the art of Shipbreaking, it becomes a joy to show up to the yard each day.
+38503,Ain't a trade like it... dancing 'tween the ribs of a ship, spittin' heat, dosey doeing with a ten tonne panel, taking a breather to gaze out at the rest of the human race buzzing in the distance...
+38504,Heh... Can ya tell I miss it? It's alright; helping y'all get there is near as good.
+38505,Ah dang it, I got corporate ringing me. Good luck out there today Cutter, talk to you again soon. Weaver out.
+38506,Hey again Rook.
+38507,Just wanted to say: I'm impressed how quick you're picking things up. Not sure what kinda work ya done before but you're a natural cutter!
+38508,You probably noticed LYNX doesn't exactly take great care of us. I don't blame 'em... they don't really have a reason to. Up until about a hundred years ago workers like us would make groups called Unions and fight for better wages, safer work, decent hours... that kinda thing. Basically balance things so people don't just get exploited to hell.
+38509,LYNX was actually key in gettin' rid of all that.
+38510,But, there's a group of Shipbreakers now trying to bring back the idea of a Union. Change things for the better. Did you know LYNX keeps your DNA even if you leave? Or that those hull panels you get ten credits for are resold for a thousand apiece? That's the kind of thing they wanna change.
+38511,Anyway... it's all hush-hush... LYNX stomps it out right quick. But I see that you're a good person and a hard worker. They're gonna use you up and you'll get naught for it.
+38512,So, I hope you don't mind, I signed you up for the Union newsletter. Comes every couple of days. Read 'em, don't read 'em, trash 'em... whatever. Just please don't report me. Just want you to have the info. I was glad someone gave it to me when I was new.
+38513,Mornin' there, Cutter!
+38514,Morning Rook.
+38515,Oh, forgot to give you a pretty hot tip: you know all those supplies you can buy at the Kiosk? O2, patch kits, fuel, that kinda' thing? You can actually scrounge a lot of that stuff for free from the ships.
+38516,Come on now Lou, you know that's against regs.
+38517,It's not a big deal.
+38518,It's also not safe. Nor sanitary!
+38519,Come on, what?
+38520,Ya know how long that stuff's been floating around in all that grime and dust?
+38521,They're space-grade sealed Weaver...
+38522,Probably well past their expiry date.
+38523,Okay, well, it's not like corporate around here cares too much about our well-being, does it...
+38524,Look. Lou. I need ya to try and follow the rules now, ya hear?
+38525,Yeah, sure thing boss. Catch ya later Rook. Lou out.
+38526,Cutter, I encourage you not to huff any old oxygen can you find, but if you do, please just monitor your vitals after. And for god's sake, don't eat anything you find.
+38527,Alright, have a productive shift. Holler if ya need me. Weaver out.
+38528,Alright folks, got a priority message comin' in from Corporate. Everyone put down what you're doing and have a listen.
+38529,Maybe they're gonna give us some holiday time, that'd be awesome.
+38530,Hm! That would be a first.
+38531,Probably just another Paulsen kid getting a cushy exec job...
+38532,Hush up now y'all.
+38533,This is an important message to all LYNX Salvage Division employees.
+38534,It's come to our attention - thanks to a very loyal member of our family - that there has been talk about forming a Shipbreaker's "Union".
+38535,A Union is a dangerous thing, where extensive fees are extracted for so-called representation of your worker's rights.
+38536,At LYNX, our top-priority is already your wellbeing.
+38537,This is why Union activity is strictly prohibited by your contract, for your own protection.
+38538,To safeguard you and your work, we are immediately dispatching an Administrator to every Salvage sector.
+38539,This Administrator will oversee operations and ensure proper employee conduct. They are authorized to correct worker behavior by any means, and they'll remain in place until we can guarantee company-wide integrity.
+38540,Until then remember: the Company is your family. The Union is your enemy. Thank you.
+38541,Hm! No holiday, told you.
+38542,That's wild! I haven't heard anything about that union stuff, have you?
+38543,Of course not.
+38544,Probably happening around the Martian districts, they've always been quarrelsome.
+38545,You heard anything like that Lou?
+38546,No. Hey Weaver, do you know when our Administrator will show up?
+38547,Ehh... a week maybe? Coming all the way from HQ at Jupiter Gate. When they get here we'll need to be on our best behavior.
+38548,Oh great.
+38549,Ah it's nothing to fret about, alright. But they are gonna be checking everything; salvage logs, transmission records, operational efficiency...
+38550,Oh GREAT.
+38551,You'll be fine Kai. It's not a performance review.
+38552,Lou's right. Now let's just try and keep our heads down and weather this storm together. Go catch some rest. See y'all tomorrow.
+38553,Hey. Don't worry, this is a closed channel - there won't be a log.
+38554,This... really isn't good. They're gonna make our lives hell. I'd be lying if I said I wasn't scared.
+38555,But it was bound to happen. Always does. Poke these giant companies even a little bit and they retaliate by laying waste to everything and everyone.
+38556,I'm... sorry. For involving you. But you need to know I'm not gonna stop fighting.
+38557,Whatever happens I'll make sure nothing comes down on you. Lou out.
+38558,CERT
+38559,ENTER HAB TO RANK UP
+38560,Unions Cause Disunion
+38561,For all lynx employees
+38562,Attention is required
+38563,Transmission Complete
+38564,Thank You
+38565,Work May Resume
+38567,Salvage Income
+38568,View Equipment Menu
+38569,Purchase Tether Upgrade
+38570,Tethers Purchased
