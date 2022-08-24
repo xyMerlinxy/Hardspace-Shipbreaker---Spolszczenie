@@ -3,7 +3,7 @@
 Spolszczenie do wersji V.1.1.0.244339
 
 Instrukcja instalacji spolszczenia
-1. Plik "ge" należy podmienić z plikiem w folderze Hardspace Shipbreaker\Data\LocDB;
+1. Plik "de" należy podmienić z plikiem w folderze Hardspace Shipbreaker\Data\LocDB;
 2. Teraz wystarczy tylko w opcjach gry wybrać język polski.
 
 Aktualnie przetłumaczone jest 50% tekstów, aczkolwiek tłumaczenie wymaga poprawek.
