@@ -4266,7 +4266,7 @@
 38788,Congratulations!\nYour ship is Gate Ready!
 38789,English
 38790,French
-38791,German
+38791,Polski
 38792,Simplified Chinese
 38793,Russian
 38794,Italian
