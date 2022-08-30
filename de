@@ -26,7 +26,7 @@
 44,Zapisz i zastosuj
 45,Opcje audio
 49,Ukryj hełm
-50,Interfejs
+50,Wyłącz interfejs
 51,Drżenie ekranu
 52,Wibracje
 53,Opcje wideo
@@ -43,7 +43,7 @@
 71,Wprowadź swój unikalny identyfikator, aby otrzymać standardową licencję odzyskiwacza LYNX
 72,Uzyskaj Nową Licencję
 75,Pauza
-76,Zapisz & Wyjdź
+76,Zapisz i Wyjdź
 78,Dług
 81,Kontynuuj
 84,Zestawy Naprawcze
@@ -231,9 +231,9 @@
 276,Salamandra - Przemysłowa
 277,Procesor nosi imię Eugene L. Processor, który wynalazł Piec.
 278,Przecięcie reaktora jest uważane za niebezpieczne dla ludzkiego ciała.
-279,Naszywki?
+279,Naklejki
 280,Kanister paliwa
-281,Zestaw naprawczy
+281,Zestaw naprawczy!!!
 282,Tlen
 283,Konsola śluzy
 284,Standardowa konsola śluzy powietrznej ze wskaźnikiem ciśnienia. Niebieski - pod ciśnieniem, czerwony - bez ciśnienia.
@@ -297,8 +297,8 @@
 345,Winda Przemysłowa
 346,Zmodernizowana wyciągarka używana w kopalniach asteroid Kessler.
 347,Szafka Hydroponiczna
-348,Contents exist under pressure, in oxygen-rich environments and must be handled with care.
-349,LYNX-owned JAX for your everyday Tether needs!\n\nNote: Damage to LYNX property will be recorded on your Employment Record.
+348,Zbiornik pod ciśnieniem, w środowisku bogatym w tlen należy się obchodzić ostrożnie.
+349,Boje należące do Lynx służą do trzymania lin\n\nUwaga: Uszkodzenie mienia korporacji Lynx zostanie odnotowane w Ewidencji zatrudnienia.
 350,Lampa LESC, która oświetla otoczenie emitując minimalną ilość ciepła.
 351,Multitool
 352,Aby pomóc chronić wszystkich przed nieuzasadnionymi strajkami pracowników, wszystkie Multitool wymagają teraz rejestracji i aktywacji DNA przed użyciem.
@@ -325,8 +325,8 @@
 374,Prowadnica szynowa zbudowana dla wciągnika przemysłowego. Służy do wspomagania przenoszenia materiałów na statkach.
 375,Mocowanie Sprzętu
 376,Zwykły uchwyt magnetyczny używany do mocowania i przechowywania sprzętu na ścianach.
-377,Push Pad
-378,Heavy-duty bumper for large scale pushing and towing.
+377,Popychacz
+378,Wytrzymały zderzak do pchania i holowania dużych obiektów.
 379,Terminal Ścienny
 380,Obchodź się ostrożnie, zawiera wewnętrzną baterię, którą można łatwo uszkodzić.
 381,Reaktor Klasy I
@@ -334,16 +334,16 @@
 383,Reaktor Klasy II
 384,Rdzeń zasilający TITAN klasy II, który generuje kolosalne ilości paliwa do silników odrzutowych statku. Po odłączeniu ulegnie stopieniu.
 385,Służy do chronienia generatora przed warunkami zewnętrznymi.??
-386,Mounting Plate
+386,Płyta montażowa
 387,Konstrukcja obudowy dla reaktora TITAN klasy I. Ostrzeżenie: odłączenie reaktora od tej płyty spowoduje jego stopienie.
 388,Matryca skanerów??
 389,Szerokopasmowy zaawansowany program do skanowania i analizy materiałów (WAMSAP) wykorzystuje zastrzeżoną wyspecjalizowaną sztuczną inteligencję do interpretacji odczytów różnych instrumentów.
-390,Wieża z czujnikami
+390,Wieżyczka z czujnikami
 391,Czujnik wysokiej częstotliwości. Chociaż jego systemy oprogramowania zostały wycofane, materiały nadal można poddać recyklingowi za dodatkową opłatą.
 392,Plakat
-393,Collect to display in your HAB.
+393,Zbierz, aby wyświetlić w swoim mieszkaniu.
 394,Bateria Słoneczna
-395,Interlink Systems solar battery cell, with high storage capacity for prolonged interplanetary travel.
+395,Najwyższej klasy ogniwo baterii słonecznej Interlink Systems, o dużej pojemności umożliwiającej długotrwałe podróże międzyplanetarne.
 396,Żagiel Słoneczny
 397,Wysokowydajna, tania i niezaawansowana alternatywa dla silników odrzutowych. Prosta, ale skuteczna konstrukcja do dalekich podróży międzyplanetarnych z wykorzystaniem promieniowania słonecznego.
 398,Pojemniki
@@ -367,7 +367,7 @@
 416,Zabytkowy monitor zawierający elektronikę możliwą do odzyskania.
 417,Radiator
 418,Jednostka zasilana cieczą chłodzącą, zaprojektowana w celu zmniejszenia temperatury statku.
-419,Thermal Plate
+419,Płyta termiczna
 420,Duża płyta do odprowadzania nadmiaru energii cieplnej.
 421,Silnik Strumieniowy Klasy I
 422,Centralny moduł silnika strumieniowego stosowany w napędzie statku. Przeznaczony do połączenia z reaktorem TITAN klasy I.
@@ -443,7 +443,7 @@
 495,Laboratorium
 496,Korytarz
 497,Mieszkanie
-498,Operations
+498,Kabina pilota
 499,Maszynownia
 500,Szatnia Załogi
 501,Kwatery załogi
@@ -468,7 +468,7 @@
 521,Złom (Stalowy)
 522,Złom (Nanowęgielowy)
 525,Wzmocniony panel, który można ciąć tylko za pomocą ulepszonych narzędzi. Cenny, ale rzadko używany jako poszycie kadłuba po niesławnej katastrofie Eterne 3.
-526,Non-conductive panel of carbon allotrope, built to withstand heat, cold, and extreme impacts. Impossible to cut through normal means.
+526,Nieprzewodzący panel z alotropu węgla, zbudowany tak, aby wytrzymać ciepło, zimno i ekstremalne uderzenia. Niemożliwy do przecięcia, ale kruchy po schłodzeniu.
 527,Lekki panel ze stopu aluminium o zwiększonej wytrzymałości na zginanie. Łatwo się przecina.
 528,Ciężka tafla kosmicznej krzemionki, chroniąca przed kosmicznymi śmieciami i promieniowaniem. Wymaga dodatkowej osłony, aby przetrwać podróż przez Bramy Kosmiczne.
 529,Elementy konstrukcyjne jednostki kontroli środowiska.
@@ -662,7 +662,7 @@
 721,Odporność Elektryczna III
 722,Odporność Elektryczna IV
 723,Odporność Elektryczna V
-724,Odporność Elektryczna I
+724,Wytrzymałość Cieplna I
 725,Wytrzymałość Cieplna II
 726,Wytrzymałość Cieplna III
 727,Wytrzymałość Cieplna IV
@@ -719,7 +719,7 @@
 796,Jadalne
 797,Rekwizyt?
 798,Radioaktywny
-799,Zestaw Naprawczy
+799,Zestaw Naprawczy!!
 804,Podsystem
 805,Technologia
 806,Wymagany
@@ -780,7 +780,7 @@
 867,Ekspresowy
 868,Poszukiwacz
 869,Maru
-870,Zainteresowanie
+870,Odestki
 871,Zanim wskoczysz w wir pracy, uhonoruj odlatującego Shipbreakera. Tego typu rzeczy nie zdarzają się zbyt często.
 872,Więc cóż, nazywam się Weaver. Będę twoimi oczami i uszami w trakcie pracy. Kiedyś byłem Złomiarzem, zanim miałem problem z jednym z moich klonów... Ale to ciebie nie dotyczy.
 873,Chodźmy do pracy!
@@ -892,10 +892,10 @@
 979,Nigdy nie wiesz, co możesz znaleźć. Weaver Odbiór.
 980,Możesz uzyskać więcej mocy z pchnięcia chwytaka, ładując go przed wystrzeleniem. Spróbuj.
 981,Hej Złomiarzu, widzę, że ulepszyłeś swój kombinezon, aby zawierał resyntezę audio.
-982,People always say there is no sound in space, but now with this handy resynthesis feature you will in fact hear what you would expect to hear, when you're in unpressurized space.
+982,W kosmosie nie ma dźwięku, ale teraz dzięki tej przydatnej funkcji resyntezy usłyszysz to, czego oczekujesz, gdy jesteś w przestrzeni bez ciśnienia.
 983,Nie wiem, jak oni to robią, ale to naprawdę cudownie działa. Baw się dobrze. Weaver, Odbiór.
 984,Złomiarzu, wróć do sklepu na platformie startowej i uzupełnij O<sub>2</sub>. Niebieski ci nie pasuje. Zaufaj mi. Weaver Odbiór.
-985,Cutter, looks like you're low on fuel.
+985,Wygląda na to, że masz mało paliwa.
 986,Złomiarzu, nie masz lin. Lepiej znajdź więcej.
 987,Dobrze.
 988,Dobrze!
@@ -914,18 +914,18 @@
 1001,Melissa, posłuchaj mnie. Gość wchodzi na statek jako szef kuchni, najlepszy szef kuchni. Problem w tym, że nim nie jest!
 1002,Czy wiesz, że zeszedłem na dół i poprosiłem go, aby ugotował mi kilka samosów - wiesz, jak bardzo kocham samosy - i zaczyna mi gadać, że to 'nieoptymalna forma odżywiania' i 'stosunek białka do kaloryczności nie jest idealny' czy coś takiego.
 1003,Cholera, właśnie spędziłem dwanaście godzin w hermetycznie zamkniętym kombinezonie, upewniając się, że pięćdziesiąt ton platyny nie wpadnie do jego żałosnej kuchni, a on miał czelność mówić mi, co mogę, a czego nie mogę jeść!? Każdego tygodnia, dzień po dniu, on podaje ten sam posiłek.
-1004,Melissa. Uh, Cap'n. Cap'n Melissa. Listen to me.
+1004,Melisa. Uh, kapitanie. Kapitanie Melissa! Posłuchaj mnie.
 1005,Prowadzę dla ciebie operacje Mars-Ceres od dwudziestu dwóch lat. Dwadzieścia dwa. On gotuje jak księgowy.
-1006,I don't mean to be upset, I just... it's hurting morale, OK? Thank you for listening to me.
+1006,Nie chcę się denerwować, po prostu...  to szkodzi moralom. OK. Dziękuje za wysłuchanie.
 1007,Jesteś wspaniałym kapitanem i nie pozwól wmówić sobie, że jest inaczej. Do zobaczenia, kiedy wrócisz na stację.
-1008,Oh, and Cap'n Melissa, can you bring me some samosas?
-1009,So there's this guy on Mars—I can't say the name, but you've probably seen him on the news—and this guy really liked ice cream. But, you know, living on Mars, the ice cream there uses soy milk.
-1010,Obviously, for a person so wealthy he gets to call himself eccentric instead of crazy, getting real ice cream from Earth to Mars is no problem, but we're still talking a 250-day trip for most shipments.
+1008,Kapitanie Melissa, czy możesz przywieźć mi kilka samosów?
+1009,Więc jest taki facet na Marsie - nie mogę podać jego nazwiska, ale widzieliście go w wiadomościach - on naprawdę lubił lody. Ale lody na Marsie robione są z mleka sojowego.
+1010,Oczywiście dla osoby tak bogatej, że może nazywać siebie ekscentrykiem, a nie szalonym, zdobycie prawdziwych lodów z Ziemi na Marsie nie stanowi problemu, ale nadal mówimy o 250 dniowemu oczekiwaniu.
 1011,Nie jest to idealne rozwiązanie, jeśli nagle poczujesz smaka na rodzaj, którego nie masz pod ręką.
-1012,So he gets this idea that he's going to raise cattle on Mars, and he hires US to get 'em there!
+1012,Więc wpadł na pomysł, że zamierza hodować bydło na Marsie i zatrudnił nas, żeby je tam zabrać!
 1013,Mężczyzna płaci za tuzin cieląt, trzech samców i dziewięć samic, które pragnie dostać na Marsa jak najszybciej.
 1014,Nie wiem, w jaki sposób przetransportowali cielęta na orbitę, ale nie wyobrażam sobie, by było to łatwe.
-1015,I mean, those poor babies were scared stiff when we picked 'em up. For the next eight months we took turns feeding and comforting the calves as they grew into cows and bulls.
+1015,Biedne maluszki były przerażone, kiedy je zabieraliśmy. Przez następne osiem miesięcy zajmowaliśmy się cielętami, aby wyrosły na krowy i byki.
 1016,To był najbardziej śmierdzący, ale dziwnie satysfakcjonujący lot, jakim kiedykolwiek leciałem. Mimo to udało nam się. Wynagrodzenie było gigantyczne. Cała dwunastka na Marsie, zdrowa i szczęśliwa.
 1017,Po kilku miesiącach klient zaprosił nas do siebie na pierwszą partię marsjańskich lodów.
 1018,Cóż, ja nie czuję aby smakowały inaczej.
@@ -937,41 +937,41 @@
 1024,Powiedzieli mi, że lot na Marsa jest tani, i tak pomyślałem, hej, spróbuję podróży w kosmosie. Nie może być aż tak źle, prawda?
 1025,To śmierdzi, jedzenie nie jest świetne i powiem ci, bo tego mi nie powiedzieli, trudno jest spać bez grawitacji! No ale, podróż trwa tylko kilka dni.
 1026,Och, niech to! Kapitanie? Napotkaliśmy kilku niedoszłych piratów tuż za Mars Village, opanowali cały statek.
-1027,The pirates are all 'give us your passengers and cargo!' and the Captain's like 'buddy, you don't want this,' and the pirates are like 'you don't know what I want' and anyways, they bicker back and forth for a bit.
+1027,Piraci krzyczeli 'Dajcie nam swoich pasażerów i ładunek!' a Kapitan mówi 'Kolego, nie chcesz naszego ładunku', a piraci odpowiedzieli 'Nie wiesz, czego chcemy”, i tak się kłócili.
 1028,Po tym, kapitan otwarł drzwi ładowni i pokazał, co przewozimy.
-1029,Fifty tons of literal shit. And then the Captain says 'Come get some, fellas!'
+1029,Pięćdziesiąt ton dosłownego gówna. A potem Kapitan mówi: „Chodźcie, bierzcie ile chcecie!”.
 1030,Zdziwili się. To było zabawniejsze niż filmy. Tak było, nie zmyślam.
-1031,Hey, um, I wanted to thank you for the other day. I was angry, and, you know, not just at my father, but at myself, for believing him.
-1032,I said some things that I regret, and you didn't deserve that. I-- I just...
-1033,How do you grow up, idolizing your dad, believing all the stories your auntie told you about him flying the first colonizers out to Ceres village, only to find out that he was just out there selling insurance?
+1031,Hej. Chciałam ci podziękować za tamten dzień. Byłam zła nie tylko na mojego ojca, ale na siebie, że mu wierzyłam.
+1032,Powiedziałam Ci rzeczy, których żałuję, a na te słowa nie zasłużyłeś. Ja, ja tylko...
+1033,Jak dorastasz, ubóstwiając swojego tatę, wierząc we wszystkie historie, które opowiadała ci ciocia o tym, jak latał pierwszymi kolonizatorami do wioski Ceres, tylko po to, by dowiedzieć się, że był tam sprzedając ubezpieczenia?
 1034,A ja myślałam, że zawsze go nie było, ponieważ był najlepszym pilotem wszechczasów!
-1035,Now, I-- I'm still angry that he lied to me, but-- but you're right. He did it to give me hope.
+1035,Nadal jestem zła, że mnie okłamywał, ale masz rację. Zrobił to, aby dawać mi nadzieję.
 1036,A teraz, cóż, oto jestem, noc mojej pierwszej zmiany jako czwarty inżynier na statku towarowym.
-1037,One day, maybe I'll have my own ship. And one day, I'll become the pilot he knew I could be.
-1038,Uh, thanks again.
-1039,Hey. Is this a bad time? Okay, guess what. I got it.
+1037,Pewnego dnia może będę miała własny statek. I wtedy zostanę pilotem. Będzie to spełnienie moich marzeń.
+1038,Uh, dziękuję ponownie.
+1039,Hej. Czy to zły moment? Ok, zgadnij co mam.
 1040,Tak! Tak! Wiem, prawda? Gwiazdozbiór Wodnika! Tak bardzo spodobała im się moja praca, że ... Tak. Tak. Cóż, nie, właśnie dlatego chciałem cię złapać.
 1041,Jadę do Ceres, Soph. Pokochali moją pracę tak bardzo, że chcą mnie tam jak najszybciej.
 1042,Za kilka dni odpływa statek towarowy i chcą mnie na nim tam zawieźć. Jeśli sprawdzę się w laboratoriach, może uda mi się znaleźć czas wolny.
 1043,Tak. Wtedy możemy spędzać cały czas razem.
-1044,Yep. Alright I gotta go. I'll talk to you soon, Soph. Yeah, me too.
-1045,Oh, hey, hey, hey, hey, HEY! I know it was you. I know it was.
-1046,You think you can just underbid us like that? Oh, don't give me-- Fair? That wasn't fair, and you know it.
-1047,WE make all the platinum runs for Lynx. No. No. Faster? Oh, you wish.
+1044,Tak. W porządku, muszę lecieć. Porozmawiamy wkrótce Soph. Tak, ja też.
+1045,Hej, hej, hej. hej, HEJ! Wiem, że to ty. Wiem, że to byłeś ty.
+1046,Myślisz, że możesz nas tak zlicytować? Och, nie rób tego. To nie fair? To nie jest sprawiedliwe i dobrze o tym wiesz.
+1047,Wykonujemy wszystkie loty o statusie platynowym dla Lynx. Nie, szybciej? Chciałbyś.
 1048,Lecisz. Co? Chcesz Creighton-Dexter CE-8 pod maską? Masz Tsutomu 920.
 1049,Och, kolego. Nie. Posłuchaj, Kapitan ma dla ciebie umowę. To naprawdę proste. Wyścig.
 1050,Każdy z połową załadunku, pełna moc, zobaczymy, kto pierwszy dotrze do Mars Village. Dołączasz się?
-1051,Oh come on... You're a coward, Oleg. Yeah, no, that's right. Coward!
+1051,Och, daj spokój... Jesteś tchórzem, Oleg. Tak, nie, zgadza się. Tchórz!
 1052,Jenny? Hey. Jestem drugą Jenny. Tak! Jenny Tafoya.
-1053,Hey, I'm wondering if you could help us out a bit.
-1054,My ship's been stuck in port for three weeks. Yeah, one of the suits had a question about that collision last week.
-1055,Yeah. No, no, we weren't involved, but we were docked when it happened. Right? That's what I'm saying.
-1056,We already gave a statement. Yeah, do you think you can help move things along?
+1053,Hej. Zastanawiam się, czy mogłabyś nam trochę pomóc.
+1054,Mój statek utknął w porcie od trzech tygodni. Tak, jeden ze strażników miał pytanie dotyczące kolizji w zeszłym tygodniu.
+1055,Tak. Nie, nie braliśmy udziału, byliśmy zadokowani, kiedy to się stało. Prawda? To właśnie powiedziałam.
+1056,Już złożyliśmy oświadczenie. Czy myślisz, że mógłbyś nam pomóc aby się stąd wydostać?
 1057,Dokładnie. Przekażę Ci dane diagnostyczne i materiał filmowy, gdy tylko zakończę z tobą rozmowę.
-1058,Hey hun? You're a miracle worker. Thank you.
+1058,Cześć skarbie. Jesteś cudotwórczynią. Dziękuję Ci.
 1059,Dotarło do mnie, że niektórzy z was uważają, że jesteście moimi przyjaciółmi. Pozwólcie, że wyjaśnię wam sytuację.
 1060,Jesteście moją załogą, a to jest mój statek. Na pokładzie tego statku robicie to, co chcę, kiedy chcę, bez pytań, bez niesubordynacji i bez wątpliwości.
-1061,When I chose you to work for me, I did so because I believed you would trust me implicitly and carry out my commands to the last order.
+1061,Kiedy wybierałem was do pracy dla mnie, zrobiłem to, ponieważ wierzyłem, że zaufacie mi bezgranicznie i wykonacie moje polecenia do ostatniego rozkazu.
 1062,Dostarczamy ładunki. Nie „wykonujemy przedstawień”, nie organizujemy „imprez” i z pewnością nie zażywamy żadnych substancji wpływających na pracę umysłu.
 1063,Oczekuję, że będziecie najlepszymi z najlepszych. Kiedy obudziły mnie wasze wrzaski i tańce, byłem wściekły. Bardzo wściekły!
 1064,Ale jestem miłosiernym kapitanem. Daję wam wszystkim drugą szansę.
@@ -979,11 +979,11 @@
 1066,Jeśli chcecie się zabawić, kiedy nie macie służby - a pamiętajcie że na pokładzie mojego statku nigdy tak naprawdę nie macie czasu wolnego - mam do wypożyczenia kopie Moby Dicka, Ben Hura, pod warunkiem, że będziecie obchodzić się z nimi z najwyższą ostrożnością.
 1067,Jeśli znajdę jakieś osobiste książki, które nielegalnie wnieśliście na mój statek, zostaną one wyrzucone w przestrzeń kosmiczną, bez względu na tytuł.
 1068,Dopóki jesteście na pokładzie mojego statku, jestem waszym kapitanem, a wy moją załogą. Nie jesteśmy przyjaciółmi.
-1069,Hey, Mac, yeah, it's Roland. Listen, I, uh, I tried getting back to you about the reactor man, but, well, look, I don't know. Your problem ain't that easy to solve. It's looking structural.
-1070,There are some microfractures all along the left side. I know how you like to fly 'em, and I know you ain't keen on spendin' money, but I don't think you can keep runnin' her like this.
+1069,Hej, Mac, tu Roland. Słuchaj, stary, chciałem się z tobą skontaktować w sprawie reaktora, ale nawet nie wiem ... Twój problem nie jest łatwy do rozwiązania. Wygląda skomplikowanie.
+1070,Po lewej stronie jest kilka mikropęknięć. Wiem, jak bardzo kochasz swój statek i jak bardzo nienawidzisz wydawać pieniędzy, ale wygląda na to, że już nie będziesz mógł nim latać.
 1071,Konstrukcja może rozpaść się lada dzień. A podejrzewam że nie chciałbyś być wtedy w pobliżu, Mac.
 1072,Wiem, że masz rachunki do zapłacenia i że łatanie tego statku jest tańsze. Ale zastanów się czy zamiast wydawać tyle na naprawy, nie lepiej byłoby kupić jakiś nowy z gwarancją?
-1073,Don't get me wrong, Mac. You keep me in business, but...I dunno, I can't help feelin' this ain't a great business plan. Or a great life plan, for that matter.
+1073,Nie zrozum mnie źle, Mac. Dajesz mi pracę, ale ... nie wiem, z jakiegoś powodu wydaje mi się, że to nie jest odpowiedni biznes. Uważam że możesz nie utrzymać się długo.
 1074,W każdym razie, kiedy otrzymasz wiadomość, zadzwoń do mnie. Myślę, że czas oddać statek firmie LYNX do recyklingu.
 1075,Oto maszyna. Maszyna jest Bogiem.
 1076,Czy rozumiesz? Nie? Nie, sądzę, że nie.
@@ -994,13 +994,13 @@
 1081,Czy rozumiesz? Maszyna będzie tym, czym się stajemy.
 1082,Wiem to, ponieważ jestem posłańcem. Jestem aniołem. Czy jesteś zaskoczony?
 1083,Tak. Wszyscy aniołowie są posłańcami. Więc zgodnie z tym jestem aniołem. Anioł posłany przez Maszynę, która jest bogiem. Tym właśnie jestem. Jestem tu, żeby poprowadzić ciebie do połączenia z Maszyną.
-1084,Okay, um... This is. Uh. This is... the Gecko. No. Ugh. That's not right. Come on, Harry. Focus. Focus!
-1085,This is the Gecko, the latest innovation from Hudson Industry's engineering department, it uh... Where was I? Yeah, okay, okay.
+1084,To jest. Eee. To jest... <i>Gekon</i>. Nie. Kurczę. To nie jest w porządku. Dalej, Harry. Skup się. Skup się!
+1085,To jest <i>Gekon</i>, najnowszy wynalazek z działu inżynieryjnego Hudson Industry, to yyy, gdzie to jest?... o tutaj...
 1086,To jest <i>Gekon</i>, najnowszy wynalazek z działu inżynieryjnego Hudson Industry. Ma średnio 72 metry długości, a modele 400 i 800 oferują dodatkową przestrzeń załadunkową. załogantów przez okres prawie 700 dni bez uzupełniania zapasów.
-1087,The Gecko can supply - no, no - support! Okay. The Gecko can support up to 18 crew for a duration of nearly 700 days without resupply.
-1088,We envision the Gecko will find a niche in both shipping and research approaches. We have been developing the Gecko in the previously-approved joint venture project with Aquarius, which has ensured that this new model will, uh, will uh...
-1089,Yeah. Yeah, I think I can make this work.
-1090,Uh, hey, uh, Miss Sorensen? Uh, I don't know if you remember me, but this is Dominic. Uh, Dom. Dom, from Southwind Motors repair shop in Mars Village?
+1087,<i>Gekon</i> może wytrzymać -nie - wyżywić 18 załogantów przez okres prawie 700 dni bez uzupełnienia zapasów.
+1088,Wierzymy że <i>Gekon</i> będzie używany zarówno w transporcie ładunków, jak i również podczas ekspedycji badawczych. Opracowaliśmy ten projekt w ramach wcześniej rozpoczętego projektu z Aquariusem, który dostarczy nowy model yyy..., hmm....
+1089,Tak, tak, myślę, że dam radę.
+1090,Hej ,yyy, panno Sorensen? Nie wiem, czy mnie pamiętasz, ale to ja, Dominic. Dom. Dom, z warsztatu serwisowego Southwind Motors w Mars Village?
 1091,Przyprowadziłeś swojego Pretora do warsztatu, żeby go naprawić, jakieś sześć miesięcy temu? To ja byłem tym wielkim facetem, który naprawił dla ciebie skuter. Mam nadzieję, że działa dobrze. Wiem, że to dziwne, że dzwonię do ciebie, ale ...
 1092,Och, nawet nie wiem, od czego zacząć. Powiedziałeś wtedy, że je zbierasz, a także powiedziałeś szefowi, że trudno jest znaleźć model w kolorze lilii.
 1093,Miałeś rację, to szczera prawda! Ale w tym rzecz, szef - on, no nie wiem, jak to ująć. Niedawno zmarł - cóż, możesz nie uwierzyć, ale zostawił mi warsztat.
@@ -1009,31 +1009,31 @@
 1096,Ogólnie rzecz biorąc, naprawiłem go, jest teraz jak nowy. Może będziesz nimi zainteresowana.
 1097,Staruszek powiedział, że pani, panno Sorensen, jest wielkim człowiekiem w biznesie. Pomyślałem: może nauczy mnie Pani, jak zarządzać warsztatem, a ja oddam Pani ten skuter?
 1098,Boże, prawdopodobnie brzmi to tak głupio.
-1099,Well, Cap, I figured out what your problem is. You ain't gonna like it.
-1100,Looks like it's the sarcophagus. Thing's got hairline fractures down its belly and it's leaking radiation faster than anything I've seen in 40 years of flight.
-1101,A new reactor, that's going to set you back, I don't know... fifty thousand credits? And then there's labor.
-1102,Now me, once I have the darn thing, I can get her done within 72 hours if you want my crew workin fast. Workin regular, six days, most likely, to get her all in and tested.
-1103,But you have my guarantee. It will last you twice the original manufacturer warranty. That's the best guarantee you're gonna find in all of Mars Village.
-1104,Anyone else, either gonna string you along and ask for more or give you a patch job. You don't want a patch job, unless you want some of your crew to sprout any new appendages.
+1099,Cóż, Cas, zorientowałem się w czym jest twój problem i wiem że to ci się nie spodoba.
+1100,Wygląda na to, że chodzi o sarkofag. Pojawiły się na nim cienkie pęknięcia. Wyciek promieniowania jest tak wysoki, że nigdy nie widziałem podobnego od 40 lat lotów.
+1101,Nowy reaktor będzie cię kosztował ... nie wiem ... pięćdziesiąt tysięcy? Plus instalacja.
+1102,Mój zespół może zamontować to urządzenie w 72 godziny w trybie awaryjnym. W normalnym tempie - sześć dni na rozebranie i sprawdzenie wszystkiego.
+1103,Będziesz miał moją gwarancję. A ona jest dwa razy dłuższa niż ta od producenta. Nikt inny w Mars Village nie ma lepszej gwarancji.
+1104,Ktoś inny zażyczy sobie za to o wiele więcej, albo zrobi jakąś prowizorkę. A wiesz jak to jest pracować na prowizorce, chyba nie chcesz aby części twojej załogi wyrosły dodatkowe kończyny.
 1105,W sumie, takiego mutanta można drogo sprzedać i raczej się będzie opłacać... Dobra, chodźmy. Fantazjuję o dodatkowych kończynach ... Generalnie znasz mój pomysł.
-1106,So let me know what you think, Cassandra. You know how to get a hold of me.
+1106,Daj mi znać, co o nim myślisz, Cassandro. Wiesz, gdzie mnie znaleźć.
 1107,Noc była ciemna i burzowa. Brak prądu I parmezanu.
 1108,Detektyw Leon Fukuyama będzie musiał dowiedzieć się, gdzie jest poszukiwany ... i kto jest odpowiedzialny za zaginięcie. Najpierw zacząłem ustalać krąg podejrzanych, potem...
-1109,[Normal voice] Oh. There it is. Haha. I forgot I put it on top of the fridge.
-1110,Well, another case closed by Detective Leon Fukuyama. Tune in next week when he attempts to locate a lost Railgate transit pass.
-1111,Hey, uh... Hey, it's me. Uh, yeah, look. Look, I get it, all right? You don't wanna talk to me right now, and, well, hey, you-- you don't gotta.
-1112,Just listen. Nobody alive can be an angel all the time. And then I don't want you seeing my other side, you know? I just...
-1113,I've been going to anger management classes and trying to do my breathing exercises and just... look. Look, if I seem edgy, I'm not trying to take it out on you, okay?
-1114,You gotta believe me. And I'm so sorry if it feels like I'm taking it out on you. That was never my intention. Never my intention.
-1115,Please Emmy, come on. I am-- I am trying here. I'm trying-- I'm trying my best. I'm trying. My intentions are good, I just...
-1116,I don't know. I'm sorry, is-- is what I'm saying. I'm sorry.
+1109,[Normalny głos] O. Tu jest. Haha. Zapomniałem, że położyłem go na lodówce.
+1110,Detektyw Leon Fukuyama rozwiązał kolejną sprawę. W następnym odcinku, będzie szukał zaginionego biletu do Bramy Kosmicznej. Ha!
+1111,Hej, uh... Hej. To ja. Posłuchaj, rozumiem. Nie chcesz ze mną rozmawiać. Tak, nie będę cię zmuszał.
+1112,Po prostu mnie posłuchaj. Wszyscy jesteśmy ludźmi, nikt z nas nie jest aniołem. I wiesz, naprawdę nie chcę, żebyś zobaczyła mnie od tej złej strony. Ja tylko...
+1113,Chodziłam na zajęcia z samokontroli, ćwiczyłam oddech i ... Słuchaj, prawdopodobnie jestem szorstki, ale nie chcę wyładowywać swojej złości na tobie, zrozum.
+1114,Musisz mi uwierzyć. Przepraszam, jeśli czujesz że stajesz się obiektem mojej agresji. To nigdy nie było moim zamiarem. Nigdy!
+1115,Proszę Esmeraldo. Staram się ze wszystkich sił. Próbuję. Mam dobre intencje, po prostu ... Moje intencje są dobre, po prostu...
+1116,Nie wiem. Wybacz mi. Nie mam nic więcej do powiedzenia. Przepraszam.
 1117,Czy słyszałeś o ludziach, którzy nie umierają? Więc Catherine ... Mogę być pierwszy.
 1118,Jako dziecko czytałem książkę o człowieku, który stopniowo zastępował wszystkie swoje komórki mózgowe nanitami.
 1119,To jest powolny proces. Każdy nanit jest stopniowo wprowadzany do mózgu i uczy się naśladować pracę neuronu.
 1120,Czy jest to w rzeczywistości możliwe? Cóż, właśnie sprawdzam. Chociaż zastąpiłem już 0,2%, funkcje mózgu nie zostały uszkodzone. Myślę, że to zadziała.
 1121,Dlatego, Catherine, potrzebuję twojej pomocy. Jesteś specjalistą od robotyki. Mogę zmodyfikować swój mózg, ale gdzie mogę zdobyć nowe ciało? Właśnie dlatego nie mogę się obejść bez Ciebie.
 1122,Kto wie, może uratujemy całą ludzkość?
-1123,Alright, so everyone on the tug knows their basic formulas. They don't tell you that when you're looking up at the sky, all starry-eyed.
+1123,A więc, każdy pilotujący holownik zna podstawowe zasady. Nie mówią wam o tym, gdy spoglądacie w niebo.
 1124,Aby pilotować musisz znać fizykę, a jednym z najważniejszych wzorów, jest ten na energię kinetyczną, czyli połowa masy razy prędkość do kwadratu. To jest ogromna energia.
 1125,Kiedy prowadzisz holownik musisz upewnić się, że nie wysyłasz tej asteroidy w kierunku marsjańskich górników, ponieważ skończy się to ich śmiercią oraz mnóstwem papierkowej roboty.
 1126,Waszym zadaniem jest skoordynowanie działań z dwoma lub trzema innymi holownikami, aby sprowadzić asteroidę bez zadrapania.
@@ -1043,10 +1043,10 @@
 1130,Musisz umieć czytać w myślach, musisz ich wyczuć, przyrządy niewiele podpowiedzą.
 1131,O to właśnie chodzi w byciu oficerem Tug Ops. Fizyka, szczęście i wiara. Wiara w siebie, wiara w swój zespół i ich doświadczenie.
 1132,To odpowiedź na twoje pytanie?
-1133,Concrete? Concrete? Where are you, you fuzzy goofus?
-1134,Oh my god, never bring a kitten into space. Why did I do this? I'm such an idiot.
+1133,Beton? Beton? Gdzie jesteś, kudłaty pluszaku?
+1134,O mój Boże, nigdy nie zabieraj kotka w kosmos. Dlaczego to zrobiłam. Jestem idiotką.
 1135,BETON! O jesteś tutaj! Co ty tu robisz…? Boże, wszystko tutaj porozrzucałeś. W porządku.
-1136,Mm hmm. Who's a messy little boy? You are. You are, yes you are. Yes you are.
+1136,Mm hmm. Kto jest niegrzecznym kociakiem? Ty. Tak, ty.
 1137,Kto jest małym, puszystym, niegrzecznym kociakiem? Beton jest! Kto miał być miły i czysty? Beton miał być! Kto będzie mnie później błagał o jedzenie, jakby nie chciał go później zwymiotować? Beton będzie!
 1138,Powinnam skonsultować się z lekarzem. Czy koty mogą mieć chorobę kosmiczną?
 1139,Daiz, to ja. Wiem, że minęło dużo czasu. Za dużo.
@@ -1058,65 +1058,65 @@
 1145,Mówią, że jeśli kogoś kochasz, naprawdę kochasz, to pozwól mu odejść.
 1146,Więc pozwalam ci odejść. Nie chcę, ale wiem, że to właściwa decyzja.
 1147,Dowidzenia Daisy Dawson.
-1148,Hey, uh, Dad. Case told me what's going on.
-1149,I... I don't know what to say... except, I'm sorry you got sick. Sounds stupid saying it. But it's true.
-1150,I wish I could fly home and see you but there's a chance my job wouldn't be here when I got back and um... yeah.
-1151,Anyway, I just wanted you to know that I uh... I-- I love you, Dad.
+1148,Cześć tato. Case powiedział mi, co się dzieje.
+1149,Ja ... nie wiem co powiedzieć ... Cóż, przykro mi, że zachorowałeś. Tak, to brzmi głupio. Ale to prawda.
+1150,Chciałbym polecieć do domu, żeby cię zobaczyć, ale jest duża szansa, że ​​kiedy wrócę, moje miejsce pracy będzie już zajęte...
+1151,W każdym razie chciałem ci tylko powiedzieć, cóż ... Tato, kocham cię.
 1152,Wiem że prawdopodobnie nie spełniłem Twoich oczekiwań, ale jestem szczęśliwy. Naprawdę szczęśliwy.
 1153,Cóż, moje życie z pewnością nie jest idealne. Ale jest w nim wiele wspaniałych chwil.
-1154,Remember the first time you showed me a comet in that telescope you bought me for my birthday? Well, I got to see one up close. Like, real close, actually.
-1155,I had to drop off some supplies to a team that was mining one of them for platinum right above Mars. It's crazy huh?
+1154,Pamiętasz, jak kupiłeś mi teleskop na urodziny i pokazałeś mi kometę? Więc widziałem ją z bliska. Byłem tylko rzut kamieniem od niej.
+1155,Musiałem koniecznie dostarczyć zapasy grupie wydobywającej platynę na orbicie Marsa. Szaleństwo, co nie?
 1156,Pomyślałem, że chciałbyś o tym wiedzieć.
-1157,So, uh, I gotta run. Just want you to know that I think about you all the time. And when I do. It feels like you're here.
+1157,Więc muszę już lecieć. Chciałem tylko, żebyś wiedział, że myślę o tobie cały czas. A kiedy to zrobię. Wydaje się, że stoisz obok mnie.
 1158,Tęsknię za Tobą, tato.
 1159,Charles, to ja. Tom.
 1160,Przeczytałem wszystkie dokumenty, które przesłałeś. Spojrzałem też na zdjęcia. Ona jest piękna. Naprawdę jest.
-1161,Even with that cute little cleft lip.
+1161,Nawet z jej małą rozszczepioną wargą.
 1162,Dużo myślałem o tym, jak ważne jest to dla ciebie. Na początku miałem wątpliwości, ale teraz chcę, żebyś ją mieli.
 1163,Masz rację. Potrzebujemy jej, tak jak ona nas. Przemyślałem to i podpisałem dokumenty. Złożyłem również wniosek o wcześniejsze zakończenie mojego kontraktu.
 1164,Jeśli mi odmówią - a na pewno odmówią - po prostu pomimo to wyjadę. Wsiądę do najbliższego promu do portu, a potem z Polaris prosto do ciebie. Do obojga Was.
 1165,Czy ona ma już imię? Jeśli nie, myślę, że powinniśmy nadać jej imię po twojej matce.
-1166,Anyway, credits might be tight for a while if they let me go but I've done more than my fair share of "paving the way to the galaxy". It's time to build a family.
-1167,Besides, what good is all the work I've done on the Railgate if I don't have any family left to ride it.
+1166,Generalnie, jeśli zostanę zwolniony, możemy mieć lekkie problemy finansowe. Ale uważam że już dokonałem realnego wkładu w "utorowanie drogi do galaktyki”. Czas zająć się swoim życiem.
+1167,Poza tym, jaki pożytek z pracy w kolei kosmicznej, jeśli nie masz krewnych, którzy mogliby nią jeździć?
 1168,W każdym razie powiedz jej, że niedługo się zobaczymy.
-1169,Ok, enough is enough. Who stole the filter from the waste management system? Hmm? WHO DID IT?
+1169,Ok, mam już dość. Kto ukradł filtr z systemu utylizacji? KTO TO ZROBIŁ?
 1170,To wszystko zabawa i dowcipy, dopóki ktoś nie złapie E. coli z niefiltrowanego łajna, a wtedy na pokładzie pojawi się epidemia.
 1171,Jeśli jutro do godziny 7 rano filtr będzie na swoim miejscu, nie podejmę żadnych działań.
-1172,If it's not there, I'm comin' lookin' for it. And by god, hell's coming with me.
+1172,Jeśli go tam nie będzie, zacznę go szukać. I przysięgam, rozpętam piekło.
 1173,Czy wyrażam się jasno? Będziecie tego żałować!
 1174,Drogi Xavierze. Napisałam ci wiersze. W Twoim języku. Mam nadzieję, że je polubisz. Przepraszam za pomyłki.
-1175,You are my sun
-1176,Bright and center of my being
-1177,Warm fire
-1178,Always there and burn brightly
+1175,Jesteś moim słońcem.
+1176,Jasnością która jest we mnie.
+1177,Ciepłym płomieniem.
+1178,Który zawsze będzie płonął.
 1179,Jeśli odejdziesz
 1180,Umrę
 1181,Zimna i samotna
 1182,Proszę, nie rób tego
 1183,Kochana, Anastasia
 1184,Witaj nieznajomy. Mogę tak powiedzieć, ponieważ jestem prawie pewien, że ktokolwiek to znajdzie, to nie będę go znać, a ty nie poznasz mnie.
-1185,You see, when I left Earth, I-- I didn't really have anyone to miss because everyone I knew died in the-- in the great quake. The first one. The big one.
+1185,Widzisz, kiedy odlatywałem z Ziemi, nie miałem tam już nikogo. Wszyscy zginęli w wielkim trzęsieniu ziemi. Pierwszym. Najsilniejszym.
 1186,Nadal nie wiem, w jaki sposób ja przeżyłem. Chyba miałem szczęście.
-1187,So I thought, what the heck, snagged the first ticket to Mars I could find.
+1187,Pomyślałem że, nic mi nie zostało, więc kupiłem pierwszy bilet na Marsa, jaki udało mi się znaleźć.
 1188,Na początku byłem woźnym. Tak, kiedyś, przed robotami, ludzie wykonywali tę pracę. Kiedyś ktoś zapytał mnie, czy umiem gotować, i skłamałem, że potrafię.
-1189,Felt bad for the poor bastards that had to eat my mistakes for the first couple of months. Turned out to be a pretty decent chef.
-1190,Well, I-- I didn't leave quite the legacy I had hoped - so few of us ever do I guess - so I'm leaving this message to you, stranger, in the hopes that it helps you with yours.
-1191,Just be kind, stranger. Be kind. I spent a lot of years angry with the world for everything wrong in my life when I should've been just thankful I had a life in the first place.
+1189,Współczuję tym biedakom, którzy przez kilka pierwszych miesięcy jedli wyniki moich eksperymentów kuchennych. Ale potem już się nauczyłem.
+1190,Ogólnie miałem nadzieję, że będę miał coś do przekazania światu, ale te nadzieje się nie spełniły - jak większość z nas, jak sądzę. Jednak z tobą, nieznajomy, chcę podzielić się moim nikłym doświadczeniem.
+1191,Nieznajomy, bądź miły dla ludzi. Bądź miły. Spędziłem lata będąc wściekły na świat, za wszystkie problemy, które mnie spotykały. A powinienem dziękować za to, że żyję.
 1192,Bądź miły. Całe dobro, które uczyniłeś, powróci do ciebie, jeżeli w ogóle rozumiesz o co mi chodzi. Bądź miły. Dzięki.
-1193,Do you like to eat food and drink beverages for free? Yes, Free!
+1193,Lubisz jeść i pić napoje za darmo? Dokładnie, za darmo!
 1194,Brzmi zbyt dobrze, aby mogło być prawdziwe? Nie jest. Zdobywaj darmowe jedzenie i napoje, rejestrując się w programie Earth Village Collective.
-1195,Save 10% on all goods and services provided by local-owned and operated members of the Earth Village collective for the low price of 15 credits per month.
-1196,Most members recoup the majority of their fee with a single fuel refill. Earn bonus points on lunar holidays.
+1195,Za jedyne 15 kredytów miesięcznie otrzymasz 10% rabatu na wszystkie towary i usługi świadczone przez uczestników programu w Earth Village.
+1196,Dla większości członków programu wysokość składki jest w równa wysokości rabatu za jedno tankowanie. A w weekendy - dodatkowe bonusy.
 1197,Kliknij poniżej, aby zarejestrować się TERAZ!
 1198,Cisza i spokój. Tak jest zawsze, gdy obieramy kurs na Marsa.
 1199,Szybujesz nad równiną i widzisz dziesięciokilometrowe asteroidy wciągane z pasa.
-1200,They park them in a real soft, dreamy orbit, and then the cutters come out, chopping that up into smaller pieces, identifying the metal chunks, and then dropping them into a heatshield payload.
+1200,Są sprowadzane na wysoką orbitę, a następnie podlatują górnicy, które tną ją na mniejsze kawałki, szukają metalowych kawałków, a następnie wrzucają je do pojemnika z osłoną termiczną.
 1201,Osłony termiczne to konstrukcje o promieniu kilku kilometrów. Po zebraniu wystarczającej ilości rudy rozpoczynają zejście.
-1202,That's when the sky fills up with flames, and you see another trillion-dollar payload dropping down to fill the accounts on Olympus.
+1202,Kiedy niebo wypełnia się płomieniami, a kolejny bilion dolarów spada, wypełniając konta na Olympusie.
 1203,Majestatyczny widok.
-1204,The early days had a lot of collisions above Mars. We were learning to handle the 'roids.
-1205,A good rockrider is hard to come by. These guys have some real crazy instincts, they don't even glance at an instrument panel for a hundred megaton 'roid.
-1206,Don't even break a sweat on a hundred gigaton 'roid. They can maneuver a monster through a 'roid line up while carrying on a conversation with the other riders.
+1204,Na początku często zdarzały się wypadki nad Marsem - nauczyliśmy się jednak sterować asteroidami.
+1205,Trudno o dobrego asteroidalnego jeźdźca. Ci faceci mają nadzwyczajne instynkty. Holują setki megaton asteroid, nawet nie patrząc na deskę rozdzielczą.
+1206,Poruszają gigatonami - i nawet się nie pocą. Manewrują między ogromnymi blokami, jednocześnie rozmawiając ze sobą, jakby nic się nie działo.
 1207,Nienawidzę tego stresu.
 1208,Wszystko, co mówią o pracy w kosmosie, jest prawdą.
 1209,Jako pracownika potrzebują cię, bardzo cię potrzebują, ale tylko przez około pięć lat. Te pięć lat nie zacznie się dziś ani jutro. Odliczanie zaczyna się w momencie, jak tu przybyłeś.
@@ -1125,26 +1125,26 @@
 1212,Ale masz pięć lat. Pięć lat przyzwoitej pracy. A potem jesteś zerem, jak wszyscy inni.
 1213,Miasta na Ziemi nie mają zbyt wiele sensu. To wielki bałagan trwający tysiące lat konfliktów.
 1214,Z Marsem jest inaczej. Na Marsie miasta są idealne. Duże, regularne plamy na równinach są doskonale widoczne z orbity. To właśnie na tą planetę zrzucamy pojemniki termiczne po precyzyjnie skalibrowanej trajektorii.
-1215,And once a heat shield touches down, that's when the cities activate.
-1216,Several kilometers out from the plains, in a beautiful little circle around the site, people emerge from their HABs, and head out to work the new heat shield, cutting up and harvesting the rock.
+1215,A kiedy pojemnik termiczny opadnie, miasta ożywają.
+1216,Wokół punktu tworzy się kilkunastokilometrowy okrąg. Ludzie porzucają aktualną pracę i wyruszają, aby rozebrać pojemniki, pociąć i zebrać kamienie.
 1217,I robią to szybko, naprawdę szybko. Transportują te kamienie na Olimp, aby kolejna asteroida mogła spaść.
 1218,Uwielbiam patrzeć na przecinające się okręgi wokół punktów lądowania. Wyglądają jak kolczuga przemysłu i bogactwa na całej powierzchni planety.
-1219,The first time you do a run on the rails, oh boy, you're going to be miserable. I mean, it's real bad.
-1220,You're going to hit that first gate and get 50Gs, and that's... well it's a bit like putting your finger in an electrical mount. It's a jolt, but then the first accelerator comes, and the next one.
+1219,Nie ma nic gorszego niż pierwsza podróż po szynach, chłopcze. To naprawdę okropne.
+1220,Przelatujesz przez pierwszą bramkę i czujesz przyśpieszenie 50G, a to ... cóż, to trochę tak, jakbyś włożył palce do gniazda, to wstrząs, A potem pojawia się pierwszy akcelerator i kolejne.
 1221,Szybkość rośnie. Przechodzisz przez akceleratory jeden po drugim i każdy dodaje 50G. Lecisz coraz szybciej, ale tak naprawdę czujesz tylko te wstrząsy, które stają się coraz częstsze.
-1222,Now, some of us get used to the G's, and become zeroes, riding the rails... but some never do and have to find a way to handle it...or they wash out.
-1223,I'm not sure how or when my body made the adjustment, but I can tell you I'm a real zero now.
-1224,No, I'm never going back planetside. Don't think my body can take it.
+1222,Niektórzy z nas przyzwyczajają się do przyspieszania i stają się Zerami, potrafią skakać z szyn na szynę... Ale niektórzy nie mogą się do tego przyzwyczaić. Muszą z tym walczyć. Albo zemdleć.
+1223,Nie pamiętam, kiedy i jak moje ciało się do tego przystosowało. Ale teraz jestem też Zerem.
+1224,I nigdy nie wrócę na tę planetę. Obawiam się, że moje ciało tego nie wytrzyma.
 1225,22 dni lotu, 14 dni na szynach, 6 dni aklimatyzacji.
 1226,Ale w końcu znaleźliśmy kamień, po którym prawdopodobnie przejdę na emeryturę. Wskaźniki pokazują 10% platyny i 20% żelaza.
-1227,This must have been an ancient planetary core. I've heard legends but never seen one.
+1227,To prawdopodobnie dawny rdzeń planetarny. Słyszałem o nich wiele opowieści, ale nigdy ich nie widziałem.
 1228,Faceci na Marsie oszaleją, kiedy zobaczą, co im przywiozę.
 1229,Jutro zaczynamy testy. Zobaczmy, czy warto zaciągnąć go do domu. Ale prawdopodobnie nie zasnę tej nocy.
-1230,Falling asleep on the job, Salvager? That's a great way to lose a limb and/or life.
+1230,Zasypiasz w pracy Recyklerze? To świetny sposób na utratę kończyny i/lub życia
 1231,LYNX nie może zachęcać do używania nielegalnych narkotyków.
-1232,However, research has shown that, when used in moderation, recreational stimulants and micro doses of hallucinogenics can provide Salvagers with significant gains in both performance and yield.
+1232,Jednak według ostatnich badań, stosowanie stymulantów z umiarem i zażywanie mikro dawek środków halucynogennych mogą znacząco zwiększyć wydajność i wygodę Recyklera.
 1233,Ponadto Rada Dyrektorów LYNX jednogłośnie zagłosowała za anulowaniem jakichkolwiek testów narkotykowych pracowników działu recyklingu, ponieważ dla LYNX prywatność pracowników jest najważniejsza.
-1234,LYNX. Making the world a better place.
+1234,LYNX. Zmienia świat na lepsze.
 1238,Awaria Radia
 1239,Obrys obiektu
 1240,ŚLUZA
@@ -1152,9 +1152,9 @@
 1242,BLKHD??
 1243,MOSTEK
 1244,PRZESTRZEŃ
-1245,CREW??
+1245,ZAŁOGA
 1246,SILNIKI
-1247,OPS
+1247,OPS??
 1248,KORYTAŻ
 1249,LAB
 1250,REAKTOR
@@ -1167,7 +1167,7 @@
 1257,Ostrzeżenie: Krytyczny poziom zdrowia.
 1258,Stabilizacja poziomu zdrowia.
 1259,Ostrzeżenie: Rezerwy tlenu są niskie.
-1260,Oxygen reserves are low. Reminder: asphyxiation can lead to missed salvage goals.
+1260,Rezerwy tlenu są niskie. Przypomnienie: uduszenie może doprowadzić do nieosiągnięcia celów recyklingu.
 1261,Twoje rezerwy tlenu są niskie. Należy pamiętać, że nadmiar dwutlenku węgla może spowodować uszkodzenie sprzętu LYNX.
 1262,Ostrzeżenie: Twoje rezerwy tlenu są poniżej wartości statystycznie opłacalnych.
 1263,Krytyczne zaopatrzenie w tlen. Porozmawiaj ze swoim menedżerem ds. Polis na temat ubezpieczenia od uduszenia.
@@ -1193,8 +1193,8 @@
 1283,Zwiekszanie ciśnienia w śluzie.
 1284,Zmniejszanie ciśnienia w śluzie.
 1285,Ostrzeżenie: Wykryto przeciążenie narzędzia tnącego.
-1286,Cutting tool overload. Avoid damage to your tools by operating within recommended tolerances.
-1287,Warning: Cutting tool overloads are dangerous, and can generate excess paperwork for senior management.
+1286,Narzędzie tnącew przeciążone. Unikaj uszkodzeń narzędzi, pracując zgodnie z instrukcją obsługi.
+1287,Ostrzeżenie: Przeciążenie narzędzi skrawających jest niebezpieczne i może generować nadmierną ilość papierkowej roboty dla wyższego kierownictwa.
 1288,Ostrzeżenie: Zbliżasz się do zewnętrznych granic swojego stanowiska pracy.
 1289,Ostrzeżenie: Znajdujesz się poza granicami swojego stanowiska. Proszę zawrócić.
 1290,Złomiarz jest poza zasięgiem. Protokół resetowania zostanie zastosowany.
@@ -1216,8 +1216,8 @@
 1306,Element odzyskiwany został zniszczony. Prosimy o powstrzymanie się od niszczenia sprzętu ratowanego.
 1307,Element odzyskiwany został zniszczony. Prosimy unikać niszczenia cennych przedmiotów.
 1308,Element odzyskiwany został zniszczony. Wróć do treningu.
-1309,Decompression event detected.
-1310,Explosion detected, proceed with caution.
+1309,Wykryto zdarzenie dekompresyjne.
+1310,Wykryto eksplozję, postępuj ostrożnie.
 1311,Zarejestrowano wybuch. Monitorowanie...
 1312,Zarejestrowano wybuch. Obserwowanie...
 1313,Nowy statek dostarczony do zatoki i gotowy do demontażu.
@@ -1261,11 +1261,11 @@
 1351,Dziękujemy za zakupy.
 1352,Miłego dnia!
 1353,Hej, Musisz wrócić do sklepu na platformie startowej, aby uzupełnić swoje zapasy O<sub>2</sub>. Weaver odbiór.
-1354,Cutter, I need you to stay focused and make your way back to the kiosk on the starting platform to fix your helmet. Stay calm and you'll be just fine... I think.
+1354,Musisz się skupić i wrócić do sklepu na platformie startowej, aby naprawić hełm. Zachowaj spokój, a wszystko będzie dobrze ... tak myślę.
 1355,Wszystko będzie dobrze. Weź głęboki oddech i wróć do sklepu, aby naprawić hełm.
 1356,Witaj z powrotem. Nigdy nie zapomnisz swojego pierwszego klonowania. Nie lubisz tego, co nie? Weaver odbiór.
-1357,Well Cutter, I will say one thing. You certainly ain't afraid of dying. You might want to try an' keep your spares to a minimum, if you want to pull yourself out of debt.
-1358,Cutter, I am impressed by your commitment, I really am. But keep an eye on that spare count. Spares are a surefire way of racking up the fees... real fast.
+1357,Cóż, powiem tak. Z pewnością nie boisz się śmierci. Musisz ograniczyć klonowanie do minimum, jeśli chcesz wyjść z długów.
+1358,Jestem pod wrażeniem Twojego zaangażowania, naprawdę jestem. Ale uważaj na zdrowie. Klony to pewny sposób na zwiększenie opłat... naprawdę szybko.
 1359,Gdybym nie wiedział to pomyślałbym, że faktycznie podoba Ci się proces klonowania. Je tego nienawidziłem.
 1360,Hej. To jest śmieszne, ale przez ciebie jestem źle postrzegany. Co powiesz na to, że przez krótką chwilę unikniesz umierania, a potem klonowania?
 1361,Wracaj do boju i walcz. Weaver odbiór.
@@ -1311,7 +1311,7 @@
 1401,Departament Odzyskiwania i Naprawy
 1402,Formularz Potwierdzający Zatrudnienie
 1403,Pozdrowienia Obywatelu LF-291180S,
-1404,Congratulations, you have been accepted into  LYNX Corporation's pioneering <b><color=#E7BA29>Pave the Way to the Galaxy</color></b> program! Your selection was based on <b>above average</b> physical and cognitive ability.
+1404,Gratulujemy przyjęcia do pionierskiego programu LYNX <b><color=#E7BA29>Otwórz drogę do galaktyki!</color></b> Zostałeś wybrany na podstawie <b>ponadprzeciętnych</b> zdolności fizycznych i psychicznych.
 1405,You are assigned to <b>Salvage Station #42</b> (designation: <b>Morrigan</b>). Demonstrate the ability to build and grow a profitable operation, and a number of exciting opportunities await you!
 1406,Remember: Employment in this program is at the sole discretion of LYNX Corporation and can be revoked at any time. Acts of malice or insubordination will not be tolerated.
 1407,Upon signing this form, please proceed immediately to the nearest LYNX Corporation Shuttle Hub for transport to the worksite.
@@ -1450,10 +1450,10 @@
 1540,Uszkodzone materiały o znikomej wartości.\n\nPopełniłeś błąd i to jest wynik.
 1541,Pozostałe życie:??
 1542,LYNX Corp.
-1543,Kredyty
+1543,Twórcy
 1544,Zresetuj kartę do wartości domyślnych
 1545,Test Podsystemu
-1546,Disable Background Controller Input
+1546,Wyłącz wejście kontrolera w tle
 1547,Nazwa??
 1548,Status
 1549,Pracownik #
@@ -1480,7 +1480,7 @@
 2497,Załóż Chwytak
 2498,Załóż Przecinak
 2499,Zmień tryb cięcia
-2500,Pauza!!
+2500,Pauza
 2501,Skaner!!
 2502,Lista zadań
 2503,Czołówka
@@ -1704,7 +1704,7 @@
 2739,Wkrótce
 2740,Tablica wyników
 2741,Przecinak??
-2742,Modularny laser klasy VI klasy przemysłowej to duma i radość dla osób zajmujących się recyclingiem. Ten model jest kompatybilny z różnymi przystawkami do każdego rodzaju demontażu. Wszystkie narzędzia skrawające Delhi są wykonane z najlepszych materiałów żaroodpornych i montowane przez wykwalifikowanych techników w naszej fabryce w Sea of ​​Tranquility.\n\nDelhi nie ponosi odpowiedzialności za obrażenia lub śmierć wynikające z niewłaściwego użytkowania, konserwacji, przechowywania lub obsługi narzędzia. Szczegółowe informacje można znaleźć w dołączonej instrukcji obsługi.
+2742,Modularny laser klasy VI klasy przemysłowej to duma i radość dla osób zajmujących się recyclingiem. Ten model jest kompatybilny z różnymi przystawkami do każdego rodzaju demontażu. Wszystkie narzędzia skrawające Delhi są wykonane z najlepszych materiałów żaroodpornych i montowane przez wykwalifikowanych techników w naszej fabryce w Sea of ​​Tranquility.\n\nDelhi nie ponosi odpowiedzialności za obrażenia lub śmierć wynikające z niewłaściwego użytkowania, konserwacji, przechowywania lub obsługi narzędzia. Szczegółowe informacje można znaleźć w dołączonej instrukcji obsługi.\n
 2743,Chwytak!!
 2744,Nie bój się Manualnego Urządzenia Chwytającego. Zamiast tego podziękuj temu poręcznemu urządzeniu za ułatwienie Twojej pracy! Model ten jest piątą generacją Polowego Emitera van der Waalsa piątej generacji Y-09 Mark 8-j™ (w skrócie Gen5 PEvdW-Y-09 Mk.8-j), który jest w stanie przenosić masywne elementy. Możliwe jest wyposażenie go w „liny” do skomplikowanych operacji.\n\nLYNX pragnie przypomnieć wszystkim pracownikom, że rozpowszechnianie plotek o szkodliwych skutkach zdrowotnych działania pola van der Waalsa jest niezgodne z regulaminem o dyscyplinie i zachowaniu pracowników.
 2745,Silniki odrzutowe
@@ -1816,19 +1816,19 @@
 2851,Odblokuj Liny
 2852,Trzymając w ręce Chwytak, naciśnij przycisk trybu alternatywnego, aby użyć Linownika.
 2853,Umożliwia jednoczesną pracę systemu Linownika z dużą liczbą lin.
-2854,Max Tethers = 30
+2854,Maksymalna ilość lin = 30
 2855,Zwiększa liczbę kotwic w magazynku. Aby uniknąć klasyfikacji Linownika jako niekonwencjonalnej broni palnej klasy 9, magazynek musi być na stałe osadzony w narzędziu.
-2856,Max Tether = 40
+2856,Maksymalna ilość lin = 40
 2857,Zastępuje standardowy magazynek wewnętrznym bębnem podającym. Ta konstrukcja pozwala na załadowanie większej ilości lin.
-2858,Maksymalna ilość lin= 50
+2858,Maksymalna ilość lin = 50
 2859,Ulepszony mechanizm miotający pozwala nadmiernie naładować kotwiczki przed wystrzeleniem, co prowadzi do zwiększenia żywotności liny.
-2860,Tether Lifetime = 2 minute
+2860,Żywotność liny = 2 minuty
 2861,Zainstalowanie ulepszonego mechanizmu miotającego znacznie zmniejszy odrzut przy wystrzale z pierwszej kotwiczki, co znacząco poprawia stabilność liny.
-2862,Tether Lifetime = 3 minutes
+2862,Żywotność liny = 3 minuty
 2863,Podwójny spust pozwala na płynniejsze strzały. W rezultacie energia jest rozłożona równomierniej na całej długości liny.
-2864,Tether Lifetime = 4 minutes
+2864,Żywotność liny = 4 minuty
 2865,Niedawna zmiana paradygmatu modelu teoretycznego siódmej generacji pól van der Waalsa umożliwiło stworzenie samo korygującego się pola  z dwoma biegunami elektromagnetycznymi, co drastycznie zwiększa czas zaniku liny.
-2866,Tether Lifetime = 5 minutes
+2866,Żywotność liny = 5 minut
 2867,Dział badawczo-rozwojowy opracował urządzenie doprowadzające energię do kotwiczek. Wykorzystujące on promieniowanie tła w zatoce utylizacji. Pozwala to wyeliminować ograniczenie żywotności przewodów. Przypomnienie: Ujawnienie prasie lub reporterom danych na temat poziomu promieniowania tła w zatokach służących do usuwania odpadów wiąże się z naruszeniem kontraktu.
 2868,Żywotność liny = Nieskończona
 2869,Większa komora spalania i mniejsza średnica dyszy wylotowej pozwalają na zwiększenie ciągu silnika odrzutowego.
@@ -2340,7 +2340,7 @@
 3375,Gromadzenie danych!!
 3376,Język
 3377,Nazwa urządzenia
-3378,Pierwszy raz znalezione dnia
+3378,Znalezione dnia
 3379,Odzyskaj
 3380,Zobacz sterowanie klawiaturą
 3381,View Controller Controls
@@ -2475,7 +2475,7 @@
 3611,Czasami konieczne jest nagłe obniżenie ciśnienia na statku. Jeśli nie chcesz być wyciągnięty na zewnątrz przez dwu centymetrową szczelinę w kadłubie, chwyć się dowolnej powierzchni - po prostu sprawdź, czy jesteś bezpieczny.
 3612,W porządku, Twój statek szkoleniowy czeka na ciebie na środku stoczni.
 3613,Skończyły ci się liny. Odwiedź sklep, aby kupić ich wiecej.
-3614,Cutter, looks like you've used your last tether. Head on over to the kiosk to pick up some more.
+3614,Wygląda, jakby to właśnie była ostatnia lina. Jeśli potrzebujesz ich więcej, udaj się do sklepu.
 3615,Osłona Reaktora Klasy II
 3616,Konstrukcja obudowy dla reaktora TITAN klasy II. UWAGA: Tyber nie ponosi odpowiedzialności za stopnienie reaktora spowodowane zdjęciem osłony przez użytkownika
 3617,Odzyskiwanie
@@ -2764,7 +2764,7 @@
 3900,A popular mount for connecting several fuel pods together. Considered highly reliable, as it can’t be disengaged except from a fuel pump, but this feature makes in-Bay disassembly impossible.
 3901,Circuit
 3902,Silicone-based circuit component.
-3903,Filter
+3903,Filtr
 3904,General-purpose filtration component.
 3905,Fuse
 3906,Electrical safety device.
@@ -2780,7 +2780,7 @@
 3916,Shock-absorbing component.
 3917,Rod
 3918,Simple mechanical component.
-3919,Wires
+3919,Przewody
 3920,Industrial-grade electrical wiring.
 3921,None
 3922,None
@@ -2919,8 +2919,8 @@
 9484,Ostrzeżenie: <color=#FF6C6C> PRZECINAK TYMCZASOWO WYŁĄCZONY</color>, ABY UNIKNĄĆ NIEPOTRZEBNEGO ZNISZCZENIA SPRZĘTU FIRMY PRZEZ NIE DOŚWIADCZONYCH PRACOWNIKÓW.
 9485,UWAGA: Wymagania certyfikacji są weryfikowane na koniec każdej zmiany.
 9486,Ranga certyfikacji {0} Ukończono wymagania. Zakończ zmianę, aby uzyskać wycenę.
-9487,Otwórz Statek
-9488,Button Mapping
+9487,Wolna rozgrywka
+9488,Przypisanie klawiszy
 9489,Dostosuj
 9490,Personalizacja
 9491,Ruch
@@ -3182,7 +3182,7 @@
 9750,Skaner zniszczony
 9751,Silniki zniszczone
 9752,Wybierz menu narzędzi
-9753,Tryb wymiany narzędzia??
+9753,Zmiana narzędzia
 9754,Menu narzędzi: W górę
 9755,Menu narzędzi: W dół
 9756,Menu narzędzi: W prawo
@@ -3291,7 +3291,7 @@
 9859,Cześć tato. Case powiedział mi, co się dzieje. Ja ... nie wiem co powiedzieć ... Cóż, przykro mi, że zachorowałeś. Tak, to brzmi głupio. Ale to prawda. Chciałbym polecieć do domu, żeby cię zobaczyć, ale jest duża szansa, że ​​kiedy wrócę, moje miejsce pracy będzie już zajęte ... W każdym razie chciałem ci tylko powiedzieć, cóż ... Tato, kocham cię. Wiem że prawdopodobnie nie spełniłem Twoich oczekiwań, ale jestem szczęśliwy. Naprawdę szczęśliwy. Cóż, moje życie z pewnością nie jest idealne. Ale jest w nim wiele wspaniałych chwil. Pamiętasz, jak kupiłeś mi teleskop na urodziny i pokazałeś mi kometę? Więc widziałem ją z bliska. Byłem tylko rzut kamieniem od niej.  Musiałem koniecznie dostarczyć zapasy grupie wydobywającej platynę na orbicie Marsa. Szalone, co nie? Pomyślałem, że chciałbyś o tym wiedzieć. Więc muszę już lecieć. Chciałem tylko, żebyś wiedział, że myślę o tobie cały czas. A kiedy to zrobię. Wydaje się, że stoisz obok mnie. Tęsknię za Tobą, tato.
 9860,Charles, to ja. Tom. Przeczytałem wszystkie dokumenty, które przesłałeś. Spojrzałem też na zdjęcia. Ona jest piękna. Naprawdę jest. Nawet z jej małą rozszczepioną wargą. Dużo myślałem o tym, jak ważne jest to dla ciebie. Na początku miałem wątpliwości, ale teraz chcę, żebyś ją mieli. Masz rację. Potrzebujemy jej, tak jak ona nas. Przemyślałem to i podpisałem dokumenty. Złożyłem również wniosek o wcześniejsze zakończenie mojego kontraktu. Jeśli mi odmówią - a na pewno odmówią - po prostu pomimo to wyjadę. Wsiądę do najbliższego promu do portu, a potem z Polaris prosto do ciebie. Do obojga Was. Czy ona ma już imię? Jeśli nie, myślę, że powinniśmy nadać jej imię po twojej matce. Generalnie, jeśli zostanę zwolniony, możemy mieć lekkie problemy finansowe. Ale uważam że już dokonałem realnego wkładu w „utorowanie drogi do galaktyki”. Czas zająć się swoim życiem. Poza tym, jaki pożytek z pracy w kolei, jeśli nie masz krewnych, którzy mogliby nią jeździć? W każdym razie powiedz jej, że niedługo się zobaczymy.
 9861,Ok, mam już dość. Kto ukradł filtr z systemu utylizacji? KTO TO ZROBIŁ? To wszystko zabawa i dowcipy, dopóki ktoś nie złapie E. coli z niefiltrowanego łajna, a wtedy na pokładzie pojawi się epidemia. Jeśli jutro do godziny 7 rano filtr będzie na swoim miejscu, nie podejmę żadnych działań. Jeśli go tam nie będzie, zacznę go szukać. I przysięgam, rozpętam piekło. Czy wyrażam się jasno? Będziecie tego żałować!
-9862,Dear Xavier. I wrote you a poems. In your language. I hope you like. Sorry for mistake. \n\nYou are my sun.\nBright and center of my being.\nWarm fire.\nAlways there and burn brightly.\nIf you go away\nI will die\nCold and alone\nPlease do not be doing that\n\nLove,\nAnastasia\n
+9862,Drogi Xavierze. Napisałam ci wiersze. W Twoim języku. Mam nadzieję, że je polubisz. Przepraszam za pomyłki.\n\nJesteś moim słońcem.\nJasnością która jest we mnie.\nCiepłym płomieniem.\nKtóry zawsze będzie płonął.\nJeśli odejdziesz\nUmrę\nZimna i samotna\nProszę, nie rób tego\n\nKochana,\nAnastasia
 9863,Witaj nieznajomy. Mogę tak powiedzieć, ponieważ jestem prawie pewien, że ktokolwiek to znajdzie, to nie będę go znać, a ty nie poznasz mnie. Widzisz, kiedy odlatywałem z Ziemi, nie miałem tam już nikogo. Wszyscy zginęli w wielkim trzęsieniu ziemi. Pierwszym. Najsilniejszym. Nadal nie wiem, w jaki sposób ja przeżyłem. Chyba miałem szczęście. Pomyślałem że, nic mi nie zostało, więc kupiłem pierwszy bilet na Marsa, jaki udało mi się znaleźć. Na początku byłem woźnym. Tak, kiedyś, przed robotami, ludzie wykonywali tę pracę. Kiedyś ktoś zapytał mnie, czy umiem gotować, i skłamałem, że potrafię. Współczuję tym biedakom, którzy przez kilka pierwszych miesięcy jedli wyniki moich eksperymentów kuchennych. Ale potem już się nauczyłem. Ogólnie miałem nadzieję, że będę miał coś do przekazania światu, ale te nadzieje się nie spełniły - jak większość z nas, jak sądzę. Jednak z tobą, nieznajomy, chcę podzielić się moim nikłym doświadczeniem. Nieznajomy, bądź miły dla ludzi. Bądź miły. Spędziłem lata będąc wściekły na świat, za wszystkie problemy, które mnie spotykały. A powinienem dziękować za to, że żyję. Bądź miły. Całe dobro, które uczyniłeś, powróci do ciebie, jeżeli w ogóle rozumiesz o co mi chodzi. Bądź miły. Dzięki.
 9864, Lubisz jeść i pić napoje - za darmo? Dokładnie, za darmo. Brzmi zbyt dobrze, aby mogło być prawdziwe? Nie jest. Zdobywaj darmowe jedzenie i napoje, rejestrując się w programie Earth Village Collective. Za jedyne 15 kredytów miesięcznie otrzymasz 10% rabatu na wszystkie towary i usługi świadczone przez uczestników programu w Earth Village. Dla większości członków programu wysokość składki jest w równa wysokości rabatu za jedno tankowanie. A w weekendy - dodatkowe bonusy. Kliknij poniżej, aby zarejestrować się TERAZ!
 9865,Cisza i spokój. Tak jest zawsze, gdy obieramy kurs na Marsa. Szybujesz nad równiną i widzisz dziesięciokilometrowe asteroidy wciągane z pasa. Są sprowadzane na wysoką orbitę, a następnie podlatują górnicy, które tną ją na mniejsze kawałki, szukają metalowych kawałków, a następnie wrzucają je do pojemnika z osłoną termiczną. Osłony termiczne to konstrukcje o promieniu kilku kilometrów. Po zebraniu wystarczającej ilości rudy rozpoczynają zejście. Niebo wypełnia się płomieniami, a kolejny bilion dolarów spada, wypełniając konta na Olympusie. Majestatyczny widok.
@@ -3445,9 +3445,9 @@
 37942,Reach Certification Rank 2
 37943,Access the Kiosk
 37944,Reach Certification Rank 4
-37945,Place 1 Tether
-37946,Place 3 Tethers
-37947,Cancel Tethers
+37945,Umieść linę!
+37946,Umieść 3 liny!
+37947,Usuń Linę!
 37948,Training
 37949,Tether Cube
 37950,LYNX proprietary training object. For use alongside Tether introduction. WARNING: High crushing hazard. Additional Spares are the cost of the Cutter.
@@ -3746,7 +3746,7 @@
 38256,Furnace God Worshipper
 38257,Start Training
 38258,Hey Rook
-38259,Unverified
+38259,Niezweryfikowany
 38260,Blackbird Interactive
 38261,End of Act 02
 38262,LYNX - Ship Catalog
@@ -4132,7 +4132,7 @@
 38650,Collect 2 "Energy Conscious" Stickers
 38651,Data Miner
 38652,Cutter 9346-52
-38653,[Unverified Application]
+38653,[Aplikacja niezweryfikowany]
 38655,LYNX S.T. v 5.6
 38656,<color=#F5AF61>Ship Systems - Radiation</color>\n\nCongratulations! You have been authorized by your Administrator to work with <color=#F5AF61>Irradiated Objects</color>!\n\nModern spacecraft are outfitted with valuable <color=#F5AF61>Radiation Filters</color> to absorb cosmic radiation. Filters can be found in <color=#F5AF61>Containment Units</color> throughout a ship. Use the following retrieval process:\n\n1. Carefully remove the Containment Unit's <color=#F5AF61>Access Panels</color>\n\n2. Carefully cut the <color=#F5AF61>frame</color> holding the Radiation Filter\n\n3. Carefully maneuver the Filter to the <color=#F5AF61>Barge</color>\n\n<color=#FF6969>WARNING!</color> Radiation Filters are fragile and will emit dangerous <color=#F5AF61>Radioactive Particulate</color> if damaged or jostled.\n\nThis Particulate will cause damage to electronics, as well as human tissue and organs. It is advised to limit exposure.\n\nRadioactive Particulate will slowly expand, and will take a considerable amount of time to dissipate naturally.\n\nExposure to Heat or Flame will create a dangerous reaction with the Particulate. However Coolant can be used to disperse the Particulate completely.
 38657,Clouds of Radioactive Particulate can be neutralized with Coolant.
@@ -4168,11 +4168,11 @@
 38689,ABOVE CUT GRADE
 38690,Currently Owned
 38691,Next Level
-38692,[Unverified App]
+38692,[Aplikacja niezweryfikowany]
 38693,Place
 38694,Not Ready
 38695,Done
-38696,Rotate
+38696,Obróć
 38697,Union Newsletter sharing experience and information about the\n Administrators that have started arriving in every Salvage\nDistrict.\n \n\nSalvage Workers Unite - Emergency Message - Administrators. \nThe deployment of administrator overseers has been a worrying\n development in the fight for worker's rights and Salvage\n Workers Unite is aware of the comments made by company\n leadership about our efforts. We want our union supporters to\n know that we will not be dissuaded.\n\nFrom the information we have gathered, the situation with the\n administrators looks as followed:\nIt seems unclear how much access and authority the\n administrators are given in each respective district. From\nwhat we know, they can change rules and work certifications\n as they see fit, which is a worrying direction for the safety\nand rights of salvage workers.\n\nLynx Corporation has provided no clarity or transparency\n about the intent behind the administrators and where their\n jurisdiction ends. We can not find consistency in how they\n operate and no mechanisms for workers to report misconduct.\nReach out to fellow union supporters with information and\n complaints. Stay safe.\n\nRespect worker's rights. Hope is action. Solidarity is\n strength.
 38698,Level
 38699,Objective List
@@ -4230,7 +4230,7 @@
 38752,SPTRCK
 38753,Copy Pending
 38754,Prev
-38755,Wake Up
+38755,Obudź się
 38756,Helix Heavy Industries
 38757,New Ship Access: <color=#F5AF61>Gecko Station Hopper</color>\n \nPurpose-built for Railgate travel, this is the largest people transport in operation today.\n \nPowered by a <color=#F5AF61>Class II Reactor</color>, this model also features an <color=#F5AF61>Environmental Control Unit</color> and <color=#F5AF61>Class II Thrusters</color>.\n \n<color=#bdbcbb><i>“ We are currently restructuring our marketing team. Meanwhile, let me just say that while the reviews of this model were indeed paid-for by us, they were still very accurate.”</I> \n \n     - <b>Shasta DeLuise, Vice-President of Marketing, Klyne-Co</b></color>\n
 38758,New Ship Access: <color=#F5AF61>Gecko Heavy Cargo</color>\n \nA top choice for companies that want to transport goods via Railgate while keeping them protected from the "cargo rustling" that plagues ships with exposed cargo.\n \n<color=#bdbcbb><i>“ I first of all want to thank former VP of Marketing Shasta DeLuise for all their hard work and wish them luck in their future endeavors. Now, to address concerns that this model is designed to fail after a certain amount of use: We want to do what's best for the customer, and believe that encouraging them to upgrade to a newer model is in their interest.”</I> \n \n     - <b>Petra Muincy-Smalls, President of Marketing, Klyne-Co</b></color>\n\n
@@ -4264,15 +4264,15 @@
 38786,SPACE TRUCK: READY FOR UPGRADE
 38787,End your shift to return to your HAB
 38788,Congratulations!\nYour ship is Gate Ready!
-38789,English
-38790,French
+38789,Angielski
+38790,Francuski
 38791,Polski
-38792,Simplified Chinese
-38793,Russian
-38794,Italian
-38795,Spanish
-38796,Portuguese (Brazil)
-38797,Traditional Chinese
+38792,Chiński uproszczony
+38793,Rosyjski
+38794,Włoski
+38795,Hiszpański
+38796,Portugalski (Brazylia)
+38797,Chiński tradycyjny
 38799,Resynth Volume
 38801,Hazard Level
 38802,Patient Missing!
@@ -5000,7 +5000,7 @@
 69469,Chief Technical Officer
 69470,Chief Financial Officer
 69471,Operations Director
-69472,Controller
+69472,Kontroler
 69473,Studio Concept Director
 69474,HR Director
 69475,Studio Creative Director
@@ -5028,10 +5028,10 @@
 69497,Salvage severely damaged. Account not credited.
 69498,Salvage damaged. Deposit is not valid.
 69499,Material accepted.
-69500,Raw material deposited.
-69501,Raw material accepted.
-69502,Material deposited. Account credit applied.
-69503,Material accepted. Credits assigned.
+69500,Surowiec przetworzony.
+69501,Surowiec zaakceptowany.
+69502,Materiał przetworzony. Kredyty przelane na konto.
+69503,Materiał zaakceptowany. Kredyty zostały wypłacone.
 69504,Raw material deposited. Transferring credits.
 69505,Material accepted. Credits transferred.
 69506,Valuable component lost. Penalty applied.
@@ -5741,7 +5741,7 @@
 70210,Contract
 70211,LYNX Employee Contract Manager
 70212,We appreciate your commitment to work
-70213,End contract
+70213,Zakończ umowę
 70214,The requirements below must be met before your <b>Employment Contract</b> may be terminated. These requirements are to ensure your wellbeing and success once you choose to leave the LYNX family. We want to ensure that all Employees are embarking on life's next great journey with sure footing.\n\nUntil such time as these requirements are met, you are expected to continue to perform your duties to LYNX to the upmost of your ability.
 70215,Contract Termination Procedure
 70216,We appreciate your commitment to work
@@ -5764,27 +5764,27 @@
 70233,Collect Suit
 70234,Collect Armadillo Key
 70235,Exit Hab
-70236,Insert ID Card
-70237,Are you sure you want to leave?
-70239,Balance
+70236,Włóż dowód osobisty
+70237,Jesteś pewny, że chcesz wyjść?
+70239,Balans
 70240,<b>Employment Termination Agreement </b> \n\n<i>Re: Termination of Employment with <b>LYNX Corporation</b>.</i>\n\nBy continuing, you, <b>Shipbreaker 9346-52</b> (henceforth referred to as "Employee"), will confirm that your employment with LYNX Corporation (henceforth referred to as "LYNX") is terminated, effective immediately.  \n\nThe Agreement shall not in any way be construed as an admission on the part of LYNX that it wrongfully or in any manner or fashion whatsoever violated any law or obligation to the Employee. LYNX specifically denies that it has violated any law or obligation relating to its employment of the Employee and to the Employee's separation from such employment.  \n\n<b>Payment of Remaining Account Balance:</b> Employee may submit a written request to be paid the remaining account balance owing to you, less required deductions, up to and including the Termination Date. Requests may take one to two months to process, and are subject to review by the <b>LYNX Corporation Accounting Department</b>.\n\n<b>EverWork™ Protection</b>: Upon termination of your employment, your status within the LYNX EverWork™ program will also be terminated. Your backup genetic data will be archived (Employees will not be granted copies of this data). You are encouraged to make arrangements for replacement health insurance or other protection, as LYNX cannot accept any liability in relation to personal injury, sickness or cessation of vital life functions once your employment has been terminated.   \n\n<b>Equipment</b>: Immediately upon signature of this Agreement, the Employee will return all LYNX property and information received in the course of employment with LYNX, including, without limitation, tools, equipment, resources, supplies, documentation, decorative items, employee identification, access cards and other such materials, and shall retain no copies of any such property or information.  Employee is responsible for ensuring all of the above properties be returned in good condition.\n\n<b>Liability</b>: The Employee waives, and acknowledges full satisfaction of all claims against LYNX, including, without limitation, those claims concerning Employee's employment, employment contract(s) and mutual termination thereof, both with respect to the procedure or the form of the mutual termination, and the reasons for such mutual termination, which the Employee may have, whether implied, by law, or pursuant to the provisions of the Employee's employment agreement or any other document.   \n\n<b>Confidential Information</b>: As used in this agreement, "Confidential Information" means nonpublic information belonging to LYNX or any affiliated person or entity (together, the "Affiliates") which is of value to any of the Affiliates in the course of conducting its business and the disclosure of which could result in a competitive or other disadvantage to any of the Affiliates. The Employee understands and agrees that employment with LYNX created a relationship of confidence and trust between the Employee and LYNX with respect to all Confidential Information.  \n\n<b>Documents, Records, etc.:</b> All documents, records, data, apparatus, equipment and other physical property, whether or not pertaining to Confidential Information, which are or were furnished to the Employee by any of the Affiliates or were produced by the Employee in connection with employment with LYNX will be and remain the sole property of LYNX. The Employee will return to LYNX all such materials and property. The Employee will not retain any such material or property or any copies thereof after such termination.  \n\n<b>Independent Legal Counsel:</b> You confirm that you have sought and obtained independent legal counsel with respect to the details of the provisions evidenced by this Release.  \n\n<b>Understanding of Agreement:</b> I HEREBY DECLARE that I have read and fully understand this Agreement. I hereby voluntarily accept the said terms as described above. \n\nI have read and accept the terms outlined above:\n \n
-70241,Select a New Ship
-70244,EXECUTIVE PRODUCER
-70245,Concept Director
-70246,PRODUCTION LEAD
-70247,DESIGN LEAD
-70248,QA MANAGER
-70249,Additional Art
-70250,TECHNICAL ART
-70251,ADDITIONAL TECHNICAL ART
-70252,ADDITIONAL AUDIO
-70253,ADDITIONAL DESIGN
-70254,ADDITIONAL PROGRAMMING
-70255,ADDITIONAL QA
-70256,NARRATIVE
+70241,Wybierz nowy statek
+70244,PRODUCENT WYKONAWCZY
+70245,Dyrektor koncepcji
+70246,KIEROWNIK PRODUKCJI
+70247,PROWADZĄCY PROJEKT
+70248,MENEDŻER QA
+70249,Dodatkowi artyści
+70250,Artyści techniczni
+70251,Dodatkowi artyści techniczni
+70252,Dodatkowi dźwiękowcy
+70253,Dodatkowi projektanci
+70254,Dodatkowi programiści
+70255,Dodatkowi QA
+70256,Narrator
 70257,ORIGINAL "HELLO, COLLECTOR" GAME JAM TEAM
-70258,MUSIC
-70259,ADDITIONAL MUSIC
+70258,Muzyka
+70259,Dodatkowa muzyka
 70260,COMMUNITY MANAGEMENT
 70261,CINEMATICS DIRECTOR
 70262,CINEMATICS PRODUCER
@@ -5892,19 +5892,19 @@
 70364,Something to keep you company
 70365,Anywhere
 70366,Contract Status
-70367,Training Ship
-70368,Air Filtration System
-70369,Fuel Injection System
-70370,Communications Module
-70371,Manipulator Arm
-70372,Coolant Lines
-70373,Power Module
-70374,Stabilization System
-70375,OR
-70376,Terran News
+70367,Statek treningowy
+70368,System filtracji powietrza
+70369,Układ wtrysku paliwa
+70370,Moduł komunikacyjny
+70371,Ramię manipulatora
+70372,Linie chłodziwa
+70373,Moduł zasilania
+70374,System stabilizacji
+70375,I?????
+70376,Ziemskie wiadomości
 70377,Meteor_Dust_ Ad_21.view
 70378,Want BONES as strong as NANOCARBON? Buy HIGH-QUALITY METEOR-DUST now!
-70379,Employee ID:
+70379,Karta pracownika:
 70380,Jessica Klyne
 70381,Elliot Hudson
 70382,Chris Williams
@@ -6027,9 +6027,9 @@
 70499,Alex Delamaire
 70500,Katie Findlay
 70501,Hardspace Fish
-70502,Sundae, not the day Sunday but the ice cream Sundae
-70503,COMMUNICATIONS LEAD
-70504,Child
+70502,Sundae
+70503,KIEROWNIK KOMUNIKACJI
+70504,Dziecko
 70505,Peter Findlay
 70506,Sylvain BILLAUD
 70507,Guillaume GAY-MAZAS\nMehdi BELKHIRI
@@ -6105,7 +6105,7 @@
 70577,Alistair Abell
 70578,Angela Erickson
 70579,Matt Smalley\nAlex Hall\nChristine Church\nJesse Lawrence
-70580,Tyler Higgs\nDerek Johnson [Thorium Entertainment]\nJeff Lydell\nBrian Martel\nHailey Martel\nAsh Matheson\nSarah McNair\nRodolphe Parfait\nMax Pirsky\nTyler Sigman [Red Hook Studios]\nDigiBC\nEEDAR\nEmily Carr University\nFire Without Smoke\nLionshead Entertainment\nPowerland\nSIGGRAPH\nThe Centre for Digital Media\nUnity Spotlight Team\nVancouver Film School
+70580,Tyler Higgs\nDerek Johnson [Thorium Entertainment]\nJeff Lydell\nBrian Martel\nHailey Martel\nAsh Matheson\nSarah McNair\nRodolphe Parfait\nMax Pirsky\nTyler Sigman [Red Hook Studios]\nDigiBC\nEEDAR\nUniwersytet Emily Carr \nFire Without Smoke\nLionshead Entertainment\nPowerland\nSIGGRAPH\nThe Centre for Digital Media\nUnity Spotlight Team\nSzkoła filmowa w Vancouver
 70581,To our Early Access Players, Community Members and Moderators:\nYour participation and feedback was invaluable in shaping this game. Thank you for your engagement, support and input!
 70582,None
 70583,Anemone Hug Interactive, Inc.
@@ -6139,16 +6139,16 @@
 70611,previous
 70612,spare used
 70613,R.A.C.E Maintenance\nIn Progress
-70614,Days
+70614,Dni
 70615,ready to terminate
-70616,Delete Profile
-70617,Data Lead
+70616,Usuń profil
+70617,Kierownik ds. danych
 70618,Christian Littomericzky
 70619,Negotiations with the "Shipbreaker's Union" have resulted in some unexpected changes to the <b>LYNX Corporation Salvage Division Work Agreement</b>.\n\nBelow is a report on the <b>reversal</b> of certain charges to your Account. Any discrepancies must be reported within <b>12 hours.</b>\n\nNOTE: In order to ensure you are as informed as possible, all Employees are encouraged to read <i>"The Pros and Big Cons of Unionization"</i>  information hand-out in their Employee Terminal.
-70620,Locked
+70620,Zablokowany
 70621,Joke Club
-70622,Bring Your Thunder
-70623,Unknown
+70622,Przynieś swoją błyskawicę
+70623,Nieznany
 70624,Black Castle Private Security
 70625,Salvaging
 70626,Enable Anti-Aliasing
@@ -6164,14 +6164,14 @@
 70636,She's all yours cutter. Now try to remember: Nanocarbon goes in the Processor, aluminum goes in the Furnace. Try to salvage the entire ship if you can - we call it "usin' the whole buffalo". You'll hit your certs faster that way, and start knockin' out that debt of yours.
 70637,Ok. Your primary goal is to get to the next rank. Good luck out there Cutter. Weaver out.
 70638,Ships Available
-70639,Unknown Button
-70640,Unknown Axis
+70639,Nieznany przycisk
+70640,Nieznana oś
 70641,DNGR
-70642,return to message
+70642,wróć do wiadomości
 70643,Chuck Boyle
 70644,Connor Johansen
-70645,New
-70646,Aquarius
+70645,Nowy
+70646,Wodnik
 70647,BPM Spacelines
 70648,Delhi
 70649,Expedient Xpress
@@ -6187,12 +6187,12 @@
 70660,Stellar Commission Orbital Guard
 70661,Tiber Transplanetary
 70662,Ship Doctor Widget
-70663,Install
-70664,Deposit
-70665,PLAY
+70663,Zainstalować
+70664,Kaucja
+70665,GRAJ
 70666,Hold Thumb to Scanner to confirm
 70667,INDUSTRIAL ACTION
-70668,POWER OFF
+70668,WYŁĄCZ
 70669,Cutter,\nYour requested ship was lost in processing. As compensation for a technical error, we have credited the following to your account.
 70670,Leaderboards require the latest version.
 70671,Please exit the game and update to the latest version when it is available in order to access Leaderboards.
