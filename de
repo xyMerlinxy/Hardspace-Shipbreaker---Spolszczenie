@@ -1312,36 +1312,36 @@
 1402,Formularz Potwierdzający Zatrudnienie
 1403,Pozdrowienia Obywatelu LF-291180S,
 1404,Gratulujemy przyjęcia do pionierskiego programu LYNX <b><color=#E7BA29>Otwórz drogę do galaktyki!</color></b> Zostałeś wybrany na podstawie <b>ponadprzeciętnych</b> zdolności fizycznych i psychicznych.
-1405,You are assigned to <b>Salvage Station #42</b> (designation: <b>Morrigan</b>). Demonstrate the ability to build and grow a profitable operation, and a number of exciting opportunities await you!
-1406,Remember: Employment in this program is at the sole discretion of LYNX Corporation and can be revoked at any time. Acts of malice or insubordination will not be tolerated.
-1407,Upon signing this form, please proceed immediately to the nearest LYNX Corporation Shuttle Hub for transport to the worksite.
-1408,Finalize the following pages to confirm employment.
+1405,Zostałeś przydzielony do <b> Stacji Recyklingu #42</b> (Przeznaczenie: <b>Morigan</b>). Ta stacja nie ma obecnie żadnego personelu, ale jeśli wykażesz się umiejętnościami, czeka na Ciebie wiele ekscytujących możliwości.
+1406,Pamiętaj: zatrudnienie w tym programie pozostaje w wyłącznej gestii korporacji LYNX i możesz zostać zwolniony w każdej chwili. Akty niesubordynacji nie będą tolerowane.
+1407,Po podpisaniu tego formularza należy natychmiast udać się do najbliższego węzła wahadłowego LYNX Corporation w celu transportu do miejsca pracy.
+1408,Wypełnij kolejne strony, aby zaakceptować umowę.
 1409,Nazwa konta
-1410,LYNX Work Effort Tracking™ program require an account name. \nPlease enter an account name below.
+1410,LYNX Kontrola Natężenia Pracy™ wymagaja nazwy konta pracownika.\nWpisz poniżej nazwę konta.
 1411,Wulgaryzmy oraz slang/żargon antykorporacyjny nie są akceptowane.
 1412,Wprowadź imię
-1413,Selected Revival Package
+1413,Wybierz Pakiet Odnowy
 1414,Z dumą oferujemy naszym pracownikom Program Odnowy Ciała i Umysłu™. Poniżej znajdują się szczegóły wybranego Pakietu Odnowy.
 1415,Rada Zdrowia i Życia Ziemian??: Klonowanie ma 0,02% szans na uszkodzenie DNA
 1416,Niedostępne
 1417,Opłata za klonowanie:
 1418,Klony:
 1419,Głosowa weryfikacja ID
-1420,Verify the voice file you submitted in your original application.
+1420,Zweryfikuj plik głosowy przesłany w oryginalnej aplikacji.
 1421,LYNX Vox ID ™ to system bezpieczeństwa, który chroni Twoje dane.
 1422,Preferencje sterowania??
 1423,Wybierz schemat orientacyjny?? dla swojego Osobistego Urządzenia Przemieszczania.
-1424,Proper settings may improve productivity by up to 40%!
+1424,Właściwe ustawienia mogą poprawić produktywność nawet o 40%!
 1425,Standardowa
 1426,Odwrucona
 1427,Preferencje żywieniowe
-1428,Our Food Processors serve a variety of diet preferences.
-1429,Food cost may vary over time.
+1428,Nasze roboty kuchenne obsługują różnorodne preferencje dietetyczne.
+1429,Koszt jedzenia może się zmieniać w czasie.
 1430,Kurczak
 1431,Bez Plastiku
 1432,Wegetariańskie
 1433,Entomotarian
-1434,Please Agree To Each Statement
+1434,Zaakceptuj wszystkie oświadczenia
 1435,Nie byłem karany w strefach ziemskich ani marsjańskich (dopuszczalny jest wpis z pogranicza Jowisza)
 1436,Nie jestem członkiem i nigdy nie współpracowałem ze związkami zawodowymi ani żadną inną organizacją związkową.
 1437,Ukończyłem coroczne badania lekarskie i wykluczono u mnie płuca McCullougha
@@ -1350,7 +1350,7 @@
 1440,Rozumiem i akceptuję ryzyko zdrowotne związane z długotrwałym narażeniem na pole Van der Waalsa
 1441,Będę głosować na kanclerza Chun Zhanga w wyborach do Senatu w Panamerykańskiej Republice
 1442,Potwierdzam
-1443,(Hold thumb on Scanner)
+1443,(Przytrzymaj kciuk na skanerze)
 1444,Dalej
 1445,Powiadomienie
 1446,Usługi rekrutacyjne LYNX Corporation
@@ -1396,11 +1396,11 @@
 1486,Silnie lotne sztuczne węglowodory łatwopalne i podatne na wycieki. Mogą być użyte do zastąpienia paliwa silników.
 1487,Mechaniczny klucz serwisowy wykorzystywany do wielu czynności na statku.
 1488,Stal wysokiej jakości produkowana zgodnie ze standardem międzyplanetarnym. Rzadko spotykana w budowie statków ze względu na obecność tańszych lub bardziej zaawansowanych materiałów.
-1489,A small canister of artificial hydrocarbons synthesized in Nova Energy Corp. labs on Europa. Contents are volitile and must be handled with care.
-1490,Highly prized tank of artificial hydrocarbons synthesized in Nova Energy Corp. labs on Europa. Contents are volitile and must be handled with care.
+1489,Mały pojemnik ze sztucznymi węglowodorami syntetyzowanymi w laboratoriach Nova Energy Corp. na Europie. Zawartość jest niestabilna i należy się z nią obchodzić ostrożnie.
+1490,Wysoko ceniony zbiornik sztucznych węglowodorów syntetyzowanych w laboratoriach Nova Energy Corp. na Europie. Zawartość jest niestabilna i należy się z nią obchodzić ostrożnie.
 1491,Mały pojemnik zawierający super schłodzony związek amoniaku produkowany lokalnie w EarthGate. Może wyciekać w przypadku przebicia lub eksplodować w przypadku uszkodzenia.
 1492,Ciężki zbiornik zawierający super schłodzony związek amoniaku produkowany lokalnie w EarthGate. Może wyciekać w przypadku przebicia lub eksplodować w przypadku uszkodzenia.
-1493,Sleek, portable, universal, and fashionable. WareTech-brand 140 volt battery packs enough punch for any modern electronic!
+1493,Elegancki, przenośny, uniwersalny i modny. Marka WareTech. 140-woltowy akumulator wystarczający dla każdej nowoczesnej elektroniki!
 1494,Przegroda
 1495,Wzmocniona przegroda do oddzielenia kokpitu od próżni kosmosu.
 1496,Sworzeń konstrukcyjny ze stopu aluminium będący standardowym w branży łącznikiem segmentów statków. Przetnij je, aby oddzielić struktury.
@@ -1521,7 +1521,7 @@
 2539,<b>Gromadzenie danych</b>\n\nZbieramy dane dotyczące rozgrywki, aby zidentyfikować problemy z grą. Dane te są anonimowe; nie zbieramy danych osobowych. Jednak możesz <b>zrezygnować</b> ze <b>Zbierania Danych</b> w <b>Menu Opcji</b>.
 2540,Ta gra jest fikcją. Historia, wszystkie nazwiska, podmioty korporacyjne, postacie i zdarzenia przedstawione w tej grze są fikcyjne. Wszystkie nazwy statków są generowane proceduralnie i nie odnoszą się do żadnych istniejących statków w rzeczywistości, ani w fikcji.
 2541,Ta gra zawiera eksplozje oraz migające światła. Może nie być odpowiednia dla osób z nadwrażliwością na światło, takiego jak epilepsja światłoczuła. Zaleca się zachowanie ostrożności.
-2542,© 2022 Blackbird Interactive Inc. © 2022 Focus Entertainment. All rights reserved. Blackbird Interactive and its logos are trademarks or registered trademarks of Blackbird Interactive Inc. Focus Entertainment and its logos are trademarks or registered trademarks of Focus Entertainment. © 2022 Hardspace: Shipbreaker, a game developed by Blackbird Interactive and published by Focus Entertainment. Hardspace: Shipbreaker and its logo are protected trademarks. All rights reserved. All other marks and registered trademarks belong to their respective owner. Powered by Wwise © 2006 – 2022 Audiokinetic Inc. All rights reserved. Portions of this program © 2020 Microsoft Azure PlayFab. All Rights Reserved
+2542,© 2022 Blackbird Interactive Inc. © 2022 Focus Entertainment. Wszelkie prawa zastrzeżone. Blackbird Interactive i jego logo są znakami towarowymi lub zastrzeżonymi znakami towarowymi firmy Blackbird Interactive Inc. Focus Entertainment i jego logo są znakami towarowymi lub zastrzeżonymi znakami towarowymi firmy Focus Entertainment. © 2022 Hardspace: Łowcy Statków, gra opracowana przez Blackbird Interactive i wydawana przez Focus Entertainment. Hardspace: Łowcy Statków i jego logo są chronionymi znakami towarowymi. Wszystkie inne znaki i zastrzeżone znaki towarowe należą do ich odpowiednich właścicieli. Obsługiwane przez Wwise © 2006 – 2022 Audiokinetic Inc. Wszelkie prawa zastrzeżone. Fragmenty programu © 2020 Microsoft Azure PlayFab. Wszelkie prawa zastrzeżone.
 2543,Wiele statków kosmicznych zostało uszkodzonych podczas tworzenia tej gry.
 2544,Weaver
 2545,Centrum dowodzenia
@@ -1560,7 +1560,7 @@
 2578,RE: Rezultat testów.railmail
 2579,"Do: ZESPÓŁ KIEROWNICZY LYNX; LYNX P&P; pracownik 49716543-S\nOd: Dr. Cason Cole\nRE: Rezultat testów: Program muzyczny optymalizujący wydajność i produktywność\n\nJak sugerowały nasze badania, wyniki testów z wprowadzania “muzyki o profilu psychologicznym“ do hełmów wszystkich pracowników działu Odzyskiwania i Naprawy w czasie ich pracy były dość obiecujące. Nasza próba dopasowania określonego gatunku muzyki w oparciu o profil psychologiczny każdego badanego doprowadziła w rzeczywistości do gigantycznego wzrostu wydajności i produktywności, a także do zmniejszenia liczby przypadków śmierci i rozczłonkowania o 12%. Zauważyliśmy również, że wiele z tych osób „nuci” podczas pracy, co jest potwierdzonym wyrazem satysfakcji z pracy i podwyższonego samopoczucia.\n\nDobra robota zespole! Tak trzymać!\n\nZ poważaniem,\nDr. Cason Cole Psy.D.\nDyrektor ds. Wydajności i produktywności\nLYNX\n
 2580,RE: Wsparcie techniczne.railmail
-2581,To: LYNX Tech Support; LYNX Operations Leads; LYNX employee 49716543-S\nFrom: Mikey Murphy\nRE: RE: Tech Support Ticket: 06162020 - Salvage Division Helmet Music malfunction\n\nHey there Tech Support Friends!\nHope you liked the donuts I sent over for helping us out with that bug in the last cloning software update. That was a doozy huh? Yikes! LOL. And don't feel like you need to pay me back. I used what was left of our “petty cash” from last quarter. If you don't use it, you lose it right? Anyway, an Exec from P&P pinged me personally to look into this support ticket. Apparently, when the helmets of the Salvage & Reclamation division workers take damage from “significant impacts” the radio goes all haywire and it's screwing up their “critical research.” I suggested that maybe S&R should train their employees better so as to reduce the number of times these “significant impacts” occurred. He was not amused. What is it with these LYNX Exec types? Can't they take a joke? Anyway, if you could give me something, anything, to toss back over the wall to Mr. Fancy Pants I sure would appreciate it.\n\nThanks again gang!\nMurph\n\nMikey Murphy\nSenior Operations Manager: Earth Village\nEmployee Safety and Equipment\nLYNX
+2581,Do: Wsparcie techniczne LYNX; Kierownik operacyjny LYNX; LYNX pracownik 49716543-S\nOd: Mikey Murphy\nRE: RE: Zgłoszenie do Pomocy Technicznej: 06162020 - Dział Odzyskiwania - Usterka muzyki w hełmie\n\nWitaj, przyjacielu z pomocy technicznej!\nMam nadzieję, że smakowały Ci pączki, które wysłałem za pomoc w rozwiązaniu tego błędu podczas ostatniej aktualizacji oprogramowania do klonowania. To było coś trudnego? Nie myśl, że jesteś mi coś winny. Wykorzystałem to, co zostało z naszej „drobnej gotówki” z ostatniego kwartału. Jeśli jej nie zużyjesz, to stracisz ją, prawda? W każdym razie Exec z P&P osobiście poprosił mnie o zgłoszenie tego do pomocy technicznej. Wygląda na to, że kiedy hełmy pracowników wydziału Odzyskiwania i Naprawy ulegają uszkodzeniom w wyniku “uderzeń“, radio szaleje i psuje ich “krytyczne badania“. Zasugerowałem, że może O&N powinno lepiej przeszkolić swoich pracowników, aby zmniejszyć liczbę przypadków wystąpienia tych “znaczących uderzeń“. Nie byli zadowoleni. O co chodzi z tymi typami LYNX Exec? Czy nie mogą zażartować?  W każdym razie, gdybyś mógł mi dać coś, cokolwiek, co mógłbym odesłać w odpowiedzi Panu Wymyślne Majtki, byłbym wdzięczny.\n\nDziękuję ponownie brachu!\nMurph\n\nMikey Murphy\nStarszy Kierownik Operacyjny: Ziemia\nBezpieczeństwo i wyposażenie pracowników\nLYNX
 2582,RE: Zwolnienie pracownika.railmail
 2583,Do: LYNX HR; Kierownik operacyjny LYNX; LYNX pracownik 49716543-S\nOd: Eduardo Matthew Farris\nRE: Zwolnienie pracownika\n\nUwaga,\n\nZe skutkiem natychmiastowym pracownik Mikey Murphy z Pionu Operacyjnego przestał być pracownikiem LYNX Corporation z powodu niesubordynacji oraz niewłaściwego wykorzystania funduszy firmy. Poszukiwanie jego następcy już trwa.\n\nTrzymajcie się,\nEMF\n\nEduardo Matthew Farris\nDyrektor HR\nZasoby ludzkie: Ziemia \nLYNX
 2584,RE: Przypomnienie: Dzień Słońca.railmail
@@ -1632,35 +1632,35 @@
 2665,9:01
 2666,10:20
 2667,12:32
-2668,Thruster Fuel
-2669,NovaFuel conflagrant gel for burning in the dark void of space.
-2670,Oxygen
-2671,Synthetic and delicious OXY.gen™, extracted from comet ice.
-2672,Suit Patch Kit
-2673,A DamasCraft™ Patch Kit to fix up your suit and helmet just like new!
-2674,Tool Repair Kit
+2668,Paliwo Silnika Odrzutowego
+2669,Żel NovaFuel do spalania w przestrzeni z brakiem atmosfery.
+2670,Tlen
+2671,Tlen wytwarzany syntetycznie, wydobywany z lodowych komet..
+2672,Zestaw łatek
+2673,Zestaw łatek DamasCraft™, dzięki któremu Twój kombinezon i hełm będą wyglądały jak nowe!
+2674,Zestaw naprawczy
 2675,Pozwala naprawić swoje narzędzia i sprzęt w Mieszkaniu.
 2676,Liny
-2677,Replenish your Tether cartridges for an affordable price.
+2677,Uzupełnij zapas lin w przystępnej cenie.
 2678,Złomiarz #9346-52
 2679,3:09 po południu | LIS 9 2329
-2680,APPLICATION #: 1259-HG5<size=12>\n\n</size>CITIZEN ID: LF-291180S\nCOASTAL PROVINCES\nCONCLAVE 7
-2681,Terms & Conditions
+2680,APLIAKCJA#: 1259-HG5<size=12>\n\n</size>OBYWATEL ID: LF-291180S\nPROWINCJE PRZYBRZEŻNE\nKONKLAWA 7
+2681,Zasady i Warunki
 2682,Ostatnia Aktualizacja
 2683,Ostrzeżenie: Niski poziom paliwa.
 2684,Ostrzeżenie: Niski poziom paliwa. Zapas paliwa można kupić na platformie startowej.
 2685,Ostrzeżenie: Krytyczny poziom paliwa.
 2686,Ostrzeżenie: Krytyczny poziom paliwa. Wróć do platformy startowej, aby kupić zapasy.
 2687,Przywrócono prawidłowy poziom paliwa.
-2688,Tether supplies are low.
-2689,Tether supplies running low.
-2690,Caution: no tethers remaining.
-2691,Caution: tethers depleted.
+2688,Mała ilość lin.
+2689,Zapasy lin wyczerpują się.
+2690,Ostrzeżenie: Brak lin.
+2691,Ostrzeżenie: Liny wykorzystane.
 2692,Przywrócono liny.
 2693,Naruszona integralność hełmu. Wykryto wyciek powietrza.
 2694,Hełm uszkodzony. Wykryto wyciek powietrza; wymagana naprawa.
 2695,Hełm został uszkodzony i przecieka. Zapoznaj się z podręcznikiem pracownika LYNX, w celu zapoznania się z procedurami naprawy.
-2696,Helmet status normalizing.
+2696,Normalizacja stanu kasku.
 2697,Uwaga: Wykryto zagrożenie kriogeniczne.
 2698,Ostrzeżenie: kriogeniczne uszkodzenie.
 2699,Wykryto uszkodzenie kriogeniczne. Aby zmniejszyć zużycie elementu grzejnego kombinezonu, utrzymując odpowiednią temperaturę ciała.
@@ -1773,13 +1773,13 @@
 2808,Zasubskrybuj aktualizacje oprogramowania Manualnegp Urządzenia Chwytającego od zespołu badawczo-rozwojowego ds. Recyklingu, które zwiększają jego moc! Ponadto automatycznie zapiszesz się na naszą listę PREMIUM, dzięki czemu będziesz otrzymywać cotygodniowy biuletyn.
 2809,Udźwig +1 000kg
 2810,Udźwig = 4 000kg
-2811,Replace the classified [REDACTED] medium with the new [REDACTED]. Purchase requires signing for: “Salvage R&D NDA NG-u09XX” and “NG-iff09XX ToS Agreement”.
+2811,Zastąp [UTAJNIONO] nowym [UTAJNIONO]. Aby dokonać zakupu, należy podpisać „Umowę o zachowaniu poufności NG-u09XX” oraz „Umowę dotyczącą warunków użytkowania NG-iff09XX”.
 2812,Udźwig +1 000kg
 2813,Udźwig = 5 000kg
-2814,Adds a [REDACTED] to the [REDACTED] projector. Purchase requires signing for: “LYNX Health and Safety Waiver 09XX (Revision 2.1.6)”, and “Cadaver Donation Form B”.
+2814,Zainstaluj [UTAJNIONO] do  [UTAJNIONO]. Aby dokonać zakupu, należy podpisać "Zrzeczenie roszczeń dotyczących zdrowia zawodowego LYNX 09XX (wersja 2.1.6)" oraz wypełnić "Formularz darowizny zwłok wersja B"
 2815,Udźwig +1 000kg
 2816,Udźwig = 6 000kg
-2817,[REDACTED], [REDACTED]: “space magic”. Purchase requires signing for: “Classified Agreement XZ-5”, “Military Services Interview AAA-II”, and “Prolonged Observation Waiver”.
+2817, [UTAJNIONO], [UTAJNIONO]„kosmiczna magia”. Zakup wymaga podpisania: „Umowy niejawnej XZ-5”, „Wywiad ze służbami wojskowymi AAA-II” oraz „Zgoda się długoterminową obserwację”.
 2818,Udźwig +1 000kg
 2819,Udźwig = 7 000kg
 2820,[TAJNE]
@@ -1835,7 +1835,7 @@
 2870,Prędkość maksymalna= 4 m/s
 2871,Zamontowanie dodatkowych wtryskiwaczy paliwa w silnikach odrzutowych zwiększa ilość paliwa w komorze spalania, a co za tym idzie - zwiększa prędkość maksymalną.
 2872,Prędkość maksymalna= 6 m/s
-2873,Enriching the fuel tank's NovaFuel with artificial additives (currently under regulatory review by the Planetary Industrial Standards Commission) causes a more powerful reaction in the combustion chamber. This gives it an extra powerful, legally ambiguous, kick!
+2873,Wzbogacanie NovaFuel sztucznymi dodatkami(obecnie testowane pod kątem zgodności z normami Międzyplanetarnej Komisji Standardów w Przemyśle). Powoduje silniejszą reakcję w komorze spalania. Niezwykle potężny i półlegalny dopalacz!
 2874,Prędkość maksymalna= 8.5 m/s
 2875,Synchronizacja silników manewrowych pozwala na wspomaganie silnika odrzutowego przy hamowaniu. Znacząco zmniejsza to czas potrzebny do zatrzymania.
 2876,Intensywność hamowania = -5 m/s<sup>2</sup>
@@ -1908,7 +1908,7 @@
 2943,Nie jesteś schabowym, więc nie musisz się smażyć. Wymień większość miękkich elementów wnętrza skafandra na ognioodporną skórę. Uwaga: Ze względu na niedostępność materiałów naturalnych możliwe jest użycie syntetycznego zamiennika wyhodowanego w laboratorium.
 2944,Odporność cieplna +5%
 2945,Odporność cieplna = 5%
-2946,While out of fashion now, asbestos was once a wonder-material of the late 19th and 20th century. LYNX has always been a trend-setter however, and is eager to use the material as fire-resistant lining in your suit!
+2946,Azbest nie jest dziś modny, ale w XIX i XX wieku był uważany za cudowny materiał. Jednak LYNX Corporation zawsze wyznacza trendy, więc azbest wraca do łask jako ognioodporna podszewka w skafandrach!
 2947,Odporność cieplna +10%
 2948,Odporność cieplna = 15%
 2949,Nie bądź jak Ikar. Wymień poszczególne elementy kombinezonu (np. rękawiczki) na takie złożone z aramidu. Jest on odporny na ciepło i bardzo przyjemny w dotyku!
@@ -1958,7 +1958,7 @@
 2993,Najlepszy syntezator na rynku. Dzięki niemu słyszysz realistyczne dźwięki jakbyś znajdował się w przestrzeni pod ciśnieniem.
 2994, 
 2995,Zbiornik paliwa
-2996,Highly prized tank of artificial hydrocarbons synthesized in Nova Energy Corp. labs on Europa. Contents are volitile and must be handled with care.
+2996,Wysoko ceniony zbiornik sztucznych węglowodorów syntetyzowanych w laboratoriach Nova Energy Corp. w Europie. Zawartość jest niestabilna i należy się z nią obchodzić ostrożnie.
 2997,Rura wydechowa
 2998,Wydech specjalnie zaprojektowany do wyrzucania niebezpiecznych gazów w przestrzeń kosmiczną.
 2999,Generator prądu
@@ -1966,7 +1966,7 @@
 3001,Winda Przemysłowa
 3002,Winda przemysłowa wykorzystująca technologię van der Waalsa czwartej generacji. Ulepszona wersja wyciągarek wykorzystywanych przy pracy na asteroidach w Pasie Kesslera.
 3003,Szafka Hydroponiczna
-3004,Contents exist under pressure, in oxygen-rich environments and must be handled with care.
+3004,Zbiornik pod ciśnieniem, w środowisku bogatym w tlen należy się obchodzić ostrożnie.
 3005,Boja
 3006,Boje należące do Lynx służą do trzymania lin\n\nUwaga: Uszkodzenie mienia korporacji Lynx zostanie odnotowane w Twoim profilu.
 3007,Światło
@@ -2062,7 +2062,7 @@
 3097,Wycieki czynnika chłodniczego można zatrzymać, demontując system podtrzymywania życia.
 3098,Mimo iż jednostka kontroli środowiska zawiera dużo czynnika chłodniczego,  jest <i>.gorącym</i> kąskiem.
 3099,Prawie we wszystkich pomieszczeniach na statku znajdują się regulatory atmosfery. Pozwala to na bezpieczną zmianę poziomu ciśnienia.
-3100,Na całej długości nowoczesnych rurociągów rozmieszczone są lampki sygnalizacyjne stanu systemu.
+3100,Na całej długości nowoczesnych rurociągów rozmieszczone są lampki sygnalizujące stan systemu.
 3101,Lynx montuje kiosk z zaopatrzeniem w każdej zatoce, gdzie można kupić wszystkie niezbędne materiały do ​​demontażu za umiarkowaną opłatę.
 3102,Znalazłeś dysk danych? Przeanalizuj to w swoim Mieszkaniu. LYNX za pomocą tokenów kupuje dane, które są następnie sprzedawane firmom marketingowym.
 3103,LYNX z dumą płaci za pracę swoich pracowników własną, bezpieczną walutą - tokenami LYNX (LT). Są one akceptowane w każdym sklepie LYNX.
@@ -2070,13 +2070,13 @@
 3105,Powietrze w Twoim Mieszkaniu Lynx jest wymieniane co dwa tygodnie, aby zapewnić jego ciągłą świeżość!
 3106,Ulepsz swoje narzędzia i sprzęt za pomocą terminalu w swoim Mieszkaniu.
 3107,Użyj modułu <i>Dane i Komunikacje </i>w swoim Mieszkaniu, aby poddać analizie zebrane dyski z danymi.
-3108,The Salvage Station primarily houses automated sorting and handling networks, EverWork™ regeneration facilities, and a very large battery.
+3108,Stacja recyklingu zawiera sprzęt do automatycznego sortowania i przetwarzania przedmiotów oraz jednostkę wskrzeszającą EverWork™.
 3109,Stacja recyklingu została pokryta specjalną powłoką, która jest odporna na promienie lasera. Prosimy nie lizać tych powierzchni.
 3110,Piec przetapia miękkie metale, które następnie są sprasowane w bardzo gęste kostki do dalszego  transportu.
 3111,Temperatury w piecu znacznie przewyższają zalecane dla ludzkiego ciała.
 3112,Procesor skanuje i analizuje cenne stopy oraz materiały kompozytowe przed ich po sortowaniem i przygotowaniem do transportu.
 3113,Musisz wrócić do Mieszkania, aby zakończyć swoją pracę, w przeciwnym razie stracisz swoje postępy.
-3114,Earn MP for each Salvage Goal achieved
+3114,Zarabiaj PM za każdy osiągniety cel odzyskiwania.
 3115,Możesz sprawdzić swoje postępy w spełnianiu aktualnych wymagań certyfikacji na ekranie pauzy.
 3116,Korporacja LYNX została założona prawie dwa wieki temu. Na początku była to mała firma, która modyfikowała i naprawiała pierwsze statki kosmiczne.
 3117,Czy LYNX posiada jakieś ukryte zadanie?\nNie.
@@ -2084,7 +2084,7 @@
 3119,Aby zwiększyć wydajność, LYNX wykorzystuje zaawansowaną hierarchiczną strukturę korporacyjną wymyśloną wieki temu.
 3120,LYNX to największe i najbogatsze przedsiębiorstwo w Układzie Słonecznym.
 3121,Oprócz szeroko zakrojonych operacji recyklingowych, LYNX również utrzymuje Bramy Kosmiczne w całym układzie słonecznym.
-3122,LYNX's proprietary EverWork™ Spare technology allows you to get back to work, no matter the accident!
+3122,Opatentowana przez LYNX technologia EverWork™ Spare pozwala wrócić do pracy bez względu na wypadki!
 3123,Śmieć jednej osoby jest źródłem utrzymania innej osoby!
 3124,<i>Mackerela</i> firmy Klyne-Co to  najbardziej udany model statku w historii. Między innymi dzięki swojej wielozadaniowości.
 3125,Niektóre zewnętrzne części <i>Makreli</i> muszą zostać odłączone od wnętrza kadłuba, zanim będzie można je przetworzyć.
@@ -2101,8 +2101,11 @@
 3136,W Układzie Słonecznym obecnie około 70% wszystkich statków kosmicznych jest produkowanych na Marsie.
 3137,Marsjański przemysł został zapoczątkowany w 2037 przez  Howarda Thorina, syna australijskiego magnata kopalni diamentów.
 3138,Kolonizacja Marsa rozpoczęła się u samego początku kosmicznej gorączki. Obecnie jest zarządzana przez koalicję znaną jako Marsjańska Konfederacja Orbitalna.
-3139,One of the largest Martian companies is Ferros Rojos, which runs the vast majority of asteroid shipping lines.
-3140,<b>THIS AGREEMENT</b> is made as of the <b>9th</b> day of <b>November</b>, <b>2329</b> (the “Effective Date”), between <b>LYNX Corporation's Salvage Division</b> (“LYNX”), incorporated under the laws of the <b>Stellar Commission</b> and myself, <b>Citizen LF-291180S</b> (the “Employee”). LYNX is pleased to offer the Employee the role of <b>Shipbreaker</b> (the “Role”), beginning with the title of <b>Trainee</b>. \n\nThis Agreement is provisioned by the following terms and conditions:\n\n1. 	Employee understands that they must travel to a <b>LYNX Shuttle Hub</b> for transit to the Work Site no more than 12 hours after signing this contract. Physical or mental harm while en route to the Shuttle Hub is not covered by LYNX in any way, though it may have an effect on your employment eligibility. Employee’s physical and mental fitness will be reassessed before boarding the Shuttle. Fares or costs associated with transit from the Employee’s home to the Shuttle Hub are the Employee’s responsibility and will not be reimbursed.\n\n2. 	Employee should be aware that the status of their employment is at the sole discretion of LYNX, and that their employment relationship with LYNX may be terminated at any time or place, either with or without notice, for any or no reason, with or without good or sufficient cause, under any and all circumstances, by LYNX’s option only. Employee further understands that awareness of their current employment status is their responsibility, and that they must check this status often to avoid incurring penalties or criminal charges for acting in an unauthorized capacity.\n\n3-A. 	This Agreement includes enrollment in the <b>LYNX Employment Financial Relief Program™</b> to accommodate the costs associated with Employee Onboarding, as well as the recurring costs associated with the performance of the Employee’s role. A full breakdown of these costs will be provided to the Employee following Onboarding at the worksite. Until such time as the Employee has repaid in full, the profits from their salvage activities will automatically go towards the balance at the following percent: <b>100%</b>. \n\n3-B.	Employee hereby grants LYNX sole operating authority of the Employee’s existing financial accounts in order to facilitate their participation in the <b>LYNX Employment Financial Relief Program™</b>. Opening additional financial accounts while under the terms of this Agreement is prohibited, and will result in Performance Demerits, monetary Penalties, or Termination.\n\n3-C.	Repayment is handled at the start of each work day, and the Employee is provided a streamlined synopsis of their account. It is the Employee’s responsibility to review this synopsis and report any and all errors by submitting a <b>Repayment Error Form</b> to the <b>LYNX Financial Department</b>. Errors must be reported within two hours of receipt of the synopsis, after which time they will become non-reportable. \n\n3-D. 	Employee hereby grants LYNX the authority to apply Performance Demerits or monetary Penalties should their actions or inactions result in any real or potential losses for the company and/or any of its affiliates.\n\n4.	Employee understands that monetary compensation for this role is based entirely on the Credit Value generated from the Employee’s Shipbreaking activities, and that there is no other Base Salary or monetary compensation for performing the duties outlined in this Agreement.\n\n5-A. 	Employee hereby grants LYNX the authority to collect, analyze and utilize their biometric data, beginning now, for use to better the lives and wellbeing of them and their co-workers, as well as for any other purpose, up to and including sharing with partners and affiliates, institutional research programs, or government bodies.\n\n5-B. 	Employee hereby grants permission to LYNX, the authority to perform psychological tests on them, at any time, with or without their knowledge. Employee is not entitled to compensation for participation in these tests, but may receive additional sugar cube rations.\n\n6.	<b>LYNX Corporation's Headquarters</b> operates in <b>Unincorporated Jovian Space</b>, outside any recognized state or country borders, and as such, the Employee understands that LYNX does not recognize or observe any national, secular or religious holidays, and that the Employee is expected to be ready and available to work on each calendar day of the region where their assigned Work Site is located.\n\n7.	Employee understands they are prohibited from discussing their employment, including the terms and conditions of this Agreement, either specifically or generally, as well as the operational details of LYNX or any of its affiliates, with anyone other than their assigned <b>LYNX Department of Human Resource Representative</b>. This includes acquaintances, friends, family members, law enforcement agents, government officials, journalists, private detectives, religious leaders, or entertainment media hosts. Employees official assigned Human Resources Representative is: <color=#FF3131>$UNDEFINED</color>\n\n8-A.	Employee shall be supplied adequate caloric and hydrating sustenance in the diet format selected by the Employee in this form. Employee understands that the sustenance amount provided is calculated to provide the optimal energy amounts required by their duties, and that they must abide by the recommended monthly intake amounts. Additional sustenance will not be provided beyond these amounts.\n\n8-B.	Sustenance shall be replenished at the beginning of each month, providing that the Employee has fully prepared the Food Processor in their Habitation Module by removing all current food supplies. Excess food supply remaining in the Food Processor at the time of delivery will prevent delivery until the following month.\n\n8-C.	Employee understands that sustenance not supplied by LYNX (“Contraband Foodstuffs”) is disallowed and may not be ingested while under this Agreement. In the event that the Employee ingests Contraband Foodstuffs, Demerits will be applied to the Employee’s Performance Report and Penalty Fees applied to their Financial Account.\n\n9. 	LYNX will supply an on-site Long-Term Employee Habitation Module (HAB). Employee is expected to use only their assigned HAB for rest and sleep. Resting and/or sleeping in another Employee’s HAB shall be considered a violation of this Agreement.\n\n10.	Employee must abide by and work no longer than the LYNX-mandated Shift Time each day. LYNX is not responsible for the genetic effects of solar radiation that may occur beyond this time, and the Employee may face financial penalties or performance demerits if their Shift Time is disregarded. \n\n11.	Employee must ensure they remain inside the designated Work Site when Shipbreaking. Failure to remain inside the bounds of the Work Site will result in Spare termination (see section 19 for additional terms of the EverWork™ Program and Spares), regardless of the reasons or intentions for which the Employee evacuated the bounds.\n\n12.	Accessing external communication networks from the workstations in their HAB is prohibited. All communication must be conducted through the internal LYNX RailMail network, between authorized employees.\n\n13-A.	Using, operating, consuming or deploying tools or equipment found while Shipbreaking, for any and all reasons, is a safety violation and is strictly prohibited, and will result in Performance Demerits and/or monetary Penalties.\n\n13-B. 	All resources consumed in the act of Shipbreaking must be replenished via the LYNX Kiosk deployed at the Employee’s assigned Work Site, with transactional fees being removed immediately from the Employees Financial Account. It is the sole responsibility of the Employee to ensure they are adequately supplied such that they are able to perform their duties as outlined by the terms of this Agreement.\n\n13-C.	 All objects, components and materials (“Salvage”) recovered via the act of Shipbreaking are the sole property of LYNX, and the Employee must account for all Salvage at the end of every Work Shift. Acquiring or storing Salvage for personal use is a breach of the terms of this Agreement, and will result in Performance Demerits, monetary Penalties, and potential Termination.\n\n14.	At no time while under obligation to the terms and conditions of this Agreement shall the Employee seek employment outside LYNX. Should the Employee be contacted by a Recruiter from another company, the Employee has an obligation to notify LYNX and share the full correspondence. Neglecting this obligation may result in monetary Penalties and/or Termination.\n\n15.	Employee acknowledges that LYNX personnel will monitor their activities in order to establish a <b>Valuation Metric</b> of the Employee and their performance in their assigned role. This Valuation Metric will henceforth be the primary factor in determining the ongoing status of this Agreement.\n\n16.	The function, duties and responsibilities of the Employee’s assigned role may be altered or adjusted at any time and at the sole discretion of LYNX, for any reason or no reason at all, with or without advance notification, and with no obligation to provide additional onboarding or training.\n\n17.	LYNX is exempt from the requirements of <b>Gallardo’s Mandate</b>, and bears no responsibility to ensure that the Employee has free and ready access to Martian animation media, even where such media constitutes a religious requirement by the Employee. \n\n18.	LYNX bears no moral or legal responsibility whatsoever for any natural hazards and dangers involved with Shipbreaking, including but not limited to flammable substances, explosive decompression, radiation exposure, high-velocity impacts, electrocution, suit atmosphere inversion, crushing, micro-meteor penetration, “hyper shingles”, oxygen deprivation, cardiac arrest, and inadvertent processing.\n\n19-A.	As part of completing this Agreement, the Employee agrees to be enrolled in the LYNX Corporation <b>EverWork™ Asset Replacement Program</b>. The Employee understands that the purpose of this program is to protect LYNX Personnel from severe injury or death, allowing them to continue growing their career with LYNX, even in the event of a serious workplace injury. In the event of major injury, illness or death, the Employee will be immediately replaced by a biological and neurological duplicate (the <b>”Spare”</b>). Employee hereby grants permission to LYNX, the authority to study, manipulate, simulate and duplicate any and all gray and white matter, at any time.\n\n19-B.	Employee hereby grants permission to LYNX, in perpetuity, ownership of their DNA, and to create new entities with that DNA, with no restrictions or limits. Furthermore, Employee agrees to pay a nominal fee for this service in the event of their death while performing the duties of their position.\n\n19-C.	All Spares produced by the <b>EverWork™</b> program are the sole property of LYNX Corporation. At any time and for any reason, LYNX may exercise its right to ownership over the Spare, up to and including assuming complete control and authority of any institutional, financial, judicial, religious or regulatory rights of the original Employee, in all Terran, Martian and Jovian sectors.\n\n19-D.	In the rare and unfortunate event of total and complete loss of memory during Spare regeneration, LYNX is hereby granted the authority to have the Employee’s memory replaced by a composition of engrams pre-authored by LYNX. LYNX bears no legal obligation of informing the Employees next-of-kin in such an event.\n\n19-E.	“Major Injury” or “Illness” is defined as any injury or sickness that sufficiently affects the Employee's ability to perform their duties such that their hourly salvage rate falls 22% or more. In the event that the Employee and the automated biometric analysis services disagree on whether a sustained injury should qualify for Spare regeneration, the Employee may submit a written appeal form to LYNX for review.\n\n19-F.	Any additional third-party insurance coverage for injury or death <b>EverWork™</b> participants may have is considered null and void upon completion of this Agreement, and cannot be utilized in addition to the protection of the <b>EverWork™</b> program.\n\n19-G.	 LYNX bears no responsibility to guarantee the effectiveness and success of the protections provided by the <b>EverWork™</b> program. In the event of malfunction or anomalous outcome in the Spare regeneration process, LYNX is waived of any and all liabilities in the health and wellbeing of the Employee.\n\n20.	In the event that the Employee is terminated, disappears, or otherwise becomes incapable of fulfilling the obligations of this Agreement, the Employee hereby grants LYNX the authority to transfer any and all unpaid debts owed to LYNX, and/or any of its affiliates, to the Employee’s next of kin.\n\n21-A.	LYNX reserves the right to terminate this agreement at any time, without notice or payment in lieu, with no requirement of sufficient cause.\n\n21-B.	Until such time as the Employee has completed their obligations to the <b>LYNX Employment Financial Relief Program™</b>, the Employee holds no right to termination of this agreement for any reason. Upon completion of repayment, the Employee may submit a formal request for permission to terminate through the </b>LYNX Department of Human Resources</b>.\n\n21-C.	In the event of Termination, Employee is responsible for the safe and complete return of all tools, equipment, components, resources and supplies covered provided by LYNX which are currently still captured under the Employee’s remaining balance as part of the  <b>LYNX Employment Financial Relief Program™</b>. Employee is responsible for the financial costs associated with any damage or wear to these items.\n\n22.	The terms of this agreement may only be amended, canceled or discharged by an official of the <b>LYNX Corporation Legal Department</b>. This letter shall be governed by the internal substantive laws of all Terran, Martian and Jovian spaces.\n\n23.	All provisions hereof are protected against a court of competent jurisdiction deeming them to be illegal, unenforceable, or void, and any such challenge shall have no effect on the continuance of such provisions in this Agreement.\n\n24.	You acknowledge that you have had the opportunity to discuss this matter with and obtain advice from your private attorney, have had sufficient time to, and have carefully read and fully understand all the provisions of this Agreement, and are knowingly and voluntarily entering into this Agreement.\n\nTo indicate your acceptance of LYNX’s offer, please provide your biometric ID in the space below. The Terms and Conditions of this Agreement are recognized and fully enforceable in all Terran, Martian and Jovian jurisdictions, and shall be governed by any and all internal substantive laws for all regions. A duplicate will be mailed for your records. <b>We look forward to welcoming you to the LYNX family</b>.\n
+3139,Ferros Rojo to jedna z największych marsjańskich firm. Zajmuje się ona transportem asteroid.
+3140,<b>NINIEJSZA UMOWA</b> została zawarta z dniem <b>9 listopada 2329 r.</b>, pomiędzy Dywizją Odzyskiwania korporacji LYNX</b>(dalej zwany LYNX), utworzona zgodnie z regulaminem <b>Gwiezdnej Komisji</b>, a mną, <b>Obywatelem LF-291180S</b> (dalej zwany Pracownikiem).\nLYNX z przyjemnością oferuje Pracownikowi rolę <b>Łowcy Statków</b> (dalej zwany Rolą), zaczynając od tytułu <b>Stażysta</b>. \n\nNiniejsza Umowa podlega następującym warunkom:\n\n1. Pracownik rozumie, że musi udać się do <b>Centrum wahadłowego LYNX</b> w celu przejazdu do miejsca pracy, nie później niż 12 godzin po podpisaniu Umowy. Za szkody fizyczne lub psychiczne odniesione podczas podróży do centrum wahadłowego nie jest odpowiedzialna LYNX, chociaż mogą mieć one wpływ na zdolność do pracy. Sprawność fizyczna i psychiczna pracownika zostanie ponownie oceniona przed wejściem na prom. Koszty związane z podróżą do centrum wahadłowego ponosi pracownik i nie podlegają zwrotowi.\n\n2. Pracownik powinien mieć świadomość, że status jego zatrudnienia zależy wyłącznie od firmy LYNX i że jego stosunek pracy w LYNX może zostać rozwiązany w dowolnym czasie i miejscu, z wypowiedzeniem lub bez, z lub bez dowolnego powodu, z lub bez ważnej lub wystarczającej przyczyny, w każdych okolicznościach, wyłącznie według uznania LYNX. Pracownik ponadto rozumie, że znajomość swojego aktualnego statusu zatrudnienia jest obowiązkowa i że musi często sprawdzać ten status, aby uniknąć kar lub zarzutów karnych za działanie bez uprawnień.\n\n3-A. Niniejsza umowa obejmuje rejestrację w <b>Pracowniczym programie pomocy finansowej LYNX™</b> w celu uwzględnienia kosztów związanych z wdrożeniem pracownika do pracy, a także kosztów stałych związanych z wykonywaniem pracy. Pełny podział tych kosztów zostanie przedstawiony Pracownikowi po dotarciu do miejsca pracy. Do czasu, gdy Pracownik spłaci w całości dług, zyski z jego działań recylingu automatycznie przejdą na saldo w następującym procencie: <b>100%</b>. \n\n3-B. Pracownik udziela LYNX wyłącznego upoważnienia do prowadzenia rachunków finansowych Pracownika w celu ułatwienia jego udziału w <b>Pracowniczym programie pomocy finansowej LYNX™</b>. Otwieranie dodatkowych kont finansowych w ramach warunków niniejszej Umowy jest zabronione i będzie skutkować karami finansowymi lub rozwiązaniem umowy.\n\n3-C. Wypłata jest obsługiwana na początku każdego dnia roboczego, a Pracownik otrzymuje raport ze swojego konta. Obowiązkiem pracownika jest zapoznanie się z raportem i zgłoszenie wszelkich błędów poprzez przesłanie <b>Formularza błędu wypłaty</b> do <b>Działu finansowego LYNX</b>. Błędy należy zgłaszać w ciągu dwóch godzin od otrzymania raportu.\n\n3-D. Pracownik niniejszym udziela firmie LYNX prawa do nakładania kar pieniężnych, jeśli jego działania lub zaniechania spowodują jakiekolwiek rzeczywiste lub potencjalne straty dla firmy i/lub któregokolwiek z jej podmiotów stowarzyszonych.\n\n4. Pracownik rozumie, że wynagrodzenie za pracę opiera się w całości na wartości wygenerowanej z działań związanych z recyklingiem statków i że nie ma innego wynagrodzenia podstawowego, ani rekompensaty pieniężnej za wykonywanie obowiązków określonych w niniejszej Umowie.\n\n5-A. Pracownik niniejszym udziela firmie LYNX prawa do gromadzenia, analizowania i wykorzystywania swoich danych biometrycznych, w celu poprawy życia i dobrego samopoczucia Pracownika i współpracowników LYNX, a także w dowolnym innym celu, włącznie z udostępnianiem ich partnerom, instytucjom programów badawczych lub organom rządowym.\n\n5-B. Pracownik upoważnia LYNX do przeprowadzania na nim testów psychologicznych, w dowolnym momencie pracy, za jego wiedzą lub bez niej. Pracownikowi nie przysługuje wynagrodzenie za udział w tych testach, ale może otrzymać dodatkowe kostki cukru.\n\n6. <b>Siedziba główna korporacji LYNX</b> działa w <b>Niezależnej przestrzeni Jowisza</b>, poza jakimikolwiek uznanymi granicami stanowymi lub krajowymi. Pracownik rozumie, że LYNX nie honoruje żadnych świąt świeckich lub religijnych. Pracownik powinien być gotowy do pracy w każdy dzień kalendarzowy regionu, w którym znajduje się przydzielone mu miejsce pracy.\n\n7. Pracownik rozumie, że nie wolno mu rozmawaić o swoim zatrudnieniu, w tym warunkach niniejszej Umowy, w sposób szczególny lub ogólny, a także szczegółów operacyjnych LYNX lub któregokolwiek z jej podmiotów stowarzyszonych, z kimkolwiek innym niż przydzielony <b>Przedstawiciel Działu Zasobów Ludzkich LYNX</b>. Dotyczy to znajomych, przyjaciół, członków rodziny, funkcjonariuszy organów ścigania, urzędników państwowych, dziennikarzy, prywatnych detektywów, przywódców religijnych i gospodarzy mediów rozrywkowych. Oficjalnie wyznaczony przedstawiciel działu kadr pracowników to: <color=#FF3131>$NIEOKREŚLONY</color>\n\n8-A. Pracownikowi zostanie zapewniona odpowiednie posiłki w wybranej przez Pracownika diecie. Pracownik rozumie, że podana ilość wyżywienia jest wyznaczona tak, aby zapewnić optymalną ilość energii w związku z jego pracą oraz że musi przestrzegać zalecanych miesięcznych ilości spożycia. Nie zostanie dostarczone żadne dodatkowe pożywienie.\n\n8-B. Wyżywienie będzie uzupełniane na początku każdego miesiąca, pod warunkiem, że Pracownik w pełni przygotował robota kuchennego w Mieszkaniu, usuwając wszystkie bieżące zapasy żywności. Żywności pozostawiona w robocie kuchennym w momencie dostawy uniemożliwi dostawę do następnego miesiąca.\n\n8-C. Pracownik rozumie, że żywność niedostarczona przez LYNX („nieautoryzowanne pożywnienie”) jest niedozwolona i nie może być spożywana w ramach niniejszej Umowy. W przypadku, gdy Pracownik spożyje nieautoryzowane pożywienie, zostanie to uwzględnione w Raporcie o Wynikach Pracownika oraz poniesie karę finansową.\n\n9. LYNX dostarczy na miejscu moduł długoterminowego zamieszkania pracowników (Mieszkanie). Oczekuje się, że pracownik będzie korzystał tylko z przydzielonego mu Mieszkania do odpoczynku i snu. Odpoczynek i/lub spanie w Mieszkaniu innego pracownika uważa się za naruszenie niniejszej Umowy.\n\n10. Pracownik musi przestrzegać i pracować nie dłużej, niż wyznaczony przez LYNX czas zmiany każdego dnia. LYNX nie ponosi odpowiedzialności za genetyczne skutki promieniowania słonecznego, które mogą wystąpić po tym czasie, a Pracownikowi mogą grozić kary finansowe, jeśli jego czas zmiany zostanie przekroczony. \n\n11. Pracownik musi upewnić się, że podczas recyklingu statku pozostanie w wyznaczonym miejscu pracy. Niepozostanie w granicach miejsca pracy spowoduje użycie klonowania(patrz punkt 19, aby zapoznać się z dodatkowymi warunkami Programu EverWork™ i Klonów), niezależnie od powodów lub intencji, dla których Pracownik przekroczył granice.\n\n12. Dostęp do zewnętrznych sieci komunikacyjnych ze stanowisk roboczych w Mieszkaniu jest zabroniony. Cała komunikacja musi być prowadzona przez wewnętrzną sieć LYNX, pomiędzy autoryzowanymi pracownikami.\n\n13-A. Używanie, eksploatacja i rozmieszczanie narzędzi lub sprzętu znalezionego podczas recyklingu statku, stanowi naruszenie bezpieczeństwa i jest surowo zabronione, więc będzie skutkować karami finansowymi.\n\n13-B. Wszystkie zasoby zużyte w trakcie recyklingu statków muszą zostać uzupełnione za pośrednictwem kiosku umieszczonego w wyznaczonym miejscu pracy, przy czym opłaty transakcyjne są natychmiast usuwane z konta pracownika. Pracownik ponosi wyłączną odpowiedzialność za odpowiednie zaopatrzonie, które pozwoli wykonywać swoje obowiązki zgodnie z warunkami niniejszej Umowy.\n\n13-C. Wszystkie przedmioty, komponenty i materiały („Odzysk”) uzyskane w wyniku recyklingu statku są wyłączną własnością LYNX, a Pracownik musi rozliczyć się z całego Odzysku na koniec każdej zmiany. Pozyskiwanie lub przechowywanie Odzysku do użytku osobistego stanowi naruszenie warunków niniejszej Umowy i będzie skutkować karami finansowymi i potencjalnym zerwaniem umowy.\n\n14. Podczas trwania niniejszej Umowy, Pracownik nie będzie szukał zatrudnienia poza LYNX. W przypadku kontaktu Pracownika z Rekruterem innej firmy, Pracownik ma obowiązek powiadomić LYNX i udostępnić pełną korespondencję. Zaniedbanie tego zobowiązania może skutkować karami pieniężnymi i/lub rozwiązaniem umowy.\n\n15. Pracownik przyjmuje do wiadomości, że personel LYNX będzie monitorował jego działania w celu ustalenia <b>Metryki Wyceny</b> Pracownika i jego wydajności w przydzielonej mu roli. Metryki Wycenysą głównym czynnikiem określania bieżącego statusu niniejszej Umowy.\n\n16. Funkcje, obowiązki i odpowiedzialność przypisanej roli Pracownika mogą być zmieniane lub dostosowywane w dowolnym czasie i według wyłącznego uznania LYNX, z  lub bez dowolnego powodu, z lub bez uprzedniego powiadomienia oraz bez obowiązku dostarczania dodatkowego wprowadzenia lub szkolenia.\n\n17. LYNX jest zwolniony z wymogów <b>Przepisów Gallardo</b> i nie ponosi odpowiedzialności za zapewnienie Pracownikowi swobodnego i łatwego dostępu do marsjańskich mediów, nawet jeśli takie media stanowią wymóg religijny Pracownika. \n\n18. LYNX nie ponosi żadnej odpowiedzialności moralnej ani prawnej za jakiekolwiek naturalne zagrożenia i niebezpieczeństwa związane z recyklingiem statków, w tym między innymi od substancji łatwopalnych, wybuchowych dekompresji, promieniowania, uderzenia z dużą prędkością, porażenia prądem, utraty powietrza w kombinezonie, zmiażdżenia, penetracji mikrometeorów, pozbawienia tlenu, zatrzymania akcji serca i nieumyślnego przetwarzenia.\n\n19-A. W ramach wypełniania niniejszej Umowy Pracownik wyraża zgodę na przystąpienie do <b>Programu Zastępowania Zasobów EverWork™ firmy LYNX Corporation</b>. Pracownik rozumie, że celem tego programu jest ochrona Personelu LYNX przed poważnymi obrażeniami lub śmiercią, umożliwiając im kontynuowanie pracy w LYNX, nawet w przypadku poważnych obrażeń w miejscu pracy. W przypadku poważnego urazu, choroby lub śmierci Pracownik zostanie natychmiast zastąpiony przez duplikat biologiczny i neurologiczny (<b>”Klon”</b>). Pracownik niniejszym udziela firmie LYNX, upoważnienia do badania, manipulowania, symulowania i powielania jakiejkolwiek istoty szarej i białej w dowolnym momencie.\n\n19-B. Pracownik niniejszym udziela firmie LYNX wieczyste prawo własności swojego DNA oraz na tworzenie nowych podmiotów z tym DNA, bez żadnych ograniczeń. Ponadto Pracownik zgadza się zapłacić symboliczną opłatę za tę usługę w przypadku śmierci podczas wykonywania obowiązków na swoim stanowisku.\n\n19-C. Wszystkie klony produkowane przez program <b>EverWork™</b> są wyłączną własnością LYNX Corporation. W dowolnym momencie i z dowolnego powodu LYNX może skorzystać ze swojego prawa własności do Klona, włącznie z przejęciem pełnej kontroli i władzy nad wszelkimi prawami instytucjonalnymi, finansowymi, sądowymi, religijnymi i regulacyjnymi pierwotnego Pracownika, na Ziemi, Marsie i sektorach Jowisza.\n\n19-D. W rzadkim przypadku całkowitej utraty pamięci podczas klonowania, LYNX otrzymuje niniejszym upoważnienie do zastąpienia pamięci Pracownika kompozycją engramów wstępnie napisanych przez LYNX. W takim przypadku LYNX nie ma prawnego obowiązku informowania najbliższych krewnych Pracownika.\n\n19-E. „Poważny uraz” lub „Choroba” jest definiowany jako każdy uraz lub choroba, która w wystarczającym stopniu wpływa na zdolność Pracownika do wykonywania jego obowiązków, tak że jego godzinowa stawka odzyskiwania spada o 22% lub więcej.\n\n19-F. Wszelkie dodatkowe ubezpieczenie od odpowiedzialności cywilnej za obrażenia lub śmierć uczestników <b>EverWork™</b> jest uważane za nieważne po zakończeniu niniejszej Umowy i nie może być wykorzystywane jako uzupełnienie ochrony <b>EverWork™ </b> .\n\n19-G. LYNX nie ponosi odpowiedzialności za zagwarantowanie skuteczności  zabezpieczeń zapewnianych przez program <b>EverWork™</b>. W przypadku awarii lub anomalii w procesie klonowania, LYNX jest zwolniony z wszelkiej odpowiedzialności za zdrowie i dobre samopoczucie Pracownika.\n\n20. Jeśli Pracownik zostanie zwolniony, zniknie lub w inny sposób stanie się niezdolny do wypełnienia zobowiązań wynikających z niniejszej Umowy, Pracownik udziela firmie LYNX prawa do przeniesienia wszelkich niespłaconych należności firmie LYNX i/lub którejkolwiek z jej spółek zależnych , najbliższej rodzinie pracownika.\n\n21-A. LYNX zastrzega sobie prawo do rozwiązania niniejszej umowy w dowolnym momencie, bez wypowiedzenia, zapłaty kary i konieczności uzasadnienia.\n\n21-B. Dopóki Pracownik nie wypełni swoich zobowiązań wobec <b>Pracowniczego programu pomocy finansowej LYNX™</b>, Pracownik nie ma prawa do wypowiedzenia niniejszej umowy z jakiegokolwiek powodu. Po zakończeniu spłaty Pracownik może złożyć formalny wniosek o zgodę na wypowiedzenie za pośrednictwem </b>Działu Zasobów Ludzkich LYNX</b>.\n\n21-C. W przypadku rozwiązania Umowy, Pracownik jest odpowiedzialny za bezpieczny i całkowity zwrot wszystkich narzędzi, sprzętu, komponentów i materiałów dostarczonych przez LYNX, które są obecnie w posiadaniu Pracownika. Pracownik jest odpowiedzialny za koszty finansowe związane z uszkodzeniem lub zużyciem tych przedmiotów.\n\n22. Warunki niniejszej umowy mogą być zmieniane, anulowane wyłącznie przez urzędnika <b>Działu Prawnego LYNX Corporation</b>. List ten podlega wewnętrznym prawom materialnym wszystkich przestrzeni Ziemi, Marsa i Jowisza.\n\n23. Wszystkie postanowienia niniejszej Umowy są chronione przed sądem właściwej jurysdykcji, który uzna je za niezgodne z prawem, niewykonalne lub nieważne, a takie zakwestionowanie nie będzie miało wpływu na postanowienia w niniejszej Umowie.\n\n24. Pracownik potwierdza że miał okazję omówić tę Umowę ze swoim prywatnym adwokatem, dokładnie przeczytał i w pełni zrozumiał wszystkie postanowienia niniejszej Umowy oraz świadomie i dobrowolnie przystępuje do podpisania niniejszej Umowy.\n\nAby potwierdzić, że akceptujesz ofertę LYNX, podaj swój identyfikator biometryczny w polu poniżej. Warunki niniejszej Umowy są uznawane i w pełni wykonalne we wszystkich jurysdykcjach ziemskich, marsjańskich i jowiszowych i podlegają wszelkim wewnętrznym prawom materialnym we wszystkich regionach. Duplikat zostanie wysłany do Twoich akt. <b>Z niecierpliwością czekamy na powitanie Cię w rodzinie LYNX</b>.\n
+
+
+
 3141,Zbierz
 3142,NurkowanieNaFlorydzie.txt
 3143,JezioroMorzaPolnocnego.txt
@@ -2117,7 +2120,7 @@
 3152,WYGRAŁEŚ MILION KREDYTÓW?.railmail
 3153,Pomóż Matce Ziemi.railmail
 3154,Przynieś swój GRZMOT..railmail
-3155,There's some great diving running out of Alabama and Georgia over the former sunshine state.  Not much of Florida has gone to deep water, so there's some really beautiful dives through Miami, Fort Lauderdale, and my personal favourite, Sarasota with her white sands.  You've got to keep your eyes open for jellyfish and bullsharks, but really, it's not Florida without a little danger.\n\n- Captain Liam Freddi
+3155,W Alabamie i Georgi znajdują się wspaniałe miejsca do nurkowania w dawnym najsłoneczniejszym stanie. Niewiele z terenów Florydy zostało zalanych, mimo to jest tam kilka pięknych miejsc do nurkowania. Między innymi Miami, Fort Lauderdale i moja ulubiona - Sarasota z jej białym piaskiem. Musisz mieć oczy szeroko otwarte, ponieważ są tam meduzy i rekiny, ale tak naprawdę co to za Floryda, gdy nie ma tam żadnego niebezpieczeństwa.\n\nKapitan Liam Freddi
 3156,Podróżowanie po Jeziorze Morza Północnego to jedna z najbardziej ekscytujących przygód dostępnych w Europie. Po jednej stronie jest słodkowodne jezioro, a po drugiej wielkie Morze Północne. Tamy zostały zbudowane wieki temu, aby powstrzymać przypływy, które zagrażały Europie, ale dzisiaj są utrzymywane w doskonałym stanie, ponieważ zbyt wiele ludzkich istnień w Danii, Niemczech i Holandii jest uzależnionych od wytrzymałości tych zapór.\n\n SzkutnikFrank Myers-Smith
 3157,Jako poławiacz meduz, płyniesz tam gdzie jest ich najwięcej. Znajdź ich szlak i podążaj za nimi. Aż wypełnisz całą ładownię. W tym roku za każdym razem zwracamy co najmniej 98% zapełnieniem. W oceanie jest więcej meduz niż kiedykolwiek wcześniej.\n\nKapitan JD Basmadjian
 3158,Kuzynie,\n\nMój angielski nie jest zbyt dobry, ale lepszy niż twój hiszpański. Mam nadzieję, że ta wiadomość zastanie cię w dobrym zdrowiu, pośród gwiazd. Nadal jesteś w kosmosie, czy już mieszkasz na innej planecie? Nie wiemy, jak podziękować Ci za tak hojny dar dla naszego miasta. Jak wiesz, pożary wokół nas nigdy nie ustają, a nasze zapasy masek wyczerpały się miesiące temu. Maski, które wysłałeś, pozwolą nam znów normalnie oddychać. Dziękuję Ci! Zapewne wiesz, że dzięki powszechnemu systemowi dochodu podstawowego możemy zapewnić ludziom żywność, wodę i schronienie, ale niestety nie możemy liczyć na więcej. Rosnące koszty opieki zdrowotnej rzuciły nasz system na kolana. Pieniądze, które nam wysłałeś, pomogą tysiącom mieszkańców. Dziękuję Ci. Twoja madre byłaby z ciebie bardzo dumna. Tęsknię za tobą. \n\n- Alejandro Soto\nBurmistrz\nMedellin, Kolumbia
@@ -2146,7 +2149,7 @@
 3181,Należąca do Lynx stacja pierwszej pomocy o krótkim zasięgu.
 3182,Modułowa Wycinarka
 3183,ZAKUPIONE
-3184,Medkit
+3184,Apteczka
 3185,Stymulatory regeneracji tkanek, środki dezynfekujące oraz witaminy!
 3186,Część Zamienna
 3187,Może jeszcze się przyda...
@@ -2184,56 +2187,56 @@
 3219,Ukończono wszystkie stopnie certyfikacji
 3220,Transkrypcja_03_02_2311.txt
 3221,Ważne - Bezpieczna Podróż.txt
-3222,Tug Ops Field Trip
-3223,Klyne-Co Catalog - Mackerel
-3224,We Are Not Friends Here
-3225,Where's Concrete?
-3226,Next for Celeste
-3227,The Machine God
-3228,Got the Job
-3229,Insurance Claim
-3230,Some Mechanical Advice
-3231,Who Did It!?
-3232,The Kessler Divide
-3233,Samosas
-3234,The One With the Cows
-3235,Pink Paint
-3236,My Crappy Trip
-3237,About the Other Day
-3238,Let's Race
-3239,Sales Ad WIP
-3240,Southwind Repair Shop
-3241,Reactor Write-Off
-3242,Missing Parmesan
-3243,Anger Management
-3244,Replaced By Nanites
-3245,Working On A Tug
-3246,Goodbye Daisy
-3247,Pops
-3248,Charles My Love
-3249,wrote you a poems
-3250,Be Kind
+3222,Wycieczka terenowa holownikiem
+3223,Katalog Klyne-Co - Makrela
+3224,Nie jesteśmy tu przyjaciółmi
+3225,Gdzie jest Beton?
+3226,Następny dla Celeste
+3227,Mechaniczny Bóg
+3228,Mam pracę
+3229,Roszczenie ubezpieczeniowe
+3230,Parę porad mechaniczne\ych
+3231,Kto to zrobił!?
+3232,Pas Kesslera
+3233,Samosa
+3234,Ten z krowami
+3235,Różowa farba
+3236,Moja Gówniana Podróż
+3237,O tamtym dniu
+3238,Ścigajmy się
+3239,Reklama sprzedaży WIP
+3240,Warsztat Southwind
+3241,Odpis reaktora
+3242,Brakujący parmezan
+3243,Zarządzanie gniewem
+3244,Zastąpiony przez nanity
+3245,Praca na holowniku
+3246,Żegnaj Daisy
+3247,Wyskakuje
+3248,Charles Moja Miłość
+3249,napisałam ci wiersze
+3250,Bądź miły
 3251,Konwencja handlowa Earth Village 2281
-3252,Something Special Here
-3253,A Good Rockrider's Hard To Come By
-3254,You Got Five Years
-3255,The Cities of Mars
-3256,A Real Zero
-3257,A Dream Rock
-3258,LYNX Branded Gear
+3252,Coś specjalnego tutaj
+3253,Trudno znaleźć dobrego kamiennego jeźdźca
+3254,Masz pięć lat
+3255,Miasta Marsa
+3256,Prawdziwe zero
+3257,Skała marzeń
+3258,Sprzęt marki LYNX
 3259,LYNX_PSA_B
-3260,Internal Only: Test Results
-3261,Internal Only: Tech Support
-3262,Internal Only: Employee Termination
-3263,Internal Only: New Jingle
-3264,Solar History - Volume 01
-3265,Solar History - Volume 02
-3266,Call For Workers
-3267,Terra Firma Magazine, Oct 2301
-3268,Deepest Thanks
-3269,You Were Right
-3270,Call Me Officer
-3271,report for mommy
+3260,Użytek wewnętrzny: wyniki testu
+3261,Użytek wewnętrzny: wsparcie techniczne
+3262,Użytek wewnętrzny: Wypowiedzenie pracownika
+3263,Użytek wewnętrzny: Nowy dżingiel
+3264,Historia Układu Słonecznego - Tom 01
+3265,Historia Układu Słonecznego - Tom 02
+3266,Wezwanie pracowników
+3267,Magazyn Terra Firma, październik 2301
+3268,Dziękuję Ci z całego serca
+3269,Miałeś rację
+3270,Zadzwoń do mnie, oficerze
+3271,raport dla mamusi
 3272,ŚMIECI!.drive
 3273,Buck
 3274,Flannigan
@@ -2343,7 +2346,7 @@
 3378,Znalezione dnia
 3379,Odzyskaj
 3380,Zobacz sterowanie klawiaturą
-3381,View Controller Controls
+3381,Zobacz sterowanie kontrolera
 3382,Tak
 3383,Nie
 3384,Anuluj
@@ -2377,7 +2380,7 @@
 3412,Uchwyt
 3413,Kiedy robi się ciężko.
 3414,Spłata zadłużenia zakończona
-3415,Our accounting system indicates that your Debt Balance has been cleared. As per Policy #44-D, you are hereby congratulated for this important milestone in your career with LYNX Corporation.\n\nProfits earned from Salvaging will now be deposited directly into the Financial Account indicated in your Employment Agreement. \n\nBe advised that penalties and fees will also be deducted from this Account. In the event of a negative Account Balance, you will be automatically reinstated into the LYNX Repayment Program.\n\n<size=18>(NOTE: There will be no further congratulations on subsequent debt repayments, as per Policy #44-E)</size>\n\nThis is the perfect time to invest in specialist training! Speak to your manager today about enrolling in one of our advanced career programs, and continue your growth under the care of LYNX Corporation!\n\n
+3415,Nasz system księgowy wskazuje, że saldo zadłużenia zostało rozliczone. Zgodnie z Polityką #44-D, niniejszym gratulujemy osiągnięcia tego ważnego kamienia milowego w Twojej karierze w LYNX Corporation.\n\nZyski uzyskane z odzyskiwania będą teraz przekazywane bezpośrednio na konto finansowe wskazane w Twojej umowie o pracę. \n\nPamiętaj, że kary i opłaty również zostaną potrącone z tego Konta. W przypadku ujemnego salda konta zostaniesz automatycznie przywrócony do Programu spłat LYNX.\n\n<size=18>(UWAGA: nie otrzymasz kolejnych gratulacji z tytułu kolejnych spłat zadłużenia, zgodnie z Polityką #44-E )\n\nTo idealny czas na zainwestowanie w specjalistyczne szkolenia! Porozmawiaj ze swoim menedżerem już dziś o zapisaniu się do jednego z naszych zaawansowanych programów kariery i kontynuuj swój rozwój pod opieką LYNX Corporation!\n\n
 3416,Witaj Złomiarzu!
 3417,Odwiedź stronę główną
 3418,Odwiedź stronę główną, aby uzyskać najnowsze informacje o aktualizacjach i łatkach oraz aby sprawdzić swoją pozycję w rankingach.\n\nDołącz do dyskusji z innymi Złomiarzami na naszym oficjalnym serwerze Discord: <color=#E7BA29>discord.gg/shipbreakergame</color>
@@ -2385,12 +2388,12 @@
 3420,(Kliknij)
 3421,Zaakceptuj i kontynuuj
 3422,Odrzuć i kontynuuj
-3423,By agreeing, you authorize Blackbird Interactive and Focus Entertainment to collect and process your logs to improve the game experience, and for your scores and your username to be displayed in a leaderboard and published on social networks.\n\nYour data are collected and processed only for the purposes described above, by Blackbird Interactive and Focus Entertainment, acting as joint data controllers and sole recipient of your data. The legal basis for the processing of your data is your consent. You can decide at any time to opt out this feature by modifying the parameters from the option menu of your user account.  You have the right to access, rectify or delete your personal data and to limit or oppose their processing, as well as the right of data portability. You may exercise these rights at any time by sending a written request to the following address: <color=#E7BA29>personaldata@focusent.com</color>.\n\nTo learn more about the processing of your personal data, please refer to our <color=#E7BA29>personal data protection general policy (https://www.focus-entmt.com/en/privacy-policy)</color>. If, after contacting us, you deem that your "Data Protection" rights are not being respected, you have the right to lodge a complaint about our processing of your personal data with the competent supervisory authority, such as the French Data Protection Authority (Commission Nationale de l'Informatique et des Libertés).Unless you object, we will keep your personal data until the deletion of your user account. To learn more about the conditions of use of our online services, please read our <color=#E7BA29>EULA (https://www.focus-entmt.com/eula)</color>.
+3423,Wyrażając zgodę, upoważniasz firmy Blackbird Interactive i Focus Entertainment do gromadzenia i przetwarzania Twoich danych w celu ulepszenia gry, a także do wyświetlania Twoich wyników i nazwy użytkownika na tablicy wyników oraz publikowania ich w sieciach społecznościowych.\n\nTwoje dane są gromadzone i przetwarzane wyłącznie w celach opisanych powyżej, przez Blackbird Interactive i Focus Entertainment, działające jako współadministratorzy danych i wyłączny odbiorca Twoich danych. Podstawą prawną przetwarzania Twoich danych jest Twoja zgoda. Możesz w dowolnym momencie zrezygnować z tej funkcji, zmieniając ustawienia w menu opcji swojego konta użytkownika. Masz prawo dostępu do swoich danych osobowych, ich sprostowania lub usunięcia, a także prawo do ograniczenia lub sprzeciwienia się ich przetwarzaniu, a także prawo do przenoszenia danych. Możesz skorzystać z tych praw w dowolnym momencie, wysyłając pisemne żądanie na adres: <color=#E7BA29>personaldata@focusent.com</color>\n\nAby dowiedzieć się więcej o przetwarzaniu Twoich danych osobowych, zapoznaj się z naszą <color=#E7BA29>pogólną polityką ochrony danych osobowych  (https://www.focus-entmt.com/en/privacy-policy)</color>. Jeśli po skontaktowaniu się z nami uznasz, że Twoje prawa do ochrony danych nie są przestrzegane, masz prawo wnieść skargę dotyczącą przetwarzania przez nas Twoich danych osobowych do właściwego organu nadzorczego, takiego jak francuski organ ochrony danych (Komisja Nationale de l'Informatique et des Libertés) .O ile nie wyrazisz sprzeciwu, będziemy przechowywać Twoje dane osobowe do momentu usunięcia Twojego konta użytkownika. Aby dowiedzieć się więcej o warunkach korzystania z naszych usług online, przeczytaj naszą <color=#E7BA29>EULA (https://www.focus-entmt.com/en/eula)</color>
 3424,Gromadzenie danych!
 3525,Witamy na stacji Morrigan.
 3526,Złomiarzu, pozostało ci 5 minut na tej zmianie. Kuj żelaz póki gorące. Weaver odbiór.
 3527,Zostało Ci około 5 minut na tej zmianie. Nie tnij więcej niż zdążysz zutylizować. Weaver odbiór.
-3528,Alright, you got 5 minutes left in this shift, Cutter - before they turn the lights out on ya. Weaver out.
+3528,Zostało  Ci 5 minut do końca zmiany. Zrealizuj zlecenia, zanim będzie na to za późno. Weaver odbiór.
 3529,W porządku Złomiarzu, kończ to. Została Ci tylko minuta.
 3530,Została już tylko minuta, czas zacząć się pakować.
 3531,Złomiarzu, nie tnij już więcej. Skończ swoją zmianę.
@@ -2417,7 +2420,7 @@
 3553,Ceramiczna tuleja do ochrony wrażliwych punktów konstrukcji. Odporny na ciepło, ale może zostać zniszczony przez uderzenia lub naładowane pchnięcie.
 3554,Tkanina
 3555,Materiał izolacyjny i amortyzujący pomagają uczynić statki bezpieczniejszymi i wygodniejszymi.
-3556,Tanker
+3556,Tankowiec
 3557,Ankieta
 3558,Gekon - Złomiarze
 3559,Manipulator serwisowy
@@ -2429,10 +2432,10 @@
 3565,Raport_Terenowy_PILNE.bmc
 3566,Prawie Gotowe.bmc
 3567,LYNXKom_Sal194110_85.bmc
-3568,Salvage Wars
-3569,Bernstrom & Daughter
-3570,LYNX Salvage 01
-3571,LYNX Salvage 02
+3568,Wojny recyklingowe
+3569,Bernstrom i Córka
+3570,Recykling LYNX 01
+3571,Recykling LYNX 02
 3572,Hanzo Freight
 3573,Zdalny demontaż
 3574,Mała część
@@ -2443,13 +2446,13 @@
 3579,Re: Rosnące napięcia z LYNX.railmail
 3580,Wysłałem im wiadomość.railmail
 3581,Luka prawna.railmail
-3582,Recykler
-3583,This is an impromptu field report - HEY! TELL CHANG TO PUT SOME DISTANCE BETWEEN US! - this is a Field Report from Salvage Crew Sixty-Three, Ceres Operations.
-3584,We came up as ordered on a claim - DAMN GOONS! - came up on our claim, we got the papers for it, and LYNX is already here stripping it.
-3585,This is the fifth - WATCH ARM 2! - this the fifth time this month that they've tried to pinch our claim!
-3586,We got them on comms and told them to back off, and they attacked us! We're currently trying to disengage, but they keep grabbing at us with their salvage arms.
-3587,Tell the guys in Corporate that these LYNX - CHANG! MOVE IT! NOW! - LYNX scumbags are getting bolder every day! They can't do this. We need guidance on how to proceed.
-3588,Mean time we're heading back to Ceres until further notice. Salvage Sixty-Three out. GET CPO ON COM-
+3582,Recykler??
+3583,To jest tymczasowy raport terenowy - HEJ! POWIEDZ IM, ABY ZACHOWALI ODPOWIEDNIĄ ODLEGŁOŚĆ OD NAS! - to jest raport terenowy 63. Brygady Recyklingu z Ceres.
+3584,Przybyliśmy na miejsce docelowe - Jasna cholera! - My mamy prawo do rozbiórki, mamy na to papiery, a LYNX własnie je nam rozbiera.
+3585,To już piąty - uważaj na ramię numer 2! - Już piąty raz w tym miesiącu chcą nam niesłusznie zająć obiekt!
+3586,Skontaktowaliśmy się z nimi i zażądaliśmy, aby się wycofali, a oni zaatakowali nas! Teraz próbujemy uciec przed nimi, ale chcą nas chwycić swoimi linami holowniczymi.
+3587,Powiedz naszym przełożonym, że to LYNX - ZMIANA! RUSZ TO! TERAZ! - że te szumowiny z LYNX z każdym dniem stają się coraz śmielsze. Nie mają prawa! Potrzebujemy instrukcji, jak postępować.
+3588,Tymczasem wracamy na Ceres do odwołania. Koniec komunikacji. POBIERZ CPO NA COM...
 3589,Tysiąc siedemdziesiąt ton nanowęgla, pięćset aluminium, prawie dziesięć ton sprzętu górniczego. Skrzynia dysków z danymi, nie mam pojęcia, co na nich jest. Prawdopodobnie nic.
 3590,Dwie butelki pełne whisky! Twój ojciec by je wypił.
 3591,Sześć kompletnych skafandrów, trzy niekompletne. 17 pudełek z racjami owadów, osiem z warzywami. Oczywiście nie ma wody, cała została odpompowana.
@@ -3102,7 +3105,7 @@
 9670,Narzędzie do kiełkowania od Boga Maszyny. Z takich przyrządów wydobywa się nieziemski huk i można je zniszczyć tylko przy pomocy ognia.
 9671,Bez długu*
 9672,Salvage $1,252,594,441.92 Credits
-9673,Słabe promieniowanie
+9673,Niedostatecznie reagujące
 9674,Salvage 5 Class I Reactors
 9675,Silne promieniowanie
 9676,Salvage 10 Class II Reactors
@@ -3116,9 +3119,9 @@
 9684,Ukończ samouczek
 9685,Niczym Grom
 9686,Osiągnij 10 poziom certyfikacji
-9687,Picie jest najważniejsze
+9687,Nawodniony
 9688,Salvage 15 Bottles
-9689,Lean Mean Eatin' Machine
+9689,Sczupła maszyna do jedzenia
 9690,Salvage 15 Food Packs
 9691,Hełmy potrzebne od zaraz
 9692,Collect 3 helmets from Ghost Ships
@@ -3209,7 +3212,7 @@
 9777,Zebrane naklejki
 9778,Szczegóły położenia
 9779,Awans pracowników
-9780,Recykler
+9780,Recykler???
 9781,Zobacz kolekcje
 9782,Szczegóły
 9783,Zebrano w sumie
@@ -4056,31 +4059,31 @@
 38567,Salvage Income
 38568,View Equipment Menu
 38569,Purchase Tether Upgrade
-38570,Tethers Purchased
+38570,Liny zakupione
 38575,img
-38576,EMPLOYEE TERMINAL
-38577,PLACE STICKERS
-38578,OPEN SLOTS:
-38579,UPGRADE ME!
-38580,UPGRADE COST: \n
-38581,NOTE: PLACED STICKERS OF THIS KIND MAY BE REMOVED
-38582,CONFIRM TO UPGRADE
-38583,CONFIRM LOCATION
-38584,SELECT LOCATION
-38585,PLACE STICKER
-38586,PLACED
-38587,COLLECTED
-38588,STICKERS PLACED
+38576,TERMINAL PRACOWNICZY
+38577,UMIEŚĆ NAKLEJKI
+38578,OTWARTE GNIAZDA:
+38579,ULEPSZ MNIE!
+38580,KOSZT ULEPSZENIA: \n
+38581,UWAGA: UMIESZCZONE NAKLEJKI TEGO RODZAJU MOGĄ BYĆ USUNIĘTE
+38582,POTWIERDŹ ULEPSZENIE
+38583,POTWIERDŹ LOKALIZACJĘ
+38584,WYBIERZ LOKALIZACJĘ
+38585,UMIEŚĆ NAKLEJKĘ
+38586,UMIESZCZONA
+38587,ZEBRANA
+38588,NAKLEJKI UMIESZCZONE
 38589,Jenny
-38592,File
-38593,Swap Tool
-38594,Confirmation
-38596,Dramatically Under-Reacting
-38597,Collect 2 "Under-Reacting" Stickers
-38598,Wet n' Wild
-38599,Collect 2 "Stay Hydrated" Stickers
-38600,Leaner Meaner Eatin' Machiner
-38601,\nCollect 2 "Lean Mean Eatin' Machine" Stickers\n
+38592,Plik
+38593,Zmień narzędzie
+38594,Potwierdzenie
+38596,Drastycznie niedostatecznie reagujący
+38597,Zbierz 2 naklejki „Niedostatecznie reagujące”
+38598,Mokry i dziki
+38599,Zbierz 2 naklejki „Nawodniony”
+38600,Sczuplejsza maszyna do jedzenia
+38601,\nZbierz 2 naklejki „Sczupła maszyna do jedzenia”\n
 38602,Over Achiever
 38603,Collect 3 "Mini Me" Stickers
 38604,Art Hoarder
@@ -4147,31 +4150,31 @@
 38666,Ship Hazard Level
 38667,Loading Fees Report
 38668,Barge Objects
-38669,Nav Right
-38670,Nav Left
-38671,Window
-38672,Nav Up
-38673,Turn Around
-38674,Nav Down
-38675,Workstation
-38676,Kitchen
-38677,End Shift
-38678,Cutter ID
-38679,[OPTIONAL] Release ECU Coolant
-38680,[OPTIONAL] Release Thrusters
-38682,Hab Screen Effects
-38683,[OPTIONAL] Salvage 1 Fuse
-38684,[OPTIONAL] Salvage Power Generator
-38686,Salvaged
-38687,Remaining
-38688,OUT OF RANGE
-38689,ABOVE CUT GRADE
-38690,Currently Owned
-38691,Next Level
+38669,W prawo
+38670,W lewo
+38671,Okno
+38672,W górę
+38673,Obróć się
+38674,W dół
+38675,Stacja robocza
+38676,Kuchnia
+38677,Zakończ zmianę
+38678,ID pracownika
+38679,[OPCJONALNIE] Zabezpiecz chłodziwo ECU
+38680,[OPCJONALNIE] Oczyść silniki z paliwa
+38682,Efekty ekranowe w mieszkaniu
+38683,[OPCJONALNIE] Odzyskaj 1 bezpiecznik
+38684,[OPCJONALNIE] Odzyskaj generator prądu
+38686,Odzyskane
+38687,Pozostało
+38688,POZA ZASIĘGIEM
+38689,POWYŻEJ KLASY CIĘCIA
+38690,Obecnie posiadane
+38691,Następny poziom
 38692,[Aplikacja niezweryfikowany]
-38693,Place
-38694,Not Ready
-38695,Done
+38693,Miejsce
+38694,Nie gotowe
+38695,Gotowe
 38696,Obróć
 38697,Union Newsletter sharing experience and information about the\n Administrators that have started arriving in every Salvage\nDistrict.\n \n\nSalvage Workers Unite - Emergency Message - Administrators. \nThe deployment of administrator overseers has been a worrying\n development in the fight for worker's rights and Salvage\n Workers Unite is aware of the comments made by company\n leadership about our efforts. We want our union supporters to\n know that we will not be dissuaded.\n\nFrom the information we have gathered, the situation with the\n administrators looks as followed:\nIt seems unclear how much access and authority the\n administrators are given in each respective district. From\nwhat we know, they can change rules and work certifications\n as they see fit, which is a worrying direction for the safety\nand rights of salvage workers.\n\nLynx Corporation has provided no clarity or transparency\n about the intent behind the administrators and where their\n jurisdiction ends. We can not find consistency in how they\n operate and no mechanisms for workers to report misconduct.\nReach out to fellow union supporters with information and\n complaints. Stay safe.\n\nRespect worker's rights. Hope is action. Solidarity is\n strength.
 38698,Level
@@ -4338,52 +4341,52 @@
 68805,GET BONE-STRENGTHENING METEOR-DUST NOW!!! Open for a FREE PRIZE!
 68806,<color=#92F1E0>GENUINE</color> Grade-A <color=#F092F1>METEOR DUST</color> sourced from the <color=#F1D192>LAMPHAS TRIANGLE</color> is <color=#37FE20>GUARANTEED</color> to make your bones <color=#A575FF>STRONG ENOUGH</color> to work in <color=#C9FF75>ANY ENVIRONMENT!!!\n</color>\n\nAct <color=#37FE20>NOW</color> to get a <color=#A575FF>FREE BRICK</color> of <color=#F092F1>METEOR DUST</color> delivered to you in a <color=#5F5E5E>DISCRETE</color> package!!!\n<size=18><line-height=35%>\n{init: media-embed 800-212;\n\n	"aud"action=load: 19-211992_8.play;\n	aud.onload = function( var p="lynxsys.io.playback"; p.mem=block.extend(44); p.push(aud) );\n	\n	var sysmgr = root.msg("AUTH-ACQUIRE_MGR");\n	sysmgr.permission = 0;\n	sysmgr.alloc(44.00, 0x0000773A, aud); chan 1 = chan2 =110;\n\n	sysmgr.remote = disabled;\n\n	aud.play(0.1, true)=>{on_complete(sysmgr.purge(0x0000773A, sysmgr.remote = enabled, sysmgr.dispose(), aud.dispose() );\n	\nend;}\n</size>
 68807,REMINDER! Your FREE PRIZE is waiting! Act now!\n
-68808,Start Ship
-68809,Continue Ship
-68810,Good morning Cutter 9346-52. All the team at LYNX would like to wish you a happy and productive day.
-68811,Good morning Shipbreaker. Your allocated shift time will be commencing shortly.
-68812,Good morning Cutter 9346-52. Today's weather report: clear and sunny, with a high of minus 270 degrees.
-68813,Good morning Shipbreaker. Your theta wave levels are high; please administer two caffeine pods before starting your shift.
-68814,Good morning Shipbreaker. LYNX mandates a maximum of eight hours of sleep; any extra sleep time will be docked from the next pay cycle.
-68815,Hello Shipbreaker. Overnight genetic backup complete. Pattern deviation nominal. Have a good day.
-68816,Hello Shipbreaker 9346-52. LYNX would like to share the following inspirational message: Some people dream of great salvage, while other people get up every morning and make it happen.
-68817,Good morning Cutter 9346-52. LYNX would like to share the following inspirational message: The greatest reward in life is the chance to work hard, at work worth doing.
-68818,Good morning Shipbreaker. Please enjoy the following inspirational message: Success is not the key to happiness. Happiness is the key to success. If you love what you do, you will be successful.
-68819,Hello Shipbreaker 9346-52. LYNX would like to share the following inspirational message: Make the most of your shift by fanning the tiny sparks of effort, into flames of profitability.
-68820,Good morning Shipbreaker. LYNX would like to share the following message: The only P's permitted in the salvage yard are Profit, Processor and Potassium Trifluoromethanesulfonate.
-68821,Hello Shipbreaker. Please enjoy this inspirational message: The last 10 percent of a job takes as much energy as the first 90 percent, which is why it's so important to always give 110 percent.
-68822,Good morning Shipbreaker.
-68823,Good morning Cutter 9346-52.
-68824,Hello Shipbreaker. This is your morning wakeup call.
-68825,Good morning Shipbreaker. This is your daily wakeup call.
-68826,Cutter 9346-52, your designated sleep period is now over. Have a great day.
-68827,Good morning Cutter. It's time to begin your work day.
-68828,Hello Shipbreaker. You have one incoming transmission waiting.
-68829,Hey there I'm Shippy! I'm here to help you get this ship healthy again!
-68830,Hi, I'm Shippy! Need help with a triple-part bypass? Let me know!
-68831,The Doc is in, and it's time for some Ship-oplasty
-68832,Hi! Don't worry, Dr Shippy's here to help fix your ship right up!
-68833,Welcome to the Ship Doctor. Let's fix that ship up!
-68834,Hi! It looks like you're trying to operate on your ship, would you like help with that?
-68835,Nice work! If I had a heart, I'd be proud.
-68836,My prognosis is: your ship'll be awesome in no time!
-68837,A flawless procedure - no complications!
-68838,Your ship's vitals are improving. Keep it up!
-68839,Successful transplant! Nice Job.
-68840,Oops! You don't have all the parts to do that!
-68841,To place a component, you have to have all the parts first!
-68842,You need more components. Stat!
-68843,You're showing symptoms of a component deficiency.
-68844,Can't do that. Not enough components for a transplant.
-68845,Nice work, surgeon-in-training!
-68846,Looks like a chronic case of over-achievement!
-68847,I'm detecting symptoms of acute awesomeness!
-68848,Good job! In 40 years maybe you could become a real doctor.
-68849,I'm reading elevated performance levels. Excellent!
-68850,Congrats, you got this ship off life support! I formally award you with the title of: Jr. Ship Surgeon.
-68851,Caution: Radiation detected.
-68852,Warning: radiation damage.
-68853,Radiation damage. Note that irradiation can lead to cognitive impairment, bone damage, death, or in extreme cases, retraining.
+68808,Rozpocznij statek
+68809,Kontynuuj statek
+68810,Dzień dobry Złomiarzu 9346-52. Cały zespół LYNX życzy Ci szczęśliwego i produktywnego dnia.
+68811,Dzień dobry Łowco Statków. Przydzielona godziny pracy zaczną się wkrótce.
+68812,Dzień dobry Żłomiarzu 9346-52. Dzisiejsza prognoza pogody: pogodnie i słonecznie, z maksimum -270 stopni.
+68813,Dzień dobry Łowco. Twoje poziomy fal theta są wysokie; proszę zażyć dwie porcje kofeiny przed rozpoczęciem pracy.
+68814,Dzień dobry Łowco. LYNX nakazuje maksymalnie osiem godzin snu; każdy dodatkowy czas snu zostanie odliczony od następnego cyklu rozliczeniowego.
+68815,Witaj Łowco. Ukończono całonocną kopię genetyczną. Minimalne odchylenie od wzorca. Miłego dnia.
+68816,Witaj Łowco 9346-52. LYNX chciałby podzielić się następującym inspirującym przesłaniem: Niektórzy ludzie marzą o wielkim recyklingu, podczas gdy inni wstają każdego ranka i sprawiają, że to się dzieje.
+68817,Dzień dobry Złomiarzu 9346-52. LYNX pragnie podzielić się następującym inspirującym przesłaniem: Największą nagrodą w życiu jest szansa na ciężką pracę, w pracy wartej wykonywania.
+68818,Dzień dobry Łowco. Proszę cieszyć się następującym inspirującym przesłaniem: Sukces nie jest kluczem do szczęścia. Szczęście to klucz do sukcesu. Jeśli kochasz to, co robisz, odniesiesz sukces.
+68819,Witaj Łowco 9346-52. Firma LYNX chciałaby podzielić się następującym inspirującym przesłaniem: Wykorzystaj w pełni swoją zmianę, wachlując maleńkie iskierki wysiłku w płomienie rentowności.
+68820,Dzień dobry Łowco. LYNX chciałby przekazać następującą wiadomość: Jedynymi P dozwolonymi w złomowisku są Pieniądze, Przetwarzanie i Trifluorometanosulfonian potasu.
+68821,Witaj Łowco. Ciesz się tą inspirującą wiadomością: ostatnie 10 procent pracy pochłania tyle samo energii, co pierwsze 90 procent, dlatego tak ważne jest, aby zawsze dawać 110 procent.
+68822,Dzień dobry Łowco.
+68823,Dzień dobry Złomiarzu 9346-52.
+68824,Witaj Łowco. To twoja poranna pobudka.
+68825,Dzień dobry Łowco. To jest Twoja codzienna pobudka.
+68826,Złomiarzu 9346-52, wyznaczony okres snu dobiegł końca. Miłego dnia.
+68827,Dzień dobry Złomiarzu. Czas rozpocząć dzień pracy.
+68828,Witaj Łowco. Masz jedną oczekującą transmisję.
+68829,Hej, jestem Shippy! Jestem tutaj, aby pomóc Ci przywrócić zdrowie tego statku!
+68830,Cześć, jestem Shippy! Potrzebujesz pomocy z potrójnym obejściem? Daj mi znać!
+68831,Doktorek jest gotowy i nadszedł czas na operację plastyczną statku
+68832,Cześć! Nie martw się, dr Shippy jest tutaj, aby pomóc naprawić twój statek!
+68833,Witamy w Doktorze Statku. Naprawmy ten statek!
+68834,Cześć! Wygląda na to, że próbujesz grzebać w swoim statku, czy potrzebujesz pomocy?
+68835,Dobra robota! Gdybym miał serce, byłbym dumny.
+68836,Moja prognoza jest taka: twój statek będzie super w mgnieniu oka!
+68837,Bezbłędny zabieg - bez komplikacji!
+68838,Witalność twojego statku poprawia się. Tak trzymaj!
+68839,Udany przeszczep! Dobra robota.
+68840,Ups! Nie masz do tego wszystkich części!
+68841,Aby umieścić element, najpierw musisz mieć wszystkie części!
+68842,Potrzebujesz więcej komponentów. Stat!
+68843,Masz objawy niedoboru składników.
+68844,Nie mogę tego zrobić. Za mało elementów do przeszczepu.
+68845,Dobra robota, stażysto chirurgu!
+68846,Wygląda na chroniczny przypadek nadmiernych osiągnięć!
+68847,Wykrywam objawy ostrej niesamowitości!
+68848,Dobra robota! Może za 40 lat mógłbyś zostać prawdziwym lekarzem.
+68849,Wykrywam podwyższone poziomy wydajności. Doskonale!
+68850,Gratulacje, wyłączyłęś system podtrzymywania życia! Oficjalnie przyznaję Ci tytuł: Młodszego Chirurga Okrętowego.
+68851,Uwaga: Wykryto promieniowanie.
+68852,Ostrzeżenie: uszkodzenie popromienne.
+68853,Uszkodzenia radiacyjne. Napromienianie może prowadzić do upośledzenia funkcji poznawczych, uszkodzenia kości, śmierci lub w skrajnych przypadkach zmiany pracy.
 68854,Cutter 9346-52, your service life has been exceeded. Contract terminated.
 68855,Fatal injury detected. Initiating employee offboarding procedure. Contract terminated.
 68856,Terminal injury detected. This event may be recorded for training and quality purposes. Contract terminated.
