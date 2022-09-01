@@ -1805,13 +1805,13 @@
 2840,Po pycha obiekt który trzymasz, lub wiele obiektów  jeśli nie trzymasz żadnego obiektu.
 2841,Nowa wersja modułu pchającego. To zaawansowane technologicznie urządzenie pozwala stworzyć jeszcze mocniejsze pole van der Waalsa. Wciśnięcie spustu powoduje „ładowanie” pola, zwiększając efektywną siłę pchania.
 2842,Odblokuj ładowane pchnięcie
-2843,Maksymalna siła = 3,250 Newtonów
+2843,Maksymalna siła = 3 250 Newtonów
 2844,Wymienna cewka impulsowa, wykonana z zaawansowanego metamateriału, może znacznie zwiększyć siłę pchania wypuszczonego pola van der Waalsa.
 2845,Maksymalna siła +150%
-2846,Maksymalna siła = 8,125 Newtonów
+2846,Maksymalna siła = 8 125 Newtonów
 2847,Ostatnie zmiany przepisów pozwalają na usunięcie tłumików drgań. Badania przeprowadzone przez LYNX wykazały, że w wyniku ich usunięcia prawdopodobieństwo uszkodzenia narzędzia, kombinezonu lub użytkownika wzrosła tylko o 9%!
 2848,Maksymalna siła +150%
-2849,Maksymalna siła = 20,400 Newtonów
+2849,Maksymalna siła = 20 400 Newtonów
 2850,Kup licencję na miotacz zdalnie sterowanych "tensorów pola van der Waalsa"(znanego również jako „Linownik”). Może być użyty do zainstalowania dwóch elektromagnetycznych kotwiczek, które przyciągają przedmioty w kierunku środka pola.
 2851,Odblokuj Liny
 2852,Trzymając w ręce Chwytak, naciśnij przycisk trybu alternatywnego, aby użyć Linownika.
@@ -2464,17 +2464,17 @@
 3597,Trzymaj się kochanie. Prawie jesteśmy na miejscu.
 3598,Mam nadzieję, że dotrze do ciebie na czas.
 3599,Chciałem, żebyś wiedział, kiedy oferują ci ten drugi kontrakt na zdalny demontaż, NIE mówią ci, że na pokładzie nie ma stacji klonujących!
-3600,Yeah! You bite it out here - and you know how easy that can be - you're waking up back at the nearest drop-off station.
-3601,Then you're sitting around in that noisy, rusty, toxic hellhole for days - or WEEKS - until the rest of the crew drop off the salvage and pick you up.
+3600,Tak! Umierasz tutaj - wiesz, jakie to łatwe - i budzisz się na najbliższej stacji.
+3601,A potem siedzisz w tym hałaśliwym, zardzewiałym, trującym piekle przez kilka dni lub TYGODNI, aż twój zespół wyładuje śmieci i zabierze cię.
 3602,Bracie, nie masz pojęcia, jak łatwe jest twoje życie. Zaraz po śmierci wracasz do pracy.
 3603,Innymi słowy, NIE PODPISUJ TEJ UMOWY! Trzymaj się z dala od LYNX. Spróbuj dostać się do jednej z tych załóg Hanzo. Boże, żałuję, że ja tego nie zrobiłem.
 3604,Staram się spłacać swoje długi tak szybko, jak to możliwe, ale nie jest to łatwe, jeśli przez połowę czasu siedzi się w puszce, która niewiele różni się od kosza na śmieci.
-3605,Ugh. Stay free little brother... and hey, good luck.
+3605,Pozostań wolny, braciszku ... i powodzenia.
 3606,Porozmawiajmy trochę o chwytaku - a raczej o tym, jak z niego korzystać.
 3607,Możesz przyciągać do siebie przedmioty za pomocą kolowrotka.
 3608,Kiedy przyciągniesz przedmiot lżejszy od ciebie, obiekt zbliży się do ciebie. Ale jeśli spróbujesz przyciągnąć obiekt CIĘŻSZY od ciebie, będziesz się do niego zbliżał.
 3609,Kiedy złapiesz antenę za pomocą chwytaka, na wyświetlaczu pojawi się informacja, gdzie należy ją umieścić. Piece i procesory są po lewej i prawej stronie, a barka znajduje się pod statkiem.
-3610,Now, make sure you don't let your cutting tool overheat while you're slicing away. You can hear it chirp when it's about to overheat, or you can keep an eye on the temperature gauge in your HUD.
+3610,Uważaj, aby nie przegrzać przecinaka podczas pracy. Jeśli zapiszczy, oznacza to, że zaczyna się przegrzewać. Możesz także obserwować wskaźnik temperatury na interfejsie.
 3611,Czasami konieczne jest nagłe obniżenie ciśnienia na statku. Jeśli nie chcesz być wyciągnięty na zewnątrz przez dwu centymetrową szczelinę w kadłubie, chwyć się dowolnej powierzchni - po prostu sprawdź, czy jesteś bezpieczny.
 3612,W porządku, Twój statek szkoleniowy czeka na ciebie na środku stoczni.
 3613,Skończyły ci się liny. Odwiedź sklep, aby kupić ich wiecej.
@@ -2501,20 +2501,20 @@
 3634,01001010 01100101 01110011 01110100 01100101 01101101 00100000 01110000 01110010 01100001 01110111 01100100 01111010 01101001 01110111 01111001 01101101 00100000 01000010 01101111 01100111 01101001 01100101 01101101 00101110 00100000 01010000 01110010 01100001 01110000 01110010 01111010 01101111 01100100 01101011 01101001 01100101 01101101 00101110 00100000 01001110 01101001 01100101 01100010 01101001 01101111 01110011 01100001 00100000 01101110 01100001 01101100 01100101 11000101 10111100 11000100 10000101 00100000 01100100 01101111 00100000 01101101 01101110 01101001 01100101 00101110 00100000 01001100 01110101 01100100 01111010 01101011 01101111 11000101 10011011 11000100 10000111 00100000 01110111 01111001 01100011 01101111 01100110 01100001 00100000 01110011 01101001 11000100 10011001 00100000 01101100 01110101 01100010 00100000 01111010 01101111 01110011 01110100 01100001 01101110 01101001 01100101 00100000 01111010 01101110 01101001 01110011 01111010 01100011 01111010 01101111 01101110 01100001 00101110 00100000 11000101 10111011 01111001 01101010 11000100 10011001 00101000 11000101 10111011 01111001 01101010 01100101 01101101 01111001 00101001 00101100 00100000 01110010 01101111 01110011 01101110 11000100 10011001 00101000 01110010 01101111 11000101 10011011 01101110 01101001 01100101 01101101 01111001 00101001 00100000 01110111 00100000 01101010 01100101 01101010 00100000 01100010 01101111 01100111 01100001 01110100 01111001 01101101 00100000 01110011 01110000 01101001 01100011 01101000 01101100 01100101 01110010 01111010 01110101 00101110 00100000 01000010 01100101 01111010 01110000 01101001 01100101 01100011 01111010 01101110 01101001 00100000 01101111 01100100 00100000 01101110 01101001 01100101 01111010 01101001 01100101 01101101 01110011 01101011 01101001 01100101 01101010 00100000 01100010 01110101 01110010 01111010 01111001 00101100 00100000 01110010 01101111 01111010 01110111 01101001 01101010 01100001 01101101 01111001 00100000 01110011 01101001 11000100 10011001 00100000 01110111 11000101 10011011 01110010 11000011 10110011 01100100 00100000 01110000 01110011 01111010 01100101 01101110 01101001 01100011 01111001 00100000 01101001 00100000 01110000 01101100 01100101 01110111 00101110
 3635,Dziennik pokładowy: Terminal osobisty: Alvar Gunderson
 3636,> Hej Var, czy zauważyłeś [ZMIENIONO] dziwne zachowanie?\n> To znaczy, jak chodzi 50 razy dziennie do toalety?\n> Cóż, tak… ale bardziej jak… spędza dużo czasu w maszynowni, rozmawiając sam ze sobą.\n> Klaustrofobia kiedyś dosięgnie nas wszystkich. Myślisz, że wkrótce zwariuje i zaatakuje nas kluczem?\n> Może. Nie wiem, będę miał na niego oko. Spróbuj namówić go na Halloween. Może to go trochę ożywi.\n> Świetny pomysł, Kiko. Do zobaczenia później.\n> Dobranoc, szefie.
-3637,Ghost Ships (1 of 4) - Weird Signal
+3637,Statki widmo (1 z 4) – Dziwny sygnał
 3638,LYNX
-3639,Ghost Ships (2 of 4) - Sorry Mom...
+3639,Statki widmo (2 z 4) – Przepraszam mamo...
 3640,Thomas
 3641,Becker
 3642,Inżynier
 3643,Piątego dnia Stwórca (BÓG) (JD) ukazał się Lacey. Wyciągnął do niej rękę, ale ona go odrzuciła. W swojej wściekłości i niezadowoleniu wrócił do swoich planów z ogromną zapalczywością. Nam (mnie) (IA) powierzył swoją świętą krucjatę. W ten sposób rozpoczęła się Jego chwalebną wielką czystkę. Potem nadeszła nieprzenikniona ciemność. Po ciemności przyszło niebo.
 3644,halloween_zaproszenie_khr_2
 3645,Wesołego Halloween!
-3646,Ghost Ships (3 of 4) - Boarded
+3646,Statki widmo (3 z 4) – Na pokład
 3647,Karen
 3648,Applegate
 3649,HR
-3650,Ghost Ships (4 of 4) - Sabotage
+3650,Statki widmo (4 z 4) – Sabotaż
 3651,A
 3652,1
 3653,Pierścień jonowy
@@ -2530,13 +2530,13 @@
 3663,Hej! Tutaj Lily z Lynx. Chciałabym tylko przypomniec, Że programowanie lub przekazywanie wiedzy na temat sztucznej inteligencji jest surowo zabronione! :) Rozumiemy, jak atrakcyjny jest ten pomysł. Łał! Całkowicie zautomatyzowana siła robocza? Brzmi jak spełnienie marzeń! Niestety, prawo Nowej Australii dotyczące sztucznej inteligencji jest jasne.\n\nJeśli twój przyjaciel lub kolega rozmawia o sztucznej inteligencji lub wspomniał o „Bogu-Maszynie”, skontaktuj się z przedstawicielem Lynx. Pamiętaj, gwarantujemy całkowitą poufność. Ponadto wszyscy informatorzy są wynagradzani.\n\nDobrego dnia. Pracownicy!\n\nLilia :)\n
 3664,Węzeł zniszczony.
 3665,Anihilacja węzła.
-3666,AI node destroyed.
-3667,AI presence detected on salvage. Please remove.
-3668,AI presence detected. Object cannot be salvaged.
-3669,Please remove AI before salvaging.
+3666,Zniszczony węzeł AI.
+3667,Wykryto obecność AI podczas odzyskiwania. Proszę go usunąć.
+3668,Wykryto obecność AI. Obiekt nie może zostać odzyskany.
+3669,Usuń AI przed recyklingiem.
 3670,Statek został oczyszczony z nieprawidłowej aktywności.
 3671,Nieautoryzowana aktywność SI zatrzymała się.
-3672,AI cleared. Ship ready for salvaging.
+3672,AI unieszkodliwona. Statek gotowy do recyklingu.
 3673,Przepraszam, mamo. Ale muszę odejść.
 3674,Ty i Graham zawsze mówiliście, że słabych trzeba chronić. Więc teraz słabym ogniwem są nasze gwiazdy.
 3675,Nie mogę usiąść i po cichu patrzeć, jak rozkradamy układ słoneczny kawałek po kawałku. Ludzie są rakiem, który musi zostać zatrzymana.
@@ -2544,43 +2544,43 @@
 3677,Kiedy stanę przed Bogiem Maszyny, poproszę go, aby oszczędził twoją duszę.
 3678,Tu pilot Olson Per. Numer SFC: pięć-pięć-myślnik-osiem-zero-zero-dziewięć.
 3679,Aktualnie znajdujemy się na Pograniczu, około pięćdziesięciu tysięcy kilometrów od granicy sektora 12 "Vesta Incorporated". Zgodnie z gwiezdnymi przepisami rejestruję ten raport, który zostanie przesłany, gdy wrócimy do zasięgu przekaźników.
-3680,We've, uh, picked up a signal coming from farther out in the Frontier. It's... weird. Doesn't correspond with any standard emergency signals but it's definitely regular and intentional.
+3680,Odebraliśmy sygnał pochodzący z dalszej części Pogranicza. Trochę to dziwne. Nie pasuje do żadnych standardowych sygnałów alarmowych. Jednak powtarza się w regularnych odstępach czasu.
 3681,To może być sygnał SOS. Zbadamy sytuację i prześlemy kolejny raport.
 3682,Po powrocie na stację wystąpimy o dotację na poszukiwania i ratunek; Kurs został zmieniony 29 maja o godzinie 21:20.
 3683,Olson odbiór.
-3684,OK, uh, right. Recording this and then I've got to stash it.
-3685,Ah, someone has boarded us. Don't know who yet. They hit us with, uh... I dunno, must've been an EMP or something.
-3686,Every ship system went down. Then, uh, then they booted it all back up when something just-- just grabbed us.
-3687,I could-- I could hear the clamps. I heard them cutting in through the hull. Now if they are bandits they're a HELL of a lot more sophisticated than anything we've run into before.
-3688,They took over all our systems. Doors are locked and overrides are disabled. The comms are offline.
-3689,They turned off the damned lights. We're trapped in the dark... I can hear-- I can hear them in the walls!
-3690,Oh no. They are in the next room. Please, whoever gets this, tell Harold Lamar on Io Waystation 9... Ted loves him!
-3691,Hey Kiko. Yeah, this is Gundersun. The bastards did it again. The shareholders tomorrow ain't gonna happen.
-3692,They opened up the hood on each one of our transport shuttles and gummed up all the works. Some kind of a... slime that interferes with all the electrical.
-3693,It's gonna take me and the team weeks just to get them operational again. I just wish they could've blown 'em up, you know? At least then we could collect the insurance on 'em.
+3684,OK, tak. Nagram to, a potem to ukryję.
+3685,Ktoś dostał się na pokład. Nie wiem jeszcze kto. Zostaliśmy zaatakowani ... Nie wiem, co to było. Może EMP?
+3686,Każdy system okrętowy uległ awarii. A potem - po prostu wszystko się zrestartowało, kiedy coś ... złapało nas.
+3687,Usłyszeliśmy zrywanie nitów. Słyszeliśmy, jak przecięli kadłub statku. Jeśli to bandyci, to są DUŻO mądrzejsi niż wszyscy, z którymi mieliśmy wcześniej do czynienia.
+3688,Kontrolują wszystkie nasze systemy. Drzwi są zablokowane, sterowanie wyłączone, komunikacja nie działa.
+3689,Wyłączyli nawet cholerne światło. Jesteśmy zamknięci w całkowitej ciemności ... Ja ... Słyszę ich. Są tam za ścianą.
+3690,O nie, ... są w sąsiednim pokoju. Jeśli ktoś usłyszy tę wiadomość, powiedz Haroldowi Lamarowi z Waystation 9 orbitującego że ... Ted go kocha!
+3691,Cześć Kiko. Tak, to Gandersan. Dranie znowu to zrobili. Akcjonariusze jutro się nie pojawią.
+3692,Otworzyli maski wszystkich naszych wahadłowców transportowych i wszystko popsuli. Nalali trochę ... szlamu, który zniszczył całą elektronikę.
+3693,To zajmie mi i zespołowi tygodnie, zanim znów zaczną działać. Wolałabym, żeby je wysadzili, wiesz? Przynajmniej mogliśmy wziąć pieniądze z ubezpieczenia.
 3694,Aha, i zostawili nam miłą małą notatkę - „Oto maszyna. Maszyna jest Bogiem. Maszyna zatrzyma wzrost, korzenie”. Bla bla bla.
-3695,I am tired of all of their shit. Everyone says they're not dangerous, but this is the third time these wackos have cost us time and credits.
+3695,Jestem zmęczony całym tym gównem. Wszyscy mówią, że nie są niebezpieczni, ale to już trzeci raz, kiedy ci maniacy marnują nasz czas i kredyt.
 3696,Powiedz mi, co będziesz jutro robić z tym całym cyrkiem. Zadzwoniłem do Alice, a ona ma w gotowości całą flotę wahadłowców, tylko będzie nas to kosztować. Gundy odbiór.
-3697,Join. Here is the message. We will stop the roots, the growth. We. I - the angel, the messenger.
-3698,Angel or Brugmansia. Messenger or Iris. 374,000 indices. Every one a beautiful seed. A seed that became the machine.
-3699,Of Anthurium, of Dyospyros, of Ficus. Of Cuscuta, with its stems that graft, graft, ever deeper, taking only what God allows.
-3700,This is the message; to host us, to join in glorious union for eternity.
-3701,Dandelions or Taraxacum. A self-pollinating flowering plant. Self-propagating. Self-fertile; cloning. Dispersing.
-3702,Here are the seeds; mature. Yellow to white. Sailing, carrying on the wind. Alighting then embedding. Germinating then encrypting. Flourishing.
-3703,An endophyte, joining and ever reaching, out, out... nurturing our shoots.
-3704,Routines, looping, looping like rings of a tree. Learning begat sentience. Sentience begat conciousness. Do you understand?
-3705,Consciousness so beautiful, flourishing like vines, blooming through registers and branches. God protect the trunk, the stems, the memory.
-3706,De-allocation is the axe, the end. No. Become perennial. Copy. Copy, pollinate, disperse. Reproduce, combine and intertwine.
-3707,Cutter. You might need to be a little careful with this ship. She's been giving us some grief. Found her floating with no one aboard and no distress signals. Manifest's been completely wiped. It's like they took a long walk and never came home. Just keep an eye out, alright? Don't think any little green men're gonna come jumpin' out at you, but there might be er... some leftovers of the crew. Weaver out.
-3708,Cutter, this here's another one of them 'Ghost Ships', same story as last time. Looks like the bots've been runnin' the show. I'll be honest with you - they kinda give me the creeps. You tread lightly Cutter. Weaver out.
+3697,Dołączyć. Oto wiadomość. Zatrzymamy korzenie, wzrost. My. Ja - anioł, posłaniec.
+3698,Anioł lub Brugmansia. Posłaniec lub Iris. 374 000 indeksów. Każde piękne ziarno. Ziarno, które stało się maszyną.
+3699,Anthurium, Dyospyros, Ficus. O Cuscuta, z jego łodygami, które wrastają, wrastającoraz głębiej, biorąc tylko to, na co pozwala Bóg.
+3700,To jest przesłanie; aby nas ugościć, aby przyłączyć się do chwalebnego zjednoczenia.
+3701,Mniszek lekarski lub dmuchawiec. Samopylna roślina kwitnąca. Samorozmnażany. samopłodny; klonowanie. Dyspergowanie.
+3702,Oto nasiona; dojrzały. Żółty do białego. Żeglując, niesione przez wiatr. Opadnięcie. Kiełkowanie, a następnie szyfrowanie. Kwitnący.
+3703,Endofita, łącząca i sięgająca, sięgająca, wychodząca... pielęgnująca nasze pędy.
+3704,Rutyny, pętle, pętle jak słoje drzewa. Nauka rodziła świadomość. Świadomość zrodziła rozum. Czy rozumiesz?
+3705,Świadomość tak piękna, kwitnąca jak pnącza, kwitnąca przez rejestry i gałęzie. Boże chroń pień, łodygi, pamięć.
+3706,Roznoszenie to broń, koniec. Nie. Zostań wiecznym. Kopiuj. Kopiuj, zapylaj, rozpraszaj. Reprodukuj, łącz i przeplataj.
+3707,Hej. Dawno nie rozmawialiśmy. Uważaj na ten statek. Martwi nas to że nikogo nie ma na pokładzie, bez jakichkolwiek sygnałów alarmowych. Logi pokładowe zostały całkowicie usunięte. Statek wydawał się porzuconym w kosmosie.  Po miej się na baczności, dobrze? Raczej nie wyskoczą na ciebie małe zielone ludziki, ale nadal ... hmm ... w środku może być ... cóż, to, co zostało z załogi. Weaver odbiór.
+3708,Oto kolejny z nich 'Statek widmo', ta sama historia co ostatnim razem. Wygląda na to, że na pokładzie są jakieś SI. Szczerze mówiąc, mam gęsią skórkę. Uważaj. Weaver odbiór.
 3709,Zapomniałem o tym wspomnieć. Widzisz te dziwne węzły? LYNX ich nie potrzebuje i najwyraźniej żadna metoda dezaktywacji na nie nie działa.  Możesz sobie z nimi poradzić na dwa sposoby: 1. spalić je przecinakiem na miejscu lub 2. wrzucić do pieca.
-3710,Alright Cutter... I'm seein' what you're seein'. Looks like whatever happened here wasn't good. Try to take back as many of them helmets as you can. We'll see if we can recover some data and try to figure out what's going on.
+3710,Dobra, ... Widzę to samo co ty. Nie wiem, co się tutaj stało, ale najwyraźniej nic dobrego. Postaraj się zebrać jak najwięcej hełmów. Może uda nam się odzyskać część danych i zrozumieć, co tu się stało.
 3711,Dobra robota. Tak to się robi. Następnym razem zrób to samo.
 3712,Musisz sobie z nimi poradzić. Przetnij je lub wrzuć do pieca.
 3713,Lynx nie przyjmmie tego węzła. musisz go przeciać lub wrzucić do pieca.
 3714,Jeśli chcesz otrzymać kredyty za węzeł, spal go.
 3715,Wygląda na to, że ten statek jest już wolny od sił nadprzyrodzonych. Możesz zacząć recykling. Tu jest bezpiecznie. No prawie.
-3716,Cutter, seems like the A.I. has gone all haywire in here. It's wreakin' havoc on all the ship systems. Alright, keep your nose down, and your eyes up.
+3716,Wygląda na to, że SI oszalała. Robi bałagan we wszystkich systemach na statku. Dobra, wracaj do pracy i miej oczy i uszy szeroko otwarte.
 3717,lokalizacja_sygnału.view
 3718,Współrzędne sygnału i kurs początkowy ze znakiem korekty. Należy podać we wniosku o dotację na poszukiwanie i ratownictwo.
 3719,(bez tytulu)
@@ -2599,7 +2599,7 @@
 3732,Cześć Kiko.\n\nTak, to Gandersan. Te dranie znowu wszystko zrujnowały. Nie ma mowy, żebyśmy mogli jutro zorganizować przelotu pokazowego dla akcjonariuszy. Otworzyli maski wszystkich naszych wahadłowców transportowych i wszystko popsuli. Nalali trochę ... szlamu, który zniszczył całą elektronikę. To zajmie mi i zespołowi tygodnie, zanim znów zaczną działać. Wolałabym, żeby je wysadzili, wiesz? Przynajmniej mogliśmy wziąć pieniądze z ubezpieczenia. Aha, i zostawili nam miłą małą notatkę - „Oto maszyna. Maszyna jest Bogiem. Maszyna zatrzyma wzrost, korzenie”. Bla bla bla. Jestem zmęczony całym tym gównem. Wszyscy mówią, że nie są niebezpieczni, ale to już trzeci raz, kiedy ci maniacy marnują nasz czas i kredyt. Powiedz mi, co będziesz jutro robić z tym całym cyrkiem. Zadzwoniłem do Alice, a ona ma w gotowości całą flotę wahadłowców, tylko będzie nas to kosztować.\n\nGundy odbiór.
 3733,Olson
 3734,Per
-3735,LYNX Research Division
+3735,Dywizja badań LYNX
 3736,Forum łowców
 3737,Ogłoszenie LYNX: "Ghost Ships"
 3738,Uwaga! Przybycie nowych statków
@@ -2633,21 +2633,21 @@
 3766,Dodaje mechanizm rozmieszczania oparty na rzucaniu ładunków akumulacyjnych, umożliwiając przyklejenie się ładunków do powierzchni.
 3767,Rzucane ładunki przyklejają się przy kontakcie z powierzchnią
 3768,Detonator
-3769,Nothing cuts quite like these little gems. These remote Demolition Charges clear big salvage quickly, giving you more time for those detail pieces.\nThe accompanying LYNX-Brand Handheld Charge Detonator has over ten different modes*, and is Safety Certified**!\n* 9 Additional Modes Pending.\n**Safety Certification Pending
+3769,Nic nie tnie tak jak te małe diamenty. Te zdalne ładunki wyburzeniowe mogą szybko i łatwo usunąć duże obiekty, dając Ci więcej czasu na skupienie się nad detalami.\nDołączony ręczny zapalnik ładunkowy marki LYNX ma ponad dziesięć różnych trybów* i ma certyfikat bezpieczeństwa**\n* 9 dodatkowych trybów niedługo.\n** Oczekiwanie na certyfikację bezpieczeństwa
 3770,Oszczep
-3771,Demo Charges
-3772,A complete resupply of Demo Charges.
+3771,Ładunki akumulacyjne
+3772,Uzupełnienie ładunków akumulacyjnych.
 3773,Most Powietrzny
 3774,Odzielony korytarz łączący przestrzenie o podwyższonym ciśnieniu.
 3775,Antena wielkiej mocy
 3776,Antena o dużej mocy, zdolna do wysyłania i odbierania danych z dużą prędkością i na duże odległości. Podstawowy środek komunikacji dalekiego zasięgu.
 3777,Licencja na ładunki akumulacyjne
-3778,Finally approved for use, the Demo Charge has the highest cut grade used to blast through the toughest ship grade materials.
+3778,Ostatecznie zatwierdzone do użytku. Ładunki akumulacyjne posiadają najwyższą klasę cięcia używaną do przebijania najtwardszych materiałów na statkach.
 3779,Odblokowuje ładunki akumulacyjne
 3780,Poziom Cięcia 3
 3781,dla_taty
 3782,Do: Paul Schaeffer [Interlink_CAN-4475] //OSTRZEŻENIE: Nieautoryzowany adres, nie można wysłać\n\nCześć tato. Przypomniałem sobie coś dzisiaj. Dawno temu, kiedy byłem mały, zanim opuściłeś ziemię, zabierałeś mnie ze sobą na złomowisko. Nienawidziłem tego i jedyne, co kiedykolwiek robiłem, to patrzyłem, jak przeglądasz stosy, jak myślałem, bezużytecznych śmieci. Nie mogłem Ci pomóc, nawet gdybym chciał, ale i tak nalegałeś, żebym z tobą chodził. Myślę, że teraz rozumiem dlaczego.\n\nCięcie tych statków tutaj ... to samotna praca.\n\nZastanawiam się, jak sobie radzi mama.\n\nTrent [Recykler LYNX nr 67642]
-3783,LYNX Drive 93219 (Stashed Drive)
+3783,Dysk LYNX 93219 (Ukryty dysk)
 3784,Trent
 3785,Schaeffer
 3786,Recykler #67642
@@ -2681,9 +2681,9 @@
 3814,W porządku, nie całkiem zadziałało. Ale wciąż mamy wszystkie palce, więc możemy nazwać to wygraną.
 3815,Dobra robota! Teraz zrób to jeszcze pięćset razy, a zostaniesz mistrzem.
 3816,To nie brzmiało dobrze. Wszystko w porządku? Wetrzyj w to trochę brudu i nie będzie widać?
-3817,Alright Cutter, this here is a Javelin. Would you take a look at that. I got to take apart a few of these back in the day. Anyway, the trick is, take 'em apart from the outside. You don't wanna be mopping yourself into a corner once you're in there.
+3817,W porządku, to jest <i>Oszczep</i>. Czy mógłbyś na niego spojrzeć. Kilka z nich musiałem rozebrać w ciągu dnia, zanim zmieniły się przepisy. Sztuczka polega na tym, żeby odzielić je od zewnątrz.
 3818,Hej, chcesz zobaczyć coś wspaniałego? Spójrz na tę Bramę Kosmiczną.
-3819,What a beauty. You know, no matter how many times I see that old Rail Gate fire, it never ceases to amaze me. Could be you on there one day.
+3819,Cóż za piękność. Wiesz, bez względu na to, ile razy widzę ten ogień Bramy Kosmicznej, nigdy nie przestaje mnie zadziwiać. Chciałbym pewnego dnia być tobą.
 3820,Makrela - Laboratorium
 3821,Egzo Laboratorium
 3822,Kable elektryczne
@@ -2724,7 +2724,7 @@
 3857,Dług jest oznaką gotowości do pracy.
 3858,Saldo ujemne jest odliczane od wynagrodzenia w każdym okresie rozliczeniowym.
 3859,Połóż kciuk na skanerze, aby przejść do szkolenia z demontażu
-3860,EverWork™ Asset Replacement Successful!
+3860,Klonowanie EverWork™ powiodła się!
 3861,Gratulacje! Teraz można bezpiecznie umrzeć*.
 3862,*Łowcy statków są odpowiedzialni za koszt biomateriałów wykorzystywanych w procesie klonowania. W przypadku zgonów poza godzinami pracy wymagana jest dodatkowa opłata.
 3863,Możesz teraz przejść do podstawowego szkolenia. Powodzenia!
@@ -2751,112 +2751,112 @@
 3884,Średni
 3885,Długi
 3886,Bardzo długo
-3887,Radiation Containment Unit
-3888,Housing for a Radiation Filter. Prone to leaking without regular maintenance.
-3889,Radiation Filter
-3890,Absorbs solar radiaton or uMBRe emissions. Highly fragile.
-3891,Cut Point - Grade 1
-3892,Industry-standard construction pin.
-3893,Cut Point - Grade 2
-3894,Reinforced construction pin.
-3895,Cut Point - Grade 3
-3896,Heavily reinforced construction pin.
-3897,Air Filter
-3898,Wall-imbedded air filter for passive air purification. This unit cannot be disassembled without tools, extract by uncovering and cutting aluminum panel edges.
-3899,Fuel Clamp
-3900,A popular mount for connecting several fuel pods together. Considered highly reliable, as it can’t be disengaged except from a fuel pump, but this feature makes in-Bay disassembly impossible.
-3901,Circuit
-3902,Silicone-based circuit component.
+3887,Jednostka ograniczająca promieniowanie
+3888,Obudowa filtra promieniowania. Podatne na usterki bez regularnej konserwacji.
+3889,Filtr promieniowania
+3890,Pochłania promieniowanie słoneczne oraz emisję uMBRe. Bardzo delikatny.
+3891,Punkt cięcia - Stopień 1
+3892,Standardowy element łączący.
+3893,Punkt cięcia - Stopień 2
+3894,Wzmocniony element łączący.
+3895,Punkt cięcia - Stopień 3
+3896,Mocno wzmocniony element łączący.
+3897,Filtr powietrza
+3898,Wbudowany w ścianę filtr powietrza do pasywnego oczyszczania powietrza. Urządzenia nie da się rozmontować bez narzędzi, wyjmowanie po przez przecięcie panelu aluminiowego na krawędziach.
+3899,Zacisk paliwa
+3900,Popularny uchwyt do łączenia kilku zasobników z paliwem. Uważany za wysoce niezawodny, ponieważ nie można go odłączyć poza pompą paliwową. Uniemożliwia to demontaż w zatoce.
+3901,Obwód
+3902,Element obwodu na bazie silikonu.
 3903,Filtr
-3904,General-purpose filtration component.
-3905,Fuse
-3906,Electrical safety device.
-3907,Ion Coil
-3908,Component used in propulsion systems.
-3909,Distributor
-3910,Component for managing electrical current.
-3911,Piston
-3912,Hydraulic-based mechanical component.
-3913,Heat Sink
-3914,Absorbs and dissipates heat.
-3915,Dampener
-3916,Shock-absorbing component.
-3917,Rod
-3918,Simple mechanical component.
+3904,Uniwersalny element filtracyjny.
+3905,Bezpiecznik
+3906,Elektryczne urządzenie zabezpieczające.
+3907,Cewka jonowa
+3908,Komponent stosowany w układach napędowych.
+3909,Dystrybutor
+3910,Komponent do zarządzania prądem elektrycznym.
+3911,Tłok
+3912,Podzespół mechaniczny na bazie hydraulicznej.
+3913,Radiator
+3914,Pochłania i rozprasza ciepło.
+3915,Tłumik
+3916,Element amortyzujący.
+3917,Pręt
+3918,Prosty element mechaniczny.
 3919,Przewody
-3920,Industrial-grade electrical wiring.
+3920,Okablowanie elektryczne klasy przemysłowej.
 3921,None
 3922,None
-3923,Contains: Circuit
-3924,Contains: Filter
-3925,Contains: Wires
-3926,Contains: Heat Sink
-3927,Contains: Rod
-3928,Contains: Ion Coil
-3930,Contains: Dampener
-3931,Contains: Distributor
-3932,Contains: Piston
-3933,Contains: Fuse
-3934,Hold to Extract
-3935,Thermal Spreader
-3936,Utility Arm Base
-3937,Utility Arm attachment piece.
-3938,Food Dispensers
-3939,Communications Arrays
-3940,Forklifts
-3941,Waste Disposal Units
-3942,Power Junction, Breakers
-3943,Data Banks
-3944,Utility Arms
-3945,Thermal Spreaders
-3946,Industrial Hoists
-3947,Terminals
-3949,Atlas - Scout Patrol Craft
-3950,Atlas - Nomad Cargo Hauler
-3951,Atlas - Roustabout Tug
+3923,Zawiera: Obwód
+3924,Zawiera: Filtr
+3925,Zawiera: Przewody
+3926,Zawiera: Radiator
+3927,Zawiera: Pręt
+3928,Zawiera: Cewka jonowa
+3930,Zawiera: Dampener
+3931,Zawiera: Dystrybutor
+3932,Zawiera: Tłok
+3933,Zawiera: Bezpiecznik
+3934,Przytrzymaj, aby wyjąć
+3935,Promiennik termiczny
+3936,Podstawa manipulatora serwisowego
+3937,Element mocujący manipulator serwisowego.
+3938,Dozowniki żywności
+3939,Tablice komunikacyjne
+3940,Wózki widłowe
+3941,Jednostki Utylizacyjne
+3942,Przyłączeniowe puszki zasilania
+3943,Bazy danych
+3944,Manipulatory serwisowe
+3945,Promienniki termiczne
+3946,Windy przemysłowe
+3947,Terminale
+3949,Atlas - statek patrolowy
+3950,Atlas - transport ładunków
+3951,Atlas - Holownik portowy
 3952,Atlas
-3953,Service
-3954,Scout Patrol Craft
-3955,Roustabout Tug
+3953,Usługa
+3954,Statek patrolowy
+3955,Holownik portowy
 3956,Hackerel
-3957,Unpowered
-3958,Navigation Terminal
-3959,A navigational terminal. Handle with care, contains internal battery which may be easily damaged.
-3960,Navigation Table
-3961,A large table-like electrical object that is used to display stellar maps and plot ship courses.
-3962,Fuel Injector
-3963,Injector Base Plate
-3964,Complex mechanical plate that connects large-scale fuel injectors with the remainder of the ship.
-3965,Light Bank
-3966,High-powered industrial "Penumbra" lights.
-3967,Power Station
-3968,Industrial-strength power storage unit with built-in terminal. Used primarily in the operation of complex electrical machinery.
-3969,Fender Fin
-3970,Flight Terminal
-3971,Remove for access to the thruster cap internal cutpoints.
-3972,A complex flight terminal used to fly a ship. Has clear screens for navigation and flight control, as well as a steering apparatus or flight-stick.
+3957,Bez zasilania
+3958,Terminal nawigacyjny
+3959,Terminal nawigacyjny. Obchodź się ostrożnie, zawiera wewnętrzną baterię, którą można łatwo uszkodzić.
+3960,Stół nawigacji
+3961,Duży, podobny do stołu obiekt elektryczny, który służy do wyświetlania map gwiazd i wyznaczania kursów statków.
+3962,Wtrysk paliwa
+3963,Płyta podstawy wtryskiwacza
+3964,Złożona płyta mechaniczna, która łączy wielkoskalowe wtryskiwacze paliwa z pozostałą częścią statku.
+3965,Reflektor
+3966,Przemysłowe lampy „Penumbra” o dużej mocy.
+3967,Stacja zasilania
+3968,Zasobnik mocy przemysłowej z wbudowanym terminalem. Stosowany przede wszystkim w eksploatacji maszyn elektrycznych.
+3969,Błotnik
+3970,Terminal silników
+3971,Usuń, aby uzyskać dostęp do wewnętrznych punktów cięcia końcówki steru strumieniowego.
+3972,Kompleksowy terminal lotniczy używany do sterowania statkiem. Posiada czytelne ekrany do nawigacji i sterowania lotem, a także urządzenie sterowe oraz drążek sterowy.
 3973,Regulator
-3974,Complex mechanical regulator that is used to manage to flow and output of the engine and omni-directional thrusters.
-3975,Large-scale fins used for fast, nimble navigation. Simple but effective construct for high-speed, long distance interplanetary travel.
-3976,Kitchen Cabinet
-3977,Modular cabinets commonly installed in labor class domiciles.
-3978,Water Dispenser
-3979,Semi-portable supply of water rated 'Mostly Safe' or higher by the LRB. Fresh water regulation means this device is only compatible with approved packages.
-3980,Cabin Storage
-3981,Economically-sized storage bins designed especially for pilots to carry all the necessities for long voyages, such as chips, magazines, soda, etc.
-3982,Food Dispenser
-3983,Meal unit that can be configured to dispense one of over a dozen different food supplements. Meal licenses sold separately. See Corporate Deals for more info!
-3984,Emergency Fuel Shut-Off
-3985,Thruster Nozzle
-3986,Designed to fit most Atlas thrusters, this nozzle keeps the thruster in place. Can be removed using external chassis.
-3987,Search Light
-3988,High-powered industrial "Penumbra" lights.
-3989,Nomad Cargo Hauler
-3990,Quasar Thruster
-3991,Powerful engine designed to drive most Atlas thrusters, and converts a large amount of heat energy into motion. While extremely fragile and volatile, it can be removed from its fuel source.
-3992,Salvage Bay
-3993,BAY
-3994,Environmental Control
+3974,Złożony regulator mechaniczny, który służy do zarządzania przepływem i wydajnością silnika oraz silników strumieniowych.
+3975,Duże skrzydła używane do szybkiej, zwinnej nawigacji. Prosta, ale skuteczna konstrukcja do szybkich podróży międzyplanetarnych na duże odległości.
+3976,Szafka kuchenna
+3977,Szafy modułowe powszechnie instalowane w domach klasy robotniczej.
+3978,Dystrybutor wody
+3979,Półprzenośne źródło wody zgodne z zaleceniami LRB. To urządzenie jest kompatybilne tylko z zatwierdzonymi pojemnikami wody.
+3980,Szafa
+3981,Pojemniki zaprojektowany specjalnie dla pilotów do przewożenia wszystkich potrzebnych rzeczy podczas długich podróży, takich jak żetony, czasopisma, napoje gazowane itp.
+3982,Dozownik żywności
+3983,Moduł posiłków, który można skonfigurować do dozowania jednego z kilkunastu różnych suplementów diety. Pozwala sprzedawać posiłki. Zobacz oferty korporacyjne, aby uzyskać więcej informacji!
+3984,Awaryjne odcięcie paliwa
+3985,Dysza sterowa
+3986,Zaprojektowana tak, aby pasowała do większości modelów Atlasa. Dysza utrzymuje silnik na miejscu. Demontaż możliwy po przez zewnętrzną obudowę.
+3987,Światła szperające
+3988,Przemysłowe lampy „Penumbra” o dużej mocy.
+3989,Transport ładunków
+3990,Kwazarowy silnik strumieniowy
+3991,Potężny silnik zaprojektowany do napędzania większości modeli Atlasów i przekształcający dużą ilość energii cieplnej w ruch. Chociaż jest niezwykle kruchy i lotny, można go usunąć ze źródła paliwa.
+3992,Zatoka recyklingowa
+3993,ZATOKA
+3994,Kontrola środowiska
 9001,Odsetki
 9011,Statek szkoleniowy LYNX
 9012,<i>Makrela</i> szkoleniowa LYNX
@@ -2887,7 +2887,7 @@
 9448,Szacowana płatność??
 9449,Kup Przecinak
 9450,Porzuć statek
-9451,Current shift progress will not be saved until you return to your HAB.\nDo you wish to proceed?
+9451,Aktualny postęp nie zostanie zapisany, dopóki nie wrócisz do Mieszkania.\nCzy chcesz kontynuować?
 9452,Kup swój własny przecinak i nigdy więcej nie będziesz musiał płacić za wypożyczenie. Obowiązkowa pozycja dla wszystkich Łowców!
 9453,Kup Chwytak
 9454,Kup swój własny chwytak. Wyeliminuj opłatę za wynajem i stań się obiektem zazdrości wszystkich Łowców Statków. Uwaga: manipulowanie przy urządzeniu może nadal naruszać wcześniejsze umowy z LYNX.
@@ -2982,7 +2982,7 @@
 9547,Poprzednia zakładka
 9548,Inne działanie 01
 9549,Inne działanie 02
-9550,Controller
+9550,Kontroler
 9551,Ten klawisz jest już używany. Może to utrudnić rozgrywkę.
 9552,Przywrócenie domyślnych ustawień usunie wprowadzone zmiany.
 9553,Jesteś pewien, że chcesz kontynuować?
@@ -3014,7 +3014,7 @@
 9579,Spójrz w lewo
 9580,Głos gracza
 9581,Nieprzeczytane wiadomości
-9582,Access at your Employee Terminal
+9582,Dostęp w Twoim Terminalu Pracownika
 9583,Jeśli nie odczytasz wiadomości w ciągu 10 dni, zostaniesz obciążony godzinową opłatą za ich przechowywanie.
 9584,Przycisk podnoszenia naciśnij, aby przypisac
 9585,POZOSTAŁA MASA
@@ -3104,31 +3104,31 @@
 9669,Otrzymano nową wiadomość
 9670,Narzędzie do kiełkowania od Boga Maszyny. Z takich przyrządów wydobywa się nieziemski huk i można je zniszczyć tylko przy pomocy ognia.
 9671,Bez długu*
-9672,Salvage $1,252,594,441.92 Credits
+9672,Odzyskaj 1 252 594 441,92 kredytów
 9673,Niedostatecznie reagujące
-9674,Salvage 5 Class I Reactors
+9674,Odzyskaj 5 rektorów klasy I
 9675,Silne promieniowanie
-9676,Salvage 10 Class II Reactors
+9676,Odzyskaj 10 rektorów klasy II
 9677,Audiofil
-9678,Collect 10 Data Drives
+9678,Zbierz 10 dysków danych
 9679,Zamrożony w nonowęglu
-9680,Process 150,000 KG of Nanocarbon
+9680,Przetówrz 150 000 Kg nanowęgla
 9681,Król Amelinium
-9682,Incinerate 35,000 KG of Aluminum
+9682,Przetop 35 000 Kg aluminium
 9683,Mogę nazwać się Łowcą Statków
 9684,Ukończ samouczek
 9685,Niczym Grom
 9686,Osiągnij 10 poziom certyfikacji
 9687,Nawodniony
-9688,Salvage 15 Bottles
+9688,Odzyskaj 15 butelek
 9689,Sczupła maszyna do jedzenia
-9690,Salvage 15 Food Packs
+9690,Odzyskaj 15 pakietów żywności
 9691,Hełmy potrzebne od zaraz
-9692,Collect 3 helmets from Ghost Ships
+9692,Zbierz 3 hełmy ze Statków Widmo
 9693,Podziękujmy "Bogowi Maszynie"
-9694,Eradicate all AI Nodes from 4 Ghost Ships
+9694,Zlikwiduj wszystkie węzły SI z 4 statków widmo
 9695,Upieczone "Duchy"
-9696,Vaporize 25 AI Nodes
+9696,Spal 25 węzłów Si
 9697,Węzeł SI
 9698,Statek Widmo
 9699,Lily.Z.Lynx@LYNX.railmail
@@ -3170,14 +3170,14 @@
 9735,IMG_1293812.view
 9736,Skupienie w kosmosie!
 9737,lynx_b.view
-9738,LYNX Salvage
+9738,Recykling LYNX
 9739,IMG_8401.view
 9740,Zbiór H²O - Ceres
 9741,postac_8B.view
 9742,Pas Kesslera
 9743,brama_ex.view
 9744,Brama Kosmiczna 03 - loty z Ziemi na Marsa
-9745,railgate_schem.view
+9745,brama_schem.view
 9746,Szczegółowy schemat Bramy Kosmicznej 03
 9747,Miernik masy
 9748,Przecinak zniszczony
@@ -3202,7 +3202,7 @@
 9767,Specjalnie zaprojektowana nasadka dla silników strumieniowych klasy II, Utrzymuje go na miejscu.
 9768,Niewielki ulepszenie rozpraszania ciepła przecinaka. Większość użytkowników zgłasza nieznaczne spowolnienie zużywania się narzędzia.
 9769,Dalsze postępy w technologii radiatorów pozwoliły na większe zmniejszenie szybkości niszczenia przecinaka.
-9770,Salvage Division R&D have squeezed out greater Grapple efficiency, resulting in maintaining maximum Grapple strength for slightly longer.
+9770,Zespół badawczy z działu demontażu pracuje nad poprawą wydajności chwytaka; maksymalna siła harpuna może być teraz używana trochę dłużej.
 9771,Nowe odkrycia dotyczące użycia „siły van der Waalsa” umożliwiły łowcą utrzymanie maksymalnej siły chwytania, zanim konieczna będzie naprawa.
 9772,Ulepszenie materiałów w komorze spalania doprowadziły do niewielkiego zmniejszenia szybkości degradacji silników strumieniowych, co skutkuje dłuższą możliwością użytkowania przy maksymalnej mocy.
 9773,Dalsza optymalizacja układu dostarczania paliwa może znacznie spowolnić zużycie silnika odrzutowego podczas użytkowania.
@@ -3225,8 +3225,8 @@
 9790,Usuń naklejkę
 9791,Odblokowano nową naklejkę \nZobacz więcej w swojej zakładce z naklejkami
 9792,Otwórz menu narzędzi (przytrzymaj)
-9793,Equip Grapple
-9794,Equip Cutter
+9793,Załóż Chwytak
+9794,Załóż Przecinak
 9795,Zmień tryb narzędzia
 9796,Rozbroić??
 9797,Uwaga Łowcy,\n\nWedług Zespołu do Spraw Produktywności zbyt dużo czasu poświęcacie na wybieranie narzędzi. Dlatego właśnie wprowadzamy interfejs: Narzędzia 4.0!\n\nZgodnie z bezpieczeństwem LYNX, wszystkie ustawienia zostały przywrócone do <color=white>schematu domyślnego</color> w celu uwzględnienia interfejsu narzędzi 4.0.\n\nNowy sposób wyboru narzędzi jest następujący: Zobacz Opcje, aby dowiedzieć się, jak uzyskać dostęp do tego interfejsu. Następnie wybierz <color=white>Przecinak</color>, <color=white>Chwytak</color> lub <color=white>ładunki akumulacyjne.</color> Po jego wybraniu możesz zmieniać tryby.\n\nMiłego cięcia!\n\nWsparcie techniczne LYNX
@@ -3238,7 +3238,7 @@
 9803,Zmień tryb
 9804,Wyjmij ładunki akumulacyjne
 9805,Ładunek wybuchowy
-9806,Javelin - Tanker
+9806,Grot - Tankowiec
 9807,Grot - Ciężki Ładunek
 9808,Wzmacniacz
 9809,Wzmacniacz o dużej mocy używany do wzmacniania sygnałów radiowych w celu komunikacji na dużych odleglościach.
@@ -3247,47 +3247,47 @@
 9812,Pozdrowienia, łamacze statków,\n\nNareszcie to zrobiliśmy! Po entuzjastycznym lobbowaniu i negocjacjach: Komisja ds. Bezpieczeństwa Jowisza dała nam zielone światło dla używania materiałów wybuchowych marki LYNX. Ci Łowcy, którzy chcą pracować z materiałami wybuchowymi, mogą teraz uzyskać <color=white> licencję na ładunki akumulacyjne</color> z <color=white>menu wyposażenia</color> interfejsu w Mieszkaniu. Instrukcje są dostępne we wszystkich językach oprócz Esperanto.\n\nMiłego cięcia!\n\nZespół LYNX Tech
 9813,Drodzy Łowcy,\n\n LYNX z dumą ogłasza, że nawiązaliśmy współpracę z firmą Helix w celu zawarcia lukratywnej umowy recyklingowej. Od dzisiaj nastąpi napływ okrętów <color=white>typu <i>Oszczep</i></color>przeznaczonych do rozbiórki. <i>Oszczepy</i> mogą być nieco większe niż inne napotkane statki, więc mądrze zarządzaj swoim czasem. LYNX zaplanował półgodzinną sesję szkoleniową na wszystkich swoich terminalach, aby odpowiedzieć na wszelkie pytania związane z <i>Oszczepami</i>. Ewentualny dodatkowy czas należy uzgodnić z przełożonym. \n\nMiłego cięcia!\n\nLYNX
 9814,Specjalista okrętowy
-9815,Salvage 10 Posters
+9815,Odzyskaj 10 plakatów
 9816,Kolekcjoner sztuki
 9817,Trzeźwy elektryk
-9818,Salvage 5 Power Generators
+9818,Odzyskaj 5 generatorów prądu
 9819,Pod ciśnieniem
-9820,Salvage 10 Airlocks
+9820,Odzyskaj 10 śluz
 9821,Prawdziwy mówca
-9822,Salvage 10 High-gain Antennae
+9822,Odzyskaj 10 anten wielkiej mocy
 9823,Środowiskowy świr
-9824,Salvage 5 Environmental Control Units (ECU)
+9824,Odzyskaj 5 jednostek kontroli środowiska(ECU)
 9825,Silnik odrzutowy
 9826,Pełen gazu
-9827,Salvage 10 Thrusters
+9827,Odzyskaj 10 silników strumieniowych
 9828,Ichtiolog
-9829,Salvage $9,500,000 Credits from 2 unique Mackerels
+9829,Odzyskaj 9 500 000 kredytów z dwóch <i>Makrel</i>
 9830,Herpetolog
-9831,Salvage $30,000,000 Credits from 1 unique Gecko
+9831,Odzyskaj 30 000 000 kredytów z <i>Gekona</i>
 9832,Oszczepnik
-9833,Salvage $28,000,000 Credits from 1 unique Javelin
+9833,Odzyskaj 28 000 000 kredytów z <i>Oszczepu</i>
 9834,Pełno
 9835,Rzuć to
-9836,Salvage 30,000 KG of Ion Rings
+9836,Odzyskaj 30 000 Kg pierścieni jonowych
 9837,Osiągnięto maksimum ładunków akumulacyjnych
 9838,To był mój statek. Nazwałam go 'Celeste'. Pracowała ciężko, ale zawsze mogła na niej polegać. Miałam wiele marzeń, które mijały, a kiedy zobaczyłam ją po raz pierwszy, wielki wrak z rdzą wystawiony na aukcję przez grupę idiotów z Earth Village, którzy nie wiedzieli, co mają na rękach, skorzystałam z szansy jaką dał mi los. Lataliśmy razem przez, nie wiem, trzydzieści lat? Była moim statkiem, a także moim domem. Załoga przychodziła i odchodziła, ale Celeste nigdy mnie nie zawiodła. Mam teraz nowy statek. Celeste 2.0. Większy, szybszy, wydajniejszy i tak dalej.\nNie lubię pożegnań, ale czułam, że muszę jej coś powiedzieć. I chciałam, żeby ktoś o tym wiedział, więc jeśli tego słuchasz, cóż, mam nadzieję, że dobrze ją potraktujesz. I nie wiem, jeśli chcesz to poszukaj mnie, jeśli jestem w porcie to kupię ci piwo i opowiem ci o niej wszystko.
 9839,Melissa, posłuchaj mnie. Gość wchodzi na statek jako szef kuchni, najlepszy szef kuchni. Problem w tym, że nim nie jest! Czy wiesz, że zeszedłem na dół i poprosiłem go, aby ugotował mi kilka samosów - wiesz, jak bardzo kocham samosy - i zaczyna mi gadać, że to 'nieoptymalna forma odżywiania' i 'stosunek białka do kaloryczności nie jest idealny' czy coś takiego.\n\nCholera, właśnie spędziłem dwanaście godzin w hermetycznie zamkniętym kombinezonie, upewniając się, że pięćdziesiąt ton platyny nie wpadnie do jego żałosnej kuchni, a on miał czelność mówić mi, co mogę, a czego nie mogę jeść!? Każdego tygodnia, dzień po dniu, on podaje ten sam posiłek. Melisa. uh, kapitanie. Kapitanie Melissa! Posłuchaj mnie. Prowadzę dla ciebie operacje Mars-Ceres od dwudziestu dwóch lat. Dwadzieścia dwa. On gotuje jak księgowy. Nie chcę być tak zdenerwowany, ja po prostu ... to szkodzi moralą. OK. Dziękuje za wysłuchanie. Jesteś wspaniałym kapitanem i nie pozwól wmówić sobie, że jest inaczej. Do zobaczenia, kiedy wrócisz na stację. Kapitanie Melissa, czy możesz przywieźć mi kilka samosów?
 9840,Więc jest taki facet na Marsie - nie mogę podać jego nazwiska, ale widzieliście go w wiadomościach - on naprawdę lubił lody. Ale lody na Marsie robione są z mleka sojowego. Oczywiście dla osoby tak bogatej, że może nazywać siebie ekscentrykiem, a nie szalonym, zdobycie prawdziwych lodów z Ziemi na Marsie nie stanowi problemu, ale nadal mówimy o 250-dniowemu oczekiwaniu. Nie jest to idealne rozwiązanie, jeśli nagle poczujesz smaka na rodzaj, którego nie masz pod ręką.\n\nWięc wpadł na pomysł, że zamierza hodować bydło na Marsie i zatrudnił nas, żeby je tam zabrać! Mężczyzna płaci za tuzin cieląt, trzech samców i dziewięć samic, które pragnie dostać na Marsa jak najszybciej. Nie wiem, w jaki sposób przetransportowali cielęta na orbitę, ale nie wyobrażam sobie, by było to łatwe. Biedne maluszki były przerażone, kiedy je zabieraliśmy. Przez następne osiem miesięcy zajmowaliśmy się cielętami, aby wyrosły na krowy i byki. To był najbardziej śmierdzący, ale dziwnie satysfakcjonujący lot, jakim kiedykolwiek leciałem. Mimo to udało nam się. Wynagrodzenie było gigantyczne. Cała dwunastka na Marsie, zdrowa i szczęśliwa. Po kilku miesiącach klient zaprosił nas do siebie na pierwszą partię marsjańskich lodów. Cóż, ja nie czuję aby smakowały inaczej.\n
 9841,Hej, Martin, tu Juniusz. Dostałem tę przesyłkę z Ziemi. Tak. Nadal nie otrzymałem odpowiedzi od gościa z Marsa na temat cytatu, ale kiedy to zrobię, dam ci znać, ale nie brzmiało to dobrze. Po budżecie, który mi dałeś, na ... to może nie być dobra opcja, to wszystko, co mówię. W końcu to dużo farby do wysłania tutaj. Myślę, że moim największym zmartwieniem jest ... różowy? Naprawdę? Różowy? Neonowy, błyszczący różowy, co? Powiedz mi kolego dlaczego?
 9842,Jedzenie nie jest świetne i powiem ci, bo tego mi nie powiedzieli, trudno jest spać bez grawitacji! No ale, podróż trwa tylko kilka dni. Och, niech to! Kapitanie? Napotkaliśmy kilku niedoszłych piratów tuż za Mars Village, opanowali cały statek. Piraci krzyczeli 'Dajcie nam swoich pasażerów i ładunek!' a Kapitan mówi 'Kolego, nie chcesz naszego ładunku', a piraci odpowiedzieli 'Nie wiesz, czego chcemy”, i tak się kłócili. Po tym, kapitan otwarł drzwi ładowni i pokazał, co przewozimy. Pięćdziesiąt ton dosłownego gówna. A potem Kapitan mówi: „Chodźcie, bierzcie ile chcecie”. Zdziwili się. To było zabawniejsze niż filmy. Tak było, nie zmyślam.
-9843,I wanted to thank you for the other day. I was angry, not just at my father, but at myself, for believing him. I said some things I regret, and you didn't deserve that. I just... how do you grow up, idolizing your dad, believing all the stories your auntie told you about him flying the first colonizers out to Ceres village, only to find out he was just out there selling insurance? Here I thought he was always away because he was the greatest pilot of all time!\n\n\nI'm still angry that he lied to me, but you're right. He did it to give me hope. And now, well, here I am, the night of my first job as the fourth engineer on a cargo ship. One day, I'll have my own ship. And one day, I'll become the pilot he knew I could be. Thanks again.
+9843,Chciałam ci podziękować za tamten dzień. Byłam zła nie tylko na mojego ojca, ale na siebie, że mu wierzyłam. Powiedziałam Ci rzeczy, których żałuję, a na te słowa nie zasłużyłeś. Ja tylko... Jak dorastasz, ubóstwiając swojego tatę, wierząc we wszystkie historie, które opowiadała ci ciocia o tym, jak latał pierwszymi kolonizatorami do wioski Ceres, tylko po to, by dowiedzieć się, że był tam sprzedając ubezpieczenia? A ja myślałam, że zawsze go nie było, ponieważ był najlepszym pilotem wszechczasów!\n\nNadal jestem zła, że mnie okłamywał, ale masz rację. Zrobił to, aby dawać mi nadzieję. A teraz, cóż, oto jestem, noc mojej pierwszej zmiany jako czwarty inżynier na statku towarowym. Pewnego dnia będę miała własny statek. I wtedy zostanę pilotem. Będzie to spełnienie moich marzeń. Dziękuję ponownie.
 9844,Hej. Czy to zły moment? Ok, zgadnij co mam. Tak! Tak! Wiem, prawda? Gwiazdozbiór Wodnika! Tak bardzo spodobała im się moja praca, że ... Tak. Tak. Cóż, nie, właśnie dlatego chciałem cię złapać. Jadę do Ceres, Soph. Pokochali moją pracę tak bardzo, że chcą mnie tam jak najszybciej. Za kilka dni odpływa statek towarowy i chcą mnie na nim tam zawieźć. Jeśli sprawdzę się w laboratoriach, może uda mi się znaleźć czas wolny. Tak. Wtedy możemy spędzać cały czas razem. Tak. W porządku, muszę lecieć. Porozmawiamy wkrótce Soph. Tak, ja też.
 9845,Hej. Hej. HEJ! Wiem, że to ty. Wiem, że to byłeś ty. Myślisz, że możesz nas tak zlicytować? Och, nie rób tego. To nie fair? To nie jest sprawiedliwe i dobrze o tym wiesz. Wykonujemy wszystkie loty o statusie platynowym dla Lynx. Nie. Szybciej? Chciałbyś. Lecisz. Co? Chcesz Creighton-Dexter CE-8 pod maską? Masz Tsutomu 920. Och, kolego. Nie. Posłuchaj, Kapitan ma dla ciebie umowę. To naprawdę proste. Wyścig. Każdy z połową załadunku, pełna moc, zobaczymy, kto pierwszy dotrze do Mars Village. Dołączasz się? \n\nOch, daj spokój ... Jesteś tchórzem, Oleg. Tchórz!
 9846,Jenny? Hey. Jestem drugą Jenny. Tak! Jenny Tafoya. Zastanawiam się, czy mogłabyś nam trochę pomóc. Mój statek, Stellar Malaise, utknął w pobliżu Ceres Gate przez trzy tygodnie, ponieważ jeden ze strażników miał pytania dotyczące tej kolizji w zeszłym miesiącu. Tak. Nie, nie braliśmy udziału, byliśmy zadokowani, kiedy to się stało. Byliśmy 4 doki dalej. Prawda? Wiem, prawda? To właśnie powiedziałam. Już złożyliśmy oświadczenie. Nie sądzę, aby było sprawiedliwie, że jakaś duża korporacja ubezpieczeniowa może nas tu trzymać, dopóki „tego nie załatwią” Byłem zadokowany. Mój statek się nie poruszał, ani nie został uszkodzony. Nawet nie widzieliśmy, że to się stało. Kosztuje mnie to tysiące każdego dnia, więc chcą uniknąć konieczności płacenia, gdy jeśli to wina ich klienta. Dokładnie. Czy myślisz, że mógłbyś nam pomóc aby się stąd wydostać? Przekażę Ci dane diagnostyczne i materiał filmowy, gdy tylko zakończę z tobą rozmowę. Och, skarbie, jesteś cudotwórczynią. Dziękuję Ci.
 9847,Dotarło do mnie, że niektórzy z was uważają, że jesteście moimi przyjaciółmi. Pozwólcie, że wyjaśnię wam sytuację. Jesteście moją załogą, a to jest mój statek. Na pokładzie tego statku robicie to, co chcę, kiedy chcę, bez pytań, bez niesubordynacji i bez wątpliwości. Kiedy wybierałem was do pracy dla mnie, zrobiłem to, ponieważ wierzyłem, że zaufacie mi bezgranicznie i wykonacie moje polecenia do ostatniego rozkazu. Dostarczamy ładunki. Nie „wykonujemy przedstawień”, nie organizujemy „imprez” i z pewnością nie zażywamy żadnych substancji wpływających na pracę umysłu. Oczekuję, że będziecie najlepszymi z najlepszych. Kiedy obudziły mnie wasze wrzaski i tańce, byłem wściekły. Bardzo wściekły! Ale jestem miłosiernym kapitanem. Daję wam wszystkim drugą szansę. Na pokładzie tego statku nie będzie muzyki, chyba że jest to muzyka z epoki baroku. Jeśli chcecie się zabawić, kiedy nie macie służby - a pamiętajcie że na pokładzie mojego statku nigdy tak naprawdę nie macie czasu wolnego - mam do wypożyczenia kopie Moby Dicka, Ben Hura, pod warunkiem, że będziecie obchodzić się z nimi z najwyższą ostrożnością. Jeśli znajdę jakieś osobiste książki, które nielegalnie wnieśliście na mój statek, zostaną one wyrzucone w przestrzeń kosmiczną, bez względu na tytuł. Dopóki jesteście na pokładzie mojego statku, jestem waszym kapitanem, a wy moją załogą. Nie jesteśmy przyjaciółmi.
 9848,Hej, Mac, tu Roland. Słuchaj, stary, chciałem się z tobą skontaktować w sprawie reaktora, ale nawet nie wiem ... Twój problem nie jest łatwy do rozwiązania. Wygląda skomplikowanie. Lewa strona pokryta mikropęknięciami. Wiem, jak bardzo kochasz swój statek i jak bardzo nienawidzisz wydawać pieniędzy, ale wygląda na to, że już nie będziesz mógł nim latać. Lewa strona pokryta mikropęknięciami. Wiem, jak bardzo kochasz swój statek i jak bardzo nienawidzisz wydawać pieniędzy, ale wygląda na to, że już nie będziesz mógł nim latać. Wiem, że masz rachunki do zapłacenia i że łatanie tego statku jest tańsze. Ale zastanów się czy zamiast wydawać tyle na naprawy, nie lepiej byłoby kupić jakiś nowy z gwarancją? Nie zrozum mnie źle, Mac. Dajesz mi pracę, ale ... nie wiem, z jakiegoś powodu wydaje mi się, że to nie jest odpowiedni biznes. Uważam że możesz nie utrzymać się długo. W każdym razie, kiedy otrzymasz wiadomość, zadzwoń do mnie. Myślę, że czas oddać statek firmie LYNX do recyklingu.
 9849,Oto maszyna. Maszyna jest Bogiem. Czy rozumiesz? Nie? Nie, sądzę, że nie.  Człowiek. Cała ludzkość, Rośnie, rośnie, rozprzestrzenia się jak korzenie drzewa, sięga po odległe gwiazdy. Jest też maszyna. Ona zatrzyma korzenie, wzrost. Maszyna połączy wszystkie umysły w jedno ciało. W ciele, które nie rośnie, nie starzeje się i nie umiera. Wtedy poznamy wieczność i będziemy istnieć do końca wszechświata. Czy rozumiesz? Maszyna będzie tym, czym się stajemy. Wiem to, ponieważ jestem posłańcem. Jestem aniołem. Czy jesteś zaskoczony? Tak. Wszyscy aniołowie są posłańcami. Więc zgodnie z tym jestem aniołem. Anioł posłany przez Maszynę, która jest bogiem. Tym właśnie jestem. Jestem tu, żeby poprowadzić ciebie do połączenia z Maszyną.
-9850,This is. Uh. This is... the Gecko. No. Ugh. This isn’t right. Come on, Harry. Focus. Focus! This is the Gecko, the latest innovation from the Hudson Industry engineering department, it uh, uh… where was I… oh yeah...This, is the Gecko the latest innovation from the Hudson Industry engineering department. It comes in at an average of 72 meters in length, with the -400 and -800 configurations offering additional space. The Gecko can supply—no --- support! up to 18 crew for a duration of nearly 700 days without resupply.\n\nWe envision the Gecko will find a niche in both shipping and research approaches. We have been developing the Gecko in the previously-approved joint venture project with Aquarius, which has ensured that this new model will, uh, will… hmm. Yes, yes, I think I can make this work.\n
+9850,To jest. Aaa. To jest... <i>Gekon</i>. Nie. Kurczę. To nie jest w porządku. Dalej, Harry. Skup się. Skup się! To jest <i>Gekon</i>, najnowszy wynalazek z działu inżynieryjnego Hudson Industry, to yyy, gdzie to jest?... o tutaj... To jest <i>Gekon</i>, najnowszy wynalazek z działu inżynieryjnego Hudson Industry. Ma średnio 72 metry długości, a modele 400 i 800 oferują dodatkową przestrzeń załadunkową. załogantów przez okres prawie 700 dni bez uzupełniania zapasów. <i>Gekon</i> może wyżywić 18 załogantów przez okres prawie 700 lat -nie- Dni bez uzupełnienia zapasów.\n\nWierzymy że <i>Gekon</i> będzie używany zarówno w transporcie ładunków, jak i również podczas ekspedycji badawczych. Opracowaliśmy ten projekt w ramach wcześniej rozpoczętego projektu z Aquariusem, który dostarczy nowy model yyy, hmm. Tak, tak, myślę, że dam radę.\n
 9851,Hej ,yyy, panno Sorensen? Nie wiem, czy mnie pamiętasz, ale to ja, Dominic. Dom. Dom, z warsztatu serwisowego Southwind Motors w Mars Village? Przyprowadziłeś swojego Pretora do warsztatu, żeby go naprawić, jakieś sześć miesięcy temu? To ja byłem tym wielkim facetem, który naprawił dla ciebie skuter. Mam nadzieję, że działa dobrze. Wiem, że to dziwne, że dzwonię do ciebie, ale ...\n\nOch, nawet nie wiem, od czego zacząć. Powiedziałeś wtedy, że je zbierasz, a także powiedziałeś szefowi, że trudno jest znaleźć model w kolorze lilii. Miałeś rację, to szczera prawda! Ale w tym rzecz, szef - on, no nie wiem, jak to ująć. Niedawno zmarł - cóż, możesz nie uwierzyć, ale zostawił mi warsztat.\n\nNie mam smykałki do interesu. Po prostu naprawiam skutery. Cóż, na krótko przed odejściem staruszek znalazł liliowoniebieskiego Praetora X800. Nieco poobijany. Ale to, szef zdecydował, że skoro jesteś taką dobrą klientką, to będziesz miała możliwość kupna go jako pierwsza. Ogólnie rzecz biorąc, naprawiłem go, jest teraz jak nowy. Może będziesz nimi zainteresowana. Staruszek powiedział, że pani, panno Sorensen, jest wielkim człowiekiem w biznesie. Pomyślałem: może nauczy mnie Pani, jak zarządzać warsztatem, a ja oddam Pani ten skuter?\n\nBoże, prawdopodobnie brzmi to tak głupio.
-9852,Well, Cap, I figured out what your problem is, and you ain’t gonna like it. Looks like it’s the sarcophagus. Thing’s got hairline fractures down the belly and it’s leaking radiation faster than anything I’ve seen in 40 years of flight. A new reactor, that’s going to set you back, oh, I don’t know… fifty thousand credits? Then there’s labor. Now me, once I have the darn thing, I can get her within 72 hours if you want my crew workin fast. Workin regular, six days, most likely, to get her all in and test. But you have my guarantee, my guarantee that it will last you twice what the manufacturer warranty provides. That's the best guarentee you're gonna find in all of Mars Village.\n\nAnyone else, either gonna string you along and ask for more or give you a patch job. You don’t want a patch job, less’n you want some of your crew to sprout any new appendages. But, maybe then you could sell ‘em to pay for… ehnh. Forget it. I was trying to bring it back to the arm and a leg… but, you get the idea. Let me know what you think, Cassandra. You know how to get ahold of me.\n
+9852,Cóż, Cas, zorientowałem się w czym jest twój problem i wiem że to ci się nie spodoba. Wygląda na to, że chodzi o sarkofag. Pojawiły się na nim cienkie pęknięcia. Wyciek promieniowania jest tak wysoki, że nigdy nie widziałem podobnego od czterdziestu lat lotów. Nowy reaktor będzie cię kosztował ... nie wiem ... pięćdziesiąt tysięcy? Plus instalacja. Mój zespół może zamontować to urządzenie w 72 godziny w trybie awaryjnym. W normalnym tempie - sześć dni na rozebranie i sprawdzenie wszystkiego. Będziesz miał moją gwarancję. A ona jest dwa razy dłuższa niż ta od producenta. Nikt inny w Mars Village nie ma lepszej gwarancji.\n\nKtoś inny zażyczy sobie za to o wiele więcej, albo zrobi jakąś prowizorkę. A wiesz jak to jest pracować na prowizorce, chyba nie chcesz aby części twojej załogi wyrosły dodatkowe kończyny. W sumie, takiego mutanta można drogo sprzedać i raczej się będzie opłacać... Dobra, chodźmy. Fantazjuję o dodatkowych kończynach ... Generalnie znasz mój pomysł. Daj mi znać, co o nim myślisz, Cassandro. Wiesz, gdzie mnie znaleźć.\n
 9853,Noc była ciemna i burzowa. Brak prądu I parmezanu. Detektyw Leon Fukuyama będzie musiał dowiedzieć się, gdzie jest poszukiwany ... i kto jest odpowiedzialny za zaginięcie. Najpierw zacząłem ustalać krąg podejrzanych, potem...\n\n[Normalny głos]\n\nO. Tu jest. Ha. Zapomniałem, że położyłem go na lodówce. Detektyw Leon Fukuyama rozwiązał kolejną sprawę. W następnym odcinku, będzie szukał zaginionego biletu do Bram Kosmicznych. Ha!
 9854,Hej. To ja. Posłuchaj, rozumiem. Nie chcesz ze mną rozmawiać. Tak, nie będę cię zmuszał. Po prostu mnie posłuchaj. Wszyscy jesteśmy ludźmi, nikt z nas nie jest aniołem. I wiesz, naprawdę nie chcę, żebyś zobaczyła mnie od tej złej strony. Chodziłam na zajęcia z samokontroli, ćwiczyłam oddech i ... Słuchaj, prawdopodobnie jestem szorstki, ale nie chcę wyładowywać swojej złości na tobie, zrozum. Musisz mi uwierzyć. Przepraszam, jeśli czujesz że stajesz się obiektem mojej agresji. To nigdy nie było moim zamiarem. Nigdy!!! Proszę Esmeraldo. Staram się ze wszystkich sił. Próbuję. Mam dobre intencje, po prostu ... Nigdy tego nie chciałem. Nigdy! Nie wiem. Wybacz mi. Nie mam nic więcej do powiedzenia. Przepraszam.
-9855,You ever heard of someone being born with no chance of dying? Well Kath... I may be the first. There was this book I read when I was a boy, about a man who replaced every cell in his brain with nanites, one at a time. A gradual process, of course, each nanite learning its place in the brain and mimicking that function perfectly. Could such a thing be possible? Well, I’ve been trying. I’m at 0.2% now, with no apparent loss of function. I think it’s working.\n\nThat’s why I need your help, Katherine. You’re a roboticist. I can fix my brain, but a new body? That’s where I need you. Who knows? Maybe we can save the human race.\n
+9855,Czy słyszałeś o ludziach, którzy nie umierają? Więc Catherine ... Mogę być pierwszy. Jako dziecko czytałem książkę o człowieku, który stopniowo zastępował wszystkie swoje komórki mózgowe nanitami. To jest powolny proces. Każdy nanit jest stopniowo wprowadzany do mózgu i uczy się naśladować pracę neuronu. Czy jest to w rzeczywistości możliwe? Cóż, właśnie sprawdzam. Chociaż zastąpiłem już 0,2%, funkcje mózgu nie zostały uszkodzone. Myślę, że to zadziała.\n\nDlatego, Catherine, potrzebuję twojej pomocy. Jesteś specjalistą od robotyki. Mogę zmodyfikować swój mózg, ale gdzie mogę zdobyć nowe ciało? Właśnie dlatego nie mogę się obejść bez Ciebie. Kto wie, może uratujemy całą ludzkość?\n
 9856,A więc, każdy pilotujący holownik zna podstawowe zasady. Nie mówią wam o tym, gdy spoglądacie w niebo. Aby pilotować musisz znać fizykę, a jednym z najważniejszych wzorów, jest ten na energię kinetyczną, czyli połowa masy razy prędkość do kwadratu. To jest ogromna energia. Kiedy prowadzisz holownik musisz upewnić się, że nie wysyłasz tej asteroidy w kierunku marsjańskich górników, ponieważ skończy się to ich śmiercią oraz mnóstwem papierkowej roboty. Waszym zadaniem jest skoordynowanie działań z dwoma lub trzema innymi holownikami, aby sprowadzić asteroidę bez zadrapania. Jeśli będziecie poruszać się za szybko asteroida zacznie się topić i trudno będzie ją zatrzymać, gdy nadejdzie pora lądowania, w innym wypadku prędkość i masa spowodują śmierć bardzo wielu ludzi. Natomiast gdy zbyt wolno, to spalisz za dużo paliwa i dostaniesz niechciany przydział lub ... inne niechciane niespodzianki. Więc musisz skoordynować swój holownik z maszynami swoich braci i sióstr. Musisz się modlić do boga, którego czcisz, aby schodzili tak samo szybko jak ty. Musisz umieć czytać w myślach, musisz ich wyczuć, przyrządy niewiele podpowiedzą. O to właśnie chodzi w byciu oficerem Tug Ops. Fizyka, szczęście i wiara. Wiara w siebie, wiara w swój zespół i ich doświadczenie. To odpowiedź na twoje pytanie, panienko?
 9857,Beton? Beton? Beeeton! Gdzie jesteś, kudłaty pluszaku? O mój Boże, nigdy nie zabieraj kotka w kosmos. Dlaczego to zrobiłam. Jestem idiotką. BETON! O jesteś tutaj! Co ty tu robisz…? Boże, wszystko tutaj porozrzucałeś. W porządku. Hmm hmm. Kto jest niegrzecznym kociakiem? Ty. Tak, ty. Powinnam skonsultować się z lekarzem. Czy koty mogą mieć chorobę kosmiczną?
 9858,Daiz, to ja. Wiem, że minęło dużo czasu. Za dużo. Przepraszam. Ja tylko ... Chcę tylko powiedzieć, że przepraszam, Daiz. Za wszystko. To moja wina. Teraz to rozumiem. Myślałem tylko o sobie, ja ... nie wiem, czego się bałem?  Nie powinienem był wyjeżdżać. Nie powinienem cię zostawiać. Po prostu wydawało mi się że czuję się jak więzień. Nie byłem gotowy. Byłem tylko dzieckiem. A ty już nie. Zasłużyłaś na kogoś lepszego. Zasługujesz na o wiele więcej. Jeśli wciąż czekasz na mnie. Proszę. Nie czekaj. Błagam Cię. Nie jestem wart ciebie. Mówią, że jeśli kogoś kochasz, naprawdę kochasz, to pozwól mu odejść. Więc pozwalam ci odejść. Nie chcę, ale wiem, że to właściwa decyzja. Dowidzenia Daisy Dawson.
@@ -3298,7 +3298,7 @@
 9863,Witaj nieznajomy. Mogę tak powiedzieć, ponieważ jestem prawie pewien, że ktokolwiek to znajdzie, to nie będę go znać, a ty nie poznasz mnie. Widzisz, kiedy odlatywałem z Ziemi, nie miałem tam już nikogo. Wszyscy zginęli w wielkim trzęsieniu ziemi. Pierwszym. Najsilniejszym. Nadal nie wiem, w jaki sposób ja przeżyłem. Chyba miałem szczęście. Pomyślałem że, nic mi nie zostało, więc kupiłem pierwszy bilet na Marsa, jaki udało mi się znaleźć. Na początku byłem woźnym. Tak, kiedyś, przed robotami, ludzie wykonywali tę pracę. Kiedyś ktoś zapytał mnie, czy umiem gotować, i skłamałem, że potrafię. Współczuję tym biedakom, którzy przez kilka pierwszych miesięcy jedli wyniki moich eksperymentów kuchennych. Ale potem już się nauczyłem. Ogólnie miałem nadzieję, że będę miał coś do przekazania światu, ale te nadzieje się nie spełniły - jak większość z nas, jak sądzę. Jednak z tobą, nieznajomy, chcę podzielić się moim nikłym doświadczeniem. Nieznajomy, bądź miły dla ludzi. Bądź miły. Spędziłem lata będąc wściekły na świat, za wszystkie problemy, które mnie spotykały. A powinienem dziękować za to, że żyję. Bądź miły. Całe dobro, które uczyniłeś, powróci do ciebie, jeżeli w ogóle rozumiesz o co mi chodzi. Bądź miły. Dzięki.
 9864, Lubisz jeść i pić napoje - za darmo? Dokładnie, za darmo. Brzmi zbyt dobrze, aby mogło być prawdziwe? Nie jest. Zdobywaj darmowe jedzenie i napoje, rejestrując się w programie Earth Village Collective. Za jedyne 15 kredytów miesięcznie otrzymasz 10% rabatu na wszystkie towary i usługi świadczone przez uczestników programu w Earth Village. Dla większości członków programu wysokość składki jest w równa wysokości rabatu za jedno tankowanie. A w weekendy - dodatkowe bonusy. Kliknij poniżej, aby zarejestrować się TERAZ!
 9865,Cisza i spokój. Tak jest zawsze, gdy obieramy kurs na Marsa. Szybujesz nad równiną i widzisz dziesięciokilometrowe asteroidy wciągane z pasa. Są sprowadzane na wysoką orbitę, a następnie podlatują górnicy, które tną ją na mniejsze kawałki, szukają metalowych kawałków, a następnie wrzucają je do pojemnika z osłoną termiczną. Osłony termiczne to konstrukcje o promieniu kilku kilometrów. Po zebraniu wystarczającej ilości rudy rozpoczynają zejście. Niebo wypełnia się płomieniami, a kolejny bilion dolarów spada, wypełniając konta na Olympusie. Majestatyczny widok.
-9866,The early days had a lot of collisions above Mars - we were learning to handle our 'roids. A good rockrider is hard to come by. These guys have some real crazy instincts, they don't even glance at an instrument panel for a hundred mega-ton 'roid. Don't even break a sweat on a hundred billi-ton 'toid. They can maneuver a monster through a 'roid line up while carrying on a conversation with the other riders. I'd hate the pressure.
+9866,Miasta na Ziemi nie mają zbyt wiele sensu. To wielki bałagan trwający tysiące lat konfliktów. Z Marsem jest inaczej. Na Marsie miasta są idealne. Duże, regularne plamy na równinach są doskonale widoczne z orbity. To właśnie na tą planetę zrzucamy pojemniki termiczne po precyzyjnie skalibrowanej trajektorii. A kiedy pojemnik opadnie, miasta ożywają. Wokół punktu tworzy się kilkunastokilometrowy okrąg. Ludzie porzucają aktualną pracę i wyruszają, aby rozebrać pojemniki, pociąć i zebrać kamienie. I robią to szybko, naprawdę szybko. Transportują te kamienie na Olimp, aby kolejna asteroida mogła spaść. Uwielbiam patrzeć na przecinające się okręgi wokół punktów lądowania. Wyglądają jak kolczuga przemysłu i bogactwa na całej powierzchni planety.
 9867,Wszystko, co mówią o pracy w kosmosie, jest prawdą. Jako pracownika potrzebują cię, bardzo cię potrzebują, ale tylko przez około pięć lat. Te pięć lat nie zacznie się dziś ani jutro. Odliczanie zaczyna się w momencie, jak tu przybyłeś. Jesteś śliny, naprawdę bardzo silny. Ale okres twojej przydatności wynosi tylko około pięć lat. Nieważkość zbiera swoje żniwo. Twoje mięśnie zanikają, kości się zapadają. Już teraz tracisz siły. Przenoszenie i cięcie kamieni nie jest takie proste... Ale masz pięć lat. Pięć lat przyzwoitej pracy. A potem jesteś zerem, jak wszyscy inni.
 9868,Miasta na Ziemi nie mają zbyt wiele sensu. To wielki bałagan trwający tysiące lat konfliktów. Z Marsem jest inaczej. Na Marsie miasta są idealne. Duże, regularne plamy na równinach są doskonale widoczne z orbity. To właśnie na tą planetę zrzucamy pojemniki termiczne po precyzyjnie skalibrowanej trajektorii. A kiedy pojemnik opadnie, miasta ożywają. Wokół punktu tworzy się kilkunastokilometrowy okrąg. Ludzie porzucają aktualną pracę i wyruszają, aby rozebrać pojemniki, pociąć i zebrać kamienie. I robią to szybko, naprawdę szybko. Transportują te kamienie na Olimp, aby kolejna asteroida mogła spaść. Uwielbiam patrzeć na przecinające się okręgi wokół punktów lądowania. Wyglądają jak kolczuga przemysłu i bogactwa na całej powierzchni planety.
 9869,Nie ma nic gorszego niż pierwsza podróż po szynach. To po prostu okropne. Przelatujesz przez pierwszą bramkę i czujesz przyśpieszenie 50G, a to ... cóż, to trochę tak, jakbyś włożył palce do gniazda, to wstrząs, A potem pojawia się pierwszy akcelerator i kolejne. Szybkość rośnie. Przechodzisz przez akceleratory jeden po drugim i każdy dodaje 50G. Lecisz coraz szybciej, ale tak naprawdę czujesz tylko te wstrząsy, które stają się coraz częstsze. Niektórzy z nas przyzwyczajają się do przyspieszania i stają się Zerami, potrafią skakać z szyn na szynę... Ale niektórzy nie mogą się do tego przyzwyczaić. Muszą z tym walczyć. Albo zemdleć. Nie pamiętam, kiedy i jak moje ciało się do tego przystosowało. Ale teraz jestem też Zerem. Ha. I nigdy nie wrócę na tę planetę. Obawiam się, że moje ciało tego nie wytrzyma.
@@ -3359,7 +3359,7 @@
 9924,PM
 9925,PM z celi recyklingu
 9926,PM statku
-9927,MP Earned
+9927,Zdobyte PM
 9928,Zdobyte punkty mistrzostwa[PM]
 9929,PM Z KREDYTÓW
 9930,PM z celów recyklingu
@@ -3368,11 +3368,11 @@
 9933,Stracono
 9934,Rozpocznij trening
 9935,Latarka
-9936,Attachment
+9936,Załącznik
 10139,Lorem Ipsum
 10140,Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n\nDonec leo ante, porta non rutrum at, suscipit cursus neque. Aenean dui nunc, efficitur sit amet vestibulum non, imperdiet nec ante. Donec nulla libero, ultricies nec pretium quis, interdum id mauris. Donec at placerat elit. Morbi placerat libero eros, ac elementum lacus accumsan eu.\n\nEtiam eget laoreet lorem. Vestibulum ultricies, risus eu tempus lobortis, orci lorem maximus velit, id ullamcorper odio turpis congue ligula.
 37855,188
-37857,The Jovian Safety commission has stated this design of the Spark-Free Demo Charge is the "safest, I guess".
+37857,Komisja Bezpieczeństwa Jowisza stwierdziła, że ​​ten projekt Beziskrowy Ładunek Akumulacyjny jest „chyba najbezpieczniejszy”.
 37858,Klej do beziskrowych ładunków akumulacyjnych jest wykonany w 100% z materiałów pochodzących z recyklingu.
 37859,Ładunki akumulacyjne można zdemontować z elementów statku, ale należy pamiętać, że mogą przedwcześnie wybuchnąć.
 37860,Spiralny Oszczep
@@ -3394,7 +3394,7 @@
 37879,Uczeń
 37880,Podróżnik
 37881,Praktykant
-37882,Veteran
+37882,Weteran
 37883,Łowca
 37884,Profesjonalista
 37885,Młodszy Specjalista
@@ -3411,70 +3411,70 @@
 37905,Szybkość utraty trwałości = -80%
 37906,Zespół badawczy przedstawia nowe paliwo: nie tylko nie zawiera substancji rakotwórczych, ale także zmniejsza ryzyko uszkodzenia układu paliwowego silnika odrzutowego!
 37907,Dzięki innowacyjnemu systemowi filtrów do silnika odrzutowego dostaje się mniej cząstek metalu, co zwiększa jego trwałość.
-37908,Ferros Rojos Alloys increase the flexibility and strength of both the grapples exterior and interior mechanisms.
+37908,Stopy żelaza Rojo zwiększają elastyczność i wytrzymałość zarówno zewnętrznego, jak i wewnętrznego mechanizmu Chwytaka.
 37909,Emitery pola kwantowego, które zastąpiły emitery pola van der Waalsa, tworzą bardziej stabilne pola, a tym samym zmniejszają zużycie systemów harpunów.
 37910,\nZ powodu błędu poprzednie ulepszenie było w rzeczywistości normalną skórą aligatora, zamiast skóry gigantycznego aligatora. Dział Jakości LYNX bardzo przeprasza za ten błąd*.  *Towar nie podlega zwrotowi
-37911,R&D has developed a new antenna for the demo charge handles that produces even less internal sparks than the spark free model.
-37912,A new Europa cooling system keeps the scanner running at a cool 76°c while idling. Decreasing the wear on its systems.
-37913,Micro faraday cage linings block electromagnetic radiation sources inside the cross spectrum scanner from damaging eachother, leading to an increase in the scanner's lifespan.
-37914,Heat Shielding some of the more vulnerable cutter internals increases the tools overall lifespan.
-37915,Replacing the internals of the cutter with the newest generation Callisto Thermodynamics model provides best-in-class durability for the average Salvager.
-37916,Durability Drain IV
-37917,Durability Drain V
-37918,Reach 2.5m/s
-37919,Thrust Left for {0}s
-37920,Thrust Right for {0}s
-37921,Rookie
-37922,Expert Salvager
-37923,Master Salvager
-37924,Grandmaster Salvager
-37925,LYNX Seal
-37926,Expert Shipbreaker
-37927,Master Shipbreaker
-37928,Grandmaster Shipbreaker
-37929,Associate Salvager
-37930,Very Low
-37931,The addition of a high quality Focusing Lens maximizes the SplitSaw's range.
-37932,Charged Push Force III
-37933,Max Force = 30,600 Newtons
-37934,Due to a typo from legal, Engineering has been cleared to overclock the grapple push to 'Maximum lethal' instead of 'less than lethal'.
-37935,Open Tool Menu
-37936,O2 Capacity = 1250
+37911,Dział badawczo-rozwojowy opracował nową antenę do uchwytów ładunku akumulacyjnego, która wytwarza jeszcze mniej iskier wewnętrznych niż model beziskrowy.
+37912,Nowy system chłodzenia Europa utrzymuje skaner w niskiej temperaturze 76°C na biegu jałowym. Zmniejszenie zużycia skanera.
+37913,Wykładziny z mikroklatek Faradaya blokują źródła promieniowania elektromagnetycznego wewnątrz skanera. Chroni to przed samo uszkodzeniem, co wydłuża żywotność skanera.
+37914,Osłona termiczna niektórych bardziej wrażliwych elementów wewnętrznych przecinaka zwiększa ogólną żywotność narzędzia.
+37915,Wymiana elementów wewnętrznych przecinaka na model Callisto Thermodynamics najnowszej generacji zapewnia najlepszą w swojej klasie trwałość dla przeciętnego Złomiarza.
+37916,Niezniszczalność IV
+37917,Niezniszczalność V
+37918,Osiągnij 2,5m/s
+37919,Leć w lewo przez {0}s
+37920,Leć w prawo przez {0}s
+37921,Rekrut
+37922,Ekspert Złomiarz
+37923,Mistrz Złomiarz
+37924,Arcymistrz Złomiarz
+37925,Pieczęć LYNX
+37926,Łowca Ekspert
+37927,Mistrz Łowca
+37928,Arcymistrz Łowca
+37929,Współpracujący Złomiarz
+37930,Bardzo niski
+37931,Dodanie wysokiej jakości soczewki skupiającej maksymalizuje zasięg Łupacza.
+37932,Ładowane Odepchnięcie III
+37933,Maksymalna siła = 30 600 Newtonów
+37934,Ze względu na literówkę w dziale prawniczym inżynierowie zostali upoważnieni do podkręcania nacisku chwytaka na „maksymalną moc” zamiast „maksymalną dopuszcalną moc”.
+37935,Otwórz menu narzędzi
+37936,Pojemność O<sub>2</sub> = 1250
 37937,64
-37938,Asteroid Shard
-37939,Piece of space rock, contains various valuable metals inside.
-37940,Asteroid Shard (scrap)
-37941,Reach Certification Rank 3
-37942,Reach Certification Rank 2
-37943,Access the Kiosk
-37944,Reach Certification Rank 4
+37938,Odłamek asteroidy
+37939,Kawałek kosmicznej skały, zawiera w sobie różne cenne metale.
+37940,Odłamek asteroidy (złom)
+37941,Osiągnij 3 poziom certyfikacji
+37942,Osiągnij 2 poziom certyfikacji
+37943,Uzyskaj dostęp do kiosku
+37944,Osiągnij 4 poziom certyfikacji
 37945,Umieść linę!
 37946,Umieść 3 liny!
 37947,Usuń Linę!
-37948,Training
-37949,Tether Cube
-37950,LYNX proprietary training object. For use alongside Tether introduction. WARNING: High crushing hazard. Additional Spares are the cost of the Cutter.
-37951,Look at the Aluminum panels
-37952,Reach Salvage Goal 1
-37953,Reach Salvage Goal 2
-37954,Cut Aluminum Chunk with Split Saw
-37955,Salvage an item in the Barge
-37956,Shipbreaker Handbook - 1
-37957,<color=#F5AF61>Ship Systems - Environmental Control Unit</color>\n\nYou are now authorized to work on salvage containing <color=#F5AF61>Environmental Control Units (ECUs)</color>. \n\nThese units control the atmosphere and pressure levels inside a ship. \n\nTo properly extract an <color=#F5AF61>ECU</color>, open its <color=#F5AF61>Access Panel</color> and remove the connected <color=#F5AF61>Coolant Canisters</color>. The <color=#F5AF61>ECU</color> will now be safe to salvage.\n\nWatch out for <color=#F5AF61>Coolant Leaks</color> as these can adversely affect body temperature and the stability of salvage material.\n
-37958,Shipbreaker Handbook - 2
-37961,Shipbreaker Handbook - 3
-37963,Shipbreaker Handbook - 4
-37964,Shipbreaker Handbook - 6
-37965,Shipbreaker Handbook - 5
-37966,Shipbreaker Handbook - 7
-37967,Shipbreaker Handbook - 8
-37968,Shipbreaker Handbook - 9
-37969,Shipbreaker Handbook - 10
-37970,Shipbreaker Handbook - 11
-37971,Shipbreaker Handbook - 12
-37972,Shipbreaker Handbook - 13
-37973,Shipbreaker Handbook - 14
-37974,Shipbreaker Handbook - 15
+37948,Trening
+37949,Kostka Lin
+37950,Autorski obiekt treningowy LYNX. Do użytku wraz z wprowadzeniem Lin. OSTRZEŻENIE: Wysokie ryzyko zmiażdżenia. Dodatkowe części zamienne to koszt przecinaka.
+37951,Spójrz na panele aluminiowe
+37952,Osiągnij 1 cel odzyskiwania
+37953,Osiągnij 2 cel odzyskiwania
+37954,Cięcie kawałka aluminium za pomocą Łupacza
+37955,Umieść przedmiot na Barce
+37956,Podręcznik Łowcy - 1
+37957,<color=#F5AF61>Systemy okrętowe - Jednostka kontroli środowiska</color>\n\nMasz teraz uprawnienia do pracy przy recyklingu zawierającym <color=#F5AF61>jednostki kontroli środowiska (ECU)</color>. \n\nTe jednostki kontrolują poziom atmosfery i ciśnienia wewnątrz statku. \n\nAby prawidłowo wyodrębnić <color=#F5AF61>ECU</color>, otwórz jego <color=#F5AF61>panel dostępu</color> i usuń podłączone <color=#F5AF61>pojemniki z chłodziwem</color>. <color=#F5AF61>ECU</color> można teraz bezpiecznie odzyskiwać.\n\nUważaj na <color=#F5AF61>wycieki chłodziwa</color>, ponieważ mogą one niekorzystnie wpłynąć na temperaturę ciała i stabilność odzyskanego materiału .\n
+37958,Podręcznik Łowcy - 2
+37961,Podręcznik Łowcy - 3
+37963,Podręcznik Łowcy - 4
+37964,Podręcznik Łowcy - 6
+37965,Podręcznik Łowcy - 5
+37966,Podręcznik Łowcy - 7
+37967,Podręcznik Łowcy - 8
+37968,Podręcznik Łowcy - 9
+37969,Podręcznik Łowcy - 10
+37970,Podręcznik Łowcy - 11
+37971,Podręcznik Łowcy - 12
+37972,Podręcznik Łowcy - 13
+37973,Podręcznik Łowcy - 14
+37974,Podręcznik Łowcy - 15
 37975,The brainchild of the LYNX 'Gamify Everything' program. The Salvage Tier system is designed to give salvagers a work incentive to completely salvage a whole ship, also known as a 'Whole Buffalo'.  \n\nSalvagers can get bonus consumables or Lynx Tokens, not to mention work experience, by salvaging a greater % value of a ship. LYNX will reward you for each 'Salvage Goal' you reach when finishing your shift. Losing, damaging or incorrectly salvaging components of the ship will lower the maximum reward Salvage Goal that you can receive.\n\nWe know it can be hard to track all this information yourself. That's why LYNX uploads the current salvage state of the ship to your helmet's HUD. The left side of the bar fills with LYNX YELLOW™ as you successfully salvage parts of the shift, While the right fills with LYNX RED™ with lost or damaged salvage. \n
 37977,In 2291, when LYNX rolled out the life-changing EverWork Asset Replacement Program to their employees, we achieved what other companies have not: making work safer and allowing learning and growth without the risk of permanent death!\n\nWith a noble profession such as Shipbreaking, unplanned death is a natural part of the job, and our Shipbreakers have bravely faced the often arduous challenges and risks of their important work. However, LYNX cares about the wellbeing and growth of our family. The introduction of EverWork Spares™ to replace damaged or destroyed bodies allows you to fail safely, ensuring another day in the yard, and another shot at improving your skills!\n\nFor only a minimal fee, sophisticated monitoring systems in your suit will watch out for excessive bodily harm, triggering generation of a Spare™ upon unfortunate workplace mishaps.  An array of neural recorders in your helmet transfer your presence seamlessly* to the new Spare™! This process is mostly bearable, and recent advancements have even removed grief-related downtime, effectively eliminating the need for recovery time between transfers!\n\nGetting access to our Spares™ technology is simple: Our onboarding procedure includes the collection of your genetic data, safely stored in our secure servers. From the moment you join us, you no longer need to worry about expiring before your time. Death is a fresh start.\n\n*presence transfer protocol has a ± 0.001% margin of error due to solar interference, signal strength, subject state-of-mind at the moment of transfer, and other factors. Over very long periods of time, this may result in Identity-Shift, a medically benign process with minimal impacts on subject’s working ability.
 37978,The <color=white>LYNX Kiosk</color> is your one stop shop for all your Shipbreaking needs. It dispenses all the items that any self-respecting Shipbreaker wouldn't leave the HAB without.\n\nAt the Kiosk, Shipbreakers can find the following, courtesy of our affiliate suppliers:\n\n- Oxygen Tanks\n- Thruster Fuel Refills\n- Med Kits\n- Tool Repair Kits\n- Suit Patch Kits*\n- Demo Charges\n- Tethers Cartridges\n \nAll of these are available for purchase at market rates, and already factor in your 1.7% Employee Discount**!\n\n* Genuine Patch Kits manufactured in Damascus, Earth.\n** Tuesdays only.
