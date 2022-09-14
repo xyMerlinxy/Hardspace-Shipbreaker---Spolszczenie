@@ -6,7 +6,7 @@ Instrukcja instalacji spolszczenia
 1. Plik "de" należy podmienić z plikiem w folderze Hardspace Shipbreaker\Data\LocDB;
 2. Teraz wystarczy tylko w opcjach gry wybrać język polski.
 
-Aktualnie przetłumaczone jest 64% tekstów, aczkolwiek tłumaczenie wymaga poprawek.
+Aktualnie przetłumaczone jest 67% tekstów, aczkolwiek tłumaczenie wymaga poprawek.
 
 
 Korzystanie z nowszą wersją gry może powodowac zastąpienie brakujących napisów liczbami.
