@@ -15,7 +15,7 @@
 32,Efekty
 33,Muzyka
 34,Mowa
-35,Kinowa glosnosc??
+35,Glosnosc filmowa
 36,Odwroc os X
 37,Odwroc os Y
 38,Zablokuj mysz
@@ -3875,47 +3875,47 @@
 38383,Gratulacje. Jestes na dobrej drodze! Udaj sie do swojego Mieszkania.
 38384,Witaj w nowym domu, Zlomiarzu! Ma on wszystko, czego potrzebujesz. Oficjalnie to nazywa sie, uh... Dlugoterminowe mieszkanie pracownicze... jakos tak czy inaczej... Ale tutaj nazywamy to po prostu twoim Mieszkaniem.
 38385,OK, spojrzmy na Twoj terminal pracowniczy.
-38386,Now, let's get caught up on career progression and certification. I've sent you a message with an explanation, go on and give it a read.
-38387,Clear as mud? Don't worry, I'm here to walk you through the process. Soon enough I'm gonna introduce you to some of the other Shipbreakers... MOST of them are willing to help ya out too.
-38388,Alright, let's start a new shift and pick your first ship to work on!
-38389,This screen shows which ships you have access to. Each morning, you can choose to continue working on the ship you've got, or start a fresh one. Go ahead and claim one, and we'll get to work!
-38390,She's all yours Cutter! Your primary goal is to reach Rank 3.
-38391,Now try to remember: Nanocarbon goes in the Processor, aluminum goes in the Furnace. Try to salvage the entire ship if you can - we call it "usin' the whole buffalo". You'll hit your certs faster that way, and start knockin' out that debt of yours.
-38392,I'll be observing and giving you any help if you need it. Good luck Cutter! Weaver out.
-38393,Hey, there you go! You did it Cutter. I won't stop you if you're having fun out there, but end your shift at the Master Jack when you're ready to clock out for the day. We'll pick things up again tomorrow.
-38394,Get some shut eye there Cutter. You done good. See you in the morning. Weaver out.
-38395,Looking good Cutter. Now go ahead and pick another ship.
-38396,Alright, hold up a second there Cutter.
-38397,Because you've increased your Rank we're gonna give you the next grade of ship.
-38398,Now this one will be full of machinery, electronics, furniture... all stuff that LYNX can collect and resell. You're gonna want to toss those items on the Barge. That's the, uh, big green thing below you. Go ahead and have a look.
-38399,Toss any valuable objects or components down there. Don't worry about breaking anything, there's a dampening field that'll catch everything. Works great... most of the time.
-38400,Let's give it a go.
-38401,I see some potential fire hazards in there so watch out Cutter.
-38402,Be careful not to cut or bump Oxygen Tanks, Fuel Tanks or Fuel lines. If there are flammable objects nearby, those flames can spread pretty quick-like.
-38403,Nice work, now the fuel lines are empty and they won't give you nuthin' to worry about no more. Always a good idea to flush 'em first.
-38404,You alright there Cutter? Seems like you've experienced one of the many hazards of the job for the first time.
-38405,Spares cost credits so it's better NOT to blow yourself to smithereens if at all possible.
-38406,Uh, Cutter? That thing was supposed to go onto the Barge. Let's try this again with something else.
-38407,Nice work, got that pretty quickly! Now, let me teach you about the Kiosk. Once the training wheels come off, LYNX regulations mean you gotta cover your own Oxygen and Fuel costs. That's the way things go... Turning it on now.
-38408,Now, no need to panic, they'll last you a good while. But if you end up running out, you gotta go top up at the kiosk over there. Let's have a look.
-38409,Good stuff Cutter. Pretty easy, right? Alright, I'll leave you to it. We'll chat again when you've hit the next Rank. Weaver out.
-38410,Hey Cutter. I'm looking at the stats coming from your Bay and it's looking like you're really gonna make your way around here!
-38411,It's time to learn about how to upgrade your equipment, and some of the more advanced tools you'll soon have at your disposal. Head on over to your Workbench in the Equipment Room and we'll see about upgrading your tools.
-38412,I'm gonna read this straight from the manual... 'LYNX rewards hard work and learning by giving Shipbreakers access to tool improvements and new equipment. Reaching Salvage Goals is essential for becoming a Master Shipbreaker.'
-38413,Basically, they wanna make sure you prove yourself first before giving you the big guns. Completing Salvage Goals will net you shiny Lynx Tokens. Use those Tokens here to get yourself some new gear.
-38414,So let's get going and learn about one of the most important tools in a Shipbreaker's toolbox: Tethers. Go ahead and purchase them.
-38415,Repeat after me Cutter: 'Tethers - are your friends.' Now have a quick read, then let's hop back in the Bay.
-38416,Let me tell you how to use these things.  Tethers are more powerful than the beam of your grapple. They're great for moving super-heavy salvage. Try it out.
-38417,Press and HOLD the SECONDARY input for the grapple to begin placement. Point where you want the salvage to move to and then RELEASE it to create the tether.
-38418,Whoops, hold on there, Cutter. Got it tethered to itself, huh? Let's try again and tether the salvage to another object.
-38419,Tethers retract automatically too, no input required.
-38420,Don't forget that your HUD tells you the mass of an object and whether your grapple can move it or not. If the mass meter is red, you'll want to use tethers instead.
-38421,Great! Now what if you wanna get rid of the Tethers you've already placed? There's a cancel command you can send, but take note that it clears ALL your tethers. Go ahead and try it now.
-38422,Yeah, there ya go.
-38423,Now, you've got unlimited tethers during this training exercise. But after this, when you need more you'll have to buy 'em from the kiosk.
-38424,Let's see how well you can handle 'em now. Try to clear out a bunch of that scrap.
-38425,You can stack multiple tethers on one object to increase the pull force. You can also chain objects of any size together to move them as a group. I've seen some Cutters do some incredible things with a daisy chain of tethers!
-38426,Alright, well done Cutter. Like I said, 'Tethers are your friends.' Once you get the hang of them you can get pretty creative on how you use them. Now, when you're ready let's go back to the HAB and continue with the day.
+38386,Przejdzmy teraz do rozwoju kariery i certyfikacji. Wyslalem Ci wiadomosc z wyjasnieniem, kontynuuj i przeczytaj ja.
+38387,Zagmatwane? Nie martw sie, jestem tutaj, aby przeprowadzic Cie przez caly proces. Wkrotce przedstawie Cie kilku innym Zlomiarzom... WIEKSZOSC z nich, tez jest gotowa ci pomoc.
+38388,Dobra, zacznijmy nowa zmiane i wybierzmy pierwszy statek do pracy!
+38389,Ten ekran pokazuje, do ktorych statkow masz dostep. Kazdego ranka mozesz kontynuowac prace na statku, ktory masz, lub rozpoczac nowy. Smialo i wybierz jeden i bierzmy sie do pracy!
+38390,Ona jest cala twoja Zlomiarzu! Twoim glownym celem jest osiagniecie rangi 3.
+38391,Teraz sprobuj zapamietac: Nanokarbon trafia do procesora, aluminium do pieca. Jesli mozesz, sprobuj odzyskac caly statek — nazywamy to „wykorzystaniem calej swinki”. W ten sposob szybciej zdobedziesz certyfikaty i zaczniesz splacac swoj dlug.
+38392,Bede cie obserwowal i sluze pomoca, jesli bedziesz tego potrzebowal. Powodzenia Zlomiarzu! Weaver odbior.
+38393,Hej, prosze bardzo! Zrobiles to Zlomiarzu. Nie bede cie zatrzymywal, jesli dobrze sie tam bawisz, ale zakoncz swoja zmiane na Platformie Startowej. Jutro bedziemy kontynuowac to, co zaczelismy.
+38394,Nie zaszkodzi ci sie zdrzemnac Zlomiarzu. Swietnie sobie radzisz. Do zobaczenia rano.  Weaver odbior.
+38395,Wygladzasz dobrze Zlomiarzu. Teraz smialo, wybierz nowy statek.
+38396,W porzadku, poczekaj chwile Zlomiarzu.
+38397,Poniewaz zwiekszyles swoja range, otrzymales od nas dostep do statkow nastepnej klasy.
+38398,Teraz ten statek bedzie pelen maszyn, elektroniki, mebli... wszystkich rzeczy, ktore LYNX moze zbierac i odsprzedawac. Wrzuc te przedmioty na Barke. To znaczy, uh, w to duze zielone cos pod toba. Smialo.
+38399,Wrzuc tam wszelkie wartosciowe przedmioty lub komponenty. Nie martw sie, ze cos zlamie, jest tam pole tlumiace, ktore wszystko zlapie. Dziala swietnie... przez wiekszosc czasu.
+38400,Sprobujmy.
+38401,Widze tam potencjalne zagrozenie pozarowe, wiec uwazaj Zlomiarzu.
+38402,Uwazaj, aby nie przeciac ani nie uderzyc zbiornikow tlenu, zbiornikow paliwa ani przewodow paliwowych. Jesli w poblizu znajduja sie latwopalne przedmioty, plomienie moga rozprzestrzeniac sie dosc szybko.
+38403,Dobra robota, teraz przewody paliwowe sa puste i nie spowoduja wiecej powodow do zmartwien. Zawsze dobrze jest najpierw je oproznic.
+38404,Wszystko w porzadku, Zlomiarzu? Wyglada na to, ze po raz pierwszy doswiadczyles jednego z wielu zagrozen zwiazanych z praca.
+38405,Klonowaie kosztuje, wiec lepiej NIE wysadzaj sie w powietrze, o ile to mozliwe.
+38406,Oj Zlomiarzu? To cos mialo trafic na Barke. Sprobujmy jeszcze, raz z czyms innym.
+38407,Dobra robota, udalo Ci sie to dosc szybko! A teraz naucze korzystac z kiosku. Przepisy LYNX mowia, ze po ukonczeniu szkolenia musisz pokrywac koszty zuzytego tlenu i paliwa. Tak sie sprawy maja... Wlaczam go teraz.
+38408,Teraz nie ma powodu do paniki, starcza ci na dlugi czas. Ale jesli ci sie skoncza to musisz je doladowac w kiosku. Spojrz.
+38409,Dobra robota Zlomiarzu. Calkiem latwe, prawda? W porzadku, zostawiam cie z tym sam na sam. Porozmawiamy ponownie, gdy osiagniesz nastepna range. Weaver odbior.
+38410,Hej, Zlomiarzu. Patrze na statystyki pochodzace z Twojej zatoki i wyglada na to, ze naprawde zamierzasz sie tu zadomowic!
+38411,Nadszedl czas, abys dowiedzial sie, jak ulepszyc swoj sprzet i bardziej zaawansowane narzedzia, ktore wkrotce bedziesz mial do swojej dyspozycji. Udaj sie do swojego warsztatu w pomieszczeniu z wyposazeniem i zastanowimy sie, jak ulepszyc twoje narzedzia.
+38412,Przeczytam to prosto z instrukcji… „LYNX nagradza ciezka prace i nauke, dajac Lowca Statkow dostep do ulepszen narzedzi i nowego sprzetu. Osiagniecie celow ratowniczych jest niezbedne, aby zostac mistrzem zlomowania statkow.
+38413,Zasadniczo LYNX chce zebys udowodnil swoja wartosc, zanim dostaniesz potezne zabawki. Ukonczenie celow ratunkowych zapewni ci blyszczace zetony Lynx. Uzyj tych zetonow tutaj, aby zdobyc nowy sprzet.
+38414,A wiec ruszajmy i poznajmy jedno z najwazniejszych narzedzi w zestawie narzedzi Lowcy Statkow: Liny. Smialo. Kup je.
+38415,Powtarzaj za mna Zlomiarzu: „Liny – to twoi przyjaciele”. A teraz przeczytaj szybko instrukcje i wskakujmy z powrotem do Zatoki.
+38416,Pozwol, ze powiem ci, jak uzywac lin. Sa one potezniejsze niz promien twojego chwytaka. Swietnie nadaja sie do przenoszenia bardzo ciezkiego zlomu. Wyprobuj je.
+38417,Nacisnij i PRZYTRZYMAJ DRUGI przycisk akcji, aby chwytak zaczal umieszczac line. Wskaz miejsce, do ktorego ma sie przyciagnac zlom, a nastepnie ZWOLNIJ przycisk, aby utworzyc line.
+38418,Ups, trzymaj sie, Zlomiarzu. Jest polaczony sam ze soba. Sprobujmy jeszcze raz i przywiazmy ratunek do innego obiektu.
+38419,Liny rowniez zwijaja sie automatycznie, wiec nie trzeba nic wiecej naciskac.
+38420,Nie zapominaj, ze twoj HUD informuje o masie obiektu oraz o tym, czy twoj chwytak moze go poruszyc, czy nie. Jesli wskaznik masy jest czerwony bedziesz musial uzyc lin.
+38421,Swietnie! A co jesli chcesz pozbyc sie uwiezi, ktore juz umiesciles? Istnieje polecenie zwijania, ktore mozesz wyslac, ale pamietaj, ze usuwa ono WSZYSTKIE twoje liny. Smialo. Sprobuj teraz.
+38422,Tak, prosze bardzo.
+38423,Podczas tego cwiczenia masz nieograniczona liczbe lin Ale potem, kiedy bedziesz potrzebowal wiecej, musisz kupic je w kiosku.
+38424,Zobaczmy, jak dobrze sobie z nimi poradzisz. Sprobuj usunac troche tego zlomu.
+38425,Mozesz ulozyc wiele lin na jednym obiekcie, aby zwiekszyc sile przyciagania. Mozesz takze laczyc ze soba obiekty dowolnej wielkosci, aby przenosic je jako grupe. Widzialem, jak niektorzy Zlomiarze robia niesamowite rzeczy z lancuchem generatorow!
+38426,Dobra robota Zlomiarzu. Jak powiedzialem: „Liny to twoi przyjaciele”. Gdy juz je opanujesz, mozesz wykazac sie kreatywnoscia w sposobie ich uzywania. Teraz, kiedy bedziesz gotowy, wrocmy do Mieszkania i kontynuujmy prace.
 38427,Got a Science ship out in the bay, huh? Those are full of electrical hazards, let me tell you. And if you damage any of them, they may give you a shock.
 38428,I think it's time for you to learn about the motherload of any ship: the reactor. Most dangerous part of Shipbreaking, but you got this. Continue when you're ready Cutter.
 38429,I remember my first Reactor pull. I was shakin' like a leaf. You've got less on the line now, but still... let's try to do this without a critical meltdown.
@@ -3980,8 +3980,8 @@
 38488,Yeah still waiting on the req to get appro--
 38489,Heaven forbid they give us functional gear.
 38490,I'm sure they're workin' on it as fast as they can. Cutter, I've added you to the sector comms channel. It can get lonely out here. Helps to check in with each other from time-to-time. Alright, enough chin-waggin', let's get back to it. Weaver out.
-38491,Goodbye.
-38492,Bye.
+38491,Do widzenia.
+38492,Zegnaj.
 38493,Later, Rook.
 38494,Hey Rook! I was thinking, our crew should crack some beers sometime. Y'know, shoot the breeze, fantasize about a debt-free life an' all that. <laughs> Not that that's going to happen any time soon.
 38495,Like, Weaver's been at this for YEARS. Twenty maybe? I was just getting kicked out of grade school when he started! <laughs>
@@ -4052,8 +4052,8 @@
 38560,Unions Cause Disunion
 38561,For all lynx employees
 38562,Attention\nrequired
-38563,Transmission Complete
-38564,Thank You
+38563,Transmisja kompletna
+38564,Dziekuje
 38565,Work May Resume
 38567,Salvage Income
 38568,View Equipment Menu
@@ -4140,15 +4140,15 @@
 38657,Clouds of Radioactive Particulate can be neutralized with Coolant.
 38658,Radiation will cause severe damage to organic matter, such as food stuffs, plant life, and Shipbreakers.
 38659,Even a heavily used Radiation Filter is valuable salvage; LYNX resells these Filters to smaller ship manufacturers.
-38660,STICKER(S)
+38660,NAKLEJKA(I)
 38661,HOLOGRAPHIC STICKER(S)
 38662,Cutter's R.A.C.E.
 38663,Remove for access to the Radiation Filter
 38664,Collect 2 'Debt Free*' Stickers
-38665,Ship
+38665,Statek
 38666,Ship Hazard Level
 38667,Loading Fees Report
-38668,Barge Objects
+38668,Obiekty Barki
 38669,W prawo
 38670,W lewo
 38671,Okno
@@ -4176,19 +4176,19 @@
 38695,Gotowe
 38696,Obroc
 38697,Union Newsletter sharing experience and information about the\n Administrators that have started arriving in every Salvage\nDistrict.\n \n\nSalvage Workers Unite - Emergency Message - Administrators. \nThe deployment of administrator overseers has been a worrying\n development in the fight for worker's rights and Salvage\n Workers Unite is aware of the comments made by company\n leadership about our efforts. We want our union supporters to\n know that we will not be dissuaded.\n\nFrom the information we have gathered, the situation with the\n administrators looks as followed:\nIt seems unclear how much access and authority the\n administrators are given in each respective district. From\nwhat we know, they can change rules and work certifications\n as they see fit, which is a worrying direction for the safety\nand rights of salvage workers.\n\nLynx Corporation has provided no clarity or transparency\n about the intent behind the administrators and where their\n jurisdiction ends. We can not find consistency in how they\n operate and no mechanisms for workers to report misconduct.\nReach out to fellow union supporters with information and\n complaints. Stay safe.\n\nRespect worker's rights. Hope is action. Solidarity is\n strength.
-38698,Level
-38699,Objective List
+38698,Poziom
+38699,Lista Celow
 38700,Truck Complete
-38701,Thank you to our members who shared reports of Administrator activities, giving us a better picture of the situation across stations.\n\nAs Administrators have gone unchecked, and without the ability for workers to report misconduct, the Union has seen unsafe and unfair working conditions arising at many stations.\n\nWe are particularly concerned at the sudden loss of contact with some of our members. We're still waiting for more info, but suspect that LYNX is wrongfully terminating employment.\n\nWe want you all to know that we're still here. Unionization is a right. We will continue our fight for your voice.\n\nHope is action. Solidarity is strength.
+38701,Dziekujemy naszym czlonkom, ktorzy podzielili sie raportami o dzialaniach Administratorow, dajac nam lepszy obraz sytuacji na roznych stacjach.\n\nPoniewaz Administratorzy nie byli kontrolowani, a pracownicy nie mieli mozliwosci zglaszania niewlasciwego postepowania, Zwiazek byl swiadkiem niebezpiecznej i niesprawiedliwej pracy na wielu stacjach.\n\nJestesmy szczegolnie zaniepokojeni nagla utrata kontaktu z niektorymi z naszych czlonkow. Nadal czekamy na wiecej informacji, ale podejrzewamy, ze LYNX bezprawnie rozwiazuje umowe o prace.\n\nChcemy, abyscie wszyscy wiedzieli, ze wciaz tu jestesmy. Uzwiazkowienie jest prawem. Bedziemy kontynuowac nasza walke o Twoj glos.\n\nNadzieja to dzialanie. Solidarnosc to sila.
 38702,Salvage Workers Unite - Emergency Issue
 38704,Members and colleagues: unionization efforts within LYNX are becoming increasingly dangerous. We are seeing action taken against organizers, and are unsure how long these updates will continue. \n\nLYNX has made it clear that they do not care about their workers, nor about collaborating with us to improve conditions, and that they will take drastic measures to prevent change.\n\nAmid these escalating abuses of power, we have reached out to contacts in the Stellar Commission, asking them to step-in and mediate discussions between Salvage Workers Unite and the LYNX Corporation.\n\nWe'll continue to update you all on the situation, so long as we are able.\n\nHope is action. Solidarity is strength.\n
-38705,Workbench
+38705,Stol warsztatowy
 38706,The deployment of Administrators is a worrying development, as are the comments made by company leadership about our efforts. We want our members to know we will not be dissuaded!\n\nIt's unclear how much authority Administrators have. We're getting word that they can change rules, procedures and work certifications as they see fit, which is a major concern for the safety and rights of Shipbreakers.\n\nLYNX has provided no clarity or transparency with these Administrators and where their jurisdiction ends. So far they have been inconsistent in how they operate. \n\nWe'll share more information as we get it. Please reach out to us with your experiences and complaints! \n\nStay safe.\n\nRespect worker's rights. Hope is action. Solidarity is strength.
-38707,[UNVERIFIED] Issue 17 - Administrators
-38708,[UNVERIFIED] Issue 18 - Administrators [Updated]
-38709,[UNVERIFIED] Emergency Issue
+38707,[NIEZWERYFIKOWANY] Problem 17 — Admini
+38708,[NIEZWERYFIKOWANY] Problem 18 — Admini [Zaaktualizowano]
+38709,[NIEZWERYFIKOWANY] Problem naglacy
 38710,Shippy
-38711,VERSION OUT OF DATE
+38711,WERSJA NIEAKTUALNA
 38712,The Cutter's R.A.C.E PROGRAM REQUIRES THE LATEST VERSION.
 38713,PLEASE EXIT THE GAME AND UPDATE TO THE LATEST VERSION WHEN IT IS AVAILABLE IN ORDER TO BE ACCEPTED INTO THE CUTTER'S R.A.C.E PROGRAM.
 38714,None
@@ -4197,7 +4197,7 @@
 38717,New HAB Poster Available\n\nCustomize your living space to boost your mood and increase productivity!
 38718,Habitat Enrichment Department
 38719,I Want You to Make Mistakes
-38720,HAB Poster
+38720,Plakat HAB
 38721,See Something Say Something
 38722,We Can Do It
 38723,Oberon XII
@@ -4251,16 +4251,16 @@
 38771,Reactant
 38772,A popular children's toy. Contains real bones.
 38773,Living Space
-38774,Equipment Room
+38774,Pokoj wyposazenia
 38775,Disarm Charge [Upgrade Required]
 38776,Place Charge  Throw Charge [Upgrade Req]
 38777,Detonate Charge \n(Detonator Mode)
 38778,>>Demo Charge Manual
-38779,HAB Voice
+38779,HAB Glos
 38780,With Shippy M.D. (Mechanical Doctor)
-38781,v 0.5.0
+38781,wer 0.5.0
 38782,PROGNOSIS: NEEDS MORE PARTS!
-38783,Receive Call
+38783,Odebrane polaczenie
 38784,<color=#F5AF61>Clearance - Hazard Level 6</color>\n \nYou are now authorized to work on salvage with the following hazards:\n \n<color=#F5AF61>Class II Reactor:</color> A far more powerful Reactant source with greater potential for damage and a more complex extraction process.\n<color=#F5AF61>Environmental Control Unit (ECU):</color> controls the atmosphere and pressure levels inside a ship, as well as provides coolant to the Reactor.\n<color=#F5AF61>Coolant:</color> Coolant leaks cause all surrounding objects to become highly brittle and easily destroyed.\n \nRefer to the Handbook Messages available at your <color=#F5AF61>Employee Terminal</color> for more details.
 38785,Answer Intercom
 38786,SPACE TRUCK: READY FOR UPGRADE
@@ -4287,7 +4287,7 @@
 38809,Starleap Heavy Industries
 38810,Orbital Guard - Frontier Patrol
 38811,Stellar Commission
-38812,Orbital Guard
+38812,Ochrona Orbitalna
 38813,Orbital Guard - Hanzo versus LYNX
 38814,Black Castle - Playing Both Sides
 38815,Black Castle
@@ -4321,10 +4321,10 @@
 38843,Cargo Rustlers
 38844,Ol' Toby's Grand Plan
 38845,Beautiful Rigs
-38846,Incident Transcript
+38846,Transkryp Incydentu
 38847,To: Captain A. Underwood\nFrom: Rear Admiral L. Loewenstein\n\nCaptain, your vessel is being assigned to patrol the Frontier Line, between Farbelt Sectors 11 to 17. You will be at the direction of the Artificial Intelligence Monitoring Sub-Committee. You are to look for and pursue any signs of AI activity. Relevant information is below.\n\nLooks like you were right about the deployment Alan. Drinks are on me next time.\n\nLonnie
 38848,Memorandum: Investigation Into Potential Operation of Class 3 Artificial Intelligence (The Machine God) At the Frontier Line\n\nPublic timeline of events:\n\n- 2283 Mar 22 - Stellar Commission unanimously votes to prohibit Class 2 and 3 Artificial Intelligence. Deadline for voluntary shutdown of prohibited AI is initially set for Sep 30, then extended to Jan 1, 2284.\n- 2284 Jan 1 - 82% of known Class 2 and 3 AIs are confirmed shutdown.\n- 2284 Jan 15 - Enforcement begins on shutdown of remaining prohibited AI.\n- 2289 Apr 11 - Stand-off with the pro-AI community at Autoford (Margaritifer Province, Mars); the last known Class 3 AI is deactivated.\n- 2290 Feb 1 - The Commission declares no prohibited AI remain in operation. The Artificial Intelligence Monitoring Sub-Committee (AIM-SC) is formed to observe and enforce.\n\nIn August 2319, the AIM-SC became aware of a potential Class 2 program operating across several networks in the Ceres, Pallas, Stoneview and Farbelt sectors. Preliminary investigation triggered the program to delete itself.\n\nFollow-up investigation found the program had been operating for 29 years, beginning in 2287. It’s purpose was to coordinate periodic satellite launches, via both automated launch systems and falsified instructions to human operators. These satellites had a variety of configurations, launching across corporate and scientific research departments, government surveys and telecom operations. The following is a summary of facts from that investigation:\n\n- No discernible pattern to the timing of launches, occurring over 29 years at intervals between four days and seven months.\n- No discernible pattern to launch locations beyond all occurring in Belt sectors.\n- First launch occurred on Oct 31, 2287, from Yar-Gurwai Station near Ceres. \n- Last launch was on Nov 9, 2318, from Interlink Systems Stoneview Sector Five Depot.\n- Recovered index files show that the name of the malicious program was ‘hortulanus’.\n- Many of the onboard satellite systems were injected with a program called ‘taraxacum’; assumed to be the same Class 2 program recovered from “Ghost Ships” returning from the Frontier Line.\n- Launch trajectories all point towards the Frontier Line; however, it’s impossible to determine if their courses were changed post-launch.\n- Comms connections always became disrupted shortly after launch, appearing as a circuit blowout (a relatively common malfunction). This makes tracking impossible.\n- The source of the ‘hortulanus’ program remains unknown. However, the timing of its emergence during the crackdown on prohibited AI, as well as the current appearance of “Ghost Ships” containing the Class 2 ‘taraxacum’ program, has led the AIM-SC to the following hypothesis:\n\nThe initial launches were meant to preserve a prohibited AI and evade the AIM-SC’s enforcement. This AI is likely the “Machine God” to which recovered “taraxacum” programs refer. Subsequent launches were likely meant to provide material parts (the satellite’s components). These components were repurposed to allow the AI to commandeer and reconfigure vessels. If true, this implies it is a high-end Class 3 AI.\n\nThe AIM-SC is now pursuing two directives:\n\nRecover “Ghost Ships” for study. This is difficult as the AIM-SC is less-equipped for recovery than corporate salvagers. The AIM-SC is investigating avenues for seizure of these vessels, but long-established salvage laws make this unlikely.\nLocate the “Machine God” itself. The AIM-SC is actively patrolling and surveying the Frontier Line and beyond. It is suspected that the Intelligence is operating from a mobile array or flotilla.\n\nThe AIM-SC is also monitoring the spread of the “Church of the Machine God” among the colonies. It is imperative to find and terminate this Intelligence in order to fortify the Commission’s AI regulations, safeguard vessels travelling along the Frontier Line, and avoid another human tragedy like that at Autoford.
-38849,Transcript - Response to Distress Calls
+38849,Transkrypt - Odpowiedz na wezwania pomocy
 38850,// Begin Transcript\n// Response to Two Distress Calls at Stoneview Sector 9, Quadrant B8\n\nSecond Mate: Two vessels sighted, both Salvage class. Confirmed, one LYNX ship, the other Hanzo. They’re... right on top of each other. They, uh… the LYNX one seems to have grabbed the Hanzo vessel with it’s manipulator arms?\n\nCaptain: (sigh) Okay. Let’s call them.\n\nComms: This is Orbital Guard vessel Altadena, responding to your Distress Calls. Would Hanzo vessel Korekuta-Maru and LYNX vessel, uh… Pride of Rai-Paulsen please respond?\n\nHanzo: Ay pray Zeus! (unintelligible) Is ‘ere LYNX slo-bos gotten (unintelligible) toused like (unintelligible) floppers!\n\nComms: … I’m sorry Korekuta, can you repeat that?\n\nLYNX: Don’t listen to him, Officer! They rushed us while we were making a claim. Got themselves wedged on our gear! You need to arrest them for reckless flying! Haul them away and lock them up!\n\nComms: Ma’am, this isn’t law enforcement, we’re the Orbital Guard, do you copy?\n\nHanzo: Ay ay ay… ay! Look-look, (unintelligible) pounced upon like a jagcat!\n\nCaptain: What is that? Icer Slang?\n\nFirst Mate: I think it’s a Hygiean dialect, sir. Uh, Orla-orla maybe?\n\nCaptain: Oh, maybe. Get Rivers up here to translate.\n\nLYNX: Officer, are you here to apprehend these hooligans?\n\nComms: I repeat, Pride, this is the Orbital Guard. Search and rescue. Do you copy?\n\nBosun: Rivers isn’t aboard, sir. I believe he’s off-rotation at Baptistina.\n\nCaptain: Damn! Well clearly the LYNX ship attacked. Ask them to disengage.\n\nComms: Pride of Rai-Paulsen, please disengage your-\n\nHanzo: Yis going do afore, or ay?\n\nComms:  Korekuta, please hold a moment while I-\n\nHanzo: (unintelligible) thugs an’ shale-heads!\n\nComms: Korekuta, PLEASE hold.\n\nCaptain: Are you certain Rivers isn’t aboard?\n\nBosun: Pretty sure.\n\nLYNX: We put out our distress call for urgent help! Aren’t you going to do anything!?\n\nComms: It looks like Korekuta started their call several minutes before yours, ma’am. Now please disengage from their vessel, over.\n\nCaptain: Are they disengaging?\n\nSecond Mate: They’re not disengaging.\n\nComms: Pride, please disengage, do you copy?\n\n(Pause)\n\nCaptain: Are they disengaging?\n\nSecond Mate: They’re not disengaging.\n\nBosun: Oh, you know what… I’ve got the weeks messed up. Yes, Rivers should be here, sir, I’ll call him up.\n\nCaptain: Oh good.\n\nHanzo: Ay ay, kind-like finna’ these (unintelligible) grating toaders upon ‘ine!\n\nLYNX: Officer, if you promise to take these thugs straight to lock-up we’ll agree to let them go.\n\nComms: Ma’am, please… we are NOT the police. Do you copy?\n\nEngineer: Engineer Rivers reporting.\n\nCaptain: Ah, Rivers, thank god.\n\nHanzo: (unintelligible) joustin’ (unintelligible) bramble!\n\nCaptain: What do you make of that Rivers?\n\nEngineer: Hmmm. Hygiean dialect, sir.\n\nCaptain: Mmm, we thought so.\n\nFirst Mate: Orla-orla?\n\nEngineer: Almost certainly Orla-orla, yes.\n\nCaptain: Ah ha! What’s he saying?\n\nEngineer: Dunno, sir. I don’t speak Orla-orla.\n\nCaptain. Oh.\n\nFirst Mate: Damn…\n\nCaptain: Well... Thank you Rivers, that’ll be all.\n\nSecond Mate: What should we do sir?\n\nCaptain: (sighs) Prep a team. Tell the LYNX crew we’re coming over to cut the Hanzo ship free.\n\nFirst Mate: Yes sir.\n\nComms: Altadena to the Pride of Rai-Paulsen, we’re dispatching a team to cut the Korekuta free. Unless you want your ship stuck in repairs for a few weeks, please disengage. Do you copy?\n\nSecond Mate: Ah, they’ve disengaged! The Hanzo ship is leaving at full speed.\n\nCaptain: Oh good. Belay prepping our team.\n\nLYNX: Rest assured, we will be filing a complaint for this service! If not for our courageous act of self-defense, those goons would have bullied us out of our claim.\n\nCaptain: Cut the comms.\n\nComms: Closing channel.\n\nCaptain: Gods, I hate this duty.\n\n// End Transcript\n
 38851,// Begin Transcript\n// Rail-comm Secure line\n// From: Chief Alan Hynes (Black Castle - Operation “Dumpty” Commander)\n// To : Chief Martin Murphy (Black Castle - Operation “Humpty” Commander)\n//       and Operations Manager Victor Boor (Black Castle HQ)\n\nHYNES: Howdy boys. Marty you there?\n\nMURPHY: I’m here Al.\n\nHYNES: Vic, you copy?\n\nBOOR: Yup. Hold on. Yup, there we go. Loud and clear.\n\nHYNES: How’s it going with Tracy?\n\nBOOR: Don’t ask.\n\nMURPHY: That bad huh?\n\nBOOR: If I ever hook up with a waitress again I want you guys to punch me. Hard.\n\nHYNES: (laughs) I told you man.\n\nBOOR: Yeah yeah, well… What’s the update?\n\nHYNES: Well the update is that this might be the best damn assignment you’ve ever given us.\n\nBOOR: (chuckles) Fun, right?\n\nHYNES: Brother it’s hilarious. Now I understand why you had us take unmarked ships. \n\nMURPHY: Yeah this gig is fun as hell. We’re escorting LYNX and of course they think they’re all tough now with us in tow, so they’re even more bullish than normal. \n\nHYNES: And Hanzo thinks: “hey, we got these Black Castle guys with us, we can defend any claim”. Meanwhile, Marty and I are on the line talking to each other about everything! (laughs)\n\nMURPHY: I’m telling the client: “Look, we’ve got you covered. Those Hanzo guys ain’t nothing. You get in there and take what you want.”\n\nHYNES: We roll-up on a wreck and I tell the Hanzo ship: “Hey, uh, you set up here and we’ll do a little patrol around”.\n\nMURPHY: That was good.\n\nHYNES: Yeah, so then I tell Marty when I’m out of visual range.\n\nBOOR: (laughs)\n\nMURPHY: We pretend like we just picked up a signal from the wreck. LYNX adjusts their sensors and picks it up, sees there’s a Hanzo ship there, but they’re ready to fight...\n\nHYNES: Client calls us in a panic: “Help! Help! They’re here and they’ve got help! Please! Please!” (laughs)\n\nBOOR: That’s good.\n\nMURPHY: LYNX guys are posturing. They’re actually buzzing the Hanzo ship!\n\nBOOR: Unbelievable.\n\nHYNES: We drop in and Marty and I start making a show on comms.\n\nMURPHY: “You better back off before we punch a hole in your hull”! That kinda’ thing\n\nHYNES: “You’re a gas miner’s waste filter!”\n\nMURPHY: Oh yeah! (laughs) The hell does that even mean?\n\nHYNES: I dunno, but it sounds bad right?\n\nBOOR: Then what?\n\nHYNES: Just as instructed: sold the stand-off for a bit, then privately messaged our clients and advised them that things were too evenly matched. That the best strategy would be to fall back and try again with more support.\n\nMURPHY: Worked a treat. Expect a call asking for another detail.\n\nHYNES: Same for us.\n\nBOOR: Right on, that’s music to my ears. Keep it up gentlemen. Remember to let ‘em win once in a while, yeah? We can keep this thing going as long as we want, but we gotta let ‘em each taste victory once in a while. Otherwise they’ll start to second-guess the bottom-line.\n\nHYNES: Copy that. We’ll flip a coin to figure out who gets the prize next time.\n\nMURPHY: Aye aye sir.\n\nBOOR: Great. Aw hell, Tracy’s calling me….\n\nHYNES:  Word of advice, sir?\n\nBOOR: No. I trust you with this operation, not with relationship advice. Update me again after the next run-in.\n\n//Comms Disconnected\n//End Transcript\n
 38852,// Rail-Mail\n// From: Brock Twohey [ iron_shield81@blackcastle.railmail ]\n// To: Oliver Kynes [ kynes.o@vanguardsecurity.railmaill ]\n\n// Begin Message:\n\nOllie mate you gotta ditch that stuffy college gig and get in touch with us ASAP. My blood’s still pumping. This is the most fun I’ve had in my life! And I’m getting paid for it! \n\nHere’s the sit-rep: a certain h2o company has their biggest operation at Europa. They got two crews here: harvesters down on the surface, and the people running the processing plants in orbit. Harvesters started striking a month ago. They say the work’s dangerous. Like, mate, you’re pushing mud around all day, how dangerous can it be? Honestly it’s just the laziest scum who’ll work this far out. \n\nAnyway, the company brought us in to get these idiots back to work.\n\nHere’s the best part: no cops or orbital guard or nothing out here. It’s all quiet and dark. Just a handful of slick-haired suits here-and-there running the show. They look at us the same as their grubby proles, but you can see in their eyes: they know we could kick their teeth in. So they let us do whatever we want, and that’s what we’re doing.\n\nIt’s a blast Ollie! Took the elevator down from a processing plant this morning. They had no idea we were coming. When the doors opened and we stepped out they just stopped. Dozens of them, just standing there gawking at us. O’poole (our captain) asks if they wanna get back to work. Nothing. Just a bunch of dumb, dirty faces looking at each other. So O’poole just kinda shrugs, says “have at ‘em”, and we started cracking skulls.\n\nIt was like whack-a-mole mate! I could basically hear the credits tally up everytime I bopped one. Got even more fun when they started fighting back. Some of them were good even! Maybe trained a bit. Maybe worked security before ending up here. Who knows. Who cares.\n\nDon’t think we killed anyone, but a few might have a hard time getting back to work any time soon. Or ever. We’re hitting another site tomorrow, and I bet they’ll be ready for a brawl. These proles fold like laundry, but they’re stubborn, I’ll give them that. We’ll need more muscle to actually put this thing to bed, and I know you’d love it mate. Do you want to keep busting students for spinning on mucilage, or would you rather actually put your training to use for once?\n\nGet in touch with Cass at recruiting, let her know you want in on the Europa gig.\n\nCheers\n\nBT\n\n// End Message
@@ -4339,7 +4339,7 @@
 68804,Nightly Genetic Backup
 68805,GET BONE-STRENGTHENING METEOR-DUST NOW!!! Open for a FREE PRIZE!
 68806,<color=#92F1E0>GENUINE</color> Grade-A <color=#F092F1>METEOR DUST</color> sourced from the <color=#F1D192>LAMPHAS TRIANGLE</color> is <color=#37FE20>GUARANTEED</color> to make your bones <color=#A575FF>STRONG ENOUGH</color> to work in <color=#C9FF75>ANY ENVIRONMENT!!!\n</color>\n\nAct <color=#37FE20>NOW</color> to get a <color=#A575FF>FREE BRICK</color> of <color=#F092F1>METEOR DUST</color> delivered to you in a <color=#5F5E5E>DISCRETE</color> package!!!\n<size=18><line-height=35%>\n{init: media-embed 800-212;\n\n	"aud"action=load: 19-211992_8.play;\n	aud.onload = function( var p="lynxsys.io.playback"; p.mem=block.extend(44); p.push(aud) );\n	\n	var sysmgr = root.msg("AUTH-ACQUIRE_MGR");\n	sysmgr.permission = 0;\n	sysmgr.alloc(44.00, 0x0000773A, aud); chan 1 = chan2 =110;\n\n	sysmgr.remote = disabled;\n\n	aud.play(0.1, true)=>{on_complete(sysmgr.purge(0x0000773A, sysmgr.remote = enabled, sysmgr.dispose(), aud.dispose() );\n	\nend;}\n</size>
-68807,REMINDER! Your FREE PRIZE is waiting! Act now!\n
+68807,PRZYPOMNIENIE! Twoja DARMOWA NAGRODA czeka! Odbierz ja!\n
 68808,Rozpocznij statek
 68809,Kontynuuj statek
 68810,Dzien dobry Zlomiarzu 9346-52. Caly zespol LYNX zyczy Ci szczesliwego i produktywnego dnia.
@@ -4391,7 +4391,7 @@
 68856,Terminal injury detected. This event may be recorded for training and quality purposes. Contract terminated.
 68857,Now how's about you get yourself some rest and we'll pick up your training in the morning? Now sleep tight there, Cutter.
 68858,Rise and shine Cutter! Hope you feel well-rested. Ready to continue your training?
-68859,Morning folks, how y'all holding up?
+68859,Dzien dobry, jak sie trzymacie?
 68860,I had a *radio futz*
 68861,A what?
 68862,*Radio futz*
@@ -4949,8 +4949,8 @@
 69414,Model
 69415,Last Owner
 69416,Manufacturer
-69418,Dynamic Light Range
-69419,Dynamic Light Shadows
+69418,Zasieg dynamicznego swiatla
+69419,Zasieg dynamicznych cieni
 69420,Job Board
 69421,Cockpit Storage
 69422,Detected on Ship
@@ -6157,15 +6157,15 @@
 70627,Graphics quality
 70628,Employee Access Only
 70629,Ultra
-70630,Needed for next level
+70630,Potrzebne do nastepnego poziomu
 70631,Skafander
-70632,Compensation for Distress (Various)
-70633,Gate Ready
-70634,Hey Cutter. Welcome aboard. The name's Weaver. I'm the foreman for yourself and a couple of other Shipbreakers in this region.
-70635,And welcome to your new home. Has everything ya need. This is officially called a, uh... Readymade Long-Term Employee Habitation... something or other... But 'round here we just call it your HAB.
-70636,She's all yours cutter. Now try to remember: Nanocarbon goes in the Processor, aluminum goes in the Furnace. Try to salvage the entire ship if you can - we call it "usin' the whole buffalo". You'll hit your certs faster that way, and start knockin' out that debt of yours.
-70637,Ok. Your primary goal is to get to the next rank. Good luck out there Cutter. Weaver out.
-70638,Ships Available
+70632,Rekompensata za cierpienie (rozne)
+70633,Brama gotowa
+70634,Hej Zlomiarzu. Witamy na pokladzie! Nazywam sie Weaver. Jestem majstrem dla ciebie i kilku innych Lowcow Statkow w tym regionie.
+70635,Witaj w nowym domu. Ma on wszystko, czego potrzebujesz. Oficjalnie to nazywa sie, uh... Dlugoterminowe mieszkanie pracownicze... jakos tak czy inaczej... Ale tutaj nazywamy to po prostu twoim Mieszkaniem.
+70636,Teraz sprobuj zapamietac: Nanokarbon trafia do procesora, aluminium do pieca. Jesli mozesz, sprobuj odzyskac caly statek — nazywamy to „wykorzystaniem calej swinki”. W ten sposob szybciej zdobedziesz certyfikaty i zaczniesz splacac swoj dlug.
+70637,Ok.  Twoim glownym celem jest osiagniecie nastepnej rangi. Powodzenia Zlomiarzu. Weaver odbior.
+70638,Dostepne statki
 70639,Nieznany przycisk
 70640,Nieznana os
 70641,DNGR
@@ -6178,44 +6178,44 @@
 70648,Delhi
 70649,Expedient Xpress
 70650,Ferros Rojos
-70651,The Helix Company
+70651,Helix Company
 70652,Hudson Industry
 70653,Imperial Electronic
 70654,Interlink Systemics
 70655,Klyne-Co
-70656,LYNX Transport
+70656,Transport LYNX
 70658,Nova
 70659,Samsara
-70660,Stellar Commission Orbital Guard
-70661,Tiber Transplanetary
-70662,Ship Doctor Widget
+70660,Ochrona Orbitalna Komisji Gwiezdnej
+70661,Transplanetarny Tiber
+70662,Widzet lekarza statku
 70663,Zainstalowac
 70664,Kaucja
 70665,GRAJ
-70666,Hold Thumb to Scanner to confirm
-70667,INDUSTRIAL ACTION
+70666,Przytrzymaj kciuk na skanerze, aby potwierdzic
+70667,AKCJA PRZEMYSLOWA
 70668,WYLACZ
-70669,Cutter,\nYour requested ship was lost in processing. As compensation for a technical error, we have credited the following to your account.
-70670,Leaderboards require the latest version.
-70671,Please exit the game and update to the latest version when it is available in order to access Leaderboards.
-70672,Complete Industrial Action
-70673,Player Stat Overview
-70674,Debris hazard - Clear debris to continue
-70675,Tether Maximum Reached
-70676,IMPORTANT MESSAGE
+70669,Zlomiarzu,\nTwoj statek zaginal podczas przetwarzania. W ramach rekompensaty za blad techniczny przelalismy na Twoje konto nastepujaca kwote.
+70670,Tabele wynikow wymagaja najnowszej wersji.
+70671,Wyjdz z gry i zaktualizuj ja do najnowszej wersji, gdy tylko bedzie dostepna, aby uzyskac dostep do rankingow.
+70672,Ukoncz akcje przemyslowa
+70673,Podglad statystyk gracza
+70674,Zagrozenie zanieczyszczeniem — Usun gruz, aby kontynuowac
+70675,Osiagnieto maksimum lin
+70676,WAZNA WIADOMOSC
 70677,#
 70678,$
-70679,to select
-70680,Simultaneous Breaking Toggle
-70681,NETWORK ERROR
-70682,ERROR: PLAYSTATION™NETWORK UNAVAILABLE\n
-70683,CANNOT CONNECT TO PLAYSTATION™NETWORK. PLEASE SIGN IN AGAIN OR RECONNECT TO THE INTERNET TO CONTINUE.\n
+70679,wybrac
+70680,Jednoczesne Lamanie Przelacznika
+70681,BLAD SIECI
+70682,BLAD: PLAYSTATION™NETWORK NIEDOSTEPNA\n
+70683,NIE MOZNA POLACZYC SIE Z PLAYSTATION™NETWORK. ZALOGUJ SIE PONOWNIE LUB PONOWNIE POLACZ Z INTERNETEM, ABY KONTYNUOWAC.\n
 70684,OK
-70685,ERROR: SIGNED OUT OF PLAYSTATION™NETWORK\n
-70686,CANNOT CONNECT TO PLAYSTATION™NETWORK. PLEASE SIGN IN AGAIN TO CONTINUE.\n
-70687,BACK
-70688,SIGN IN
-70689,Oh, hot tip: you know all those supplies you can buy at the Kiosk? You can actually scrounge a lot of that stuff for free from the ships.
+70685,BLAD: WYLOGOWANO Z PLAYSTATION™NETWORK\n
+70686,NIE MOZNA POLACZYC SIE Z PLAYSTATION™NETWORK. ZALOGUJ SIE PONOWNIE, ABY KONTYNUOWAC.\n
+70687,POWROT
+70688,LOGOWANIE
+70689,Och, wazna wskazowka: pamietasz rzeczy, ktore mozesz kupic w kiosku? Mozesz je rowniez zebrac za darmo ze statkow.
 70690,Aby uzyskac dostep do tych uslug, musisz byc online.
 70691,ZALOGUJ SIE NA KONTO PLAYSTATION™NETWORK LUB POLACZ Z INTERNETEM, ABY KONTYNUOWAC.\n
 70692,Nie udalo sie zaladowac statku
