@@ -64,9 +64,9 @@
 99,Podglad zadan
 100,W sumie odzyskano
 102,Odzyskac
-103,JAKOŚĆ
+103,JAKOSC
 104,Cele
-105,ILOŚĆ
+105,ILOSC
 106,NUMER
 107,Wartosc
 108,Zdobyte Kredyty
@@ -86,7 +86,7 @@
 122,Zadania
 123,Reaktor
 124,Topnienie
-125,Światlo
+125,Swiatlo
 127,Tworzenie Lin
 128,Chwytak
 129,Silniki odrzutowe
@@ -180,7 +180,7 @@
 225,Piec
 226,Podnies
 227,Niska
-228,Średnia
+228,Srednia
 229,Wysoka
 230,Wychodzenie z obszaru roboczego ...
 231,Ponowne wejscie do obszaru roboczego ...
@@ -252,7 +252,7 @@
 299,Paczka Baterii
 300,Bateria marki WareTech; elegancki, przenosny, modny i wystarczajaco mocny dla kazdego nowoczesnego urzadzenia!
 301,Butelka
-302,PYSZNY NAPÓJ!
+302,PYSZNY NAPOJ!
 303,Kontener towarowy
 304,Skrzynia przemyslowa do transportu luzem. Zaawansowany mechanizm blokujacy ulatwia transport i utrudnia piractwo.
 305,Luk Ladunkowy
@@ -283,7 +283,7 @@
 331,Zawiera superschlodzony zwiazek amoniaku opracowany w EarthGate. Moze wyciekac w przypadku przebicia lub eksplodowac w przypadku uszkodzenia.
 332,Lacznik??
 333,Sworzen konstrukcyjny bedacy standardem branzowym do laczenia ze soba segmentow statkow, umozliwiajacy latwy demontaz.
-334,Pakiet Żywnosci
+334,Pakiet Zywnosci
 335,PYSZNA PRZEKASKA!
 336,Wozek Towarowy
 337,Wyposazone w przestarzala technologie chwytania, te wozki widlowe byly uzywane do pomocy w wydobywaniu asteroid przez Kesslera, zanim postep w zakresie emisji polowych w Waals uczynil je przestarzalymi.
@@ -313,7 +313,7 @@
 361,Super Kondensator
 362,Kondensator do magazynowania energii elektrostatycznej.
 363,Znormalizowane zrodlo do konwersji, regulacji i zasilania przenosnych lub lokalnych urzadzen i urzadzen.
-364,[BRAK DANYCH]\n\n[ZAREJESTRUJ BILET W KATALOGU SYSTEMÓW SKANEROWYCH LYNX]
+364,[BRAK DANYCH]\n\n[ZAREJESTRUJ BILET W KATALOGU SYSTEMOW SKANEROWYCH LYNX]
 365,Lozko dla zalogi
 367,Przydatny terminal do spedzania czasu na lozku\n\nWygodny.
 368,Terminal Osobisty
@@ -327,7 +327,7 @@
 376,Zwykly uchwyt magnetyczny uzywany do mocowania i przechowywania sprzetu na scianach.
 377,Popychacz
 378,Wytrzymaly zderzak do pchania i holowania duzych obiektow.
-379,Terminal Ścienny
+379,Terminal Scienny
 380,Obchodz sie ostroznie, zawiera wewnetrzna baterie, ktora mozna latwo uszkodzic.
 381,Reaktor Klasy I
 382,Rdzen zasilajacy TITAN klasy I. Produkuje niezwykle lotny zwiazek \"uMBRe\" do silnikow sterowych statku. Archaiczny, ale cud swojej epoki.
@@ -344,7 +344,7 @@
 393,Zbierz, aby wyswietlic w swoim mieszkaniu.
 394,Bateria Sloneczna
 395,Najwyzszej klasy ogniwo baterii slonecznej Interlink Systems, o duzej pojemnosci umozliwiajacej dlugotrwale podroze miedzyplanetarne.
-396,Żagiel Sloneczny
+396,Zagiel Sloneczny
 397,Wysokowydajna, tania i niezaawansowana alternatywa dla silnikow odrzutowych. Prosta, ale skuteczna konstrukcja do dalekich podrozy miedzyplanetarnych z wykorzystaniem promieniowania slonecznego.
 398,Pojemniki
 399,Zmodernizowany magazyn do uzytku w sztucznej grawitacji.
@@ -416,16 +416,16 @@
 468,Jednostka Mieszkalna
 469,Zawor Paliwa??
 470,Sluchaj
-471,Kontrola Filtracji Powietrza JKŚ
-472,Kontrola kriogeniczna JKŚ
-473,Kotrola Atmosfery JKŚ
+471,Kontrola Filtracji Powietrza JKS
+472,Kontrola kriogeniczna JKS
+473,Kotrola Atmosfery JKS
 474,Modol Kriogeniczny
 475,Karnoster Kriogeniczny
-476,Śruba
+476,Sruba
 477,Bateria
 478,Zmiana Cisnienia
 479,Przelacz Cisnienie
-480,Śluza w uzyciu
+480,Sluza w uzyciu
 481,Wlaczone
 482,Wylaczone
 483,Pelny Ekran
@@ -454,7 +454,7 @@
 506,Przegroda
 507,Ladunek
 508,Lazienka
-509,Śluza
+509,Sluza
 510,Porzucony dysk danych zawierajacy krypto walute. Moze zostac przekazany LYNX za czesc przechowywanej wartosci.
 511,Panel (Tytanowy)
 512,Panel (Aluminiowy)
@@ -472,7 +472,7 @@
 527,Lekki panel ze stopu aluminium o zwiekszonej wytrzymalosci na zginanie. Latwo sie przecina.
 528,Ciezka tafla kosmicznej krzemionki, chroniaca przed kosmicznymi smieciami i promieniowaniem. Wymaga dodatkowej oslony, aby przetrwac podroz przez Bramy Kosmiczne.
 529,Elementy konstrukcyjne jednostki kontroli srodowiska.
-530,JKŚ
+530,JKS
 531,Drzwi
 532,Drzwi hermetyczne sterowane mechanicznie, zdolne do uszczelnienia cisnienia w pomieszczeniu. Musza byc zasilane, aby dzialaly.
 533,Tytan
@@ -609,11 +609,11 @@
 666,Ilosc Lin I
 667,Ilosc Lin II
 668,Ilosc Lin III
-669,Żywotnosc Lin I
-670,Żywotnosc Lin II
-671,Żywotnosc Lin III
-672,Żywotnosc Lin IV
-673,Żywotnosc Lin V
+669,Zywotnosc Lin I
+670,Zywotnosc Lin II
+671,Zywotnosc Lin III
+672,Zywotnosc Lin IV
+673,Zywotnosc Lin V
 674,Modol Lin
 675,None
 676,None
