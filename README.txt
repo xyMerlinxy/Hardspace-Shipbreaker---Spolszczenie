@@ -8,7 +8,7 @@ Instrukcja instalacji spolszczenia
 
 Jeśli chcesz wersję bez polskich znaków, to należy pobrać plik "de_v2", zmienić jego nazwę na "de" oraz podmienić z oryginalnym plikiem.
 
-Aktualnie przetłumaczone jest 81.73% tekstów, aczkolwiek tłumaczenie wymaga poprawek.
+Aktualnie przetłumaczone jest 88.35% tekstów, aczkolwiek tłumaczenie wymaga poprawek.
 
 
 Korzystanie z nowszą wersją gry może powodowac zastąpienie brakujących napisów liczbami.
