@@ -1171,7 +1171,7 @@
 1261,Twoje rezerwy tlenu są niskie. Należy pamiętać, że nadmiar dwutlenku węgla może spowodować uszkodzenie sprzętu LYNX.
 1262,Ostrzeżenie: Twoje rezerwy tlenu są poniżej wartości statystycznie opłacalnych.
 1263,Krytyczne zaopatrzenie w tlen. Porozmawiaj ze swoim menedżerem ds. Polis na temat ubezpieczenia od uduszenia.
-1264,Ostrzeżenie: Krytyczne zaopatrzenie w tlen.
+1264,Ostrzeżenie: Krytyczne poziom rezerw tlenu.
 1265,Krytyczne zaopatrzenie w tlen. Niedrogie zapasy tlenu można kupić w Platformie Startowej.
 1266,Stabilizacja poziomu tlenu.
 1267,Wykryto uszkodzenie hełmu.
@@ -3512,7 +3512,7 @@
 38013,Leć w dół
 38014,Wskaźnik odzyskiwania zwiększa się za każdy kredyt, który skutecznie uratujesz. Każdy cel odzyskiwania, który osiągniesz, zapewnia premię do LT, PD lub materiałów eksploatacyjnych.
 38015,LYNX - Podręcznik Łowcy Statków
-38017,Hej, Rook.\n\nWeaver był zajęty i poprosił mnie, żebym dzisiaj przejrzał twoje dane dotyczące odzyskiwania. Widziałem, że znalazłeś stary dysk danych na statku.\n\nSłuchaj, wiem, że internet na Ziemi tak naprawdę nie daje pełnego obrazu tego, co dzieje się w kosmosie. Nie chcą, żebyście wszyscy dowiedzieli się, co naprawdę dzieje się poza Ziemią.\n\nTe dyski danych... są to nieocenzurowane informacje. Czasem to bezużyteczne śmieci... czyjeś przepisy albo zdjęcia wyginania się przed lustrem. Innym razem jest to korporacyjna poczta transportowa lub osobisty dziennik kapitana statku.\n\nW każdym razie... nie mów tego Weaverowi, ale wysyłam ci oprogramowanie, które wyciągnie użyteczne dane z tych dysków. Zobaczysz nową kartę Odzyskiwanie danych na swoim terminalu w Mieszkaniu. Odziaływanie promieni słonecznych ma tendencję do zniekształcania większości danych, ale powinieneś być w stanie pobrać kilka nienaruszonych plików z każdego Dysku.\n\nMam nadzieję, że pozwoli Ci to lepiej zrozumieć świat.\n
+38017,Hej, Świeżaku.\n\nWeaver jest zajęty i poprosił mnie, żebym dzisiaj przejrzała twoje dane dotyczące odzyskiwania. Widziałem, że znalazłeś stary dysk danych na statku.\n\nSłuchaj, wiem, że internet na Ziemi tak naprawdę nie daje pełnego obrazu tego, co dzieje się w kosmosie. Nie chcą, żebyście wszyscy dowiedzieli się, co naprawdę dzieje się poza Ziemią.\n\nTe dyski danych... są to nieocenzurowane informacje. Czasem to bezużyteczne śmieci... czyjeś przepisy albo zdjęcia wyginania się przed lustrem. Innym razem jest to korporacyjna poczta transportowa lub osobisty dziennik kapitana statku.\n\nW każdym razie... nie mów tego Weaverowi, ale wysyłam ci oprogramowanie, które wyciągnie użyteczne dane z tych dysków. Zobaczysz nową kartę Odzyskiwanie danych na swoim terminalu w Mieszkaniu. Odziaływanie promieni słonecznych ma tendencję do zniekształcania większości danych, ale powinieneś być w stanie pobrać kilka nienaruszonych plików z każdego Dysku.\n\nMam nadzieję, że pozwoli Ci to lepiej zrozumieć świat.\n
 38018,Nagranie
 38019,Lou
 38020,Łowca_Statków_9346-52@LYNX.railmail
@@ -3609,7 +3609,7 @@
 38115,Przewodnictwo Megan Rai-Paulsen (2289 - obecnie)\n\nW 2289 roku Demeter Paulsen ustąpiła i przekazała stery korporacji LYNX swojej wnuczce, Megan Rai-Paulsen. W krótkiej kadencji Megan usprawniła już procesy i wydajność LYNX oraz zwiększyła zyski o zdumiewające 27%. Spełniając pierwotną wizję swojej babci po przejęciu Janma Bioworks, Megan Rai-Paulsen nadzorowała rozwój i wprowadzenie rewolucyjnego programu klonowania EverWork. Nie tylko chroniło to wielu ciężko pracujących pracowników LYNX, ale także natychmiast obniżyło koszty rekrutacji i szkolenia o 80% oraz całkowicie wyeliminowało potrzebę korzystania z usług medycznych.\n\nHistoria korporacji LYNX i jej niezrównany rozwój jest świadectwem niesamowitego zmysłu biznesowego, który można znaleźć w genach Paulsena. Dziedzictwo trwa do dziś: dzieci dyrektora generalnego Megan Rai-Paulsen i jej partnera Ishpreet Rai, Sherya, Harsh i Calyssia z powodzeniem prowadzą odpowiednio działy badań, transportu i recyklingu LYNX Corp.\n\nLYNX jest bezsprzecznie najpotężniejszą firmą i dynastią w historii ludzkości. Rodzina Paulsen, mająca skromne początki jako mała firma “Mom and Pop”, przełamywała bariery technologiczne i biznesowe na każdym kroku, torując drogę do innowacji i możliwości, jakich nie ma na świecie.\n
 38116,Łowca_Statków_8801-15@LYNX.railmail
 38117,Łowca_Statków_8801-15@LYNX.railmail
-38118,Hej jeszcze raz,\n\nChciałam tylko powiedzieć: jestem pod wrażeniem tego, jak szybko odzyskujesz rzeczy. Nie wiesz, jaką pracę wykonałeś wcześniej, ale jesteś urodzonym Łowcą!\n\nPrawdopodobnie zauważyłeś, że LYNX nie dba o nas zbytnio. Nie winię ich... tak naprawdę nie mają do tego powodu. Jeszcze jakieś sto lat temu pracownicy tacy jak my tworzyli grupy zwane związkami i walczyli o lepsze zarobki, bezpieczniejszą pracę, godziwe godziny pracy... tego typu rzeczy. W ogólności o to by praca nie stała się piekłem. LYNX pozbyło się tego wszystkiego.\n\nAle jest teraz grupa Łowców Statków, którzy próbują przywrócić ideę Unii. Zmienić rzeczy na lepsze. Czy wiesz, że LYNX zachowuje Twoje DNA, nawet jeśli odejdziesz z pracy? Albo że te panele kadłuba, za które dostajesz dziesięć kredytów, są odsprzedawane za tysiąc za sztukę? To są elementy, które ci ludzie chcą zmienić.\n\nW każdym razie... bądź cicho... LYNX szybko to wyniucha. Ale widzę, że jesteś dobrym człowiekiem i ciężko pracujesz. Powiem ci teraz, że cię zużyją i nic za to nie dostaniesz.\n\nUmieszczam cię na liście wiadomości grupowych. Przychodzą co kilka dni. Czytaj je, nie czytaj ich, wyrzuć je... cokolwiek. Tylko proszę nie zgłaszaj mnie. Chcę tylko, żebyś miał te informacje. Cieszyłam się, że ktoś mi dał dostęp gdy ledwo co rozpoczęłam pracę.
+38118,Hej jeszcze raz,\n\nChciałam tylko powiedzieć: jestem pod wrażeniem tego, jak szybko odzyskujesz rzeczy. Nie wiem, jaką pracę wykonałeś wcześniej, ale jesteś urodzonym Łowcą!\n\nPrawdopodobnie zauważyłeś, że LYNX nie dba o nas zbytnio. Nie winię ich... tak naprawdę nie mają do tego powodu. Jeszcze jakieś sto lat temu pracownicy tacy jak my tworzyli grupy zwane związkami i walczyli o lepsze zarobki, bezpieczniejszą pracę, godziwe godziny pracy... tego typu rzeczy. W ogólności o to by praca nie stała się piekłem. LYNX pozbyło się tego wszystkiego.\n\nAle jest teraz grupa Łowców Statków, którzy próbują przywrócić ideę Unii. Zmienić rzeczy na lepsze. Czy wiesz, że LYNX zachowuje Twoje DNA, nawet jeśli odejdziesz z pracy? Albo że te panele kadłuba, za które dostajesz dziesięć kredytów, są odsprzedawane za tysiąc za sztukę? To są elementy, które ci ludzie chcą zmienić.\n\nW każdym razie... bądź cicho... LYNX szybko to wyniucha. Ale widzę, że jesteś dobrym człowiekiem i ciężko pracujesz. Powiem ci teraz, że cię zużyją i nic za to nie dostaniesz.\n\nUmieszczam cię na liście wiadomości grupowych. Przychodzą co kilka dni. Czytaj je, nie czytaj ich, wyrzuć je... cokolwiek. Tylko proszę nie zgłaszaj mnie. Chcę tylko, żebyś miał te informacje. Cieszyłam się, że ktoś mi dał dostęp, gdy ledwo co rozpoczęłam pracę.
 38119,Lou Steiner
 38120,Grupa_Niejawna
 38121,Nadawca_Niejawny
@@ -4211,7 +4211,7 @@
 38729,<color=#F5AF61>Systemy statków - Reaktor Klasy II</color>\n\nMasz teraz uprawnienia do pracy przy recyklingu statków zawierających <color=#F5AF61>Reaktory Klasy II</color>. \n\nSą one podłączone do <color=#F5AF61>jednostki kontroli środowiska (JKŚ)</color> i <color=#F5AF61>silników odrzutowych</color> dalekiego zasięgu. Łowcy Statków muszą odłączyć JKŚ i silniki odrzutowe <b>przed wydobyciem reaktora</b>. \n\n<color=#FF6969>Zaniechanie tego spowoduje szybszą sekwencję topienia reaktora.</color>\n\nDodatkowe uszkodzenia  mogą mieć wpływ na zyski z recyklingu i mogą prowadzić do wpisu w Twojej kartotece.
 38730,System - Generator Prądu
 38731,<color=#F5AF61>Systemy statków - Generator prądu</color>\n\nMasz teraz uprawnienia do pracy przy recyklingu  statków zawierających <color=#F5AF61>generatory prądu</color>. \n\n<color=#F5AF61>Generatory prądu</color> są podłączone do <color=#F5AF61>systemu wyłączników</color> zarządzających zasilaniem.\n\nAby bezpiecznie demontować, wyjmij <color=#F5AF61>Bezpieczniki</color> na każdym z <color=#F5AF61>Wyłączniku</color>. Wskaźniki świetlne na <color=#F5AF61>Wyłączniku</color> pokazują natężenie prądu elektrycznego. <color=#F5AF61>Bezpieczniki</color> najbezpieczniej wyjmować przy zerowym prądzie.\n\nPo wyjęciu wszystkich <color=#F5AF61>Bezpieczników</color>, można bezpiecznie zdemontować <color=#F5AF61>Generator</color> prądu.
-38732,DirectWays
+38732,DirectWays???
 38733,Wleć Tam
 38734,Radio Hardy'ego
 38735,Klasa Oszczep
@@ -4277,7 +4277,7 @@
 38795,Hiszpański
 38796,Portugalski (Brazylia)
 38797,Chiński tradycyjny
-38799,Resynth Volume
+38799,Resynth Volume????
 38801,Poziom Zagrożenia
 38802,Brak pacjenta!
 38803,Dostępny Nowy Statek: <color=#F5AF61>Atlas Skaut</color>\n \nWiatry słoneczne za twoimi plecami. Pył kosmiczny przelatuje obok. Prędkość komety na wyciągnięcie ręki.\n\nPoznajcie <color=#F5AF61>Atlas Skauta</color>. Zaprojektowany z myślą o ucieczce i powrocie w mgnieniu oka. Wyposażony w parę opatentowanych przez Starleap <color=#F5AF61>Silników Kwazar</color>, Skaut zapewnia szybkie pokonywanie dużych odległości.\n\n<color=#bdbcbb><i>Atlas: Potężny. Niezawodny. Wytrzymały. Fundament lepszego świata.\n\n<line-height=20%>\n                                                 - <b>Starleap Heavy Industries</b></i></color>
@@ -4832,123 +4832,123 @@
 69293,Nie mieszaj pracy i życia osobistego. Łowcy Statków przychodzą i odchodzą, a ja nie potrzebuję dodatkowego cierpienia psychicznego. Nie każdy nadaje się do tej pracy.
 69294,Kilka lat temu mieliśmy tu złomiarkę, Jaena. Była bardzo podobna do mojej córki...
 69295,Nie... Zdecydowanie nie warto o tym mówić.
-69296,Hey Newbie, you're not goin' around doing all the stupid Newbie things are ya?
-69297,Going 'round trying to be the best out there. It'll kill ya real quick. Counting your spares ain't as cool as you think.
-69298,And here's a tip; keep a diary. They say the memory transfer to the Spare is flawless, but I've heard otherwise.
-69299,Oh, and never pee in your suit... trust me. Just don't.
-69300,Hey. Newbie. Hey. Just having a couple cold ones and thought I'd ask you something.
-69301,You ever heard of "Karaoke"? Kar-a-oh-kay? No?
-69302,It's singing. Without words. Well, the original words. Anyway, it's a big thing back home.
-69303,My daughter wants to be a singer one day.
-69304,She's good too...
-69305,Believe it or not, I can belt out a tune!
-69306,Hey! You think Lou can rig something up so's we can do Karaoke over comms? Clever ideas that kid.
-69307,Heh. Well anyways.. I'm gonna get some shut-eye. Gotta do it all over again tomorrow, am I right?
-69308,G'night kiddo.
-69309,Hey Deedee, I always meant to ask... Did you like living in New Manila?
+69296,Hej Świeżaku, chyba nie robisz tych wszystkich głupich rzeczy, co?
+69297,Próbujesz być najlepszy. To cię zabije naprawdę szybko. Liczenie części zamiennych nie jest tak fajne jak myślisz.
+69298,I tu rada; prowadź pamiętnik. Podobno transfer pamięci na Spare jest bezbłędny, ale ja słyszałem co innego.
+69299,Aha, i nigdy nie sikaj do swojego kombinezonu... zaufaj mi. Po prostu nie.
+69300,Hej. Świeżaku. Hej. Wypiłem kilka zimnych i pomyślałem, że zapytam o coś.
+69301,Słyszeliście kiedyś o "Karaoke"? Kar-a-oh-kay? Nie?
+69302,To jest śpiewanie. Bez słów. Cóż, oryginalnych słów. W każdym razie, to jest istotna rzecz u nas w domu.
+69303,Moja córka chce kiedyś zostać piosenkarką.
+69304,Też jest dobra...
+69305,Wierzcie lub nie, ale potrafię zagrać melodię!
+69306,Hej! Myślisz, że Lou może coś zmontować, żebyśmy mogli robić karaoke przez komunikatory? Niezłe ma pomysły, ten dzieciak.
+69307,Heh. W każdym razie... Idę się przespać. Jutro muszę zrobić to wszystko od nowa, mam rację?
+69308,Dobranoc dzieciaku.
+69309,Hej Deedee, zawsze chciałam zapytać... Czy podobało ci się mieszkanie w Nowej Manili?
 69310,Mhmh.
-69311,Is it... like... similar to living on Earth?
-69312,Guess so.
-69313,Uhm... How about the weather? Or... like... I guess it's artificial mostly, right?
+69311,Czy to... podobne do życia na Ziemi?
+69312,Pewnie tak.
+69313,Emm... A co z pogodą? Albo... jakby... Chyba głównie jest sztuczna, prawda?
 69314,Mhmh.
-69315,You know, I miss sunsets like on earth a lot.
-69316,Mh yeah.
-69317,Uh... Kaito... maybe uhm... lay it off eh?
+69315,Wiesz, bardzo brakuje mi zachodów słońca jak na ziemi.
+69316,O tak.
+69317,Uh... Kaito... może uch... odłóż to, hm?
 69318,O... tak... przepraszam Deedee.
-69319,It's alright, kiddo. Not much of a talker over here.
-69320,Maybe one day with a few beers, eh?
-69321,Mhmh.
-69322,Cutter? Hey there...I... It's just...the pressure is really getting to me. Feels like...
-69323,when I was just a kid.
-69324,You heard about the Kuril Islands? It's, like, hell there. We escaped when I was... maybe five?
-69325,Crossing the ocean in those tiny boats was the scariest two weeks of my life, you have no idea.
-69326,We got so close we could SEE Pacifica... But this storm comes in. Flips all of us over...
-69327,I just remember sinking deeper and deeper. The water closing in all around me and I...
-69328,That's what this feels like.
-69329,*sighs* I guess that's why I'm such a screw-up. I'm not built to carry all this weight.
-69330,Anyways, thanks for listening, Cutter.
-69331,Hey Cutter. You're from Earth, right? Do you ever miss it?
-69332,I know it's a rough place, and hot as hell during the day, but there's still... this kinda, like... beauty to it? I dunno.
-69333,Space is cool, don't get me wrong. I just miss the colors at sundown, you know? Right before the dark  swallows the world.
-69334,Or the feeling of the ocean breeze on your cheeks, the Moon just, like, dancing across the water between all the rusted buildings.
-69335,Could you imagine living in the early 21st century?! What a dream. They were so lucky.
-69336,Anyways, I gotta get back to this ship. Have a good one, fellow Earthling.
-69337,**an at peace sigh**
-69338,You doing okay, Kai?
-69339,Oh yeah. Thinking, I guess. Looking at Earth. Hard to imagine how much life used to live on it.
-69340,Can't fixate on the past, kid.
-69341,Ah yeah... You know... if my life had been different, I wouldn't be up here. I'd be doing something with animals.
-69342,Well... nature in general. Maybe an ecologist or biologist. Not sure what they do, but I think I'd like it.
-69343,Just imagine what Earth must have been like a couple hundred years ago. Full of life. **sighs**
-69344,Animal husbandry ain't quite the same, but it might scratch that itch. Something to consider at least, when you finish here.
-69345,Ah yeah. Thanks, Deedee. I'll keep that in mind. When I finish.
-69346,Hmmm. Poutine with a beetle crunch...
-69347,What?
-69348,No a donburi of some kind. Chicken if I was rich. No, you know what! A gooey, cricket pizza with REAL cheese. Mmmmmm.
-69349,Drifted off again there, Kai?
-69350,Oops! Uh, hey Weaver. Sorry, yeah. I'll get back to it.
-69351,No need to apologize. The food is sorely hurtin' up here. Trust you me, I know.
-69352,Didn't realize how good I had it back when I was clam fishin' Earthside. Would kill for a clam stew right about now.
-69353,You used to fish for clams? I remember reading about clams.
-69354,Never got to try some though.
-69355,Yeah, the work was mighty arduous for sure, but a warm bowl of clam stew was a nice break from the usual grub I was brought up on.
-69356,Maybe one day we can all grab a bowl together.
-69357,Clam stew!? I'd love that! Thanks, Weaver.
-69358,You bet, kiddo.
-69359,Hey Kai, you're up here to help your family, right?
-69360,Yeah, for my fam... You can buy citizenship in Pacifica, but it costs a TON.
-69361,That's good of you.
-69362,It's tough. There's five of us, my Sobo, Dad, Mom, little sis Marlena, and myself.
-69363,Well... There should actually be six. Lost my older sis, Makoto, a few years ago.
-69364,She's the one who should be here. She applied. Even got accepted. But then she got sick. Real sick... And... yeah... non-citizens can't get care. So, uhh, here I am.
-69365,Kai, I'm so sorry. I didn't know about your sister.
-69366,It's okay. You actually remind me a lot of her, Lou.
-69367,Aww Kai. I know it's tough, but... we've got your back.
-69368,Thanks Lou.
-69369,Hey there fellas. Thought I'd share some words of wisdom this morning.
-69370,This is from Megan Rai-Paulsen's book, Owning the Future. You should read it.
-69371,OK. Focus. Focus is the brawn of the mind. Focus is power. Focus is divination. Focus on what you want to achieve, let nothing deter you, and you will succeed. Focus. Is. Achievement.
-69372,Ah... incredible. So let's focus-up out there, yeah? Let's achieve, people. Rhodes out!
-69373,Listen up people. Want to tell you something I was told early in my career.
-69374,You can patch a mistake. But the mistake's still there, just covered up. The only way to truly fix a mistake is to not allow it to happen in the first place.
-69375,I hope you're taking that in. You can't truly fix a mistake, so let's just avoid them to begin with.
-69376,OK? No mistakes! Go get 'em kids.
-69377,Good morning Shipbreakers!
-69378,I was thinking about all of you last night, and something came to mind.
-69379,This is a quote from one of history's greatest managers, a fella named Jonathan Rockefeller.
-69380,Good management consists of showing average people how to do the work of superior people.
-69381,He got it. Weaver, that's a good one for you, maybe write it down or something. Actually, I can just send it to you...
-69382,Folks, efficiency is a measure of discipline. Productivity is a measure of skill. Output is a measure of drive.
-69383,Discipline. Drive. Skill. Effort. Ambition.
-69384,Strategy. Autonomy. Integrity. Positivity! Innovation!
-69385,I hope what I'm saying is clear. Rhodes out.
-69386,I'm not feeling great today, guys, I'll be honest. I'm looking at the reports, and this operation can do so much better.
-69387,When I look at all of you I see some very talented, hard-working and extremely capable bodies.
-69388,The problem is your MINDS. You're getting in your own way. Tripping up on your individual wants and needs.
-69389,Embody the company mind. Think of yourself as a physical extension of LYNX Corporation. THAT'S how we'll succeed.
-69390,OK? Tomorrow, everyone take five before the start of the shift and really BECOME part of the company, yeah? Rhodes out!
-69391,Alright, listen to this, from Exeter Paulsen's memoir.
-69392,Man's only true skill is innovation. If one cannot innovate, one must move aside for those who can.
-69393,So true. So true. Even you guys out there, in your day-to-day; how are you innovating?
-69394,How are you changing the face of salvaging? Or do you need to move aside?
-69395,Think about it.
-69396,Alright kids, I wanna try something.
-69397,Back in the 21st century, some of the most successful leaders combined aspects of mysticism into their management style.
-69398,We're gonna try something called 'yo-ga'. We'll start with... Steiner.
-69399,Huh!? What!?
-69400,I'm gonna turn off your suit control and you're gonna just focus on your breathing, OK?
-69401,I'm in the middle of moving a fuel cell, Rhodes, no no no-
+69319,W porządku, dzieciaku. Nie ma tu zbyt wielu rozmówców.
+69320,Może kiedyś przy kilku piwkach, co?
+69321,Mhm.
+69322,Złomiarzu? Hej... Ja... To po prostu... presja naprawdę mnie dopada. Czuje się jak...
+69323,kiedy byłem jeszcze dzieckiem.
+69324,Słyszałaś o Wyspach Kurylskich? Tam jest jak w piekle. Uciekliśmy, gdy miałem... może pięć lat?
+69325,Przeprawa przez ocean w tych malutkich łódkach to były najstraszniejsze dwa tygodnie mojego życia, nie masz pojęcia.
+69326,Byliśmy tak blisko, że mogliśmy zobaczyć Pacyfikę... Ale nadeszła ta burza. Wywróciła nas wszystkich...
+69327,Pamiętam tylko, że zanurzałem się coraz głębiej i głębiej. Woda zbliżała się do mnie, a ja...
+69328,Tak właśnie się czuje.
+69329,*wzdycha* Chyba właśnie dlatego jestem taki zakręcony. Nie jestem stworzony do noszenia tego całego ciężaru.
+69330,W każdym razie, dzięki za wysłuchanie, Złomiarzu.
+69331,Hej Złomiarzu. Jesteś z Ziemi, prawda? Czy kiedykolwiek za nią tęsknisz?
+69332,Wiem, że to surowe miejsce, i gorące jak diabli w ciągu dnia, ale wciąż jest to... pewnego rodzaju, jakby... piękno? Nie wiem.
+69333,Kosmos jest fajny, nie zrozum mnie źle. Brakuje mi tylko kolorów o zachodzie słońca, wiesz? Tuż przed tym, jak ciemność pochłania świat.
+69334,Albo uczucie morskiej bryzy na policzkach, księżyc tańczący po wodzie między zardzewiałymi budynkami.
+69335,Czy mógłbyś sobie wyobrazić życie na początku XXI wieku?! Co za marzenie. Co za szczęściarze.
+69336,Tak czy inaczej, muszę wracać na statek. Miłego dnia, Ziemianinie.
+69337,**spokojne westchnienie**
+69338,Wszystko w porządku, Kai?
+69339,O tak. Zamyślenie, tak sądzę. Patrzę na Ziemię. Trudno sobie wyobrazić, ile kiedyś istot tam żyło.
+69340,Nie możesz skupiać się na przeszłości, młody.
+69341,Ach tak... Wiesz... gdyby moje życie było inne, nie byłoby mnie tutaj. Robiłbym coś  związanego ze zwierzętami.
+69342,Cóż... przyroda w ogóle. Może ekologiem albo biologiem. Nie wiem, czym się zajmują, ale myślę, że by mi się to spodobało.
+69343,Wystarczy wyobrazić sobie, jak musiała wyglądać Ziemia kilkaset lat temu. Pełna życia. **wzdycha**
+69344,Hodowla zwierząt to nie to samo, ale może zaspokoić tę potrzebę. Coś do rozważenia, gdy skończysz tutaj.
+69345,Ach tak. Dzięki, Deedee. Będę o tym pamiętał. Kiedy skończę.
+69346,Hmmm. Poutine z chrupiącym żukiem...
+69347,Co?
+69348,No donburi jakiegoś rodzaju. Kurczak, gdybym była bogata. Nie, wiesz co! Pizza z PRAWDZIWYM serem. Mmmmmm.
+69349,Znowu tam odpłynąłeś, Kai?
+69350,Ups! Ah, hej Weaver. Przepraszam, tak. Wrócę do tego.
+69351,Nie ma za co przepraszać. Jedzenie jest tutaj bardzo dotkliwe. Zaufaj mi, wiem.
+69352,Nie zdawałem sobie sprawy z tego, jak dobrze mi to wychodziło, kiedy łowiłem małże na Ziemi. Zabiłbym za gulasz z małży właśnie teraz.
+69353,Łowiłeś kiedyś małże? Pamiętam, że czytałem o małżach.
+69354,Nigdy nie miałem okazji spróbować.
+69355,Tak. Praca oczywiście nie jest łatwa. Ale miska gorącej zupy z małży była przyjemną odmianą od zwykłego żarcia, na którym dorastałem.
+69356,Może kiedyś się spotkamy i zjemy razem tę zupę.
+69357,Zupa z małży?! Byłoby świetnie! Dzięki Weaver.
+69358,Ty stawiasz`, dzieciaku.
+69359,Hej Kai, jesteś tutaj, aby pomóc swojej rodzinie, co nie?
+69360,Tak, dla mojej rodziny... Można kupić obywatelstwo w Pacifica, ale to kosztuje KROCIE.
+69361,To miło z twojej strony.
+69362,To dla mnie trudne. Jest nas pięcioro, Sobo, tata, mama, siostrzyczka Marlena i ja.
+69363,Cóż... Właściwie powinna być szóstka. Kilka lat temu straciłem starszą siostrę, Makoto.
+69364,Miała tu pracować. Zgłosiła się. Nawet została przyjęta. Ale potem poważnie zachorowała... I... tak... nie-obywatele nie otrzymują opieki zdrowotnej. Więc, dlatego tu jestem.
+69365,Kai, bardzo mi przykro. Nie wiedziałam o twojej siostrze.
+69366,W porządku. Właściwie bardzo mi ją przypominasz, Lou.
+69367,Ech Kai. Wiem, że to trudne, ale... wspieramy cię.
+69368,Dzięki Lou.
+69369,Hej chłopaki. Pomyślałem, że dziś rano podzielę się kilkoma mądrymi słowami.
+69370,Oto mądrość z książki Posiadanie przyszłości autorstwa Megan Rai-Paulsen. Musicie to przeczytać.
+69371,OK. Skupienie. Skupienie jest siłą umysłu. Skupienie to moc. Skupienie to przewidywanie. Skoncentruj się na celu i nie daj się rozproszyć czemukolwiek - tak osiągniesz sukces. Skupienie. Jest. Osiągnięciem.
+69372,To... niewiarygodne. Więc skupmy się, dobrze? Osiągnijmy to. Rhodes odbiór.
+69373,Słuchajcie ludzie. Chcę wam powiedzieć coś, co usłyszałem na początku mojej kariery.
+69374,Możesz naprawić błąd. Ale on tam będzie nadal, tylko zakryty. Najlepszym sposobem na naprawienie błędów jest ich unikanie.
+69375,Mam nadzieję, że rozumiecie. Nie możecie naprawić błędów, więc po prostu unikajcie ich od początku.
+69376,Jasne? Bez błędów! Damy radę.
+69377,Dzień dobry Łowcy Statków!
+69378,Myślałem o was zeszłej nocy i coś mi przyszło do głowy.
+69379,Oto cytat jednego z największych menedżerów w historii, Jonathana Rockefellera.
+69380,Właściwe zarządzanie polega na nauczeniu zwykłego człowieka wykonywania pracy przełożonego.
+69381,On to rozumiał. Weaver, to jest ważne dla ciebie, powinieneś to zapisać, czy coś. Jeśli chcesz to mogę Ci podesłać...
+69382,Ludzie, skuteczność jest miarą dyscypliny. Produktywność jest miarą umiejętności. Dążenie jest miarą postępu.
+69383,Dyscyplina. Dążenie. Umiejętności. Wysiłek. Ambicja.
+69384,Strategia. Autonomia. Jedność. Pozytywność. Innowacyjność.
+69385,Mam nadzieję że wyraziłem się jasno. Rhodes odbiór.
+69386,Nie czuję się dzisiaj najlepiej, chłopaki, będę szczery. Patrzę na wasze raporty i nasza działalność może być o wiele lepsza.
+69387,Kiedy patrzę na was, widzę kilka bardzo utalentowanych, pracowitych i niezwykle zdolnych osób.
+69388,Problem jest w waszych UMYSŁACH. Wchodzicie sobie w drogę. Potykacie się o Własne pragnienia i potrzeby.
+69389,Wdrażaj korporacyjną myśl. Wyobraź sobie, że jesteś częścią korporacji LYNX. Tylko w ten SPOSÓB odniesiemy sukces.
+69390,OK? Jutro niech wszyscy o tym pomyślą przed rozpoczęciem pracy i naprawdę ZOSTANĄ częścią firmy, tak? Rhodes odbiór!
+69391,W porządku, posłuchajcie tego, wspomnienie Exetera Paulsena.
+69392,Jedyny prawdziwy talent to innowacyjność. Jeśli ktoś go nie ma, to musi ustąpić miejsca bardziej utalentowanym.
+69393,Złote słowa. Złote słowa. Jesteście innowacyjni w swojej codziennej pracy?
+69394,Czy jesteś w stanie zmienić oblicze odzyskiwania? A może ustąpisz miejsca innym?
+69395,Pomyślcie o tym.
+69396,Dobra dzieciaki, chcę czegoś spróbować.
+69397,W XXI wieku niektórzy z odnoszących największe sukcesy liderów dołączyli aspekty mistycyzmu do swojego stylu zarządzania.
+69398,Spróbujemy czegoś, co nazywa się "yo-ga". Zaczniemy od... Steinera.
+69399,Huh!? Co!?
+69400,Wyłączę wam sterowanie skafandrami, i skupcie się na oddychaniu, dobrze?
+69401,Jestem w trakcie przenoszenia ogniwa paliwowego, Rhodes, nie, nie, nie-
 69402,RHODES!!
-69403,OK, now breathe slowly, in through the nose...
-69404,I'm drifting toward the furnace, Rhodes. Rhodes I'm drifting!
-69405,You're not listening Lou; IN through the nose now.
-69406,It's hot! It's hot!
-69407,And out through the mouth.
-69408,No! Help!
-69409,Clearly not a lot of leadership potential in you, Lou.
-69410,Oh thank god. Rhodes you PSYCHOPATH!
-69411,Hmm. We'll try this again another time, when tempers aren't so high.
-69412,Hmm. We'll try this again another time, when tempers aren't so high.
+69403,OK, teraz oddychajcie powoli, przez nos...
+69404,Dryfuję w stronę pieca, Rhodes. Rhodes dryfuję!
+69405,Nie słuchasz Lou; Oddychaj przez nos.
+69406,Jest gorąco! Jest gorąco!
+69407,I wydychaj przez musta.
+69408,Nie! Pomocy!
+69409,Widocznie nie masz w sobie potencjału przywódczego, Lou.
+69410,Oh, dzięki bogu. Rhodes jesteś PSYCHOPATĄ!
+69411,Hmm. Spróbujemy tego kiedyś ponownie, kiedy nie będziecie tak nerwowi.
+69412,Hmm. Spróbujemy tego kiedyś ponownie, kiedy nie będziecie tak nerwowi.
 69413,Pełny
 69414,Model
 69415,Właściciel:
@@ -4975,7 +4975,7 @@
 69438,Kopia zapasowa materiału genetycznego
 69439,Procedura Ekstrakcji Genetycznej
 69440,Nocna Kopia Genetyczna (x {0})
-69441,Display of "Fee Reversal Report"
+69441,Wyświetlanie „Raportu cofnięcia opłat”
 69442,Testowanie
 69443,Otrzymano Zestawy Naprawcze
 69444,Zyski z Tytułu Przetwarzania
@@ -5093,34 +5093,34 @@
 69556,Uwaga: niskie rezerwy tlenu. LYNX zaleca częste i lekkie ćwiczenia, aby zwiększyć poziom tlenu we krwi.
 69557,Uwaga: rezerwy tlenu są niskie.
 69558,Uwaga: niskie rezerwy tlenu.
-69559,Warning: critical oxygen levels detected. Consult the LYNX Employee Handbook on how to maximise your blood oxygen saturation.
-69560,Oxygen reserves critical. LYNX recommends avoiding stressful workplace situations while oxygen levels are low.
-69561,Warning: oxygen reserves critical.
-69562,Critical oxygen levels detected.
-69563,Warning: critical oxygen levels detected.
-69564,Oxygen reserves are critical. Reminder: employees are responsible for regulating carbon dioxide levels.
-69565,Warning: oxygen supplies are critical.
-69566,Caution: helmet damage detected.
-69567,Helmet damage detected. Avoid severe head trauma by following good helmet maintenance practices.
-69568,Critical helmet damage. Note that human cranial structures are not rated for full vacuum exposure.
-69569,Warning: critical helmet damage.
-69570,Fire damage. Note that prolonged exposure to high temperatures can lead to employee burnout.
-69571,Warning: fire damage detected.
-69572,Fire damage detected.
-69573,Electrical damage. Please limit convulsions to avoid damage to sensitive LYNX equipment.
-69574,Electrical damage detected.
-69575,Electrical damage. LYNX recommends avoiding high-voltage power sources.
-69576,Warning: cryo damage. Mitigate cold temperatures by practising regular cardio routines.
-69577,Cryo damage detected. Always use caution when working near unstable cryo systems.
-69578,Warning: cryo damage detected.
-69579,Radiation damage detected. Note that high-dose penetrating radiation should not be used as a stimulant.
-69580,Warning: radiation damage detected.
-69581,Radiation damage detected. Always use caution around irradiated materials.
-69582,Injury detected. This incident may be recorded for training and quality purposes.
-69583,Biotelemetry readings flatlining. Please power-cycle your sensor array.
-69584,Entering rest mode. Your daily performance feedback will be available shortly in the LYNX assessment portal.
-69585,Shift halted. Higher work rates may be required to offset unscheduled personal time.
-69586,Your injury is important to us. Please wait while we connect you to an available spare.
+69559,Ostrzeżenie: wykryto krytyczny poziom tlenu. Zapoznaj się z Podręcznikiem pracownika LYNX, a dowiesz się, jak zwiększyć nasycenie krwi tlenem.
+69560,Krytyczne rezerwy tlenu. LYNX zaleca unikanie stresujących sytuacji w miejscu pracy, gdy poziom tlenu jest niski.
+69561,Ostrzeżenie: krytyczne rezerwy tlenu.
+69562,Wykryto krytyczny poziom tlenu.
+69563,Uwaga: wykryto krytyczny poziom tlenu.
+69564,Rezerwy tlenu są krytyczne. Przypomnienie: pracownicy odpowiadają za monitorowanie poziomu dwutlenku węgla.
+69565,Ostrzeżenie: Krytyczne zaopatrzenie w tlen.
+69566,Uwaga: wykryto uszkodzenie hełmu.
+69567,Wykryto uszkodzenie hełmu. Unikaj poważnych urazów głowy, przestrzegając dobrych praktyk konserwacji hełmu.
+69568,Krytyczne uszkodzenie hełmu. Należy pamiętać, że głowa ludzka nie jest przystosowana do ekspozycji na próżnię.
+69569,Uwaga: krytyczne uszkodzenie hełmu.
+69570,Obrażenia od ognia. Należy pamiętać, że ekspozycja na wysoką temperaturę może prowadzić do wypalenia zawodowego.
+69571,Ostrzeżenie: wykryto obrażenia od ognia.
+69572,Wykryto obrażenia od ognia.
+69573,Porażenie elektryczne. Proszę ograniczyć konwulsje, aby uniknąć uszkodzenia wrażliwego sprzętu LYNX.
+69574,Wykryto porażenie elektryczne.
+69575,Porażenie elektryczne. LYNX zaleca unikanie źródeł zasilania o wysokim napięciu.
+69576,Ostrzeżenie: obrażenia od zimna. Regularnie ćwicz cardio, aby zwiększyć odporność na niskie temperatury.
+69577,Wykryto obrażenia od zimna. Zachowuj ostrożność podczas pracy w pobliżu systemów kriogenicznych.
+69578,Ostrzeżenie: wykryto obrażenia od zimna.
+69579,Wykryto uszkodzenia od radiacji. Pamiętaj, stosowanie dawek promieniowania jako środków pobudzających jest niedopuszczalna.
+69580,Ostrzeżenie: wykryto uszkodzenia od radiacji.
+69581,Wykryto uszkodzenia od radiacji. Należy zachować ostrożność w pobliżu napromieniowanych materiałów.
+69582,Wykryto obrażenia. Ten incydent może zostać nagrany w celach szkoleniowych i oceny jakości.
+69583,Skanery biotelemetryczne nie odpowiadają. Uruchom ponownie matrycę czujników.
+69584,Przełączanie w tryb uśpienia. Analiza Twoich wyników z ostatniego dnia wkrótce pojawi się na panelu oceny LYNX.
+69585,Zmiana zatrzymana. Mogą zostać pobrane wyższe opłaty, aby zrekompensować nieplanowany czas osobisty.
+69586,Twój uraz jest dla nas ważny. Proszę czekać, aż połączymy Cię z dostępnym wolnym miejscem.
 69587,Wykryto przeciążenie narzędzia tnącego.
 69588,Ostrzeżenie: Przeciążenie narzędzia tnącego.
 69589,Zapasy lin spadają.
@@ -5147,193 +5147,193 @@
 69610,PhonoText odczyt: Komisja Gwiezdna, Część Pierwsza
 69611,PhonoText odczyt: Komisja Gwiezdna, Część Druga
 69612,PhonoText odczyt: Komisja Gwiezdna, Część Trzecia
-69613,If you run out of fuel, your thrusters ain't gonna work. You -can- move around with just your hands and your grapple... but believe me, it's a whole lot easier if you just get yourself a refill over at the kiosk. Weaver out.
-69614,Cutter, shift's got about 5 minutes left in 'er. Let's make 'em count. Weaver out.
-69615,Cutter, shift clocks says 5 minutes left. You know what to do. Weaver out.
-69616,5 minutes left, Cutter. How you use'm is entirely up to you. Weaver out.
-69617,We're looking at 5 minutes left in your shift, Cutter. Do what ya do. Weaver out.
-69618,Alright Cutter, you got about 5 minutes to fill yer boots. 5 minutes left. Weaver out.
-69619,That's 5 minutes left on the clock, Cutter. 5 minutes remaining.
-69620,Cutter, you're lookin' at roughly 5 minutes left in this shift. Keep on at it. Weaver out.
-69621,Ya got 5 minutes remaining in your shift, Cutter. 5 minutes. Weaver out.
-69622,Cutter, we got 5 minutes left til we call'er a day. Weaver out.
-69623,Cutter, if you're fixin' to dot the i's and cross the t's, you got about 5 minutes to do it. Weaver out.
-69624,Alright, this is your 5 minute warnin', Cutter. 5 minutes left. Weaver out.
-69625,That's one minute left on the clock, Cutter. One minute left.
-69626,One minute left, Cutter. I'd say git a move on, but you know that already.
-69627,Shift's almost done in the middle, Cutter. One minute left.
-69628,That's one minute left, Cutter. If yer in the middle of somethin', it's nigh-on time to skedaddle.
-69629,Cutter, ya got one minute left. Time to shift your biscuits.
-69630,Not much left of this shift, Cutter. 'Bout one minute remaining.
-69631,Ya got about one minute til the yard goes dark, Cutter.
-69632,Look sharp, Cutter - one minute left on the clock.
-69633,Lookin' like ya got about a minute left, Cutter. One minute remaining.
-69634,Cutter, you got about one minute to make your mark on this shift.
-69635,One minute left, Cutter. If you got something cookin' now's the time to plate it and bring it to the table.
-69636,This is your one minute warning Cutter. Bring it home.
-69637,60 seconds left to wrap things up Cutter.
-69638,One minute left til the end of the line, Cutter. Don't do anything I wouldn't do.
-69639,You got 60 ticks til this turkey's done Cutter. Gobble gobble.
-69640,This is your one minute warning Cutter. Don't be a hero a'ight?
-69641,Alright Cutter. This here is a Mackerel.
-69642,A little history lesson for you. The entire Mackerel class was decommissioned once they juiced the force of the Rail gates. LYNX scooped up thousands of'em on the cheap.
-69643,Just wasn't a market for a small ship that wasn't any good through the gates.
-69644,Shame really. I always kinda liked them. Alright - here if you need me. Weaver out.
-69645,Well Cutter, I see you've got yourself your first Atlas-class ship.
-69646,Beautiful ships, these. They're all about pure, unadulterated power delivery by way of some very big thrusters.
-69647,And, in my humble opinion, they happen to have a particularly well-crafted nose and cockpit assembly. A real joy to pull apart, as you'll see.
-69648,Have at it. Weaver out.
-69649,Well Cutter, this is the big one. You're lookin at your first Gecko.
-69650,Yup. She does look big. And more than a little intimidating on first encounter.
-69651,But just the same as with the other ships, once you get in there and start working at it, it'll all start to make sense.
-69652,Just take it piece by piece and stock up with lots of tethers. I'm rootin' for ya. Weaver out.
-69653,Hey Cutter. 5 minutes left in this shift, alright?
-69654,Five minutes left in this shift, Cutter. Ok? Oh-kay.
-69655,Five minutes left to get your work done, ok Cutter?
-69656,Hey Cutter. You've got 5 minutes left in this shift. Hope you're... having fun.
-69657,Five minutes left Cutter, ok?
-69658,There's five minutes left, Cutter. All good? Good.
-69659,Cutter? Got about 5 minutes left 'til you're done for the day.
-69660,5 minutes left Cutter. You know what you're doing. Ok.
-69661,You watching the clock Cutter? You've got one minute left.
-69662,Alright Cutter, time to wrap it up ok? One minute left.
-69663,Cutter? There's one minute left til the end of the shift.
-69664,One minute left on the clock, Cutter. One minute.
-69665,Shift's almost done, Cutter. One minute left.
-69666,One minute left to finish things up, Cutter.
-69667,Not much time left Cutter. One minute to go.
-69668,One minute left, Cutter. Start finishing things up, alright?
-69669,Alright Cutter, the thrusters on these Atlas ships are worth a mint, but can be a touch fiddly.
-69670,There's only one way to salvage the thruster engines and fuel injectors intact; you gotta pop off the thruster nozzle, an' work your way inside from there.
-69671,The trick of it is, these thrusters become unstable once you start working on 'em. Fire starts spreading real fast. When it reaches the fuel tank, it's gonna blow.
-69672,You gotta get in quick, and switch off the fuel supply. There's a shut-off switch at the very back.
-69673,Get to that switch as fast as you can, otherwise... well, we'd be in for a big ol' mess.
-69674,OK, let's get that nozzle removed.
-69675,Clock's ticking now Cutter - get in there and hit that shut-off switch!
-69676,Ok, that's what not to do! You see what I mean about blowing it sky high? It's easily done - I've done it myself, I can tell you. And more'n once.
-69677,Maybe let's give it another go.
-69678,That's it Cutter! Real satisfying when it comes apart like that, don't ya think?
-69679,I'll leave you to it from here. Weaver out.
-69680,Aaah, doesn't it feel so much calmer and focused out there?
-69681,In fact, I'm gonna leave Weaver on mute a while, let him cool down.
-69682,You're a real waste of skin, Hal.
-69683,Careful now Curazon. I can put you on "leave" too, just like your pal Lou.
-69684,You know the real beauty of that? When you're on leave, you're still LYNX property. Can't do much of anything without our say-so.
-69685,Shouldn't we be working instead of chatting?
-69686,Oh I am working Curazon. This IS my job. You on the other hand... You better get to it. You too Kaito.
-69687,Yes sir.
-69688,And you 52. Let's get those ships stripped people.
-69689,Hey folks? I... Well, I don't rightly know what to say. I shoulda seen what Lou saw. To the Company we ain't nothing but... equipment.
-69690,I swear, if I could get within cutting distance of that bastard...
-69691,Well listen, this is what I want to talk about... Remember what Lou was saying? About "Industrial Action"?
+69613,Jeśli zabraknie ci paliwa, twoje silniki nie będą działać. Możesz -poruszać- się za pomocą rąk i chwytaka... ale uwierz mi, że będzie o wiele łatwiej, jeśli w kiosku uzupełnisz paliwo. Weaver bez odbioru.
+69614,Złomiarzu, zmiana ma jeszcze około 5 minut. Wykorzystajmy je. Weaver bez odbioru.
+69615,Złomiarzu, zegar zmianowy mówi, że zostało 5 minut. Wiesz, co robić. Weaver bez odbioru.
+69616,Zostało 5 minut, Złomiarzu. To, jak go wykorzystasz, zależy tylko od ciebie. Weaver bez odbioru.
+69617,Zostało ci 5 minut do końca zmiany, Złomiarzu. Rób to, co robisz. Weaver bez odbioru.
+69618,Dobra Złomiarzu, masz około 5 minut aby najeść się do pełna. Zostało 5 minut. Weaver bez odbioru.
+69619,Zostało 5 minut na zegarze, Złomiarzu. 5 minut do końca.
+69620,Złomiarzu, zostało ci około 5 minut do końca zmiany. Nie przestawaj. Weaver bez odbioru.
+69621,Zostało ci 5 minut do końca zmiany, Złomiarzu. 5 minut. Weaver bez odbioru.
+69622,Złomiarzu, zostało nam 5 minut do końca dnia. Weaver bez odbioru.
+69623,Złomiarzu, jeśli zamierzasz postawić kropkę nad i i przekroczyć próg, masz na to 5 minut. Weaver bez odbioru.
+69624,Dobra, to jest twoje 5 minutowe ostrzeżenie, Złomiarzu. Zostało 5 minut. Weaver bez odbioru.
+69625,Została jedna minuta na zegarze, Złomiarzu. Jedna minuta.
+69626,Została jedna minuta, Złomiarzu. Powiedziałbym, żebyś się ruszał, ale ty już to wiesz.
+69627,Zmiana prawie skończona w połowie, Złomiarzu. Została jedna minuta.
+69628,Została jedna minuta, Złomiarzu. Jeśli jesteś w trakcie czegoś, to już prawie czas, żeby się zwijać.
+69629,Złomiarzu, została ci jedna minuta. Czas na zmianę herbatników.
+69630,Niewiele zostało z tej zmiany, Złomiarzu. Została około jedna minuta.
+69631,Masz około minuty, zanim zrobi się ciemno, Złomiarzu.
+69632,Bądź zaradny, Złomiarzu- na zegarze została minuta.
+69633,Wygląda na to, że została ci jeszcze minuta, Złomiarzu. Została jedna minuta.
+69634,Złomiarzu, masz minutę, by nadać bieg tej zmianie.
+69635,Została jedna minuta, Złomiarzu. Jeśli masz coś do ugotowania, to teraz jest czas, żeby to przynieść na stół.
+69636,To jest twoje minutowe ostrzeżenie Złomiarzu. Zbieraj się do domu.
+69637,Zostało 60 sekund do zakończenia sprawy, Złomiarzu.
+69638,Została jedna minuta aby wszystko skończyć, Złomiarzu. Nie rób niczego, czego ja bym nie zrobił.
+69639,Masz 60 sekund, zanim ten indyk się zrobi Złomiarzu. Gulgu gulgu.
+69640,To twoje jednominutowe ostrzeżenie, Złomiarzu. Nie bądź bohaterem, dobra?
+69641,W porządku Złomiarzu. To jest Makrela.
+69642,Mała lekcja historii dla Ciebie. Cała klasa Makreli została wycofana z użytku, gdy tylko zwiększyli siłę rażenia bramek kolejowych. LYNX zgarnął tysiące z nich po taniości.
+69643,Po prostu nie było popytu na mały statek, który nie nadawał się do przejścia przez bramę.
+69644,Naprawdę szkoda. Zawsze je lubiłem. W porządku - jestem tu w razie potrzeby. Weaver bez odbioru.
+69645,Widzę Złomiarzu, że znalazłeś swój pierwszy statek klasy Atlas.
+69646,Piękne te statki. Chodzi w nich o czyste, nieskażone dostarczanie mocy za pomocą bardzo dużych silników.
+69647,I moim skromnym zdaniem, mają szczególnie dobrze wykonany nos i kokpit. Niedługo zobaczysz, rozebranie ich to prawdziwa radość.
+69648,Do dzieła. Weaver bez odbioru.
+69649,Złomiarzu, to jest najważniejsze. Patrzysz na swojego pierwszego Gekona.
+69650,Yup. Wygląda na dużą. I bardziej niż trochę onieśmielająca przy pierwszym spotkaniu.
+69651,Ale tak samo jak w przypadku innych statków, kiedy już tam wejdziesz i zaczniesz pracować, wszystko zacznie nabierać sensu.
+69652,Po prostu bierz się za to po kawałku i zaopatrz się w dużą ilość lin. Kibicuję ci. Weaver bez odbioru.
+69653,Hej Złomiarzu. Zostało 5 minut do końca zmiany, dobrze?
+69654,Zostało pięć minut do końca zmiany, Złomiarzu. Ok? Och-ok.
+69655,Zostało pięć minut na wykonanie pracy, okej Złomiarzu?
+69656,Hej Złomiarzu. Zostało ci 5 minut tej zmiany. Mam nadzieję, że... dobrze się bawisz.
+69657,Zostało pięć minut Złomiarzu, ok?
+69658,Zostało pięć minut, Złomiarzu. Wszystko w porządku? Dobrze.
+69659,Złomiarzu? Zostało ci około 5 minut i to wszystko na dziś.
+69660,Zostało 5 minut Złomiarzu. Wiesz, co robić. Ok.
+69661,Patrzysz na zegar, Złomiarzu? Została ci jedna minuta.
+69662,Dobra Złomiarzu, czas to skończyć, ok? Została jedna minuta.
+69663,Złomiarzu? Została minuta do końca zmiany.
+69664,Została jedna minuta na zegarze, Złomiarzu. Minuta.
+69665,Prawie koniec zmiany, Złomiarzu. Została minuta.
+69666,Została minuta do aby wszystko dokończyć, Złomiarzu.
+69667,Nie zostało wiele czasu, Złomiarzu. Jedna minuta do końca.
+69668,Została jedna minuta, Złomiarzu. Kończ to już, dobra?
+69669,Dobra Złomiarzu, silniki na tych statkach Atlas są warte uwagi, ale mogą być nieco kłopotliwe.
+69670,Jest tylko jeden sposób na przetrwanie silników rakietowych i wtryskiwaczy paliwa w stanie nienaruszonym; musisz odłamać dyszę rakietową, i stamtąd przejść do środka.
+69671,Sztuczka polega na tym, że te silniki stają się niestabilne, gdy zaczniesz nad nimi pracować. Ogień zaczyna się szybko rozprzestrzeniać. Kiedy dotrze do zbiornika paliwa, wybuchnie.
+69672,Trzeba szybko wejść do środka i wyłączyć dopływ paliwa. Na samym końcu jest wyłącznik.
+69673,Dostań się do tego przełącznika tak szybko, jak to możliwe, w przeciwnym razie... cóż, czeka nas wielki bałagan.
+69674,Dobra, usuńmy tę dyszę.
+69675,Zegar tyka, Złomiarzu. Wejdź tam i uderz w ten wyłącznik!
+69676,Ok, to jest to czego nie należy robić! Widzisz o co mi chodzi z tym rozdmuchiwaniem? Łatwo to zrobić - sam to robiłem, mogę ci powiedzieć. I to więcej niż raz.
+69677,Może spróbujmy jeszcze raz.
+69678,To jest to, Złomiarzu! To naprawdę satysfakcjonujące, gdy się tak rozpada, nie sądzisz?
+69679,Zostawię Cię z tym. Weaver bez odbioru.
+69680,Aaah, czyż nie jest tam o wiele spokojniej i łatwiej o skupienie?
+69681,W zasadzie zostawię Weavera na chwilę na wyciszeniu, niech ochłonie.
+69682,Jesteś naprawdę bezużyteczny, Hal.
+69683,Ostrożnie, Curazon. Mogę cię też wysłać na "urlop", tak jak twoją koleżankę Lou.
+69684,Wiesz co jest w tym najpiękniejsze? Kiedy jesteś na urlopie, nadal jesteś własnością LYNX. Nie możesz zrobić nic bez naszej zgody.
+69685,Czy nie powinniśmy pracować zamiast rozmawiać?
+69686,Och, pracuję Curazon. To jest MOJA praca. Ty z drugiej strony... Lepiej się zabieraj do roboty. Ty też Kaito.
+69687,Tak jest.
+69688,I ty 52. Rozbierzmy te statki, ludzie.
+69689,Hej wiara? Ja... Cóż, nie wiem co powiedzieć. Powinienem był widzieć to, co widziała Lou. Dla Firmy jesteśmy tylko... sprzętem.
+69690,Przysięgam, że gdyby udało mi się zbliżyć na zasięg cięcia do tego drania...
+69691,Posłuchaj, to jest to, o czym chcę porozmawiać... Pamiętasz, co mówiła Lou? O "Akcji przemysłowej"?
 69692,Weaver...?
-69693,Now I don't pretend to know what it'd accomplish, per se. But I do know it'd make 'em hurt...
+69693,Nie udaję, że wiem, co by to dało. Ale wiem, że sprawiłoby im ból...
 69694,Weaver...
-69695,Heck, I KNOW it'll piss Hal off, and that alone's worth the price of admission...
+69695,Cholera wiem, że to wkurzy Hala i już samo to jest warte ceny wstępu...
 69696,Weaver.
 69697,Kai?
-69698,I'm sorry. I'm so, so sorry everyone... he was so scary. You've seen him!
-69699,Kai... spit it out...
-69700,I... I...  He pulled me aside! Look... I gave him access to the Union newsgroup...
-69701,This is because of you!?
-69702,I-I-I didn't know Lou was gonna send that message! I didn't know!
-69703,Ah, Kaito... How could you do that? I shoulda' seen this coming...
-69704,I'm so sorry...
-69705,Well kid, sorry's about as useful as a paper bag for a helmet, ain't it?
-69706,Well folks... My old man taught me to know when a hand is in need of foldin'. Don't even know why I thought we could play this game.
-69707,Play by the rules tomorrow. And the next day. And every day thereafter.
-69708,Maybe, in time... they'll give us some of our humanity back. Weaver out.
-69709,Happy morning folks. Saw some sloppiness yesterday but let it slide. Hope I don't see more today.
-69710,Well aren't you all a quiet bunch!
-69711,Weaver, you're un-muted by the way.
-69712,Thank you Hal, I'm aware.
-69713,No sage words of wisdom for the team?
-69714,They know what they're doing.
-69715,Hm! You know, Curazon... if you hit those quotas I might see about giving your comms privileges back... er, once-a-week only, of course.
-69716,I'd like that.
-69717,Yeah, well... Need to see those results first!
-69718,Well heck, folks. You're really taking this job seriously! I love to see it.
-69719,Remember what we say, Kai? "Avoiding chatter makes profits..." what?
-69720,Huh?
-69721,It makes profits fatter! Right?
-69722,Right.
-69723,Well, I like this. My little group of busy bees. No fuss. Just salvage. Er, keep it up! Hal out.
-69724,Another glorious day in the employ of LYNX! Aren't we lucky?
-69725,I can hear the tension out there. Look, "Adversity is the Forge of Discipline". I get it, punishment smarts, but you'll be better for it.
-69726,Well listen, the real people to blame anyway are the agitators. Wrecking a perfectly good thing for everyone.
-69727,The union didn't take away my comms privileges.
-69728,No, that's true. That one's on you. We all have to take personal accountability from time-to-time.
-69729,Well I'm gonna go make some brew. Let's make strong decisions out there today.
-69730,Yessir.
-69731,Profit reports looking good folks! I think things are really turning around here.
-69732,Joseph, when I leave -eventually- what are you gonna change to keep profits up like this?
-69733,When ARE you leaving?
-69734,When this team gets its respect for the Company back. Which, at this rate, seems like never.
-69735,So? What do you say Joseph?
-69736,Well, truth be told, I don't think I could EVER do what you do Hal.
-69737,Hm! Well that's your problem right there.
-69738,Maybe.
-69739,There's my team! Hope you're all rested and ready. Let's push our output even higher today. "Identify, Quantify, Solidify", yeah?
-69740,Yessir.
-69741,Good man, Kaito. Seeing some real progress with you bud.
-69742,Thanks.
-69743,You too 52, nice work out there. Now Curazon, for someone who's been at this for so long I expect more from you.
-69744,Oh you do huh? Why don't you come on down and give me some pointers in person?
-69745,Uhm, how about you can the attitude and do your job?
+69698,Przepraszam. Tak bardzo, bardzo przepraszam wszystkich... on był taki straszny. Widzieliście go!
+69699,Kai... no wykrztuś to...
+69700,Ja... Ja... Odciągnął mnie na bok! Słuchaj... Dałem mu dostęp do grupy dyskusyjnej Unii...
+69701,To przez ciebie!?
+69702,J-ja-ja nie wiedziałem, że Lou wyśle ​​tę wiadomość! Nie wiedziałem!
+69703,Oh, Kaito.. Jak mogłeś to zrobić? Powinnam to była przewidzieć...
+69704,Przepraszam...
+69705,Cóż, przepraszanie teraz jest użyteczne jak papierowa torba zamiast hełmu.
+69706,Więc ludzie... Mój staruszek nauczył mnie rozpoznawać, kiedy spasować. Nawet nie wiem, dlaczego myślałem, że to się mogło udać.
+69707,Graj jutro zgodnie z zasadami. Następnego dnia oraz każdego kolejnego również.
+69708,Może z czasem... zwrócą nam odrobinę wolności. Weaver odbiór.
+69709,Miłego poranka ludzie. Wczoraj trochę namieszaliście. Mam nadzieję, że więcej się to nie powtórzy.
+69710,Cóż, czyż nie jesteście cichą gromadką!
+69711,Weaver, przy okazji, nie jesteś już wyciszony.
+69712,Dzięki Hal. Wiem o tym.
+69713,Żadnych smutnych, modrych słów do zespołu?
+69714,Oni wiedzą co mają robić.
+69715,Hm! Wiesz, Curazon... Przestrzegaj zasad, a może pozwolę ci ponownie nawiązać kontakt ze światem zewnętrznym. Oczywiście raz w tygodniu.
+69716,Byłoby miło.
+69717,Tak, więc... Chcę zobaczyć najpierw efekty!
+69718,Cóż, ludzie. Traktujcie tą pracę poważnie! Cieszę się, że to widzę.
+69719,Pamiętasz co mówiliśmy, Kai? "Unikanie oszustów zwiększa zyski..." nie?
+69720,Co?
+69721,Zwiększa zyski! Prawda?
+69722,Prawda.
+69723,Lubię to. Moja grupa pracujących pszczółek. Spokojnie. Tylko odzyskiwanie. Ee, tak trzymać! Hal odbiór.
+69724,Kolejny wspaniały dzień pracy w LYNX. Czyż nie mamy szczęścia?
+69725,Mogę usłyszeć to napięcie. Spójrzcie. "Przeciwności są kuźnią dyscypliny". Rozumiem, dobrze wyjdziesz na mądrej karze.
+69726,Więc słuchajcie. Ludzie winią zawsze jątrzycieli. Sabotują coś co jest dobre dla wszystkich.
+69727,Unia nie zabrała moich uprawnień komunikacyjnych.
+69728,Nie, to prawda. To było jedno z was. Wszyscy powinniśmy od czasu do czasu wziąć osobistą odpowiedzialność.
+69729,Idę sobie zrobić jakiś napar. Podejmijcie dzisiaj stanowcze decyzje.
+69730,Tak jest.
+69731,Ludzie, raporty zysków są dobre! Myślę że wszystkie tutejsze sprawy wracają do porządku.
+69732,Joseph, kiedy odejdę - ostatecznie- co zmienisz, aby uzyskać takie zyski jak te?
+69733,Kiedy TY odejdziesz?
+69734,Kiedy ten zespół odzyska szacunek do Korporacji W tym tempie wydaje mi się że nigdy.
+69735,Więc? Co powiesz Joseph?
+69736,Dobrze, powiem prawdę, myślę że mógłbym ZAWSZE zrobić to co ty Hal.
+69737,Hm! Cóż, to jest właśnie twój problem.
+69738,Może.
+69739,To jest mój zespół! Mam nadzieję że jesteście gotowi i wypoczęci. Zwiększmy zysk dzisiaj jeszcze bardziej. "Określ, Zmierz, Połącz", tak?
+69740,Tak jest.
+69741,Dobrze, Kaiko. Widzę prawdziwy postęp u ciebie.
+69742,Dzięki.
+69743,Ty też 52, dobra robota. Curazom, od kogoś kto jest tutaj tak długo, oczekuję trochę więcej.
+69744,Och, co? Może zejdziesz na dół i osobiście udzielisz mi kilku wskazówek?
+69745,Hm. Może ugryziesz się w język i zaczniesz pracować?
 69746,Ungás...
-69747,Uhh, come again?
-69748,Nothing. Sir.
-69749,Cutter? You might've seen what looked like your run-of-the-mill junk mail come through yesterday.
-69750,I strongly encourage you give it a look-see. Seems it ain't run-of-the-mill after all. Weaver out.
-69751,Morning Cutter. You have a gander at that junk message yet? Let me know soon as you do. Weaver out.
-69752,Cutter, you're a touch averse to opening that junk message, ain't ya?
-69753,Look, it ain't actually junk at all. I need you to open it pronto, alright? Weaver out.
-69754,Rook! It's Lou!
-69755,LYNX's spam filters are the worst! You can send damn near anything through 'em.
-69756,First: I'm fine. Life as LYNX property sure isn't much of a life at all, but at least I'm home. It's been good to be back with my Old Man, and he's overjoyed.
-69757,Now, here's the important thing. LYNX thinks bringing the hammer down with Clause 19-C stopped the Union.
-69758,But, au contraire! It's actually pushed so many more people to their breaking point.
-69759,The group's even bigger now. And we've even got the ear of the Stellar Commission!
-69760,They're reluctant to act, of course. But... if enough of us make a fuss, we can make it too big for them to ignore.
-69761,So, remember my idea for Industrial Action? The Union's in. And, I told them I know the perfect crew to kick it off.
-69762,I've sent the instructions to Weaver. Talk it out. If anyone wants to pass, I get it.
-69763,Oh! One more thing. I think Kaito gave Hal access to the Union newsgroup; that's how that schmuck  got my message.
-69764,Silly kid. Probably feels mega guilty. I already let him know I don't blame him. Go easy on him yourself, alright?
-69765,Good luck Rook! Whichever way things go, I hope we get to meet for real someday. Lou out.
-69766,Cutter? Heh, I see you've gotten your "Free Prize".
-69767,Kai, you here?
-69768,Yes sir.
-69769,Now Kai, I owe you an apology. All of us up here are just doing what we think's right at any given point in time.
-69770,I'm sorry, about everything.
-69771,I know kiddo, I know.
-69772,You're good, Kai.
-69773,So listen... we have before us an opportunity to do what's right by Lou and every other Shipbreaker out there.
-69774,And I can tell you... it ain't gonna be easy. This'll bring the wrath of LYNX down harder than a hippo in a hurricane.
-69775,But honestly, I don't know how much worse things could get, unless LYNX wants to can all of us. And frankly, I could use the r-and-r.
-69776,The only thing we have to worry about in the short-term is Hal, and I got plans for him. IF everybody's onboard, that is.
-69777,Screw it, I'm onboard.
+69747,Co tam mruczysz?
+69748,Nic. Panie,
+69749,Złomiarzu? Widziałeś może wczoraj coś, co wyglądało jak zwykła śmieciowa poczta.
+69750,Gorąco zachęcam do zerknięcia. Być może to nie jest spam taki zwykły spam? Weaver odbiór.
+69751,Doberek Złomiarzu. Widziałeś już tą śmieciową wiadomość? Daj mi znać, kiedy się z nią zapoznasz. Weaver odbiór
+69752,Złomiarzu, jesteś trochę niechętny do otwarcia tego spamu, prawda?
+69753,Słuchaj, to wcale nie jest śmieć. Musisz otworzyć ją pronto, dobrze? Weaver odbiór.
+69754,Młody! Tu Lou!
+69755,Filtry spamowe LYNX są koszmarne! Możesz przesłać przez nie prawie wszystko
+69756,Po pierwsze: Nic mi nie jest. Bycie własnością LYNX z pewnością nie jest życiem. Jestem w domu. Dobrze jest z powrotem być ze Staruszkiem. On jest taki uszczęśliwiony.
+69757,Teraz ważna sprawa. LYNX uważa, że klauzula 19-C powstrzymała Unię.
+69758,Ale, au contraire! W rzeczywistości doprowadziło to o wiele więcej osób do granicy.
+69759,Grupa jest teraz większa. Nawet Komisja Gwiezdna zwróciła na nas uwage!
+69760,Niechętnie podejmują działania. Ale... wystarczająco duże zamieszanie, sprawi że nie będą mogli nas zignorować.
+69761,Pamiętacie mój pomysł na zbiorowy protest? Unia w akcji. I wiem, że mam idealny zespół do rozpoczęcia.
+69762,Wyssałam instrukcje do Weavera. Pogadajcie o tym. Jeśli ktoś chce spasować, zrozumiem to.
+69763,A, i jeszcze jedno. Sądzę że Kaito dał dostęp Halowi do konwersacji Uni, dlatego ten palant przeczytał moje wiadomości.
+69764,Głupi dzieciak. Pewnie teraz czuje się winny, ale dam mu znać że nie winię go za to. Traktuj go łagodnie, dobrze?
+69765,Powadzenia Świeżaku! Niezależnie od tego, co się stanie, mam nadzieję, że pewnego dnia się spotkamy. Lou odbiór.
+69766,Złomiarzu? Heh, widzę, że dostałeś swoją „darmową nagrodę”.
+69767,Kai, jesteś tutaj?
+69768,Tak jest.
+69769,Teraz Kai, jestem ci winny przeprosiny. Wszyscy po prostu robimy to, co uważamy za słuszne w danym momencie.
+69770,Przeprasza za wszystko.
+69771,Wiem dzieciaku, wiem.
+69772,Jesteś dobry, Kai.
+69773,Więc słuchaj... mamy przed sobą możliwość zrobić to co jest słuszne. dzięki Lou i każdemu Łowcy Statków.
+69774,I mogę ci powiedzieć... to nie będzie łatwe. To wzbudzi gniew LYNX mocniej niż nieustanne dźganie patykiem.
+69775,Ale szczerze mówiąc, nie wiem czy sytuacja może być gorsza, chyba że LYNX zwolni wszystkich. Nie miałbym nic przeciwko dłuższej przerwie
+69776,Jeśli ktoś nas teraz powstrzymuje, to Hal, ale mam ma niego plan. JEŚLI wszyscy są z nami, oczywiście.
+69777,Pieprzyć to, wchodzę w to.
 69778,Kai?
-69779,Yeah. Yes. I want to do it. I want to make this right.
-69780,Good on ya' kid.
-69781,Also... what's a... hippo?
-69782,You can't be serious.
-69783,OK, that just leaves you Cutter. Starting tomorrow, I'll arrange a certain ship to show up on your Job Board.
-69784,It'll always be there, so when you're ready... claim it. We'll take that as our cue.
-69785,Take your time, and snag it when you're good and ready. Now go on and get some rest y'all. Weaver out.
-69786,Morning folks, remember to be careful out there.
-69787,Whoa, whoa, whoa. Slow up there Joseph. I set the goals here.
-69788,Course Hal. The floor is yours.
-69789,Good. Yeah, careful people, but remember: "Haste Avoids Waste"! We're on a timeline here.
-69790,Would you look at that. Almost forgot! Credit Day's coming up.
-69791,The fact that you go in for that doesn't surprise me one bit.
-69792,You're just mad you can't apply for any credit.
-69793,Ah, no. Get enough of my debt from dirt bags like you.
-69794,Yeah? Keep talking back. There's always room for more.
-69795,Oh man, Credit Day? I hear the  posh folks on Great Northern Way Station all buy a new ship.
-69796,Yep, and they just toss the old ones. Heck, most of them end up here, barely even used!
-69797,Somehow I'm not surprised you people would even rob the joy from a holiday.
+69779,Yea. Tal. Chcę to zrobić. Chcę to naprawić.
+69780,Dobrze dzieciaku.
+69781,Poza tym... co to jest... patyk?
+69782,Mówisz poważnie.
+69783,OK, zostań Złomiarzu. Jutro wśród Twoich ofert pracy pojawi się pewien statek.
+69784,Oferta będzie wisieć, dopóki jej nie zaakceptujesz. To będzie dla nas sygnał.
+69785,Nie spiesz się i weź je, gdy będziesz gotowy. A teraz odpocznij. Weaver odbiór.
+69786,Witajcie ludzie, pamiętajcie o byciu ostrożnym.
+69787,Whoa, whoa, whoa. Zwolnij, Joseph. Wyznaczam cele.
+69788,Oczywiście Hal. Wszyscy cię słuchamy.
+69789,Dobrze. Yeah, ostrożnie ludzie, ale pamiętajcie: "Pośpiech nas wzbogaca". O, już jest harmonogram.
+69790,Spójrzcie na to? Prawie zapomniałem! Zbliża się Dzień Kredytu.
+69791,Fakt, że się w to zaangażujecie, nie zdziwi mnie.
+69792,Jesteś po prostu zły, że nie możesz ubiegać się o kredyt.
+69793,Ah, nie. Mam wystarczająco długów z powodu takich śmieci jak ty
+69794,Tak? Odpowiadaj dalej. Dług zawsze może się zwiększyć.
+69795,O rany, Dzień Kredytu? Słyszałem, że bogacze ze stacji Great Northern Way kupują sobie nowe statki.
+69796,Tak, i tak sobie wyrzucają stare. Większość z nich trafia tutaj, prawie nie tknięta!
+69797,Wcale się nie dziwię, jak można okraść kogoś z radości wakacji.
 69798,"Święto"...
-69799,You know what, why'd I even bring it up? Just... get back to work!
+69799,Słuchaj, co ja o nim powiedziałem? Po prostu... pracujcie dalej!
 69800,How are my little underlings today? You know what I was thinking this team needs?
 69801,An in-person session with Tanya Gladd.
 69802,Who!?
@@ -5753,22 +5753,22 @@
 70216,Doceniamy Twoje zaangażowanie w pracę
 70217,Statystyki Pracowników
 70218,Kredyty spłacone
-70219,Transportation acquired
+70219,Transport nabyty
 70220,Dni zatrudnienia
 70221,Części zamienne razem
-70222,Lifetime LYNX Tokens Earned
-70223,Lifetime Credits Earned
+70222,Zdobyto Dożywotnie Tokeny Lynx
+70223,Zdobyto dożywotnie kredyty
 70224,Statki ukończone
 70225,Zrealizowane cele ratunkowe
-70226,Employee Termination App 1.1.39
+70226,Wniosek o zwolnienie pracownika 1.1.39
 70227,Formularz wypowiedzenia umowy o pracę
 70228,Dział \nZasobów Ludzkich
-70229,Curazon, you're...
-70230,Certify Termination
+70229,Curazon, jesteś...
+70230,Potwierdź zakończenie
 70231,Rozwiązanie umowy
 70232,CZY JESTEŚ PEWIEN, ŻE CHCESZ NATYCHMIAST ROZWIĄZAĆ UMOWĘ Z LYNX?
-70233,Collect Suit
-70234,Collect Armadillo Key
+70233,Zbierz skafander
+70234,Zdobądź klucz Armadillo
 70235,Opuść mieszkanie
 70236,Włóż dowód osobisty
 70237,Jesteś pewny, że chcesz wyjść?
